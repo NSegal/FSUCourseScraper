@@ -1,7 +1,7 @@
 FSUCourseScraper
 ===============
 
-This is the component of Qcumber from Queen's university that scrapes the data off FSU's my.fsu.edu, parses it, and generates structured data that the site can then display.
+This is the component of Qcumber from students at Queen's university that was made to scrape the data off FSU's my.fsu.edu, parse it, and generate structured data that a site can then display.
 
 Setup Guide
 ===========
