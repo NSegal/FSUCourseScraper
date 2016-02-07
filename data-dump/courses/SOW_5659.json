@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with knowledge and skills related to the theory, research, and implications of child and adolescent maltreatment for child development and psychopathology. Course content is presented within the context of child welfare practice and social work with children and adolescents in public agencies and programs. Particular attention is given to common psychological disorders that result from maltreatment and accompanying treatment issues. Issues related to individuals, families, groups, and communities are covered, and attention is given to working with ethnic minorities, women, gays and lesbians, and persons with disabilities.", 
+        "number": "5659", 
+        "subject": "SOW", 
+        "title": "Mental Health and Child Welfare"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

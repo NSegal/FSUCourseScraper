@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a study of photography as a creative means of expression. Topics include 35mm technology and fine black-and-white printmaking.", 
+        "number": "2401C", 
+        "subject": "PGY", 
+        "title": "Photography I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C, ART 1203, ART 1300C, ART 1602C, and ART 2003C or ART 2204C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

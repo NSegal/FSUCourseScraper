@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the United States from the end of the Civil War to the present with emphasis on social, economic, and political problems of the 20th century. May not be taken by students with test credit in American history.", 
+        "number": "2020", 
+        "subject": "AMH", 
+        "title": "A History of the United States Since 1877"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

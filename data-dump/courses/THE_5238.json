@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the history of African-Americans in the American theatre from the African Grove Theatre to the present, and of playwrights from William Wells Brown to August Wilson.", 
+        "number": "5238", 
+        "subject": "THE", 
+        "title": "History of African-American Drama"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

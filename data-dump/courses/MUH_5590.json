@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides basic training for field research and laboratory description and analysis in ethnomusicology.", 
+        "number": "5590", 
+        "subject": "MUH", 
+        "title": "Seminar in Field and Laboratory Techniques in Ethnomusicology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

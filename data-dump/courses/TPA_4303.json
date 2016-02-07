@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course continues the concepts and material covered in TPA 4302.", 
+        "number": "4303", 
+        "subject": "TPA", 
+        "title": "Structural Design for the Stage II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 4302 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

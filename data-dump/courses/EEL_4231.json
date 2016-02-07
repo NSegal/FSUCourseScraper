@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a study of DC-AC and DC-DC converter-modeling techniques and control schemes. Topics include average switch models, voltage-source and current-source converter models, current programmed control, and active filter control.", 
+        "number": "4231", 
+        "subject": "EEL", 
+        "title": "Converter Modeling and Control"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4243.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

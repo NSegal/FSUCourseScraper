@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced research seminar in human resources management. The scope and coverage of the seminar representatively reflect the important content areas in the field and the major theoretical and empirical contributions in each area.", 
+        "number": "6306", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

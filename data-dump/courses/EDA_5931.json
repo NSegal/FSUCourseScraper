@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course content varies to provide opportunity to study current issues in educational administration and topics not offered in other courses. May be repeated as topics vary to a maximum of twelve semester hours.", 
+        "number": "5931", 
+        "subject": "EDA", 
+        "title": "Special Topics in Educational Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

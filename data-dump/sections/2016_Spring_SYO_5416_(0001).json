@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (10705)", 
+    "basic": {
+        "class_num": "10705", 
+        "course": "5416", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SYO", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "John Taylor"
+            ], 
+            "location": "BEL 0519", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

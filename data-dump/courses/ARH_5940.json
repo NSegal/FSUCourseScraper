@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of fifteen semester hours. A maximum of three semester hours may apply to a master's degree.", 
+        "number": "5940", 
+        "subject": "ARH", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 15.00"
+    }
+}

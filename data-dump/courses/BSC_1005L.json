@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be taken concurrently with lecture or subsequent to completion of lecture with passing grade.", 
+        "number": "1005L", 
+        "subject": "BSC", 
+        "title": "General Biology Laboratory for Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

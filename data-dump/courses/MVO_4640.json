@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the methods and materials of wind instrument and percussion pedagogy.", 
+        "number": "4640", 
+        "subject": "MVO", 
+        "title": "Wind Instrument and Percussion Pedagogy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing in major instrument.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

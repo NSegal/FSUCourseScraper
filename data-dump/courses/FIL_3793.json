@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys techniques used in both practical and digital effects cinematography through though the hands-on planning and execution of visual effects cinematography projects.", 
+        "number": "3793", 
+        "subject": "FIL", 
+        "title": "Visual Effects Cinematography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2043, FIL 3516, and major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

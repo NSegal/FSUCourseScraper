@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores strategies for assessment and intervention of conversational, narrative, and meta-linguistic abilities of school-age children and adolescents with language-learning disabilities.", 
+        "number": "5403", 
+        "subject": "SPA", 
+        "title": "Language-Learning Disabilities in School-Age Children"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIN 3710 and SPA 4400.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

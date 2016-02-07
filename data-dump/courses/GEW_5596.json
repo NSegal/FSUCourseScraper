@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, either the works of an individual author or a number of authors composing a specific movement are read. Course materials are frequently supplemented with films, videos, and recordings. May be repeated to a maximum of six semester hours.", 
+        "number": "5596", 
+        "subject": "GEW", 
+        "title": "Studies in an Author or Movement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

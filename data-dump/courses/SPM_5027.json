@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the role and impact that ethnicity, racism, gender, and other diversity topics have had in the world of sport. Students are introduced to the realities of bias and prejudice that exist and perpetuate within sport, while seeking to foster understanding and appreciation for diversity in sport.", 
+        "number": "5027", 
+        "subject": "SPM", 
+        "title": "Diversity in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

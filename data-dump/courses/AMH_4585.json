@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an ethnohistory of the Seminole Indians in Florida from prior to their formation, in the eighteenth century, to present. The course focuses on the Indians themselves and their experiences, exposing students to the history of the Seminole's culture, lifestyles, religions, economy, and tribal community.", 
+        "number": "4585", 
+        "subject": "AMH", 
+        "title": "History of the Seminole Indians"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

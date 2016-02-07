@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores polymeric systems, interrelationships between material properties, processing conditions, and final properties with an emphasis on viscoelastic rheological behavior of polymer melts, concentrated solutions, and the relationship to the processing operations.", 
+        "number": "4825", 
+        "subject": "ECH", 
+        "title": "Polymer Process Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4627. Corequisites: ECH 4404L, ECH 4504, and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

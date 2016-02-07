@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the history and development of stringed keyboard instruments up to 1850, applied tuning and temperament theory in relation to modern and historical keyboards, as well as grand piano restoration techniques.", 
+        "number": "5256", 
+        "subject": "MUM", 
+        "title": "Piano Technology Practicum I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Instructor permission and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

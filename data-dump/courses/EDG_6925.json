@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This advanced course enables students to develop course, unit, and lesson-level learning outcomes by applying the information-processing theory and R.M. Gagne's conditions-of-learning model.", 
+        "number": "6925", 
+        "subject": "EDG", 
+        "title": "Advanced Instructional Design and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDP 5216 and EME 5603.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

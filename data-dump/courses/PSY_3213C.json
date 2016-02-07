@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an introduction to philosophical and methodological issues\u00a0 in the empirical study of psychology. Laboratory portion includes running,\u00a0 simple experiments, analyzing data, and interpreting the results.", 
+        "number": "3213C", 
+        "subject": "PSY", 
+        "title": "Research Methods in Psychology with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Psychology major, PSY 2012, and STA 2122 or STA 2171 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

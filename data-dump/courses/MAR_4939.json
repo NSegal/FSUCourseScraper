@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various topics taught by different instructors each semester. May be repeated to a maximum of six semester hours.", 
+        "number": "4939", 
+        "subject": "MAR", 
+        "title": "Marketing Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

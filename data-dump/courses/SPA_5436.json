@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the characteristics and etiology of autism spectrum disorders and the basic knowledge needed to develop effective instructional plans and to enhance reading, communication, and social interactions at home, school, and in the community.", 
+        "number": "5436", 
+        "subject": "SPA", 
+        "title": "Nature of Autism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

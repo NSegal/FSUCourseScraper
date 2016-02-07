@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "0002", 
+        "subject": "REA", 
+        "title": "College Prep Reading"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

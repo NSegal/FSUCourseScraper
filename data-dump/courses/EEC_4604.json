@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students investigate and utilize data collection techniques/instruments to acquire information about young children.", 
+        "number": "4604", 
+        "subject": "EEC", 
+        "title": "Techniques of Child Study and Authentic Assessment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

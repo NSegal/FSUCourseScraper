@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-DIS (14964)", 
+    "basic": {
+        "class_num": "14964", 
+        "course": "4905", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "FIN", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "William Christiansen"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

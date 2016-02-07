@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides basic skills in finding, downloading, displaying, graphing, and analyzing economics data. Topics include locating data sources, graphics methods, such as data smoothing and interpolation, basic statistics, and bivariate and multivariate regression.", 
+        "number": "3431", 
+        "subject": "ECO", 
+        "title": "Analysis of Economic Data"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013, ECO 2023, and STA 2023, STA2122, or STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

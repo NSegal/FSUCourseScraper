@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar examines the critical and practical dimensions of evaluating student's speeches and presentations. Current research and theory on college level instruction is also explored.", 
+        "number": "5346", 
+        "subject": "SED", 
+        "title": "Teaching Oral Communication Courses"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

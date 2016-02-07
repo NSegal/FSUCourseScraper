@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Instrumental.", 
+        "number": "5427", 
+        "subject": "MUE", 
+        "title": "Advanced Techniques in Choral and Instrumental Music: Instrumental"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUE 4411 and MUE 4342; or teaching experience.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

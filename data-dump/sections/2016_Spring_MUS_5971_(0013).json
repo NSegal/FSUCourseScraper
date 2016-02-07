@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-THE (6634)", 
+    "basic": {
+        "class_num": "6634", 
+        "course": "5971", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Frank Gunderson"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

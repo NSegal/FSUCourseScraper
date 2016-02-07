@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the concepts of wilderness medicine and makes use of various teaching tools. Didactic sessions cover a wide range of wilderness-medicine topics, along with selected readings. Experiential sessions allow students to apply what they have learned through planned field activities and simulated patient scenarios covering basic wilderness treatment, teamwork, and improvisation.", 
+        "number": "7720", 
+        "subject": "MDE", 
+        "title": "Introduction to Wilderness Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00"
+    }
+}

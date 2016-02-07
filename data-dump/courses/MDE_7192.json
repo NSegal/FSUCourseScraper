@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course gives students the opportunity to explore, understand, and participate in the care of women in at-risk and underserved populations. May be repeated within the same term for a total of eight semester hours. MD\u00a0\u00a0\u00a0\u00a0 grade only.", 
+        "number": "7192", 
+        "subject": "MDE", 
+        "title": "Women's Health Issues in At-Risk and Underserved Populations"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 4.00"
+    }
+}

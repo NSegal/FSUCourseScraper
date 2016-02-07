@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide qualified upper-division majors in special education an opportunity to undertake an independent and original research project. May be repeated to a maximum of nine thesis hours with instructor approval.", 
+        "number": "4970", 
+        "subject": "EEX", 
+        "title": "Honors Work in Special Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the honors program. Corequisites: EDF 5481 or EEX 5931 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DSC (1499)", 
+    "basic": {
+        "class_num": "1499", 
+        "course": "2200", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Edwin Hilinski"
+            ], 
+            "location": "HTL 0219", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

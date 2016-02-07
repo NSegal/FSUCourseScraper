@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a resident internship in an approved professional theatre, shop, or enrichment center. May be repeated to a maximum of thirty semester hours.", 
+        "number": "5940", 
+        "subject": "TPP", 
+        "title": "MFA Internship in Theatre Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Completion of sixty hours in regular MFA specialization and consent of appropriate committee.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 15.00"
+    }
+}

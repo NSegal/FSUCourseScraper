@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers advanced professional preparation to acquaint students with issues of concern in their academic discipline. A maximum of three hours may count towards the degree. May be repeated to a maximum of nine semester hours.", 
+        "number": "6925", 
+        "subject": "GER", 
+        "title": "Tutorial in Professional Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 5940 or instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 2.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8976", 
+        "subject": "STA", 
+        "title": "Master's Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

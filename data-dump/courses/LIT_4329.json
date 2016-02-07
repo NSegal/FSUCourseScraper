@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the major forms of cultural expression developed by African-Americans. The focus will be on African-American folklore as a living tradition to be understood and interpreted.", 
+        "number": "4329", 
+        "subject": "LIT", 
+        "title": "African American Folklore"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

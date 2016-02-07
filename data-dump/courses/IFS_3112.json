@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the real world problem of global trafficking in weapons, drugs, and humans.\u00a0 Such trafficking causes tremendous harm in today's world.\u00a0 Employing a variety of approaches from criminology, law, economics, and international relations, the course examines how and why trafficking became embedded in the modern world.", 
+        "number": "3112", 
+        "subject": "IFS", 
+        "title": "Guns, Drugs, and Slaves: The History of Trafficking in the Modern World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

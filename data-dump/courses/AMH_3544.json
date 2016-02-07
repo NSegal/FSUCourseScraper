@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the involvement of the United States in Vietnam from World War II through the fall of Saigon in 1975 and considers the legacy of this experience for American foreign relations and society.", 
+        "number": "3544", 
+        "subject": "AMH", 
+        "title": "The United States and Vietnam, 1941-1975"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

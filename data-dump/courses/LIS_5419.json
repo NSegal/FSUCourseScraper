@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores how emerging technologies are being used to empower health consumers and improve their medical outcomes. Students examine different technology-based approaches for health promotion, disease prevention, and for supporting the treatment and management of chronic illnesses. They evaluate patients' information needs and behaviors to design more effective technology-based health education and behavior change interventions. They also discuss issues and concerns influencing adoption of these technologies at different levels. The course emphasizes an interdisciplinary, user-centered and theory-based approach using concepts drawn from communication, information studies, human-computer interaction, medicine, psychology, and public health.", 
+        "number": "5419", 
+        "subject": "LIS", 
+        "title": "Consumer Health Informatics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

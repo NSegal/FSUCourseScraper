@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for graduate non-majors and graduate majors needing foundational work in computer science; credit may not be applied towards a graduate degree in computer science. A survey of programming languages and language features and an introduction to compilers. Languages to be discussed include FORTRAN, Pascal, Ada, PL/1, APL, and LISP. An oral presentation is required.", 
+        "number": "5426", 
+        "subject": "CGS", 
+        "title": "Programming Language Concepts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

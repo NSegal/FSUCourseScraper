@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Minimum of six semester hours required.", 
+        "number": "5971", 
+        "subject": "ARE", 
+        "title": "Master's Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

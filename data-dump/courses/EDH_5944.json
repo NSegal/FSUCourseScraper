@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "5944", 
+        "subject": "EDH", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Master's candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 8.00"
+    }
+}

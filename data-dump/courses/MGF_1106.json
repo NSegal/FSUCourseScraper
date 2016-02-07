@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers set theory; symbolic logic; counting principles; permutations and combinations; probability; statistics; geometry; applications and history of mathematics. Recommended background: two years of high school algebra. Course is not intended for students whose programs require precalculus or calculus courses.", 
+        "number": "1106", 
+        "subject": "MGF", 
+        "title": "Mathematics for Liberal Arts I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAT 1033 with a grade of \"C-\" or better or a suitable mathematics examination placement score.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

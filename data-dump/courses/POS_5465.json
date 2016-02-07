@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course concentrates on the fundamentals of lobbying, including strategy and tactics. Students learn how to lobby the executive branch and the legislature, state and local governments and foreign governments. The course concentrates on lobbying the budget process, lobbying strategies, and the management of government affairs in corporations and trade associations.", 
+        "number": "5465", 
+        "subject": "POS", 
+        "title": "Lobbying"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the theory and practice of likelihood inference for statistical models, as applied to social science data. Models covered in this course include those designed for binary, nominal, ordinal, count, and continuous outcome variables. Topics of discussion include likelihood theory, computational issues, estimation and statistical inference, model diagnostics and robustness checks, and the interpretation and effective presentation of results. May be repeated to a maximum of six semester hours.", 
+        "number": "5746", 
+        "subject": "POS", 
+        "title": "Quantitative Analysis in Political Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5737 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

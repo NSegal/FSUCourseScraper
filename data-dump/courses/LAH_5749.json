@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes thematic coverage of the history of social revolutionary movements in Latin America, studying such revolutions as the Mexican, Cuban, and Bolivian examples. Special emphasis on the historiography of revolutions within and outside the area.", 
+        "number": "5749", 
+        "subject": "LAH", 
+        "title": "Social Revolutionary Movements in Latin America"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intensive study by a small number of postgraduates centering upon a specific topic or research problem in Latin studies. May be repeated when topics vary to a maximum of nine semester hours.", 
+        "number": "5932", 
+        "subject": "LNW", 
+        "title": "Tutorial in Latin"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is to be taken during the final semester of coursework, with LAE 4941. A careful consideration of the role of the secondary schoolteacher of English with special attention to effective classroom management and planning for instruction and evaluation of student progress.", 
+        "number": "4360", 
+        "subject": "LAE", 
+        "title": "Classroom Management and Planning Instruction in Middle/High School English"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 3331 and LAE 4323.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

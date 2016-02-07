@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the history of safety, safety in the workplace, government regulations, methods of accident prevention, system safety, reliability, and fault tree analysis.", 
+        "number": "4214", 
+        "subject": "EIN", 
+        "title": "Occupational Safety and Hazard Control"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 4243.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

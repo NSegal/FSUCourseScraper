@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Varies with instructor and semester.", 
+        "number": "5698", 
+        "subject": "POS", 
+        "title": "Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

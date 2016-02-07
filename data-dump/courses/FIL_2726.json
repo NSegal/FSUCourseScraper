@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces layer-based compositing concepts and techniques, including their application in visual effects for motion pictures.", 
+        "number": "2726", 
+        "subject": "FIL", 
+        "title": "Compositing I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

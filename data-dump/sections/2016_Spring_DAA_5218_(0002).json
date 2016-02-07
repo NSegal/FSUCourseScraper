@@ -1,0 +1,51 @@
+{
+    "_unique": "0002-LEC (2369)", 
+    "basic": {
+        "class_num": "2369", 
+        "course": "5218", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "DAA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:20:00", 
+            "instructors": [], 
+            "location": "MON 0216", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:20:00", 
+            "instructors": [], 
+            "location": "MON 0216", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:20:00", 
+            "instructors": [], 
+            "location": "MON 0216", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:20:00", 
+            "instructors": [], 
+            "location": "MON 0216", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

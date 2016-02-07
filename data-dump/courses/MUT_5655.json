@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines sixteenth-century imitative writing styles.", 
+        "number": "5655", 
+        "subject": "MUT", 
+        "title": "Writing Skills: 16th-Century Counterpoint"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

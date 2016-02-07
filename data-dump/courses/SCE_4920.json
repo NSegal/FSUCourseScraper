@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This colloquium provides opportunities for sharing and to learn about current science education research.", 
+        "number": "4920", 
+        "subject": "SCE", 
+        "title": "Science Education Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00"
+    }
+}

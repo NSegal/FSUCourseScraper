@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an advanced laboratory course for students in the PhD Program in Biomedical Sciences, providing training in laboratory techniques and experimental approaches essential to contemporary molecular biology and biochemistry research.", 
+        "number": "5186C", 
+        "subject": "BMS", 
+        "title": "Research Techniques in Biomedical Sciences"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BMS 5525, PCB 5137, and PCB 5595.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

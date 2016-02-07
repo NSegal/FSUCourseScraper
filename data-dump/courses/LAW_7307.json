@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of selected topics regarding federal civil procedure, especially class actions and other multi-party litigation.", 
+        "number": "7307", 
+        "subject": "LAW", 
+        "title": "Advanced Civil Procedure"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

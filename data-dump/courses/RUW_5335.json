@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of poetry, the major writers, and their representative works.", 
+        "number": "5335", 
+        "subject": "RUW", 
+        "title": "Russian Poetry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

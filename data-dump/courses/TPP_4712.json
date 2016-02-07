@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This intermediate course in voice focuses on increasing vocal stamina, breath capacity, range, and freedom on the stage. The course introduces speaking Shakespeare and offers practice with the use of complex language in acting classical texts. May be repeated to a maximum of six semester hours.", 
+        "number": "4712", 
+        "subject": "TPP", 
+        "title": "Voice III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 2710r, and TPP 3711r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

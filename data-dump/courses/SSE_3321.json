@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines methodological approaches to the teaching of United States and world history. Students explore the chronological and thematic organization of history courses, primary sources, and narrative in the teaching of history. A focus is on the development of historical cognition.", 
+        "number": "3321", 
+        "subject": "SSE", 
+        "title": "Teaching History in the Middle and Secondary School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: AMH 2010 or AMH 2020, EUH 2000, and WOH 1023 or WOH 1030.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

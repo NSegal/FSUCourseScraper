@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the theory of international trade, the gains from trade, tariffs and other trade restrictions, cartels.", 
+        "number": "5707", 
+        "subject": "ECO", 
+        "title": "International Trade"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

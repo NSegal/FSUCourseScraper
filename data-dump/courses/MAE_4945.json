@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a supervised semester-long classroom teaching experience in a Florida public school.", 
+        "number": "4945", 
+        "subject": "MAE", 
+        "title": "Student Teaching in Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAE 4940.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "12.00"
+    }
+}

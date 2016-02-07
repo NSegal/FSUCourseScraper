@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores major philosophical contributions to the understanding of language and its functions in communication. Discussion of the concepts of meaning, truth, reference, understanding, and interpretation. Readings include classics of 20th century philosophy.", 
+        "number": "3220", 
+        "subject": "PHI", 
+        "title": "Introduction to Philosophy of Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

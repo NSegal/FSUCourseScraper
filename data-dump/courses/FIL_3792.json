@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides continuing theory and practice in modeling, texturing, and lighting to create visual effects that are believable and fit the aesthetic style of a given cinematic world. May be repeated to a maximum of nine semester hours.", 
+        "number": "3792", 
+        "subject": "FIL", 
+        "title": "Visual Effects Aesthetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2730 and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

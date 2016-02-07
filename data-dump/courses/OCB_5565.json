@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the factors that affect the biomass production and spatial distribution of phytoplankton, seagrasses, and macroalgae in the ocean. It also explains the key role of marine primary production in the global carbon cycle.", 
+        "number": "5565", 
+        "subject": "OCB", 
+        "title": "Marine Primary Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

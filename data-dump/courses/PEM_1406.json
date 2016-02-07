@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines advanced self-defense tactics/ techniques and considerations that may be useful for various types of encounters perpetrated against individuals beyond the Basic R.A.D. (Rape-Aggression-Defense) skills taught in PEM 1405. This advanced course is designed to serve as an extension of the basic program and taught in component block supplements to the Basic R.A.D. Systems Training.", 
+        "number": "1406", 
+        "subject": "PEM", 
+        "title": "Advanced Self-Defense/Martial Arts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PEM 1405.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

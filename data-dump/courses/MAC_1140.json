@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers functions and graphs, especially high degree polynomial, rational, exponential, and logarithmic functions; systems of equations; solutions of linear systems; matrix methods; determinants; sequences and series; induction; and the binomial theorem. The course also explores applications, approximation, and methods of proof. May be taken concurrently with MAC 1114.", 
+        "number": "1140", 
+        "subject": "MAC", 
+        "title": "Precalculus Algebra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 or suitable mathematics examination placement score.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

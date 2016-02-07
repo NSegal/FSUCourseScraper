@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces chemical engineering students to the major principles of life sciences that are important for biotechnological applications, and extends and applies the students' knowledge of the chemical engineering principles of kinetics, mass transfer, separation, purification, and characterization to important problems in bioprocess engineering.", 
+        "number": "4743", 
+        "subject": "ECH", 
+        "title": "Bioengineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisites: ECH 4404L, ECH 4504, and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

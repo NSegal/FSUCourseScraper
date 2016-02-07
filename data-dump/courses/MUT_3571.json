@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies 20th-century music in a stylistic manner.", 
+        "number": "3571", 
+        "subject": "MUT", 
+        "title": "20th-Century Styles"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

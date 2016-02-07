@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers European history in the period 1900-1918 with a review of the domestic situation and foreign policy of the major Continental powers. It includes an analysis of the origins of the war, how and why the war was fought as it was, and the experience of the majors powers on the home front.", 
+        "number": "4242", 
+        "subject": "EUH", 
+        "title": "World War I: Europe, 1900-1918"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

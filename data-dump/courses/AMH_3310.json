@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an analysis of the day-to-day lives of American people. Topics include morals, manners, religion, family, social class, health, and occupations.", 
+        "number": "3310", 
+        "subject": "AMH", 
+        "title": "Social History of the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

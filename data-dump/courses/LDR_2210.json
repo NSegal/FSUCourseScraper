@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course enables students to explore different aspects of their identities in reference to power and privilege, and how that influences leadership.", 
+        "number": "2210", 
+        "subject": "LDR", 
+        "title": "Leadership Through Intergroup Dialogue"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

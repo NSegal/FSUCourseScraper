@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the fundamentals of voice production. Elementary level.", 
+        "number": "1111", 
+        "subject": "MVV", 
+        "title": "Class Voice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

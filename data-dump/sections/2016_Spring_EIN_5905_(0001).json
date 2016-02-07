@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DIS (3103)", 
+    "basic": {
+        "class_num": "3103", 
+        "course": "5905", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EIN", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Okenwa Okoli"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

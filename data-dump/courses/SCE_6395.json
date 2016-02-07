@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates sources of teacher knowledge and explores strategies for improving science teacher performance. Common approaches to staff development are studied and analyzed and innovative approaches are developed and evaluated in terms of theory and research on teaching.", 
+        "number": "6395", 
+        "subject": "SCE", 
+        "title": "Science Teacher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

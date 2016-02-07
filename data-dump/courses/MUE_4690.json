@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course combines reading, discussion, and hands-on projects to achieve an understanding of how computers work and how they can be incorporated effectively in the music classroom from K-12.", 
+        "number": "4690", 
+        "subject": "MUE", 
+        "title": "Technology for the Music Classroom"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Placement in 2000-level courses or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

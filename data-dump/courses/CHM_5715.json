@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces materials chemistry, focusing on the structure, properties, and functions of metals and alloys, glasses and ceramics, semiconductors, and nanomaterials. Recommended for students involved in materials research. May be repeated within the same term to a maximum of three semester hours.", 
+        "number": "5715", 
+        "subject": "CHM", 
+        "title": "Topics in Materials Chemistry I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 3.00"
+    }
+}

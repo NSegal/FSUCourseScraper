@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of ITA 3420 with greater stress on theme-writing skills.", 
+        "number": "3421", 
+        "subject": "ITA", 
+        "title": "Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 3420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

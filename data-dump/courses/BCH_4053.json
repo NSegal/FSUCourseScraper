@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first course required for biochemistry majors; it is also recommended for other majors who intend to study advanced biochemistry. Topics covered include protein structure, protein function, membranes, enzyme catalysis, bioenergetics, carbohydrate metabolism, and lipid metabolism. This lecture-based course meets three hours a week.", 
+        "number": "4053", 
+        "subject": "BCH", 
+        "title": "General Biochemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 2210 with a grade of \"C-\" or better. Corequisite: CHM 2211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

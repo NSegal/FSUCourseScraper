@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers substantive issues applicable to the teaching of psychology in the university setting.", 
+        "number": "6945", 
+        "subject": "PSY", 
+        "title": "Teaching Psychology Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

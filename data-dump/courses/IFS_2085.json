@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the role of the child as demonstrated in 19th and early 20th century British fiction with child protagonists; and on the social and cultural forces that shaped these depictions, such as the changing landscape of legislation governing child labor, orphanages, and education. Discussions of stories and novels about children are put into perspective by comparing them to poems, paintings, popular songs, magic lantern shows, and advertisements featuring child protagonists.", 
+        "number": "2085", 
+        "subject": "IFS", 
+        "title": "To Work, Learn, or Play? The Role of the Child in British Fiction 1830-1914"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

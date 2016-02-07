@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed investigation of topics in the teaching of college composition. The course examines major theories about various aspects of composition, including the composing process, invention, style, writing assessment, and historical studies.", 
+        "number": "5700", 
+        "subject": "ENC", 
+        "title": "Theories of Composition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

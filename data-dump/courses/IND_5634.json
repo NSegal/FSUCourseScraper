@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides entering graduate students with a basic understanding of the role of pre-design research and programming in interior-design project development.", 
+        "number": "5634", 
+        "subject": "IND", 
+        "title": "Pre-Design Research and Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5637.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

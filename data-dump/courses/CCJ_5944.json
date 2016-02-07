@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a practicum with the student in teaching, guided by an experienced teacher with whom the student meets from time to time for discussion of readings and classroom experiences.", 
+        "number": "5944", 
+        "subject": "CCJ", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

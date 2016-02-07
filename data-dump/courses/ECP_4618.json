@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the use of quantitative research methods to evaluate and understand the performance of economies, with a focus on land use, housing, urban economic growth, housing finance and public finance. Each student will be responsible for identifying a research topic, defining the research question, and conducting original research as part of the course through a workshop format supervised by the instructor.", 
+        "number": "4618", 
+        "subject": "ECP", 
+        "title": "Research Methods for Studying Housing, Land and Cities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores such topics in applied microeconomics as demand estimation, hedonic models, cost functions, cost-benefit analysis, tax incidence, event studies, selection bias, and earnings equations. A student project is required.", 
+        "number": "5117", 
+        "subject": "ECO", 
+        "title": "Applied Microeconomics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5114.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

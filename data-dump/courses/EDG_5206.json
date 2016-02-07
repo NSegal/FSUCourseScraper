@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the challenges of curricular design from the institutional role of the teacher and analyzes how a teacher can become an effective contributor in curricular deliberation within the settings of schools and school districts.", 
+        "number": "5206", 
+        "subject": "EDG", 
+        "title": "Teachers and Curriculum Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

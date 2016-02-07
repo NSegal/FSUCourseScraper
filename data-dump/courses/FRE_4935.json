@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of six semester hours, three hours of which may be applied to the requirements for the major with permission of the department. All honors work is directed by the students honors committee.", 
+        "number": "4935", 
+        "subject": "FRE", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

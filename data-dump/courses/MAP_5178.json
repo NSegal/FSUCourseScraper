@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines claim frequency models, individual loss models, aggregate loss models, multiple-life and multiple-decrement survival models, multiple-state transition models, credibility theory, and simulation.", 
+        "number": "5178", 
+        "subject": "MAP", 
+        "title": "Advanced Actuarial Models, Credibility, and Simulation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "MAP5177,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

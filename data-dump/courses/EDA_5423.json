@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds expertise in using data for a variety of school-improvement purposes, including instructional decision-making in grades K-12. Collaborative action-research skills are developed to solve school-based problems.", 
+        "number": "5423", 
+        "subject": "EDA", 
+        "title": "Data Driven School Improvement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

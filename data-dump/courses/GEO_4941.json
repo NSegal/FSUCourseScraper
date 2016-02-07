@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an opportunity to apply skills in supervised situations off-campus. Course may be repeated to a maximum of six semester hours. Only three may be counted toward the major.", 
+        "number": "4941", 
+        "subject": "GEO", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to examine the nature of scientific knowledge and how the particular actions involved in scientific inquiry influence the characteristics of the knowledge it produces. The course also examines the role of the nature of science knowledge in a broader scientific literacy with an explanation of how to support students in constructing that knowledge.", 
+        "number": "5895", 
+        "subject": "SCE", 
+        "title": "Nature of Science and Science Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (2278)", 
+    "basic": {
+        "class_num": "2278", 
+        "course": "5331", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "CRW", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "James Kimbrell"
+            ], 
+            "location": "WMS 0454", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This introductory course provides an overview of human communication disorders with a focus on the neuroanatomic, acoustic, biological, psychological, developmental, and linguistic principles underlying human communication disorders. It also provides an overview of the field of speech-language pathology and audiology with an emphasis on the scientific aspects of clinical assessment and rehabilitation of clients. Intended for non-majors.", 
+        "number": "2001", 
+        "subject": "SPA", 
+        "title": "Introduction to Communication Sciences and Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

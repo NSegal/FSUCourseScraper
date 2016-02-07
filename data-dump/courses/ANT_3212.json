@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the world's cultures by major geographic regions. The purpose is to familiarize the student with the range and variety of the human condition and at the same time instill in the student a respect and admiration for humankind. Lectures, readings, and visual materials are utilized.", 
+        "number": "3212", 
+        "subject": "ANT", 
+        "title": "Peoples of the World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

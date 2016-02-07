@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the analysis and critique of economic ideas, beginning with the Greeks. Concentration is upon classical ecnomists.", 
+        "number": "5305", 
+        "subject": "ECO", 
+        "title": "History of Economic Thought"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

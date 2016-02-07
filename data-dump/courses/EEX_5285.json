@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the range of postsecondary education, transitional services, employment training programs and community living and recreation available to adults with disabilities.", 
+        "number": "5285", 
+        "subject": "EEX", 
+        "title": "Seminar in Transition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced seminar in communication studies with an emphasis in legal communication studies, communication and culture, or rhetorical studies.", 
+        "number": "4935", 
+        "subject": "COM", 
+        "title": "Senior Seminar in Communication Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

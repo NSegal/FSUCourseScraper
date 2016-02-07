@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an advanced study of AC drives. Topics covered include pulse-width modulation, drive system modeling, and vector controls. Emphasis is placed on the drives of induction and synchronous machines.", 
+        "number": "6237", 
+        "subject": "EEL", 
+        "title": "Modern AC Drives"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

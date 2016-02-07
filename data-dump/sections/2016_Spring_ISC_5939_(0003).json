@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DSC (4633)", 
+    "basic": {
+        "class_num": "4633", 
+        "course": "5939", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "ISC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Gordon Erlebacher"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

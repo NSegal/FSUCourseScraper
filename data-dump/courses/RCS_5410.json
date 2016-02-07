@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the history, philosophy, theoretical concepts, intervention strategies, process, and legal ethical aspects of rehabilitation counseling.", 
+        "number": "5410", 
+        "subject": "RCS", 
+        "title": "Principles and Practices in Rehabilitation Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

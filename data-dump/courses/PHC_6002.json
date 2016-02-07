@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the basic methods for infectious disease epidemiology and case studies of important disease syndromes and entities in various disciplines within infectious disease.", 
+        "number": "6002", 
+        "subject": "PHC", 
+        "title": "Infectious Disease Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

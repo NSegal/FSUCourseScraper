@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar provides undergraduate students with information on critical issues in the profession or information on innovative methodologies in the remediation of communication disorders. May be repeated to a maximum of six semester hours.", 
+        "number": "4930", 
+        "subject": "SPA", 
+        "title": "Undergraduate Seminar in Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

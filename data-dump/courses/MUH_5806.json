@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the evolution of jazz, including the study of: Ragtime, New Orleans, Chicago, pre-Swing, Swing, Be-Bop, and West Coast styles.", 
+        "number": "5806", 
+        "subject": "MUH", 
+        "title": "History of Jazz"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

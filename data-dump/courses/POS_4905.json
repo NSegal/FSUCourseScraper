@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves some combination of research, reading, writing, field study, other scholarly activities, and evaluation. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4905", 
+        "subject": "POS", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: At least twelve semester hours of political science or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

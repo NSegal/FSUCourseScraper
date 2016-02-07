@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with high-performance computational tools necessary to investigate problems arising in science and engineering, with an emphasis on combining them to accomplish more complex tasks. A combination of course work and lab work provides the proper blend of theory and practice with problems culled from the applied sciences. Topics include numerical solution to ODEs and PDEs, data handling, interpolation and approximation, and visualization.", 
+        "number": "5315", 
+        "subject": "ISC", 
+        "title": "Applied Computational Science I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5305; MAP 2302; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

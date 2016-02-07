@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes theories of treatment of stuttering disorders, various therapeutic approaches.", 
+        "number": "5225", 
+        "subject": "SPA", 
+        "title": "Fluency Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

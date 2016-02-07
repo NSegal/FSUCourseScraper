@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a critical exploration of major problems in the philosophy of science for students in the sciences and philosophy", 
+        "number": "6406", 
+        "subject": "PHI", 
+        "title": "Philosophy of Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

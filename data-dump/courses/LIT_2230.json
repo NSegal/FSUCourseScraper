@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to English-language literature from countries that were former British colonies in Africa, Asia, and the Caribbean.", 
+        "number": "2230", 
+        "subject": "LIT", 
+        "title": "Introduction to Global Literature in English"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

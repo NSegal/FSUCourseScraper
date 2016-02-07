@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected topics, as designated by the student and the directing professor. The course may be repeated to a maximum of twenty-four semester hours within the same term.", 
+        "number": "5906", 
+        "subject": "ISC", 
+        "title": "Directed Individual Study in Computational Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

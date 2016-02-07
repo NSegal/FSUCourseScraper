@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines selected readings on current educational problems and issues. Maybe repeated once for a total of six semester hours. Different texts are used in course each time it is offered and instructors vary.", 
+        "number": "5710", 
+        "subject": "EDF", 
+        "title": "Contemporary Readings in American Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

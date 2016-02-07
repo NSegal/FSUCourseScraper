@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to a global, comparative approach to the study of crime and criminal justice systems, beginning with the discussion of transnational crime and issues related to its measurement and continuing with the study of the four major legal traditions (common law, civil law, socialist law, and Islamic law) and the analysis of specific components of the criminal justice system across the world, including the police, courts, and corrections.", 
+        "number": "4004", 
+        "subject": "CCJ", 
+        "title": "Comparative Criminology and Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

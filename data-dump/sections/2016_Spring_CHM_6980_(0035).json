@@ -1,0 +1,26 @@
+{
+    "_unique": "0035-DSS (12162)", 
+    "basic": {
+        "class_num": "12162", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0035", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Wei Yang"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the emergence and current impact of women- and minority-owned businesses. The course also considers special challenges and opportunities that women and minority entrepreneurs confront. Course may include discussions with successful women and minority business owners.", 
+        "number": "3283", 
+        "subject": "ENT", 
+        "title": "Women and Minorities in New Ventures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 or both ENT 2010 and ENT 2011.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

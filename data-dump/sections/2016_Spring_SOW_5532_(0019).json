@@ -1,0 +1,26 @@
+{
+    "_unique": "0019-INT (12076)", 
+    "basic": {
+        "class_num": "12076", 
+        "course": "5532", 
+        "season": "Spring", 
+        "solus_id": "0019", 
+        "status": "Open", 
+        "subject": "SOW", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Rosalyn Deckerhoff"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

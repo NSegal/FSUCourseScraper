@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces varying topics related to the nature and methods of adult and community education. May be repeated for a maximum of twelve semester hours.", 
+        "number": "4930", 
+        "subject": "ADE", 
+        "title": "Special Topics in Adult and Community Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

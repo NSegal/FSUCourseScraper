@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of special topics on demand in geophysics. May be repeated to a maximum of six semester hours.", 
+        "number": "5495", 
+        "subject": "GLY", 
+        "title": "Advanced Topics in Geophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 4451 or GLY 5455.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

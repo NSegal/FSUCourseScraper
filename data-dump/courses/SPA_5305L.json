@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers interviewing, audiologic screening, audiometric evaluation, data interpretation, hearing aids and cochlear implants, assistive listening devices, aural rehabilitation assessment and therapy, and hearing conservation.", 
+        "number": "5305L", 
+        "subject": "SPA", 
+        "title": "Measurement and Management of Impaired Hearing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

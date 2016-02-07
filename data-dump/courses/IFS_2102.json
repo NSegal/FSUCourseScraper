@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students read original texts in different genres (e.g. mystery, children's fantasy novel, play, choreopoem, film, short story) and then watch and analyze films based on those texts. In doing so, students explore two major questions:\u00a0 \"Why are cinematic adaptations so prolific in America?\" and \"Why do we like (or hate) film adaptations of texts we have already read\"?", 
+        "number": "2102", 
+        "subject": "IFS", 
+        "title": "From Page to Screen: The Art and Politics of Adaptation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

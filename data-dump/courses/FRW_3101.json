@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the study modern French Literature by reading and discussing works representative of the various schools and movements. (Spring semester only.)", 
+        "number": "3101", 
+        "subject": "FRW", 
+        "title": "Survey of French Literature: 19th Century Through the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FRE 2211; FRE 3420 or FRE 3421, FRW 3100, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

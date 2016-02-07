@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview the early phase of the life cycle. It uses data and theory from biological anthropology, primate ethology, evolutionary psychology, and sociocultural anthropology to provide nontraditional perspective on human development and its interface with the caretaking behavior of adults.", 
+        "number": "4533", 
+        "subject": "ANT", 
+        "title": "The Anthropology of Infancy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2511 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

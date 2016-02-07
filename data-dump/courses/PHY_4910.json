@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of projects in theoretical or experimental physics arranged in advance between the student and a member of the teaching faculty of the physics department. May be repeated to a maximum of eight semester hours.", 
+        "number": "4910", 
+        "subject": "PHY", 
+        "title": "Research Participation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

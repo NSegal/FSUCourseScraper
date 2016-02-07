@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (1273)", 
+    "basic": {
+        "class_num": "1273", 
+        "course": "3011", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "CEG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Korhan Adalier"
+            ], 
+            "location": "HOL B0201", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

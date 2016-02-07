@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the development of a positive and normative framework for analyzing criminal courts and an introduction of students to the basics of planning tools with applications to the management of criminal courts.", 
+        "number": "5520", 
+        "subject": "CJL", 
+        "title": "Structure and Process of the American Court System"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

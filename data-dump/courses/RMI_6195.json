@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews current literature and theory in life/health insurance, including product development, management and regulation of life insurance companies, and the place of life insurance companies in the capital markets.", 
+        "number": "6195", 
+        "subject": "RMI", 
+        "title": "Doctoral Seminar in Insurance: Life/Health Insurance Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

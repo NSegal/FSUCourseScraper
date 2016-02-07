@@ -1,0 +1,26 @@
+{
+    "_unique": "0019-LAB (8921)", 
+    "basic": {
+        "class_num": "8921", 
+        "course": "2054L", 
+        "season": "Spring", 
+        "solus_id": "0019", 
+        "status": "Closed", 
+        "subject": "PHY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:20:00", 
+            "instructors": [
+                "David Lind"
+            ], 
+            "location": "UPL 0114", 
+            "start_time": "09:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

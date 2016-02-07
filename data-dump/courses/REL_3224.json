@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes the prophetic books of the Hebrew Bible/Old Testament: Isaiah, Jeremiah, Ezekel, and the twelve minor prophets. The course examines the role of prophecy elsewhere in the Hebrew Bible (as in the Elijah stories) and situates the biblical prophets within the broader context of prophecy, as a religious and social phenomenon in the ancient Near East.", 
+        "number": "3224", 
+        "subject": "REL", 
+        "title": "The Hebrew Prophets"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

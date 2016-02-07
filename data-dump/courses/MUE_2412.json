@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines methods of tone production and pedagogy of brass, woodwind, and percussion instruments. Required of music education choral majors.", 
+        "number": "2412", 
+        "subject": "MUE", 
+        "title": "Introduction to Wind and Percussion Instruments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

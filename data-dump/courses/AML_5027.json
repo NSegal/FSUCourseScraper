@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes various approaches to the study of U.S. literature since 1875. May be repeated within the same semester to a maximum of twelve semester hours.", 
+        "number": "5027", 
+        "subject": "AML", 
+        "title": "Studies in US Literature Since 1875"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

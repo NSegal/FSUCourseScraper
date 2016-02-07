@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students get hands-on experience with small data sets and learn how big data sets are collected and used.", 
+        "number": "6356", 
+        "subject": "EME", 
+        "title": "Learning and Web Analytics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

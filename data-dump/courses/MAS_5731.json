@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Factorization of polynomials; decomposition of polynomials; the method of Groebner bases, applications; computing with algebraic\u00a0\u00a0 numbers.", 
+        "number": "5731", 
+        "subject": "MAS", 
+        "title": "Computer Algebra"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 4302. Corequisite: MAS 5307.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the basic tools in macroeconomic theory.", 
+        "number": "5204", 
+        "subject": "ECO", 
+        "title": "Macroeconomic Theory I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

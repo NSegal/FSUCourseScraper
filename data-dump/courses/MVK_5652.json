@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Intermediate piano pedagogy subjects.", 
+        "number": "5652", 
+        "subject": "MVK", 
+        "title": "Piano Pedagogy II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVK 5651.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

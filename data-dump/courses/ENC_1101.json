@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes drafting and writing of expository essays and a journal for a total of 7,000 words. May not be taken by students with credit in ENC 1149. No auditors.", 
+        "number": "1101", 
+        "subject": "ENC", 
+        "title": "Freshman Composition and Rhetoric"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated with the permission of the Director of the Interdisciplinary Program in Social Science to a maximum of eighteen semester hours.", 
+        "number": "4931", 
+        "subject": "ISS", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

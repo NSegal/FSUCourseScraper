@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a basic introduction to and survey of the law of sales, leases, commercial paper, fund transfers, letters of credit and secured transaction under the Uniform Commercial Code.", 
+        "number": "6035", 
+        "subject": "LAW", 
+        "title": "Commercial Law Survey"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 4.00"
+    }
+}

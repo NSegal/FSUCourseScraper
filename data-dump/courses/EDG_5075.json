@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers opportunities for participants to explore technologies, strategies, and tools to enhance learning, teaching, assessment, and communication in blended and online learning environments in K-12 schools. It is guided by National Standards for Quality Online Teaching (NACOL, 2010), National Educational Technology Plan 2010, and other national standards. Participants learn and practice effective e-learning techniques and technologies appropriate for various ages, learner characteristics, and content areas, as well as focus assignments on their own areas of teaching interest and expertise.", 
+        "number": "5075", 
+        "subject": "EDG", 
+        "title": "Technologies for Blended and Online Learning and Teaching K-12"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDG 5073 or EDG 5074.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a supervised study of a special topic or research participation in the area of the faculty member's research. Graduate students may not register for this course. A maximum of six semester hours may be applied to biological science major credit. May be repeated within the same semester to a maximum of twelve semester hours.", 
+        "number": "4900", 
+        "subject": "BSC", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 21010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L; combined 3.0 GPA in biology, chemistry, physics, math, and statistics courses as well as instructor permission and adviser permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

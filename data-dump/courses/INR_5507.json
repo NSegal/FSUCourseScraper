@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the formal ways in which countries and other entities attempt to cooperate in the international system. The course includes a theoretical overview of why and how countries cooperate, what organizations and institutions are, and how international law operates. Particular thematic forms of cooperation/organization are also covered, such as international trade and security organizations.", 
+        "number": "5507", 
+        "subject": "INR", 
+        "title": "International Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

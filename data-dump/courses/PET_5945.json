@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is comprised of supervised practicum experiences in a sports science setting. Emphasis is on developing skills and abilities of a strength and conditioning specialist through practical application of knowledge from previous or current course work, while learning new related principles or concepts.", 
+        "number": "5945", 
+        "subject": "PET", 
+        "title": "Sports Sciences Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admitted to the Sports Sciences Major of the Master of Science degree in Exercise Science.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "0001-LEC (4850)", 
+    "basic": {
+        "class_num": "4850", 
+        "course": "2160", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "LDR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "STB 3305", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

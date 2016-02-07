@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an overview of the uses and meanings of music in the development of film during the past 130 years. It examines the many different ways that the question of why music has been significant and especially how music has come to impact the film experience since the introduction of sound. Through the critical examination of selected commercial, independent, avant garde, and international films, music's essential role in cinema is evaluated.", 
+        "number": "2100", 
+        "subject": "IFS", 
+        "title": "Music and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

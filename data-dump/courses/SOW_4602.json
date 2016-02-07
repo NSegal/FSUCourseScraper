@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on social work practice in health settings from a \u201cperson-in-environment\u201d perspective, preparing students with an understanding of the roles that social workers play in health settings, the structure of health care delivery systems, organizational and professional ethics and standards, challenges we face in health care policy, and patient issues and how to help to address these issues. Specific knowledge and skills in a health care setting are addressed, including biopsychosocial assessments, chart documentation, treatment planning, and discharge planning.", 
+        "number": "4602", 
+        "subject": "SOW", 
+        "title": "Social Work in Health Settings"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the mathematical tools: symbolic and numerical mathematical software packages, matrix computations, rotation matrices, Euclidean motions, lattices, continuous and discrete curves in space, torsion angles, gram and distance matrices, graphs, string matching algorithms, Fourier series, conformal mapping. Applications such as: protein secondary structure; structure determination by crystallography and NMR; writhing, twisting and knotting of DNA; nucleotide and amino acid sequence alignment; brain\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 mapping.", 
+        "number": "5485", 
+        "subject": "MAP", 
+        "title": "Introduction to Mathematical Biophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

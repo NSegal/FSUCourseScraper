@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the managing of the acquisition of goods and services by governments from businesses, nonprofits, and other governments; ethical obligations and legal contexts, determining requirements, make vs. buy decisions, solicitation and selection of vendors, preperation and award of contracts, and contract administration through termination, are also examined. Prerequisite: Graduate standing.", 
+        "number": "5859", 
+        "subject": "PAD", 
+        "title": "Managing Public Procurement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

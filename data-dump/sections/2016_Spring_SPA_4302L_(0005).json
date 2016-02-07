@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (9515)", 
+    "basic": {
+        "class_num": "9515", 
+        "course": "4302L", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "SPA", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Selena Snowden"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

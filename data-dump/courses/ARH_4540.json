@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the visual culture of South and Southeast Asia, with an emphasis on the Indian Subcontinent. The course examines the role that artistic production has played in the transmission of religious beliefs and the development of cultural systems from the Indus Valley to the present day. Students are encouraged to explore the forms and functions of art in a variety of media, including but not limited to architecture, urban form, sculpture, painting, and performance.", 
+        "number": "4540", 
+        "subject": "ARH", 
+        "title": "Arts of India"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

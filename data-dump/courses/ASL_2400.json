@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the deaf culture and to sign language as a communication system, and encoding and decoding skills of Signed English and finger spelling.", 
+        "number": "2400", 
+        "subject": "ASL", 
+        "title": "Introduction to Sign Language Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews the political role of the Supreme Court with particular attention to case law concerning judicial review, commerce power, federalism, and presidential and legislative power.", 
+        "number": "4606", 
+        "subject": "POS", 
+        "title": "The Supreme Court in American Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

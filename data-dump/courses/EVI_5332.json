@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to demonstrate the physical, psychological, social , and vocational purposes of recreation and leisure activities within education and rehabilitation programs for persons with visual impairments.", 
+        "number": "5332", 
+        "subject": "EVI", 
+        "title": "Social and Vocational Implications of Recreation and Leisure for Visually Impaired"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

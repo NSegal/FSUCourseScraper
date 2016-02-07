@@ -1,0 +1,55 @@
+{
+    "_unique": "0001-LEC (3148)", 
+    "basic": {
+        "class_num": "3148", 
+        "course": "3004", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EML", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Dorr Campbell"
+            ], 
+            "location": "CE2 B0135", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Dorr Campbell"
+            ], 
+            "location": "CE2 B0135", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [], 
+            "location": "CE2 B0114", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "10:45:00", 
+            "instructors": [], 
+            "location": "CE2 B0221", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

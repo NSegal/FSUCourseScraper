@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of the phonological and grammatical systems from the earliest written records to the present.", 
+        "number": "5845", 
+        "subject": "RUS", 
+        "title": "History of the Russian Language and Reading of Old Russian Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

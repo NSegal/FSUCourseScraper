@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of twelve semester hours as topics change.", 
+        "number": "4935", 
+        "subject": "SOW", 
+        "title": "Seminar in Social Work: Selected Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

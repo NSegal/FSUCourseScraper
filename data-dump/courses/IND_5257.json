@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This graduate-level studio focuses on non-residential projects in creative problem solving with emphases on programming and spatial analysis.", 
+        "number": "5257", 
+        "subject": "IND", 
+        "title": "Graduate Studio III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5236.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

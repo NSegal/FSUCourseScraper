@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies insurance contracts and marketing-judicial doctrines of contract construction, claims processes, insurance institutions, governmental regulation, and sponsorship of insurance.", 
+        "number": "4420", 
+        "subject": "RMI", 
+        "title": "Legal and Political Aspects of Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BUL 3310 and RMI 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Term Varies", 
+        "units": "3.00"
+    }
+}

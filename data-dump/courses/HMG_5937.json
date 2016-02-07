@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with the recent trends and tools necessary to effectively manage a global hospitality/tourism service operation in a realistic and practical manner. The course delves deep into topics associated with current events and contemporary trends in the hotel industry, ranging from legal, political, strategic, human resources, and operational concerns. This course also acquaints students with major issues and challenges confronting the hospitality and tourism industry.", 
+        "number": "5937", 
+        "subject": "HMG", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

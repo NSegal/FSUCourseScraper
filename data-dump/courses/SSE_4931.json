@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers topics of current or special interest to students and instructors. Topics may vary from semester to semester. May be repeated within the same term to a maximum of three semester hours.", 
+        "number": "4931", 
+        "subject": "SSE", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

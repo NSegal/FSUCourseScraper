@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course investigates the nature of textuality and its relationship to various media and technologies, while also exploring theoretical and practical questions related to the production and reception of texts in a variety of different forms and media. Students read works in which textuality is broached as a topic, including multimedia texts, and also produce a final project in at least two different media.", 
+        "number": "4815", 
+        "subject": "ENG", 
+        "title": "What is a Text?"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

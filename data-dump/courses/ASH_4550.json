@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the history of India from the 18th century to the present. It deals in depth with the impact of British rule on India and the lives of modern South Asian leaders like Gandhi, Nehru, and Jinnah.", 
+        "number": "4550", 
+        "subject": "ASH", 
+        "title": "Modern India"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

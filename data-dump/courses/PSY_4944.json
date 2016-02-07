@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to take an internship experience for course credit. Before registering for the course, students need to arrange the internship experience. The psychology advising office can provide guidance on the process of setting up the internship. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4944", 
+        "subject": "PSY", 
+        "title": "Psychology Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as sufficiency, point estimation, confidence intervals, hypothesis testing, regression, linear models, and Bayesian\u00a0 models.", 
+        "number": "5325", 
+        "subject": "STA", 
+        "title": "Mathematical Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 4442 or STA 5440 and either MAC 2313 or STA 5326.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

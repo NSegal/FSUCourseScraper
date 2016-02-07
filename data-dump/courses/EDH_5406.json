@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to build on and integrate moral reasoning skills with professional leadership skills by analyzing ethical problems in situated contexts that future higher education policy makers and administrators often face. Central to this course is the acquisition of skills and knowledge that allows for (1) introspective and reflective examination of the relationship between moral values, beliefs and decision making; (2) critical application of professional expertise and moral judgment in situated practice; and (3) identification of ways theoretical frameworks, leadership models and practice, and educational policies help to frame the role of higher education as contributor to the public good.", 
+        "number": "5406", 
+        "subject": "EDH", 
+        "title": "Ethical Leadership in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

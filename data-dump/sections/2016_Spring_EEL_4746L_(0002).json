@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (12222)", 
+    "basic": {
+        "class_num": "12222", 
+        "course": "4746L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:45:00", 
+            "instructors": [
+                "Victor DeBrunner"
+            ], 
+            "location": "CE1 0320", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

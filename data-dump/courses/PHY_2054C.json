@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to electromagnetism, light, and modern physics for non-physical science majors. Two lectures, one recitation, and one laboratory each week. Students who have previously received credit for PHY 2049C may not register for PHY 2054C.", 
+        "number": "2054C", 
+        "subject": "PHY", 
+        "title": "College Physics B"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 2053C or PHY 2048C. Corequsiite: PHY 2054L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

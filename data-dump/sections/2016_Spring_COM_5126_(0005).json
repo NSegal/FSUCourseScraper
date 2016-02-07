@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (12530)", 
+    "basic": {
+        "class_num": "12530", 
+        "course": "5126", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "COM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Stanley Lindsay"
+            ], 
+            "location": "HOL B0108", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

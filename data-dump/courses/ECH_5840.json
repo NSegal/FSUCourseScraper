@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction at the graduate level to the mathematical formulation and solution of chemical engineering problems involving transport phenomena and reaction. Course includes dimensional analysis and scaling, linear algebraic, ordinary, and partial differential equations, vector and tensor analysis, Fourier series, Integral (Fourier and Laplace) transforms, boundary value problems.", 
+        "number": "5840", 
+        "subject": "ECH", 
+        "title": "Advanced Chemical Engineering Mathematics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 4403 and MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This lecture course focuses on general construction techniques, terminologyand sustainability. Integration of the building systems of structure, plum bing, mechanical and fire safety is emphasized.", 
+        "number": "5479", 
+        "subject": "IND", 
+        "title": "Construction Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5235.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

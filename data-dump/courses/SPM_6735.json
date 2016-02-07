@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to various multivariate statistical methods, and the application of multivariate statistics to research problems in sport management.", 
+        "number": "6735", 
+        "subject": "SPM", 
+        "title": "Applied Statistics in Sport Management I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: EDF 5401.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

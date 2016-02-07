@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers experiments in color perception and in the uses of color in visual communication and expression.", 
+        "number": "2205C", 
+        "subject": "ART", 
+        "title": "Color Theory Foundations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

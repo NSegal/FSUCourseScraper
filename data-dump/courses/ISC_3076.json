@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines interrelations among science, technology, and society. Science is considered as an enterprise in modern society that produces technological advances and new perspectives on reality. This course cannot be used as credit toward a major or a minor in a science department.", 
+        "number": "3076", 
+        "subject": "ISC", 
+        "title": "Science, Technology, and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

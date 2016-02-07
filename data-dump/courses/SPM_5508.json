@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers principles and factors involved in the fiscal management of athletic/sports programs. The course also addresses purchasing, budgeting, risk management, operational procedures, and auditing guidelines.", 
+        "number": "5508", 
+        "subject": "SPM", 
+        "title": "Fiscal Management in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to disorders of hearing and the measurement of hearing loss by pure-tone, speech, and impedance audiometry.", 
+        "number": "4302", 
+        "subject": "SPA", 
+        "title": "Introduction to Clinical Audiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

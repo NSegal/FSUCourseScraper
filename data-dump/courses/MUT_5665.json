@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the development of the jazz ensemble from a historical context. Students learn about the Creole population in New Orleans in the late 1800s and observe how the early bands developed a concept of playing based on the culture of the time.", 
+        "number": "5665", 
+        "subject": "MUT", 
+        "title": "Jazz Styles and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

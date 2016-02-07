@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-PRF (2361)", 
+    "basic": {
+        "class_num": "2361", 
+        "course": "1500", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "DAA", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Mary Roberts"
+            ], 
+            "location": "MON 0216", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Mary Roberts"
+            ], 
+            "location": "MON 0216", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

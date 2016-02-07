@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated twice at most.", 
+        "number": "8962", 
+        "subject": "CIS", 
+        "title": "Doctoral Qualifying Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

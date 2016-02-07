@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of selected research topics that are not covered by other courses. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5935", 
+        "subject": "ISC", 
+        "title": "Selected Topics in Computational Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

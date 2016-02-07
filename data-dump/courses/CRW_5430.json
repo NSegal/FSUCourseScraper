@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students write and revise plays of varying length. Studentsare expected to work toward publication. May be repeated up to twenty-sevensemester hours.", 
+        "number": "5430", 
+        "subject": "CRW", 
+        "title": "Drama Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies business insurance problem evaluation and planning with proposed solutions utilizing comprehensive coverage package program.", 
+        "number": "4295", 
+        "subject": "RMI", 
+        "title": "Advanced Property and Casualty Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RMI 4224.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Term Varies", 
+        "units": "3.00"
+    }
+}

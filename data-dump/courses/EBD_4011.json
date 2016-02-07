@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the history of providing services to emotionally handicapped children and youths as well as to examine the evolving trends in the field. Additionally, theories of causality are investigated and approaches for improving academic and social behavior are analyzed.", 
+        "number": "4011", 
+        "subject": "EBD", 
+        "title": "Introduction to the Socially and Emotionally Disturbed"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

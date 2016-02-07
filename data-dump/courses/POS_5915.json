@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students experience in conducting political science research. Students will individually design and implement a research project under the supervision of a faculty advisor.", 
+        "number": "5915", 
+        "subject": "POS", 
+        "title": "Political Science Research Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5746 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

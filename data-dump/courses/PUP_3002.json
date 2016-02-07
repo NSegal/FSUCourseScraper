@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the development of public policy in the United States. Covers main policy areas including housing, education, the economy, homeland security, etc.", 
+        "number": "3002", 
+        "subject": "PUP", 
+        "title": "Introduction to Public Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

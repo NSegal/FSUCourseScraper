@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on three broad areas: production-based asset pricing theory and corporate finance; financial intermediation; and monetary theory and policy. Particular emphasis is placed on the economic role played by commercial banks in private information economies, and on the effect of Federal Reserve policy on financial markets.", 
+        "number": "5282", 
+        "subject": "ECO", 
+        "title": "Financial Economics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECO5281,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

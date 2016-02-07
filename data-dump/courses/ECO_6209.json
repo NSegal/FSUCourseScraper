@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys recent developments in macroeconomic theory with an emphasis on developing research skills in an applied context. Topics include endogenous growth and technological diffusion across countries, money and growth, and modern business cycle theory.", 
+        "number": "6209", 
+        "subject": "ECO", 
+        "title": "Topics in Macroeconomics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

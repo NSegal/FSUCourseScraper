@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines sinusoidal steady-state power analysis; three-phase circuits; transient and forced response; frequency response; two-port networks; circuit analysis with computers.", 
+        "number": "3112", 
+        "subject": "EEL", 
+        "title": "Advanced Circuits with Computers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3111. Corequisite: MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This introductory course includes classic and contemporary readings in the field of special education. An overview of how society has responded to the various conceptualizations of human exceptionality is presented. Students are introduced to the trends and people that formed the foundation of contemporary special education. Current policies and practices are also examined.", 
+        "number": "4012", 
+        "subject": "EEX", 
+        "title": "Foundations of Special Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-DSS (3496)", 
+    "basic": {
+        "class_num": "3496", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Eric Walker"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

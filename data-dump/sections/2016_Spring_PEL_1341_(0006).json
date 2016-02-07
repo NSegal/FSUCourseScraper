@@ -1,0 +1,37 @@
+{
+    "_unique": "0006-LAB (12146)", 
+    "basic": {
+        "class_num": "12146", 
+        "course": "1341", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "PEL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:20:00", 
+            "instructors": [
+                "Jordan Hebert"
+            ], 
+            "location": "SST 0101", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:20:00", 
+            "instructors": [
+                "Jordan Hebert"
+            ], 
+            "location": "SST 0101", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

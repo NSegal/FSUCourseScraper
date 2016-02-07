@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics change per semester depending upon the instructor. May be repeated to a maximum of six semester hours.", 
+        "number": "3931", 
+        "subject": "THE", 
+        "title": "Special Topics in Theatre"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

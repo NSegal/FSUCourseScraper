@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to topics in the history and theory of the reception of texts. Within the \"sociology of the text,\" reception is perhaps the end point to the cycle that begins with the producation of texts. This course introduces students to topics in the study of the reception\u00a0 of texts, such as reading as a material practice, the phenomenology of reading, the study of specific geographic or historic reading communities, as well as case studies in the reception histories of particular authors, texts, and genres.", 
+        "number": "5053", 
+        "subject": "ENG", 
+        "title": "Studies in Textual Reception"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

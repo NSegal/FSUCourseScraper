@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is part of a two-semester sequence emphasizing the physiochemical role of vitamins, minerals, and water in metabolic pathways; their integration and regulation; bases for determining requirements for vitamins, minerals, and water and dietary standards; nutrition surveys and evaluation of nutrition status.", 
+        "number": "3226", 
+        "subject": "HUN", 
+        "title": "Intermediary Metabolism of Nutrients II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BCH 3023C or HUN 3224; BSC 2086 or PET 3322; and HUN 1201 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

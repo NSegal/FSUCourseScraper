@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DIS (4304)", 
+    "basic": {
+        "class_num": "4304", 
+        "course": "4936", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "HIS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Will Hanley"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

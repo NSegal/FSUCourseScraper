@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers theory and practice of calibration and operation of basic sensors, measurement of temperature, heat flow, fluid flow, pressure, and moisture. Two hours of lecture, three hours laboratory.", 
+        "number": "4400C", 
+        "subject": "MET", 
+        "title": "Meteorological Instrumentation and Observations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 2700 and PHY 2048C both with a grade of \"C\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

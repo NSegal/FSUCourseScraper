@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the methodologies and purposes of word and image studies, especially in terms of the relationship between visual and literal material culture. The course focuses on interartistic and interdisciplinary topics.", 
+        "number": "5076", 
+        "subject": "ARH", 
+        "title": "Word and Image Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

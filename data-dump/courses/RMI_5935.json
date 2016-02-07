@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course evaluates how corporations and insurance companies finance risk.", 
+        "number": "5935", 
+        "subject": "RMI", 
+        "title": "Special Topics in Risk Management and Insurance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

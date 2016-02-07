@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores cinematic responses to Nazi crimes against humanity in German society. Drawing on the perspectives of victims, perpetrators, bystanders, helpers, resisters, and members of subsequent generations, the course investigates how cultural memory is created to reveal a multiplicity of voices and to reflect on the indelible mark of the Nazi past in Germany. This course is taught in English.", 
+        "number": "3043", 
+        "subject": "IFS", 
+        "title": "German Society Through Film: The Legacy of Nazi Crimes Against Humanity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

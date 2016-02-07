@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a selected topics seminar for the discussion of unique and timely planning related issues. Content varies. May be repeated to a maximum of six semester hours.", 
+        "number": "4936", 
+        "subject": "URP", 
+        "title": "Special Topics in Urban and Regional Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a bridge between theoretical issues, research methods, and statistical analysis by building on critical issues formulated in SYA 5305. Topics include the phenomenology of research, reliability and validity, research design strategies, elementary probability theory, probability distribution, hypothesis testing, elementary descriptive statistics, and computing skills.", 
+        "number": "5455", 
+        "subject": "SYA", 
+        "title": "Social Statistics and Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SYA 5305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

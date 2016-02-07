@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the psychological aspects of religious life in five different religious traditions in the United States. It examines the cultural experiences and social structures that have shaped psychological approaches to religion in the U.S. in the 20th and 21st centuries.", 
+        "number": "3155", 
+        "subject": "REL", 
+        "title": "Psychology in American Religious History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

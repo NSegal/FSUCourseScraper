@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the characteristics and etiology of autism spectrum disorders (ASD), and effective intervention strategies for individuals with ASD. Additionally, the focus is on assessing and addressing the core challenges of learners with ASD (e.g., language, social communication, repetitive behaviors, and behavior regulation) using evidence-based practices in school settings. Students learn to identify and implement assessment and intervention strategies based on learner strengths and needs.", 
+        "number": "4291", 
+        "subject": "EEX", 
+        "title": "Characteristics and Education of Learners with Autism Spectrum Disorder"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

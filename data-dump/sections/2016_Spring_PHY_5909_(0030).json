@@ -1,0 +1,26 @@
+{
+    "_unique": "0030-DIS (8923)", 
+    "basic": {
+        "class_num": "8923", 
+        "course": "5909", 
+        "season": "Spring", 
+        "solus_id": "0030", 
+        "status": "Open", 
+        "subject": "PHY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Huan-Xiang Zhou"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

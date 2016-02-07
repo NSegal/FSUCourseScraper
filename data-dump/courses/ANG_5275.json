@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the nature and theories of human conflict from the interdisciplinary perspectives of biological and cultural anthropology, political economy, and this history of warfare. Particular emphasis is place upon cross-cultural applications.", 
+        "number": "5275", 
+        "subject": "ANG", 
+        "title": "Human Conflict: Theory and Resolution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

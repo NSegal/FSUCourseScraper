@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the application of chemical and geochemical principles to environmental issues. Topics include: an evaluation of contaminants in surface and ground water; hydrocarbon geochemistry and petroleum contamination; waste management, including solid, toxic, and nuclear waste; air quality issues; environmental methods and instrumentation, quality assurance and quality control in environmental analysis; principles of toxicology; and risk assessment and risk management.", 
+        "number": "5086", 
+        "subject": "CHM", 
+        "title": "Environmental Chemistry I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

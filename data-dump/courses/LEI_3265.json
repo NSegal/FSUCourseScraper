@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides the student with the knowledge and skills to lead new games and field games and to facilitate group initiatives, and low ropes and high ropes challenge courses. The student will learn to facilitate diverse groups to develop teamwork and leadership skills, improve group dynamics, increase trust and improve communication, and direct a wide variety of challenge course activities. The course stresses safety, particularly in the use of ropes course apparatus, equipment, sequencing and processing. The challenge-by-choice philosophy is followed throughout. This course comprises four separate components, which must be taken in sequence but may be taken in subsequent semesters.", 
+        "number": "3265", 
+        "subject": "LEI", 
+        "title": "Challenge Course Facilitation Training"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 4.00"
+    }
+}

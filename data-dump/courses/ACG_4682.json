@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to issues in forensic accounting. Topics include criminal statutes related to financial crimes, techniques used in solving financial crimes, rules of evidence, interviewing techniques, and forensic accounting procedures.", 
+        "number": "4682", 
+        "subject": "ACG", 
+        "title": "Investigative Accounting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3101 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

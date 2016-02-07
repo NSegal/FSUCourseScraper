@@ -1,0 +1,46 @@
+{
+    "_unique": "0003-LEC (12219)", 
+    "basic": {
+        "class_num": "12219", 
+        "course": "4250", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "CIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "John Winston"
+            ], 
+            "location": "HWC 2400", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "John Winston"
+            ], 
+            "location": "HWC 2400", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:20:00", 
+            "instructors": [], 
+            "location": "LOV 0301", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the role of fundraising and fund development in non-profit organizations, and the various fundraising techniques used by these organizations to further their mission.", 
+        "number": "5206", 
+        "subject": "PAD", 
+        "title": "Fundraising and Fund Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

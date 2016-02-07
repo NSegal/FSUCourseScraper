@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on addressing leadership in the 21st century in the face of emerging technology, social media communication platforms and global change. The course also introduces leadership online through the lens of positive social change. Using the social change model, students are challenged to take their activity to better their local and global communities.", 
+        "number": "2116", 
+        "subject": "LDR", 
+        "title": "Leadership in the Digital Age"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course introduces fundamental concepts and questions about oral and written language as it relates to classroom instruction and assessment, and provides students with opportunties to practice strategies and techniques for planning, teaching, and assessing literacy. Covers a wide range of literature, as well as the writing process and concepts to develop extensive vocabulary, listening, viewing, and speaking. Children's literature supports effective instructional planning and implementation for literacy development in a print/language rich environment.", 
+        "number": "4314", 
+        "subject": "LAE", 
+        "title": "Language Arts and Literature in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

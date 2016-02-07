@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the study of theoretical approaches to dance as evidenced by the work of influential scholars in the field of dance theory.", 
+        "number": "5128", 
+        "subject": "DAN", 
+        "title": "Theory of Dance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

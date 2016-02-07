@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates various concepts and topics concerned with the spatial construction and effects of race and ethnicity, including identity, segregation, political and cultural landscapes, and environmental justice.", 
+        "number": "5417", 
+        "subject": "GEO", 
+        "title": "Race and Place"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

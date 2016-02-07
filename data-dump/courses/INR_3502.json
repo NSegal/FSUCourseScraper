@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the role of global and regional international organizations in contemporary world politics. Special emphasis is placed on the United Nations system, including its structure, activities, influence, and role in world integration.", 
+        "number": "3502", 
+        "subject": "INR", 
+        "title": "International Organization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

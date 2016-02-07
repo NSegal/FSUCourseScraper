@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students develop an understanding of and skill with variouscomputer-controlled editing systems from personal computers to Sony 910 computer controller.", 
+        "number": "5782", 
+        "subject": "FIL", 
+        "title": "Advanced Television Editing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIL 5781.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DSS (13345)", 
+    "basic": {
+        "class_num": "13345", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "PAD", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Richard Feiock"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

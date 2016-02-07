@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course typically includes Defoe, Richardson, Fielding, Sterne, Burney, and Radcliffe.", 
+        "number": "4112", 
+        "subject": "ENL", 
+        "title": "The 18th-Century British Novel"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

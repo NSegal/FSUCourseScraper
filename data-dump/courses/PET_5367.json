@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Immediate and long term effects of nutrition on exercise performance. Effects of acute and chronic exercise on nutrient requirements.", 
+        "number": "5367", 
+        "subject": "PET", 
+        "title": "Nutrition and Exercise Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

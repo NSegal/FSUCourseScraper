@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the conceptual, logical, and empirical adequacy of major criminological theories. May be repeated to a maximum of nine semester hours.", 
+        "number": "6109", 
+        "subject": "CCJ", 
+        "title": "Advanced Seminar in Criminological Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

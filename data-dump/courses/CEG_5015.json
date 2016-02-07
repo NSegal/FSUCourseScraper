@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the mechanical behavior, internal stresses, and stability analysis of noncohesive soils, compressibility, consolidation, and settlement of cohesive soils, analytical techniques for predicting earth movement.", 
+        "number": "5015", 
+        "subject": "CEG", 
+        "title": "Advanced Soil Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

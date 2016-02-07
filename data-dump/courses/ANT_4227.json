@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on major PreColumbian art traditions, as evidenced in the material culture. Attention is paid to cosmology and the socio-cultural context of art in each society. Topics include classic Maya art and iconography; Mixtec codices; Central Mexican art and iconography. May be repeated, when topics vary, to a maximum of nine semester hours.", 
+        "number": "4227", 
+        "subject": "ANT", 
+        "title": "Topics in PreColumbian Art and Iconography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

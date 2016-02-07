@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores sex roles in anthropological perspective with emphasis on data from archaeology and ethnology. Special emphasis on the interpretation of sex roles by anthropologists in the field.", 
+        "number": "4302", 
+        "subject": "ANT", 
+        "title": "Sex Roles in Cross-Cultural Perspective"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2410.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

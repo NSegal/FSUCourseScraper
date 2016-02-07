@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the first in a two-course sequence for second-year students designed to immerse Entrepreneurship majors into the dynamics of starting and running a business. Course content focuses on opportunity recognition, researching financial viability of business ventures, and marshalling resources (among them, financial, human, technical, and motivational) to launch businesses. Students prepare mini-business plans.", 
+        "number": "2010", 
+        "subject": "ENT", 
+        "title": "Creating and Managing New Ventures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the major. Corequisites: ACG 2021 and ENT 2010L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

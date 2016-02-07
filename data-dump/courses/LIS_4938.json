@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar involves intensive reading and preparation of position papers concerning current issues in information studies, followed by discussions of these papers with faculty and information specialists.", 
+        "number": "4938", 
+        "subject": "LIS", 
+        "title": "Seminar in Information Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Senior standing and three of the following: LIS 3232, LIS 3267, LIS 3342, LIS 4276, and LIS 4351.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

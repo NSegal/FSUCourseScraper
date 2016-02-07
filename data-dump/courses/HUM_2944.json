@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows faculty from across the academic and creative arts spectrum to explore \"Art and Inquiry in the Modern University\" with entering honors students each Fall. Discussions follow each weekly presentation. Students are required to write responses totaling two thousand words. May be repeated to a maximum of two semester hours.", 
+        "number": "2944", 
+        "subject": "HUM", 
+        "title": "University Honors Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the honors program.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

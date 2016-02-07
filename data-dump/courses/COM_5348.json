@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of contemporary qualitative methods for analyzing a range of media texts and speech.", 
+        "number": "5348", 
+        "subject": "COM", 
+        "title": "Qualitative Methods in Communication Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

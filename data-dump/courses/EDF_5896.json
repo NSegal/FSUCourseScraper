@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the political and sociological theories, concepts, and research which contribute to the understanding of the role of education in political development and policy making.", 
+        "number": "5896", 
+        "subject": "EDF", 
+        "title": "Education and Political Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

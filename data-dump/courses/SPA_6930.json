@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course content varies as faculty offers different issues and special topics concerning the discipline. May be repeated from term to term, to a maximum of nine semester hours. Students may enroll in more than one section during the same semester.", 
+        "number": "6930", 
+        "subject": "SPA", 
+        "title": "Seminar in Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines power system planning and operational problems. Subjects covered include load flow, economic dispatch, fault studies, transient stability, and control of problems. System modeling and computer solutions are emphasized through class projects.", 
+        "number": "5250", 
+        "subject": "EEL", 
+        "title": "Power Systems Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

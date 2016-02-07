@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "5942", 
+        "subject": "EDF", 
+        "title": "Field Laboratory Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 8.00"
+    }
+}

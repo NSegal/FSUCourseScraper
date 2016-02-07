@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental topics in digital logic design, algorithms, computer organization, assembly-language programming, and computer engineering technology.", 
+        "number": "3705", 
+        "subject": "EEL", 
+        "title": "Digital Logic Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3014.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses developments in the international politics of the Middle East and North Africa, historical background to Middle Eastern conflicts, wars and crises with a focus on the Arab-Israeli conflict.", 
+        "number": "4274", 
+        "subject": "INR", 
+        "title": "Studies in International Politics: The Middle East"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

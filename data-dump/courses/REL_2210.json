@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the history, religious thought, and social institutions of ancient Israel as reflected primarily in its literature.", 
+        "number": "2210", 
+        "subject": "REL", 
+        "title": "Introduction to the Old Testament"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

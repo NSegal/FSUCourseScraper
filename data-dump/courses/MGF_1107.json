@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course has a recommended background of two years of high school algebra. Topics include financial mathematics; linear and exponential growth; numbers and number systems; history of mathematics; elementary number theory; voting techniques; graph theory; game theory; geometry; and computer\u00a0 applications.", 
+        "number": "1107", 
+        "subject": "MGF", 
+        "title": "Topics in Practical Finite Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAT 1033 with a grade of \"C-\" or better or a suitable mathematics examination placement score. Recommended background: Two years of high school algebra.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

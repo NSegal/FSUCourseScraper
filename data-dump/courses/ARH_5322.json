@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines works by the great masters of the Renaissance, including Leonardo da Vinci, Michelangelo, and Titian, against the backdrop of the social and political realities of the day. Discussion includes the rise of the artist-hero, the sources and meaning of Mannerism, and the impact of the religious controversies of the age.", 
+        "number": "5322", 
+        "subject": "ARH", 
+        "title": "Later Italian Renaissance Art: 16th Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

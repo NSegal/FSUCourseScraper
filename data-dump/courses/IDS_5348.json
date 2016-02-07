@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with the skills to collaboratively develop, implement, and assess family-centered early intervention services that are provided within natural environments. Emphasis is placed on providing developmentally appropriate, evidence-based intervention for infants and toddlers with disabilities, developmental delays, or risk conditions within the context of their families.", 
+        "number": "5348", 
+        "subject": "IDS", 
+        "title": "Family-Centered Early Intervention"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

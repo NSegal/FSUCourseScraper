@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a detailed review of the theoretical approaches, methods, and statistical procedures used in the study of human injury.\u00a0 Attention is given to both individual and mass injury and the behavioral and societal factors leading to the risk of injury.", 
+        "number": "5326", 
+        "subject": "SYA", 
+        "title": "Injury Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

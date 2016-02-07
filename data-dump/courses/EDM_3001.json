@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to give the student an introduction to the modern middle school. It includes the philosophy and practice of the ideal middle school.", 
+        "number": "3001", 
+        "subject": "EDM", 
+        "title": "Introduction to Middle School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to the various athletic events of Greco-Roman antiquity and the festival games in which ancient athletes competed. To explore the subject, students are exposed to a wide variety of evidence, including inscriptions, literary sources, architectural remains, vase-paintings, sculptures, and other types of archaeological finds.", 
+        "number": "3500", 
+        "subject": "CLA", 
+        "title": "Sports in Antiquity: Olympians, Gladiators, and Superstars"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

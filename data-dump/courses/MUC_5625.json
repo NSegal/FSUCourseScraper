@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines techniques of creative jazz composition and literature. May be repeated to a maximum of six semester hours.", 
+        "number": "5625", 
+        "subject": "MUC", 
+        "title": "Jazz Composition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

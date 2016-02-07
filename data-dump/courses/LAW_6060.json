@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on general principles of law relating to agency and partnerships, followed by a more detailed study of the modern business corporation. Formation and structure of the corporation, powers, controls, and obligations of officers and directors, rights and liabilities of stockholders, rights of creditors, stockholders representative actions.", 
+        "number": "6060", 
+        "subject": "LAW", 
+        "title": "Corporations"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

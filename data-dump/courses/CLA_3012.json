@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course combines methods of social history and literary criticism to examine attitudes toward homosexuality in Greek and Roman culture and the influence of the Greek ideal in later literary and artistic culture.", 
+        "number": "3012", 
+        "subject": "CLA", 
+        "title": "Homosexuality in Antiquity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

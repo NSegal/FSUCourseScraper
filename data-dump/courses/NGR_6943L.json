@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an intensive clinical-residence experience for students seeking additional clinical hours to meet certification-examination requirements or to demonstrate the culmination of their advanced practice role. Each student is required to submit individual goals at the beginning of the semester and clinical experiences are individually designed around the focus of each student's program. The clinical-residency experience will be facilitated by an advanced-practice expert. May be repeated to a maximum of five semester hours. S/U grade only.", 
+        "number": "6943L", 
+        "subject": "NGR", 
+        "title": "DNP Residency II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: All DNP core and specialty courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 5.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a more detailed examination of the process of international relations than the introductory course. Topics include the major approaches to foreign policy decision making, prominent explanations of international conflict, and process of international economics.", 
+        "number": "3603", 
+        "subject": "INR", 
+        "title": "Theories of International Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

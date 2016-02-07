@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course, through case studies, contemporary research, and concepts drawn from the literature of organizational theory, introduces students to management and leadership in higher education and theoretical models applicable to these institutions. Students examine the organizational structure and culture of higher education and the functional attributes of administrative roles, processes of decision making and models of governance and policy-making internal and external to colleges and universities.s and universities.", 
+        "number": "6635", 
+        "subject": "EDH", 
+        "title": "Organization and Governance of Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDH 5051.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

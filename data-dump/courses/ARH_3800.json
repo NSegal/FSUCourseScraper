@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an undergraduate seminar in art history with changing topics. May be repeated to a maximum of twelve semester hours.", 
+        "number": "3800", 
+        "subject": "ARH", 
+        "title": "Methods of Art History and Criticism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARH 2051, ARH 3056, ARH 3057, and twelve prior credit hours in upper level art history.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course facilitates part time field placement in an approved criminal justice agency for integration of theory and practice through participant oberservation study.", 
+        "number": "4942", 
+        "subject": "CCJ", 
+        "title": "Part Time Internship in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCJ 2020, CCJ 3011, and CCJ 4700.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "8.00"
+    }
+}

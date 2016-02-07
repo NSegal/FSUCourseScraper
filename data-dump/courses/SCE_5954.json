@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a master's portfolio defense. Portfolio must be submitted in the first month of classes in the semester of graduation.", 
+        "number": "5954", 
+        "subject": "SCE", 
+        "title": "Portfolio Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Completion of all master's degree coursework.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

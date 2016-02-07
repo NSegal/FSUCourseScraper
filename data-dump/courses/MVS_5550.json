@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required of string performance majors. May be repeated to a maximum of four semester hours. May be repeated tin the same semester.", 
+        "number": "5550", 
+        "subject": "MVS", 
+        "title": "String Repertory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course uses the historical method to discuss major protest movements of the 20th and 21st centuries in United States and delves into the question of how protest through song has changed during the 20th century and how it is used today.", 
+        "number": "2042", 
+        "subject": "IFS", 
+        "title": "Fight the Power: Protesting with Song in America: 20th Century versus 21st Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

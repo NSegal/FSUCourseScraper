@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a study of professional preparation of individuals serving exceptional individuals.", 
+        "number": "6426", 
+        "subject": "EEX", 
+        "title": "Research and Practices in Special Education Personnel Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

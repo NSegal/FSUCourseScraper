@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the history of Mexico from the great Indian empires to the present, emphasizing the 19th and 20th centuries. Deals with cultural and social history as well as political movements.", 
+        "number": "4430", 
+        "subject": "LAH", 
+        "title": "History of Mexico"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

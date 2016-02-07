@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to focus on practice and training in speaking current American English appropriate for university classrooms, development of cultural and interpersonal language skills necessary for performing duties as a teaching assistant. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4830", 
+        "subject": "EAP", 
+        "title": "Spoken English for International Teaching Assistants"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

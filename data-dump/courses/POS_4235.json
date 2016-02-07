@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the role of the news media, both print and electronic, in shaping public opinion and voter behavior.", 
+        "number": "4235", 
+        "subject": "POS", 
+        "title": "Media and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

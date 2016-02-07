@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of writing and grammar skills.", 
+        "number": "3420", 
+        "subject": "RUS", 
+        "title": "Russian Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: RUS 2330 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

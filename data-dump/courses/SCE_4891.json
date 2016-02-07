@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for elementary education majors. The course is is an introduction to the science process skills, inquiry skills, and a 21st century view of the nature of science within the context of science content.", 
+        "number": "4891", 
+        "subject": "SCE", 
+        "title": "Introduction to the Nature of Science and Scientific Inquiry for Elementary Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EDE 4907.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

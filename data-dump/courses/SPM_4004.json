@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the major topics, trends, problems and\u00a0 issues involved in athletics and sport management.", 
+        "number": "4004", 
+        "subject": "SPM", 
+        "title": "Issues in Sport Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

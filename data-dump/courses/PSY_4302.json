@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores basic test and measurement theory which is essential in the construction, appropriate use, and evaluation of achievement, aptitude, intelligence, interest, and personality tests.", 
+        "number": "4302", 
+        "subject": "PSY", 
+        "title": "Theory, Application, and Evaluation of Tests"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

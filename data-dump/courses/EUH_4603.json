@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the history of ideas in the last two hundred years, exploring the nineteenth century as the Age of \"Isms\" (including Liberalism, Conservatism, Communism, Romanticism, Idealism, Nationalism, Industrialism, Imperialism, Positivism, Darwinism, Historicism) and establishing the twentieth century as the Age of Crisis in which traditional Western Civilization disintegrates.", 
+        "number": "4603", 
+        "subject": "EUH", 
+        "title": "European Intellectual History, 1800 to Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

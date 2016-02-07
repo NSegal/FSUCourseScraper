@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is centered around a close examination of the interplay between teachers, students, and content, and how such interactions enable students to develop deep conceptual understanding in science and mathematics.", 
+        "number": "5305", 
+        "subject": "SMT", 
+        "title": "Classroom Interactions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

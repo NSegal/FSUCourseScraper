@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for any student who is interested in learning how to create and edit well-designed digital graphics for professional use. Topics include skills related to developing vector and pixel based graphics for print and Web using commercial-grade graphics software as well as fundamental 2-D design principles. Gauged for beginners who are computer competent.", 
+        "number": "3118", 
+        "subject": "DIG", 
+        "title": "Digital Graphic Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

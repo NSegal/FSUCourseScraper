@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves to acquaint students with the U.S. Intelligence community, the processes and platforms for information/data gathering and analysis and how the subsequent \"intelligence\" is used by policy/decision-makers. Throughout the course students are given opportunities to gather, analyze and report their findings to case-studies and then compare their conclusions to real-world outcomes.", 
+        "number": "5935", 
+        "subject": "PAD", 
+        "title": "Seminar in Public Administration: Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

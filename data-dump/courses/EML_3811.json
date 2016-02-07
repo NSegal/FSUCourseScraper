@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an introduction to Mechatronics through lab experience of interfacing mechanical and electrical systems. Focus is on embedded controllers (Motorola HCS12) and their programming, power and interfacing, electronics, actuators, sensors, and integration of these components to create a complete functional mechatronic system. Instruction and practical exercises are in: microcontroller programming; interfacing microcomputers with sensors and actuators; hybrid (analog/digital) design; digital logic and analog circuitry; data acquisition and control; microcomputer architecture, assembly language programming; signal conditioning, filters, analog-to-digital and digital-to-analog conversion.", 
+        "number": "3811", 
+        "subject": "EML", 
+        "title": "Mechatronics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and PHY 2049.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a review of basic concepts and fundamentals of environmentally conscious design and manufacturing. The topics include ecology and\u00a0 environment; review of environmental laws and regulations pertaining to design and manufacturing; the global picture of environmental concerns; integration of environmentally conscious design and manufacturing within a company; and life-cycle analysis for product and process design.", 
+        "number": "5328", 
+        "subject": "EIN", 
+        "title": "Environmentally Conscious Design and Manufacturing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

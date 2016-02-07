@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (7445)", 
+    "basic": {
+        "class_num": "7445", 
+        "course": "3530", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "MVS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "Gregory Sauer"
+            ], 
+            "location": "HMU N0110", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

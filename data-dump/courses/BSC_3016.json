@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the diversity of eukaryotic organisms (protists, plants, fungi and animals), the evolutionary origin of this diversity, and its societal relevance. Comparisons of exemplar organisms are used to illustrate broad themes in the anatomy, physiology, behavior, life cycles, and ecologies of all eukaryotes.", 
+        "number": "3016", 
+        "subject": "BSC", 
+        "title": "Eukaryotic Diversity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

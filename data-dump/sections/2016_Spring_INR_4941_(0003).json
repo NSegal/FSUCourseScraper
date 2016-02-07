@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-INT (14451)", 
+    "basic": {
+        "class_num": "14451", 
+        "course": "4941", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "INR", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Carla Pousa"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

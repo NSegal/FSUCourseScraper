@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for practicing preK-16 teachers who are interested in improving their own writing abilities so as to be better able to do the same for the students with whom they work. May be repeated to a maximum of six semester hours.", 
+        "number": "5297", 
+        "subject": "LAE", 
+        "title": "Teachers as Writers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

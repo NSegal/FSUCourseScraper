@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (11275)", 
+    "basic": {
+        "class_num": "11275", 
+        "course": "3930", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CPO", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Emiliano Frutta-Wass"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Emiliano Frutta-Wass"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Before attempting this course, satisfaction of the University's requirementfor computer skills is recommended.", 
+        "number": "4411L", 
+        "subject": "CHM", 
+        "title": "Physicochemical Measurements and Techniques II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 4410L with a grade of \"C-\" or better. Corequisite: CHM 4411.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This elective course introduces students to a hands-on approach to basic retail merchandising (prior to the intern block) in the following areas: selling, merchandising, product knowledge, inventory control and management.", 
+        "number": "3881", 
+        "subject": "CTE", 
+        "title": "Elective Internship in Retail, Merchandising and Product Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 1401C, CTE 2800, and CTE 3806.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

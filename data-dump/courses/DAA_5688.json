@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides experience in dance ensemble and performance work.\u00a0\u00a0\u00a0 Official casting and faculty approval required. May be repeated to a maximum of three semester hours.", 
+        "number": "5688", 
+        "subject": "DAA", 
+        "title": "Dance Ensemble"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

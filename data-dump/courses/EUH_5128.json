@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a survey of European history from c. 1200 to c. 1450, from the height of medieval civilization in Europe through the crises of the late Middle Ages to the Recovery leading to a new age.", 
+        "number": "5128", 
+        "subject": "EUH", 
+        "title": "Later Middle Ages"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

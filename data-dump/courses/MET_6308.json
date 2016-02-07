@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of eighteen semester hours.", 
+        "number": "6308", 
+        "subject": "MET", 
+        "title": "Advanced Topics in Dynamical Meteorology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

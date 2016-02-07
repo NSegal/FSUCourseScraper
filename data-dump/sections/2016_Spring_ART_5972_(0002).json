@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-THE (13406)", 
+    "basic": {
+        "class_num": "13406", 
+        "course": "5972", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "ART", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Holly Hanessian"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

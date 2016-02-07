@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course develops an understanding of the concepts needed for teaching studio, art history, art criticism, and aesthetics, and develops the skills for creating curriculum in these areas for both elementary and secondary schools. Observation in the public schools is required.", 
+        "number": "4043", 
+        "subject": "ARE", 
+        "title": "Theory and Practice II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARE 4042 and ARE 4144. Corequisite: ARE 4550C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

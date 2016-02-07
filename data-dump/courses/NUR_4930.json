@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of topics of interest relating to nursing and other health-related issues. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "NUR", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

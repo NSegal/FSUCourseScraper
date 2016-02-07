@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5429L", 
+        "subject": "FIL", 
+        "title": "Basic Film Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "units": "2.00 - 6.00"
+    }
+}

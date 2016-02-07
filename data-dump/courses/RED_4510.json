@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of methods and materials for teaching developmental reading based on holistic reading/language comprehension strategies and skill development.", 
+        "number": "4510", 
+        "subject": "RED", 
+        "title": "Teaching Reading in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Blocks I and II. Corequisite: Block III.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

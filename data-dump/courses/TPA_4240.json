@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an advanced study in costume patterning for theatre, with an emphasis on draping and/or drafting historically based garments for women and men. Projects include period garment research and measuring, sizing and fitting techniques to accommodate actual performers' measurements as well as stage movement requirements.", 
+        "number": "4240", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Draping and Fitting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 4239 and THE 4260 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

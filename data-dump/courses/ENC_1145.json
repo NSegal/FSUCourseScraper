@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes freshman-level nonfiction prose writing on selected subjects for a total of 7,000 words. Topics vary. No auditors.", 
+        "number": "1145", 
+        "subject": "ENC", 
+        "title": "Freshman Special Topics in Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 1101 or ENC 1149.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

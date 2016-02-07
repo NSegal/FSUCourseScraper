@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the analysis and development of interpersonal management skills, including leadership, ethics, employee and guest relations, as well as team building.", 
+        "number": "4224", 
+        "subject": "HFT", 
+        "title": "Hospitality Leadership and Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

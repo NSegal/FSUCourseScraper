@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to community concepts; species richness models; matrices and communities; competition and species packing; predation and dominance.", 
+        "number": "5447", 
+        "subject": "PCB", 
+        "title": "Community Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: General ecology and statistics.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

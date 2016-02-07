@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies the methods and approaches of environmental history to Florida, considering the changing relationships between human beings and the natural world through time. The field explores how nature has helped to shape culture as well as how humans have modified the natural world and transformed the land.", 
+        "number": "4634", 
+        "subject": "AMH", 
+        "title": "Florida Environmental History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

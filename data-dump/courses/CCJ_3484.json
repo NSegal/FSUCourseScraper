@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores ethics for both the criminal justice system and intelligence professionals. It compares and contrasts the differing roles ethics plays in policing and intelligence communities. The course probes significant past and current events to illuminate issues relevant to ethics in intelligence and\u00a0 policing.", 
+        "number": "3484", 
+        "subject": "CCJ", 
+        "title": "Ethics in Policing and Intelligence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

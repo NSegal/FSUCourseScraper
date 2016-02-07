@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the literary and cinematic contributions that Italian Americans have made during the past century. The course is designed to assist students in exploring ways in which Italian and American cultures have combined to form a distinctive ethnic culture.", 
+        "number": "3520", 
+        "subject": "ITT", 
+        "title": "The Italian-American Experience in Literature and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

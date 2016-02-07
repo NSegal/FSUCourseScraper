@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines historically significant and recent crime and criminal justice policies in terms of their antecedent factors, their impact on measurable outcomes, and their unintended consequences.", 
+        "number": "4497", 
+        "subject": "CCJ", 
+        "title": "Criminal Justice and Public Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

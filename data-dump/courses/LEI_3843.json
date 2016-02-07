@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce the concepts, principles, and practices of commercial recreation and tourism.", 
+        "number": "3843", 
+        "subject": "LEI", 
+        "title": "Commercial Recreation and Tourism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

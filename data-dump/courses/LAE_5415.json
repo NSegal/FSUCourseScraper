@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a review of the various areas of childrens literature, recent trends in childrens books, and research related to curriculum, reading interests, students responses to literature, and development of taste in literature. Literature appropriate for children from birth to age fourteen is required reading.", 
+        "number": "5415", 
+        "subject": "LAE", 
+        "title": "Investigation in Children's Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

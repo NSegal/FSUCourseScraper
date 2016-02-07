@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to major systematic approaches to the development and improvement of nursing practice including evidence-based practice, quality improvement, and research. Inquiry through evidence-based approaches and research are discussed. Focus is placed on the processes of finding, reading, appraising, critiquing, and synthesizing evidence to improve\u00a0\u00a0 practice.", 
+        "number": "4169", 
+        "subject": "NUR", 
+        "title": "Evidence-Based Nursing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Semesters I and II Nursing courses. Corequisites: Semester III Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

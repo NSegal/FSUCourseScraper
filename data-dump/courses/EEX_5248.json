@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with the knowledge and skills necessary to develop, implement, and evaluate the impact of positive behavior supports in keeping with the Individuals with Disabilities Education Act of 1997.", 
+        "number": "5248", 
+        "subject": "EEX", 
+        "title": "Positive Behavior Support"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

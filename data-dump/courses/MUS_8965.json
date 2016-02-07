@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8965", 
+        "subject": "MUS", 
+        "title": "Doctoral Performance Comprehensive Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUS 8964 and instructor permission.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "0.00"
+    }
+}

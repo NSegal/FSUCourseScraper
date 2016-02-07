@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced and comprehensive coverage of investment topics including bond analysis, stock options, interest rate futures, options on futures contracts, portfolio analysis and management, and security market efficiency.", 
+        "number": "4514", 
+        "subject": "FIN", 
+        "title": "Security Analysis and Portfolio Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518 and FIN 4504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

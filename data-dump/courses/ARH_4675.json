@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the art and culture of the Maya from approximately 350 BC to the present, focusing primarily on the Classic period (AD 250-900). This course highlights the role of art in Maya religion, politics, and ritual, addressing both the Maya conception of time and their hieroglyphic script. The class examines a range of media in which the Maya worked, including architecture, sculpture, ceramic painting, calligraphic monuments, and primary texts in translation, such as the Popol Vuh.", 
+        "number": "4675", 
+        "subject": "ARH", 
+        "title": "The Art and Culture of the Maya"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

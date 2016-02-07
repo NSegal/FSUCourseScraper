@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies voice teaching methods for music education majors.", 
+        "number": "4433", 
+        "subject": "MUE", 
+        "title": "Vocal Pedagogy in Music Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing in music education.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

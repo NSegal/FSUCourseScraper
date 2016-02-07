@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7710", 
+        "subject": "MDT", 
+        "title": "Special Topics in Emergency Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Internship": "Optional", 
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

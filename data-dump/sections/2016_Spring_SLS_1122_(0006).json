@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DSC (9414)", 
+    "basic": {
+        "class_num": "9414", 
+        "course": "1122", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "SLS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Todd Rakes"
+            ], 
+            "location": "UCA A4147", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

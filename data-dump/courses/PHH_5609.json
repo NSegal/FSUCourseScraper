@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed critical examination of selected figures and topics in twentieth-century philosophy.", 
+        "number": "5609", 
+        "subject": "PHH", 
+        "title": "Contemporary Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

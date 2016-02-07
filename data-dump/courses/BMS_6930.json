@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "Course topics may vary.", 
+        "number": "6930", 
+        "subject": "BMS", 
+        "title": "Special Topics in Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the College of Medicine.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

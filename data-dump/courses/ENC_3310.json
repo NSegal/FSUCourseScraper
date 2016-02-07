@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the study and writing of nonfiction prose in a variety of modes, with emphasis on studying the elements of nonfiction prose and practice in the craft of writing.", 
+        "number": "3310", 
+        "subject": "ENC", 
+        "title": "Article and Essay Technique"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

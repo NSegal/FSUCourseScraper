@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the study and studio exploration of principles of selected dance technique systems, with specific reference to their historic, kinesthetic, and aesthetic parameters.", 
+        "number": "5190", 
+        "subject": "DAN", 
+        "title": "Theory and Practice in Dance Technique"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

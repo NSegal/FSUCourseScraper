@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the physiochemical properties of food and the relationship of these properties to preparation techniques and food quality. Management and service of food.", 
+        "number": "3026L", 
+        "subject": "FOS", 
+        "title": "Foods Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: FOS 3026.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the study of movement theories and body alignment for the technical aspects of dance performance.", 
+        "number": "3714", 
+        "subject": "DAN", 
+        "title": "Dance Kinesiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is laboratory instruction of fundamental glassblowing techniques of greatest utility to the experimental scientist who may require custom glassware.", 
+        "number": "4090L", 
+        "subject": "CHM", 
+        "title": "Science Glassblowing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

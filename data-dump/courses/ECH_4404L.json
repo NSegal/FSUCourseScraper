@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes activities such as designing and conducting experiments in reaction kinetics and chemical separations, analyzing and interpreting data, applying spreadsheets, statistical methods, and process models. Students gain proficiency in operating basic chemical engineering equipment and instruments. Emphasis on safety, professionalism, teamwork, and oral and written communication.", 
+        "number": "4404L", 
+        "subject": "ECH", 
+        "title": "Unit Operations Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisites: ECH 4504 and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

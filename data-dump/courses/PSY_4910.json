@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students participate in a research project in a specific area of psychological research. Participation is more advanced than in PSY 4920, and involves the generation of an extensive written product. The nature of the research and written product is specified by the directing professor.", 
+        "number": "4910", 
+        "subject": "PSY", 
+        "title": "Augmented Research Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Six semester hours of thesis are required to complete honors in the major. May be repeated to a maximum of nine semester hours.", 
+        "number": "4970", 
+        "subject": "ACG", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the honors program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

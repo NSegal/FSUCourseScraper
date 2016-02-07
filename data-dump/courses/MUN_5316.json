@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the reading, study, and performance of choral repertoire for mixed voices. Open to all University students. May be repeated to a maximum of four semester hours. Student has the option to repeat during the same semester.", 
+        "number": "5316", 
+        "subject": "MUN", 
+        "title": "Choral Union"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the advanced functions of crime mapping, crime analysis, intelligence dissemination, oversight of the intelligence function and error rates.", 
+        "number": "5079", 
+        "subject": "CCJ", 
+        "title": "Managing Intelligence Analysis Functions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

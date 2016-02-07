@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for Master of Accounting students who are specializing in accounting information systems, assurance services, or corporate accounting. The course furnishes students knowledge and skills to implement, use, and audit enterprise-wide information systems. Students are expected to enter the course with an understanding of databases, as the database is the most crucial component of an enterprise-wide information system.", 
+        "number": "5466", 
+        "subject": "ACG", 
+        "title": "Enterprise Systems and Accounting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

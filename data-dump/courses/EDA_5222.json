@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes the theoretical and practical aspects of planning, implementing, and evaluating functions in education. Special attention is given to the role of the building principal in personnel administration and collective bargaining.", 
+        "number": "5222", 
+        "subject": "EDA", 
+        "title": "Personnel Administration in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

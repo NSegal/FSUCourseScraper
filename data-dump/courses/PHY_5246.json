@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: Lagrangian mechanics, central forcel motion, rigid body motion, small oscillations, Hamiltonian mechanics, can onical transformations, Hamilton-Jacobi theory variational principles.", 
+        "number": "5246", 
+        "subject": "PHY", 
+        "title": "Theoretical Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 4222 or PHY 5227.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

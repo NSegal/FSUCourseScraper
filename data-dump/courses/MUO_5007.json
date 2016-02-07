@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies all phases of musical theatre production, with emphasis on and participation in staged musical theatre excerpts. May be repeated to a maximum of four semester hours.", 
+        "number": "5007", 
+        "subject": "MUO", 
+        "title": "Musical Theatre Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Music theatre major or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

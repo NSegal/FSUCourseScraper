@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a twenty hour week clinical practicum emphasizing\u00a0 the demonstration of music therapy techniques, applied clinical analysis, and documentation of clinical results. Required of all music therapy non-thesis degree master's candidates. Concurrent registration in MUS 8966 required.", 
+        "number": "5946", 
+        "subject": "MUY", 
+        "title": "Graduate Clinical Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

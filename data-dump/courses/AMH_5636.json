@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the changing relationships between human beings and the natural world in America through time.", 
+        "number": "5636", 
+        "subject": "AMH", 
+        "title": "North American Environmental History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

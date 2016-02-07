@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers Fourier series and Fourier transforms, introduction to partial differential equations. Not open to students having credit in MAP 4341.", 
+        "number": "3306", 
+        "subject": "MAP", 
+        "title": "Engineering Mathematics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

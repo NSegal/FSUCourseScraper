@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the minority group status of Hispanics and Hispanic subgroups using a sociology of law lens. The course is a hands-on gathering of research-based studies and social-demographics on past and current political representation, effects of legislative and judicial decisions, and legal training on the American experience of Hispanics. The course also traces the processes of minority creation for four categories of Hispanics: Mexicans, Puerto-Ricans, Cubans, and Central/South Americans, as well as their process of subordination since their entry to USA.", 
+        "number": "2740", 
+        "subject": "SYD", 
+        "title": "Sociology of Law and Hispanics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

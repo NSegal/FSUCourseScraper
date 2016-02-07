@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines four aspects of global change--economic, environmental, cultural, and political--with a focus on how globalization is impacting individual countries and how places are responding to globalization's challenges.", 
+        "number": "4403", 
+        "subject": "GEO", 
+        "title": "Global Change, Local Places"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

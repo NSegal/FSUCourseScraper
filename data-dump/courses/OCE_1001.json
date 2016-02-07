@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the structure and motion of the ocean and its environs, properties, populations, and energy budget. Not intended for upper-division science or mathematics majors. Upper-division science or mathematics majors are encouraged instead to take OCE 4008.", 
+        "number": "1001", 
+        "subject": "OCE", 
+        "title": "Elementary Oceanography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MGF 1106 or MGF 1107.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

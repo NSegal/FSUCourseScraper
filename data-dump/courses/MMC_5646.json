@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the structure and functions of U.S. and other mass communication systems and their relationship to the political and economic systems.", 
+        "number": "5646", 
+        "subject": "MMC", 
+        "title": "Political Economy of Media"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

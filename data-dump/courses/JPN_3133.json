@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students at the intermediate level in Japanese. Students are exposed to authentic Japanese at natural speed in order to master intermediate-level listening skills. Emphasis is placed on conversational Japanese, daily situations, news, stories, and explanations to prepare students to pick significant components out of complex speech, and to facilitate improved overall oral comprehension in Japanese.", 
+        "number": "3133", 
+        "subject": "JPN", 
+        "title": "Listening Drill II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 2300.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

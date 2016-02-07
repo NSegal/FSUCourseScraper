@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a general introduction to the related problems of resource management and environmental planning through an overview of problems, potential solutions, and their relation to methodologies, existing institutions, and other public policy areas such as land-use controls and regional development. Students are expected to become familiar with a series of fundamental concepts from environmental science and engineering, environmental economics, and environmental politics that are important to evaluating alternatives courses of action. Students also gain familiarity with the basic analytic approaches to valuing and comparing environmental projects, plans, and policies.", 
+        "number": "5421", 
+        "subject": "URP", 
+        "title": "Introduction to Environmental Planning and Natural Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

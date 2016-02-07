@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies problems and issues in the history of religions. Topics vary. Intended for advanced undergraduate students. May be repeated to a maximum of nine semester hours.", 
+        "number": "4304", 
+        "subject": "REL", 
+        "title": "Undergraduate History of Religions Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This studio course introduces the equipment, materials, and the standard professional techniques required for safe and efficient stage rigging, utilizing both hemp and counterweight rigging systems.", 
+        "number": "5213", 
+        "subject": "TPA", 
+        "title": "Stage Rigging"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

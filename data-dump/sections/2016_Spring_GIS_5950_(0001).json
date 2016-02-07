@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-INT (13251)", 
+    "basic": {
+        "class_num": "13251", 
+        "course": "5950", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "GIS", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Victor Mesev"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

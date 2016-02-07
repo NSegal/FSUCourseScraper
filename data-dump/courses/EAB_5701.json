@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines behavior analysis methods including stimulus control, shaping, chaining and imitation, along with extinction, differen\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 tial reinforcement and punishment to decrease behavior. Time out and response are also discussed. Token economies, group contingencies, and behavioral generality are examined.", 
+        "number": "5701", 
+        "subject": "EAB", 
+        "title": "Basic Methods of Applied Behavioral Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

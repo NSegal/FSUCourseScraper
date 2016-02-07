@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (4166)", 
+    "basic": {
+        "class_num": "4166", 
+        "course": "3240", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "HFT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Nathaniel Line"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

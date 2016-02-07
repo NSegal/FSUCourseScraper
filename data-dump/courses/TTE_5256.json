@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers principles of capacity, freeways, rural highways, urban streets, transportation systems, and computer simulation.", 
+        "number": "5256", 
+        "subject": "TTE", 
+        "title": "Traffic Operations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

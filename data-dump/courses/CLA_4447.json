@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on specified periods of Roman history in the Republic or Empire. May be repeated to a maximum of six semester hours.", 
+        "number": "4447", 
+        "subject": "CLA", 
+        "title": "Studies in Roman History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with the wide range of pediatric kidney diseases encountered in the intensive-care unit as well as in inpatient and outpatient departments. Patient care ranges from common outpatient signs and symptoms suggesting kidney disease in children to the renal disease cases requiring a more intensive evaluation. May be taken for credit for a total of eight semester hours.", 
+        "number": "7445", 
+        "subject": "MDE", 
+        "title": "Pediatric Nephrology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

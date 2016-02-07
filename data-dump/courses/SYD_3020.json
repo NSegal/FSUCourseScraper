@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the causes and consequences of population change in the United States and the world with an assessment of the impact of demographic change on various social institutions.", 
+        "number": "3020", 
+        "subject": "SYD", 
+        "title": "Population and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the behavior and ecology of the large-bodied, non-human hominoids: chimpanzees, bonobos, gorillas, and orangutans. It also introduces the complexities involved in using this evidence to draw conclusions about human evolution.", 
+        "number": "4553", 
+        "subject": "ANT", 
+        "title": "The Great Apes"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2511 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

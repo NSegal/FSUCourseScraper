@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the cultural conceptions of supernatural reality with emphasis on comparative understanding of myth and ritual, the religious experience, and religious evolution and revitalization movements.", 
+        "number": "4241", 
+        "subject": "ANT", 
+        "title": "Anthropology of Religion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

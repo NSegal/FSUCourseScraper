@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced seminar in selected housing and community development issues and problems. Content varies. May be repeated to a maximum of six semester hours.", 
+        "number": "5749", 
+        "subject": "URP", 
+        "title": "Special Topics in Housing and Community Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

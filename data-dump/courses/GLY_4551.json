@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of modern and ancient sedimentary deposits, measurement of sediment parameters, analysis of sediment transport modes, classification of sediments and sedimentary rocks, statistical reduction of sedimentologic data. Field trip required. Students concentrating in sedimentary geology are strongly urged to take the laboratory GLY 4551L concurrently.", 
+        "number": "4551", 
+        "subject": "GLY", 
+        "title": "Sedimentology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 3200C.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

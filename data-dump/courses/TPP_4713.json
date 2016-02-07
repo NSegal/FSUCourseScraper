@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is primarily designed to expand the vocal imagination of the student actor. The International Phonetic Alphabet is introduced in an organic manner as a primary tool in the adoption of different speech sounds from those that are natural to each student actor. This course includes a \"Speech Sound Donor Project,\" in which the student actor must study and implement a dialect different from their own natural one, and then must teach it to the group at large. May be repeated to a maximum of six semester hours.", 
+        "number": "4713", 
+        "subject": "TPP", 
+        "title": "Voice IV: Vocal Imaginations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPP 4712.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

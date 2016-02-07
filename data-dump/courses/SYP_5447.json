@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar focuses on the seminar on theories, processes, and problems of national development. The course also allows students to consider societal evolution, industrialization, capitalist expansion, modernization,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 dependency, inequality, and related topics.", 
+        "number": "5447", 
+        "subject": "SYP", 
+        "title": "Sociology of National Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

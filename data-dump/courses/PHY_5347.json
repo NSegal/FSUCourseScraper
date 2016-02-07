@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: electrostatics, magnetostatics, time-varying fields, production and propagation of electromagnetic radiation, special theory of relativity, covariant electrodynamics.", 
+        "number": "5347", 
+        "subject": "PHY", 
+        "title": "Electrodynamics B"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 4324 or PHY 5327.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

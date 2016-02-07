@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to ECE primary education and provides a background of ECE theory and research to be used for determining education practices.", 
+        "number": "4301", 
+        "subject": "EEC", 
+        "title": "Early Childhood Education Foundations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

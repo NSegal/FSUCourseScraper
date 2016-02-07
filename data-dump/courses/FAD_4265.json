@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to expose students to the diversity of families by race, ethnicity, social classes, and structures in an ego-systemic context.", 
+        "number": "4265", 
+        "subject": "FAD", 
+        "title": "Family Diversity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

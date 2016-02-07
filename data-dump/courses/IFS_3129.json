@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction into the theories and creative processes that propel environmental art and design. Students explore a wide range of creative media, methods, and themes used by visual artists and designers that address the environment. By analyzing, discussing and writing about environmental art and design, students develop an enhanced awareness of the complexities faced globally and gather perspectives on the ways artists attempt to affect change. For non-majors.", 
+        "number": "3129", 
+        "subject": "IFS", 
+        "title": "Art and the Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

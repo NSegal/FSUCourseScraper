@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship is designed for College of Business students who desire to gain real world experience in the risk management/insurance field through on-the-job practice. Students work under the direction of an approved industry professional, a faculty advisor, and the internship director.", 
+        "number": "4941", 
+        "subject": "RMI", 
+        "title": "Risk Management and Insurance Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RMI 3011 and six additional hours of business/risk management and insurance coursework.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

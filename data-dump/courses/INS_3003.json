@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the core questions and concerns of international affairs. This course surveys the many distinct academic disciplines that together contribute to the development of an interdisciplinary understanding of the international system. The course examines how each of these disciplines understands the international system, the questions it raises, and its strengths and weaknesses. In addition, the course provides an introduction to many of the global issues of interest to international affairs majors, including terrorism, democracy, and globalization. At the end of this course, students have the skills and knowledge required to construct their own specialized plan of study in international affairs.", 
+        "number": "3003", 
+        "subject": "INS", 
+        "title": "Introduction to International Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

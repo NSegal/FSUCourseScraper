@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive study of computer organization, Von Neumann computer architecture, and the principles of RISC computer architecture andits future outlook.", 
+        "number": "5764", 
+        "subject": "EEL", 
+        "title": "Computer System Architecture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3705 and EEL 4746.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course looks into the application of numerical methods to the solutionof scientific problems for earth and environmental sciences.", 
+        "number": "5226", 
+        "subject": "ISC", 
+        "title": "Numerical Methods for Earth and Environmental Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5305; MAC 2311 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the undergraduate capstone studio and includes the design of a large-scale commercial space focusing on design development through final drawing production.", 
+        "number": "4245", 
+        "subject": "IND", 
+        "title": "Interior Design Studio V"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 4243.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

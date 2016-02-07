@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course contributes to and improves the skills of K-12 teachers, school leaders, and other educational personnel to successfully incorporate blended instruction in their classrooms, as well as those who teach in online environments. The course introduces the concept of digital pedagogy-- art, craft, principles, and methods of instruction in blended and online K-12 learning environments to engage modern learners and provide the best learning experiences for diverse students.", 
+        "number": "5074", 
+        "subject": "EDG", 
+        "title": "Pedagogy of Blended and Online Learning and Teaching K-12"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

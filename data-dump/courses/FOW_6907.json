@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for French and Spanish doctoral students who have completed course requirements. May be repeated to a maximum of fifty semester hours.", 
+        "number": "6907", 
+        "subject": "FOW", 
+        "title": "Directed Readings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

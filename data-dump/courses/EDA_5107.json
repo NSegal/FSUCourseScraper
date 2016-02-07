@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to teach aspiring educational leaders how to lead change in an educational setting. Students are exposed to comprehensive tools that are grounded in research that lead to the transformation of schools.", 
+        "number": "5107", 
+        "subject": "EDA", 
+        "title": "Educational Leadership and Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

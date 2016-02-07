@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the interaction between war, social change, and political transformation during the Age of Revolution (1750-1850) in the Atlantic World.", 
+        "number": "4260", 
+        "subject": "HIS", 
+        "title": "War and Society in the Age of Revolution"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

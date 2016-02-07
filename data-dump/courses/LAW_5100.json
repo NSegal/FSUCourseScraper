@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines substantive requirements of criminal law offenses and defenses, the social and political forces influencing the content of criminal law, as well as the constitutional limits and requirements informing itscontent and application.", 
+        "number": "5100", 
+        "subject": "LAW", 
+        "title": "Criminal Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

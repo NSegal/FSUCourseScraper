@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines principles and practices of writing film/video criticism.", 
+        "number": "5806", 
+        "subject": "FIL", 
+        "title": "Critical Methods in Motion Picture, Television, and Recording Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

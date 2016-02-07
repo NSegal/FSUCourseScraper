@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on legal and ethical issues confronting healthcare professionals and practitioners. The course applies ethical theories to interprofessional team resolution of these dilemmas, while placing emphasis on the use of decision-making models. Topics cover ethical and legal considerations, patient-provider relationships, and moral-judgment concepts.", 
+        "number": "5887", 
+        "subject": "NGR", 
+        "title": "Legal and Ethical Complexities in Healthcare"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

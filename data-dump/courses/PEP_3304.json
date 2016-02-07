@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies concepts of the fundamental techniques in track and field, emphasis on varsity coaching and instructional methods.", 
+        "number": "3304", 
+        "subject": "PEP", 
+        "title": "Theory and Practice of Track and Field"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers loads, load paths, as well as advanced topics on shear and bending moment, including frames and superposition. Additional topics include influence lines, deflection of determinate structures, as well as indeterminate analysis methods including flexibility, slope-deflection, moment distribution, and stiffness methods.", 
+        "number": "3100", 
+        "subject": "CES", 
+        "title": "Structural Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGM 3512. Corequisites: EGN 3331 and either MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

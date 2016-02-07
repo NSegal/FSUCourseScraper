@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces and develops a basic understanding of movement-analysis concepts and systems of documentation and reconstruction. An historical survey of dance notation systems and movement analysis theories is conducted. Theoretical materials are examined through emphasis on movement observation, writing and reading skills, and creative use of concepts.", 
+        "number": "3400", 
+        "subject": "DAN", 
+        "title": "Movement Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 2610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

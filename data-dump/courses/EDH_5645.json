@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the theoretical and practical application of data-driven decision making for institutional researchers. This course focuses on how to collect, analyze, review, and present data and information to decision makers.", 
+        "number": "5645", 
+        "subject": "EDH", 
+        "title": "Data Driven Decision Making for Institutional Researchers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

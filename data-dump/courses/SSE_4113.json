@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the content, applications, and materials associated with the social sciences from grades K-6.", 
+        "number": "4113", 
+        "subject": "SSE", 
+        "title": "Elementary School Social Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Block I and II. Corequisite: Block III.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

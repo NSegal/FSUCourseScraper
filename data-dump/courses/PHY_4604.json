@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on quantum mechanics and its applications to particles, nuclei, atoms, molecules, and condensed matter.", 
+        "number": "4604", 
+        "subject": "PHY", 
+        "title": "Quantum Theory of Matter A"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3101, PHY 3221, and PHZ 3113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

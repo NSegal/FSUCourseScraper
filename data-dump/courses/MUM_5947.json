@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This internship takes place in an arts administration setting and includes a final written project. May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "5947", 
+        "subject": "MUM", 
+        "title": "Internship in Arts Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

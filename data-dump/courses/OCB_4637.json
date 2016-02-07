@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the physical setting and ecological organization of the communities found in the rocky intertidal, in the fouling habitat, on sandy beaches, in subtidal soft bottoms, and in the deep sea. This is presented through lectures, substantial reading, and class discussions.", 
+        "number": "4637", 
+        "subject": "OCB", 
+        "title": "Marine Benthic Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: ZOO 4203C or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

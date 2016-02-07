@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the solution of meteorological problems using computer and statistical programs; distributions of meteorological variables; meteorological programming.", 
+        "number": "3220C", 
+        "subject": "MET", 
+        "title": "Meteorological Computations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 (\"C-\" or better), MET 2101 (\"C\" or better), and MET 2700 (\"C\" or better).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

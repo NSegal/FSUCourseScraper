@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course identifies past, present and future information ethics challenges and encourages students to develop their own standpoints from which to address them. The primary purpose of this course is to provide students with the knowledge, skills and attitudes required to make informed ethical decisions about information production, management and use. Students explore and apply a wide range of ethical theories to examine critical information ethics issues raised by recent advances in information and communication technology.", 
+        "number": "2041", 
+        "subject": "IFS", 
+        "title": "Information Ethics for the 21st Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

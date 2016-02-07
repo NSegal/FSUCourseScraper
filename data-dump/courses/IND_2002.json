@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of the elements and principles of interior design and creates an awareness of the built environment and a comprehensive global appreciation of design. The presentation of major elements in residential and commercial interiors is aimed at self-application and beginning designers.", 
+        "number": "2002", 
+        "subject": "IND", 
+        "title": "Survey of Interior Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

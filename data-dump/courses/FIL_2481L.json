@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course instructs students in a variety of actor training techniques that can be used to enhance on-camera performances and directing actors. Students apply course concepts through practical acting exercises. Special focus is given to learning the language of actors and experiencing first hand the actor approach to a role, the challenges of acting for the camera, the rehearsal process, and script analysis. May be repeated to a maximum of twelve semester hours.", 
+        "number": "2481L", 
+        "subject": "FIL", 
+        "title": "Acting for Filmmakers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

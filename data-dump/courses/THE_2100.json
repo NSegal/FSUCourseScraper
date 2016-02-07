@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey of theatre history and drama from the Greeks to the present.", 
+        "number": "2100", 
+        "subject": "THE", 
+        "title": "Introduction to Theatre History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

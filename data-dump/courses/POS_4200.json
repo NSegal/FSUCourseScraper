@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines changes in American electoral behavior since the formation of modern parties in the United States in the 1840's. Topics include\u00a0 voter turnout, realighnment, and the role of class, race, and religion on\u00a0 partisanship in the American political system.", 
+        "number": "4200", 
+        "subject": "POS", 
+        "title": "American Political Behavior in Historical Perspective"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

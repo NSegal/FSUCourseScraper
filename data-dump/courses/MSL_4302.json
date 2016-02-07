@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This capstone course explores topics relevant to second lieutenants entering the Army, including legal aspects of decision making and leadership, as well as Army organization from the tactical to the strategic level.", 
+        "number": "4302", 
+        "subject": "MSL", 
+        "title": "Officership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MSL 3202, MSL 4301, or instructor permission. Corequisite: MSL 4302L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

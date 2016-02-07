@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as the distribution of random variables, conditional probability and independence, multivariate distributions, sampling distributions, Bayes' rule, and counting problems, expectations. Credit not given for both STA 4321 and STA 4442.", 
+        "number": "4321", 
+        "subject": "STA", 
+        "title": "Introduction to Mathematical Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

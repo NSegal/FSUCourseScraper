@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the design and use of emerging technologies for health promotion and disease prevention, and for supporting the treatment and management of chronic illnesses. It promotes an interdisciplinary and user-centered approach for developing applications for health consumers. Students learn how to assess user's information needs, competencies, and health behaviors in order to develop accessible and effective solution. They also study issues and concerns influencing adoption of these technologies at different levels.", 
+        "number": "4772", 
+        "subject": "LIS", 
+        "title": "Introduction to Consumer Health Informatics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

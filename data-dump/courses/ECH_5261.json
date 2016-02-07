@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the development of the fundamental aspects of continuum mechanics in order to describe the transport of momentum, energy, and mass. The basic equations of fluid mechanics are developed, and a number of applications to chemical engineering problems are considered. Also emphasizes boundary conditions at phase interfaces, and derivation of the point and macroscopic balance equations for these transport processes.", 
+        "number": "5261", 
+        "subject": "ECH", 
+        "title": "Advanced Transport Phenomena I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 5842 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

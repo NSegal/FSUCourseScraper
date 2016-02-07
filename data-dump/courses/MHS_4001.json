@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the nature of human service work. Analyzes past, present, and future issues in human service work. Topics include: human service professions and systems approaches; personal, career, and family development; the delivery of human services;\u00a0 and program development and evaluation, with a special emphasis upon the rehabilitation process.", 
+        "number": "4001", 
+        "subject": "MHS", 
+        "title": "The Human Services Profession"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines methods of tone production and pedagogy of string instruments. Required of music education choral majors.", 
+        "number": "2440", 
+        "subject": "MUE", 
+        "title": "Introduction to String Instruments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

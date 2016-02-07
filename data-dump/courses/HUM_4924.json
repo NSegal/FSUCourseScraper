@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops the knowledge, skills, and perspectives needed to be a Peer Instructor for the FIGS Colloquium. Instruction covers general information needed to support the values of this unique liberal studies educational endeavor.", 
+        "number": "4924", 
+        "subject": "HUM", 
+        "title": "Freshman Interest Group Peer Instruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

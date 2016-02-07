@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores methods and procedures of surface mapping and subsurface sectioning including distance measurements, traverse computations and topographic mapping, and Global Positioning Systems. Use of field equipment and procedures to measure distances, elevations, angles, and perform complete surveys. Computer Aided Design (CAD) Laboratory for basic engineering\u00a0\u00a0\u00a0 drafting.", 
+        "number": "2202C", 
+        "subject": "CEG", 
+        "title": "Introduction to Geomatics Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "MAC1114,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

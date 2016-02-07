@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of the major periods and musicians in the history of jazz from the 1890's to the present.", 
+        "number": "5805", 
+        "subject": "MUH", 
+        "title": "Survey of Jazz History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "2.00"
+    }
+}

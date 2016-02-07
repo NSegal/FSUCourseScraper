@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours.", 
+        "number": "4941", 
+        "subject": "AMS", 
+        "title": "Internship in an Approved American Studies Field"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must have completed one full semester of major courses (twelve credit hours or more) before registering for internship.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 9.00"
+    }
+}

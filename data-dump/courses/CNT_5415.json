@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students familiarize themselves with current and emerging threats to the security of computer systems and networks, including viruses, worms, and network intrusion; and with techniques for the prevention, detection, and recovery from such attacks, such as firewalls, intrusion detection systems, secure coding practices, and others. Attack and defense mechanisms are studied in a systematic way to develop students' practical and analytical skills to identify and correct or mitigate threats to computer systems and networks.", 
+        "number": "5415", 
+        "subject": "CNT", 
+        "title": "Applied Computer and Network Security"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with more advanced knowledge and skills as a professional technical director. The course focuses on planning and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 management skills and topics include shop procedures, production and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 construction calendars, manpower, space usage, and establishing priorities.", 
+        "number": "5285", 
+        "subject": "TPA", 
+        "title": "Technical Production and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 5207 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

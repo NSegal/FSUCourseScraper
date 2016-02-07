@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies 19th-century music in a stylistic manner.", 
+        "number": "3551", 
+        "subject": "MUT", 
+        "title": "19th-Century Styles"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 2117 and MUT 2247.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

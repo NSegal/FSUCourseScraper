@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review of current theories of child development.", 
+        "number": "6261", 
+        "subject": "CHD", 
+        "title": "Theories of Child Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate courses in child development, psychology, counseling, or family studies, as well as instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the fundamental aspects of cryogenic system engineering: properties of materials and fluids at low temperatures; cryogenic heat transfer and fluid dynamics; low temperature refrigeration and system engineering.", 
+        "number": "4161", 
+        "subject": "EML", 
+        "title": "Cryogenics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3015C, EML 3106, and EML 3234.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

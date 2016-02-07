@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an in-depth study of financial-reporting concepts and generally accepted practice for long-term liabilities, leases, pensions, income taxes, and stockholder equity and earnings per share. Emphasis is placed on analyzing financial events and on the consequences of financial-reporting alternatives on financial statements.", 
+        "number": "3111", 
+        "subject": "ACG", 
+        "title": "Financial Accounting and Reporting II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3101 with a grade of \"C\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

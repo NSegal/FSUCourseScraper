@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the application of calculus and physics to engineering problems, statics, and a basic introduction to engineering design and analysis.", 
+        "number": "3004", 
+        "subject": "EML", 
+        "title": "Introduction to Mechanical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and\u00a0 PHY 2048C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course targets pronunciation practice using the phonetic alphabet with the objective of improving production of standard French pronunciation. French majors only.", 
+        "number": "3780", 
+        "subject": "FRE", 
+        "title": "French Phonetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 3420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (11912)", 
+    "basic": {
+        "class_num": "11912", 
+        "course": "5408", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "LIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Christine Koontz"
+            ], 
+            "location": "LSB 0214", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

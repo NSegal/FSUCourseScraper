@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers functions, sequences, limits, continuity, uniform continuity; differentiation; integration; convergence, uniform convergence..", 
+        "number": "5306", 
+        "subject": "MAA", 
+        "title": "Advanced Calculus I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to several prominent current approaches to the study of history. Throughout the semester different professors present historiography and lead discussions of particular approaches and/or cover multiple approaches to their topics of study.", 
+        "number": "6058", 
+        "subject": "HIS", 
+        "title": "Approaches to History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

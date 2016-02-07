@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7425", 
+        "subject": "MDE", 
+        "title": "Pediatric Pulmonary Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

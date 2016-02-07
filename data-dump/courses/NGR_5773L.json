@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course continues student development of nursing leadership and decision-making skills in managing health care microsystems. Clinical guidelines and emergency preparedness strategies are examined.", 
+        "number": "5773L", 
+        "subject": "NGR", 
+        "title": "Clinical Leadership Practicum II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5770 and NGR 5772L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

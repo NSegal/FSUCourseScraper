@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on application of molecular biology techniques to a broad range of biochemistry topics and provides a basic survey of information relevant to students in allied health and pre-medicine fields of study.", 
+        "number": "3023L", 
+        "subject": "BCH", 
+        "title": "Survey of Biochemistry Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: BCH 3023.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

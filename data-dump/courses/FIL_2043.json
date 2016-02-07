@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces computer graphics in the context of historical approaches to visual effects and animation. Students apply historical techniques to create original animations and visual effects.", 
+        "number": "2043", 
+        "subject": "FIL", 
+        "title": "History and Practice of Visual Effects and Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

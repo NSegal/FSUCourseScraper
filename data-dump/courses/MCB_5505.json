@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers structure and replication of the bacteriophage, plant and animal viruses, with an emphasis on comparative molecular biology and infectious disease.", 
+        "number": "5505", 
+        "subject": "MCB", 
+        "title": "Virology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

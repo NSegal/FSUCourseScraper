@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second part of a two-semester introductory biology course designed for those interested in pursuing a career in life sciences. The course provides an overview of the processes underlying animal embryonic development, inheritance genetics, evolution and ecology.", 
+        "number": "2011", 
+        "subject": "BSC", 
+        "title": "Biological Science II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 2010.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

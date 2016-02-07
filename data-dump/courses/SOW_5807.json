@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This advanced practice course emphasized development of clinical skills. Students will refine their clinical skills, building on the research-based non-specific (common factors) components of therapeutic work (i.e., therapeutic alliance, empathy, goal consensus/collaboration, positive regard/affirmation, and genuineness) and specific factors (validated treatments). The course provides in-depth coverage of three empirically-based models: Solution Focused, Motivation Interviewing, and Interpersonal Therapy. Learning application of techniques informed by these models provides opportunities to enhance professional use of self. The course examines similarities and differences among models and allows students to discern appropriate use of techniques, client populations, settings, and problem interactions. Students will develop competency in the ethical and strength-based use of these models.", 
+        "number": "5807", 
+        "subject": "SOW", 
+        "title": "Clinical Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5308.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

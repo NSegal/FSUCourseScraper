@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers field practical experience in a planned setting. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "5820", 
+        "subject": "SDS", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00 - 12.00"
+    }
+}

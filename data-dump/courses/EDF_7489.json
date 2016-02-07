@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers conceptual issues and analysis methods relevant to research reviews and quantitative synthesis methods. Students are introduced to the issues and controversies in the area of research synthesis and to a set of quantitative procedures for summarizing sets of related studies.", 
+        "number": "7489", 
+        "subject": "EDF", 
+        "title": "Meta-Anaylsis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF5400 and either EDF 5401 or EDF 5402.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

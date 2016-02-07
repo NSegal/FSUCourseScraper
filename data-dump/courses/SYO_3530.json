@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the basic theory of social stratification that is presented and used in description of the stratification system in the United States and other nations. The course gives opportunity for social mobility in the social structure is assessed and compared with rates of mobility in other\u00a0 countries.", 
+        "number": "3530", 
+        "subject": "SYO", 
+        "title": "Social Classes and Inequality"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

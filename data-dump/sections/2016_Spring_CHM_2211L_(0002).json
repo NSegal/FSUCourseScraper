@@ -1,0 +1,35 @@
+{
+    "_unique": "0002-LAB (1579)", 
+    "basic": {
+        "class_num": "1579", 
+        "course": "2211L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Salvatore Profeta"
+            ], 
+            "location": "HTL 0505A", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "HTL 0505A", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

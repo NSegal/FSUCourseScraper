@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes loss exposures facing individuals and families, basic personal-lines property-liability insurance (auto and homeowners), individual life, health and disability insurance, and individual/family financial planning.", 
+        "number": "5810", 
+        "subject": "RMI", 
+        "title": "Personal Financial Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 5017.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

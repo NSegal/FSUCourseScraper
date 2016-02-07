@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers basic methodological and statistical issues in criminology.", 
+        "number": "4700", 
+        "subject": "CCJ", 
+        "title": "Introduction to Research Methods in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (8292)", 
+    "basic": {
+        "class_num": "8292", 
+        "course": "4008", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "OCE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Olivia Mason"
+            ], 
+            "location": "HWC 2400", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Olivia Mason"
+            ], 
+            "location": "HWC 2400", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

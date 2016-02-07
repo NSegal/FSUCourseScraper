@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (4005)", 
+    "basic": {
+        "class_num": "4005", 
+        "course": "5111", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "GIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Mark Horner"
+            ], 
+            "location": "BEL 0320A", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

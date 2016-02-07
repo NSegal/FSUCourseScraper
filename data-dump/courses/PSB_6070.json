@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed examination of a current area of neuroscience research. May be repeated to a maximum of eight semester hours.", 
+        "number": "6070", 
+        "subject": "PSB", 
+        "title": "Current Problems in Neuroscience"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

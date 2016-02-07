@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores styles of movement and dance, creative presentations, and daily warm-ups. May be repeated to a maximum of six semester hours.", 
+        "number": "3511", 
+        "subject": "TPP", 
+        "title": "Movement Techniques for Theatre II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPP 3510r and/or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

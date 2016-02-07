@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of special topics in organizational behavior. Topic changes from term to term. May be repeated to a maximum of six semester hours.", 
+        "number": "6933", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Organization Behavior: Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

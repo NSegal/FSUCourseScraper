@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the staging practices and dramatic literature of classical Greece and Rome, medieval Europe, the Renaissance, eighteenth-century Europe, and classical Japan. The course emphasizes the realization of the plays in performance in both historical and modern contexts.", 
+        "number": "5770", 
+        "subject": "THE", 
+        "title": "Theatre History and Literature I for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

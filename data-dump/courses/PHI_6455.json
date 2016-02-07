@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys basic topics in the philosophy of biology, including the nature of evolutionary theory, the coming of genetics, molecular biology and its philosophical implications, the Human Genome Project, Creationism, eugenics, and ecological questions.", 
+        "number": "6455", 
+        "subject": "PHI", 
+        "title": "Philosophy of Biology: Basic Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For performance majors. Private instruction. Major instrument. May be repeated to a maximum of twenty-four semester hours. Credit for MVO 6460r (2) is available for all instruments.", 
+        "number": "6463", 
+        "subject": "MVK", 
+        "title": "Applied Music Major, Organ"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to MV(B, K, O, P, S, V, W) 6460r\u20136469r series by qualifying audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

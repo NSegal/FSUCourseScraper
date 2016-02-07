@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students prepare a research paper which draws on theory, methods, and subject matter of demography and which meets the standards for submission to a professional journal. Topic varies with student. May be repeated to a maximum of six semester hours.", 
+        "number": "5972", 
+        "subject": "DEM", 
+        "title": "Master's Research Paper in Demography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

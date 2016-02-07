@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the history and development of museums, issues and theories in museum studies, and an introduction to the practical concerns of the professional museum field.", 
+        "number": "6087", 
+        "subject": "HIS", 
+        "title": "Exhibiting History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the role of nuclear reactions and decay in astrophysics. Topics cover the origin of elements in the context of Big Bang, major burning stages in the life of a star, stellar explosions, as well as processes in interstellar matter.", 
+        "number": "5315", 
+        "subject": "PHZ", 
+        "title": "Nuclear Astrophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AST 5210. Corequisite: PHY 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

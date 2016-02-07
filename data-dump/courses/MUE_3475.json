@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the application of performance and teaching techniques and practices unique to percussion.", 
+        "number": "3475", 
+        "subject": "MUE", 
+        "title": "Techniques and Teaching: Percussion Instruments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

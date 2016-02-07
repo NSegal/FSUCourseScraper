@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the properties of seawater, equations of motion and continuity of volume, geostrophic motion, stability and double diffusion, ocean currents.", 
+        "number": "5056", 
+        "subject": "OCP", 
+        "title": "Introduction to Physical Oceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 2049C, MAP 2302, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

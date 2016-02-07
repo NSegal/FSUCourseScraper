@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the Near East-Anatolia, Mesopotamia, Egypt, the Holy Land-in the ancient period.", 
+        "number": "3200", 
+        "subject": "ASH", 
+        "title": "History of the Ancient Near East"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

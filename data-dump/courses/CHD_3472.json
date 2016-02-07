@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to learn principles of positive guidance to apply in guiding children during early childhood, middle childhood, and adolescence in a variety of natural contexts, including home and school.", 
+        "number": "3472", 
+        "subject": "CHD", 
+        "title": "Child Guidance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

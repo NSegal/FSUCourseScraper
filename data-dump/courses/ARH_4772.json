@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course follows the history of Japanese animation from the early 20th century to the present time, with special focus on the contemporary period. The course investigates not only the richness of what is commonly referred to as anime, but also anime's various origins in Japan and abroad.", 
+        "number": "4772", 
+        "subject": "ARH", 
+        "title": "Japanese Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

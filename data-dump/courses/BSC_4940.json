@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a special supervised study in marine biology at the National Marine Fisheries Services Laboratory in Panama City, the Mote Marine Laboratory, or other approved location. Students may receive up to nine semester hours of credit, of which four semester hours would apply to the biological science major. Offered during the Summer only.", 
+        "number": "4940", 
+        "subject": "BSC", 
+        "title": "Research Internship in Marine Biology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, PCB 3043; as well as junior or senior standing, 3.0 GPA in biology, a course in the area of research, and associate chair written permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 9.00"
+    }
+}

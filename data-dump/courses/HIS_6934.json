@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers (usually in a seminar or colloquium format) highly concentrated courses of a topical nature or examines specific segments of national or regional histories not covered in graduate courses or in depth in the fields of European, American, Asian, or Latin American history.", 
+        "number": "6934", 
+        "subject": "HIS", 
+        "title": "Special Topics in History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

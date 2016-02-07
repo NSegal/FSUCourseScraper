@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines special topics in electrical engineering at the graduate level with emphasis on recent research and developments. Content, credit, and prerequisites vary; consult instructor.", 
+        "number": "5930", 
+        "subject": "EEL", 
+        "title": "Special Topics in Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

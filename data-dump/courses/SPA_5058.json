@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to clinical practice in speech-language pathology. Students become acquainted with the scope of practice, ethical obligations and supervision of the SLPA, medical billing and documentation, implementing treatment plans, intervention strategies and techniques, service delivery options, behavior management and data collection.", 
+        "number": "5058", 
+        "subject": "SPA", 
+        "title": "Clinical Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

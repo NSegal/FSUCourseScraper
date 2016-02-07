@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores basic functions: demand forecasting, process planning, master scheduling, expediting, and quality control. Inventory control. Formation of systems from those basic functions. Case studies and design exercises with computer implementation.", 
+        "number": "4333", 
+        "subject": "EIN", 
+        "title": "Design of Integrated Production Systems and Facilities Layout"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 2123, EGN 3613, and ESI 3312C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

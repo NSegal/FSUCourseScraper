@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines methods for assessing and teaching reading skills to individuals with disabilities.", 
+        "number": "5258", 
+        "subject": "EEX", 
+        "title": "Advanced Reading Instruction for Students with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

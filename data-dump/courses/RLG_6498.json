@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar in religious thought designed to encourage research in the area of religious thought through inquiry into specific themes, persons, or movements.", 
+        "number": "6498", 
+        "subject": "RLG", 
+        "title": "Seminar: Religious Thought"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

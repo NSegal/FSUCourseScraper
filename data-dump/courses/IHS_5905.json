@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a course for graduate students who desire an individualized research experience in Biomedical Sciences, Medical Humanities and Social Sciences, Public Health or other fields represented in the College of Medicine. Students receive laboratory or other training in research methods and improve their readiness for and appreciation of research in health-related science. May be repeated to a maximum of thirty-six semester hours.", 
+        "number": "5905", 
+        "subject": "IHS", 
+        "title": "Directed Individual Study in Health Sciences"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

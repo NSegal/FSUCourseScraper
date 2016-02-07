@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-DSC (215)", 
+    "basic": {
+        "class_num": "215", 
+        "course": "5806", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Open", 
+        "subject": "ARH", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:45:00", 
+            "instructors": [
+                "Jack Freiberg"
+            ], 
+            "location": "WJB 2038", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Reviews conceptual and theoretical approaches, measurement problems, analytical strategies, and literature in the areas of morbidity and mortality.", 
+        "number": "5215", 
+        "subject": "SYD", 
+        "title": "Health and Survival"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

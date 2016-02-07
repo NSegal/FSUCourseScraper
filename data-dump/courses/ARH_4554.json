@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the visual arts of Japan, covering the ancient to the modern period. The framework for the course is both chronological and thematic, with particular focus on the relationship between culture and the visual arts. Among the topics covered are ancient Japan, Japanese aesthetics, Buddhist art, the rise of the samurai, garden architecture and tea ceremony, castle decoration, and the world of ukiyo-e.", 
+        "number": "4554", 
+        "subject": "ARH", 
+        "title": "Arts of Japan"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

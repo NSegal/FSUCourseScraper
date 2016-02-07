@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-TDF (6769)", 
+    "basic": {
+        "class_num": "6769", 
+        "course": "8976", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "TDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lori Gooding"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

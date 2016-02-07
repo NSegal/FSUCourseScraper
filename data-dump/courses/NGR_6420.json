@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents principles relevant to the practice of anesthesia: history of anesthesia, scope of anesthetic practice, documentation, preoperative patient evaluation and preparation, anesthesia technique, airway assessment and management, anesthesia delivery systems, positioning of the patient for anesthesia and surgery, effects of coexisting disease on anesthetic administration, physiologic response to anesthesia, intraoperative anesthetic management, anesthesia administration in locations outside the operating room, postoperative patient complications, postoperative patient management.", 
+        "number": "6420", 
+        "subject": "NGR", 
+        "title": "Basic Principles of Anesthesia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the nurse anesthesia program on completion of an undergraduate nursing degree.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course students acquire an understanding of the complexity and diversity in the American and Florida populations in general and the school and community populations in particular. Students participate in a field-based experience.", 
+        "number": "2085", 
+        "subject": "EDF", 
+        "title": "Teaching Diverse Populations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

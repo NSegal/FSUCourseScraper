@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students to apply research-based behavioral principles in a variety of educational settings.", 
+        "number": "5722", 
+        "subject": "EAB", 
+        "title": "Behavior Analysis in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 or equivalents or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

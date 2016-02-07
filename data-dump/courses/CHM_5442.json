@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers basic kinetics applied to common reactions in inorganic chemistry, including ligand substitution, electronic transfer and oxidation/reduction, organometallics, photophysics and photochemistry, as well as bioinorganic. Topics in kinetics cover experimental and derived rate laws, transition state theory and activation parameters, as well as operational tests for intimate mechanisms.", 
+        "number": "5442", 
+        "subject": "CHM", 
+        "title": "Kinetics and Mechanisms"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate inorganic chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

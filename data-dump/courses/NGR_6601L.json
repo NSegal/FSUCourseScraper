@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies the knowledge and skills gained in NGR 5003C and to develop basic strategies to promote health, diagnose, and manage basic acute\u00a0\u00a0 and chronic health problems across the life span. Emphasis is on the development of sound diagnostic skills utilizing differential diagnostic during\u00a0 clinical patient visits. Students also begin to develop collaborative partnerships with the clinical preceptor and other healthcare professionals in the management of patients.", 
+        "number": "6601L", 
+        "subject": "NGR", 
+        "title": "Family Nurse Practitioner Practicum I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5003C, DNP core courses. Corequisite: NGR 6601.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

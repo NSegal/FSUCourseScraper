@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers maximum likelihood principle, missing data and EM algorithm, assessment tools such as bootstrap and cross-validation, Markov chain and\u00a0 hidden Markov models, classification and regression trees (CART), Bayesian models, and Markov Chain Monte Carlo algorithms.", 
+        "number": "5176", 
+        "subject": "STA", 
+        "title": "Statistical Modeling with Application to Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 4442 or STA 5440.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

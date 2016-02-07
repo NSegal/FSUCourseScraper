@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches proper Web site design techniques to students from all degree programs. Topics include visual design and graphics, information architecture, usability and accessibility, communication, adaptation to audience, markup languages, and development tools and processes. Coursework is focused on applying proper Web site design principles and techniques to projects in the students' disciplines. The course is gauged for beginners who are computer competent; it does not teach computer programming.", 
+        "number": "2821", 
+        "subject": "CGS", 
+        "title": "Introduction to Website Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

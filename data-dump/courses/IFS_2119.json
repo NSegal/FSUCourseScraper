@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the important impacts that new biotechnological innovations have on society. Using examples from genetically modified crops to advances in personalized medicine, students explore the scientific bases of emerging biotechnologies and compare the scientific data with societal perception and acceptance.", 
+        "number": "2119", 
+        "subject": "IFS", 
+        "title": "Biotechnology: Impact of Life and Sciences on Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

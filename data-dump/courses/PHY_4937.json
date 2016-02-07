@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of selected topics in modern physics. Examination of primary research literature. May be repeated to a maximum of fifteen semester hours. A maximum of eight students allowed in each tutorial.", 
+        "number": "4937", 
+        "subject": "PHY", 
+        "title": "Undergraduate Tutorial in Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Upper division undergraduate standing.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

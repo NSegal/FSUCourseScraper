@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours as topics vary.", 
+        "number": "2937", 
+        "subject": "HUM", 
+        "title": "Humanities Honors Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surverys artists and processess in Western printmaking from the15th century through the 20th century.", 
+        "number": "4720", 
+        "subject": "ARH", 
+        "title": "History of Graphics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of a resident internship in an approved professional theatre shop or enrichment center. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5940", 
+        "subject": "THE", 
+        "title": "Internship in Theatre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of appropriate committee.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 12.00"
+    }
+}

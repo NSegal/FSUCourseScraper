@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this seminar, objectives and course activities serve to support the Apprentice Teaching coursework and are repeated here. Teacher candidates meet as a seminar group for weekly ninety-minute sessions during the semester. FSU-Teach students enrolled in the five hour SMT 4945 must take this corequisite, variable credit seminar.", 
+        "number": "4930", 
+        "subject": "SMT", 
+        "title": "Apprentice Teaching Seminar (FSU-Teach)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043, SMT 1053, SMT 3100, and SMT 4301. Corequisite: SMT 4945.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

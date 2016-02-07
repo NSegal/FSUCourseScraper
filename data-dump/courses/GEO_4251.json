@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the critical debate on global climatic fluctuations and extreme weather frequency in relation to human impact and interference. Particular focus is given to geographic variations and temporal validity.", 
+        "number": "4251", 
+        "subject": "GEO", 
+        "title": "Geography of Climate Change and Storms"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

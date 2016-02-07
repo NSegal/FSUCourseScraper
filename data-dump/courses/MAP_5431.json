@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the physical properties of viscous fluids, hydrostatics, kinematics of flow fields, governing equations. Dynamics of viscous incompressible fluids: vorticity, boundary layer flow, potential flow.", 
+        "number": "5431", 
+        "subject": "MAP", 
+        "title": "Introduction to Fluid Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 4153 and PHY 2048C. Corequisites: MAP 4341, MAP 5345, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on civil liability for harm to persons and property, including intentional torts and privileges thereto; negligence, causation, and defenses; strict liability, products liability, defamation, privacy, and interference with advantageous relationships. Required course.", 
+        "number": "5700", 
+        "subject": "LAW", 
+        "title": "Torts"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

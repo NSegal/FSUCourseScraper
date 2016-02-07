@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers amount function, dollar-weighted and time-weighted rates, force of interest; special annuity types, bonds, capitalization and applications. Yield curves, spot rates, forward rates, duration, convexity and immunization and additional financial concepts.", 
+        "number": "4170", 
+        "subject": "MAP", 
+        "title": "Introduction to Actuarial Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

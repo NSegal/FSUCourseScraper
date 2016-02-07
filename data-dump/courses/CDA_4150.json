@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores high performance architecture design and analysis, including memory-system design, pipelining, vector computers, and multiprocessors.", 
+        "number": "4150", 
+        "subject": "CDA", 
+        "title": "Computer Architecture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

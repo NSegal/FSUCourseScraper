@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates painting, sculpture, and architecture in Italy and Spain during the 17th century, stressing the theatrical, ecstatic, and virtuoso character of works produced for royalty, the Church, and the rising middle class by such masters as Caravaggio, Bernini, and Vel\u00e1zquez.", 
+        "number": "5360", 
+        "subject": "ARH", 
+        "title": "Southern Baroque Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

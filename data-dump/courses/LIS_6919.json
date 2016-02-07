@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a directed and supervised detailed investigation of selected problems, issues, and trends in the various areas of librarianship/information studies including, but not limited to, cataloging and classification; work with the disadvantaged; children and youth services; academic, public, school, and special libraries; administration; information science. Offerings will vary because of currency and the changing nature of the subject matter. May be repeated to a maximum of six semester hours.", 
+        "number": "6919", 
+        "subject": "LIS", 
+        "title": "Issues in Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

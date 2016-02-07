@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the interpretation of stratigraphic sequences, including an overview of sedimentary petrogenesis; principles of lithostratigraphic, biostratigraphic, and chronostratigraphic correlation; geochronology and geophysical correlation, including magnetic, seismic, and subsurface correlation; tectonics and stratigraphy.", 
+        "number": "5516", 
+        "subject": "GLY", 
+        "title": "Stratigraphy and Sequence Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 3340C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

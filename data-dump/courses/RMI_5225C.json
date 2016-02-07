@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes basic commercial property and liability insurance contracts, including commercial property, commercial general liability, crime, inland marine, boiler and machinery, commercial auto and farm policies.", 
+        "number": "5225C", 
+        "subject": "RMI", 
+        "title": "Property/Liability\u00a0 Insurance Contract Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 5017.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

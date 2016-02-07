@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the planning and management of coastal environments including coastal geomorphic processes, coastal ecosystems, legal structures, and regulatory strategies. Issues include shoreline protection, critical lands management, provision of public utilities, public access, and sea level rise.", 
+        "number": "5422", 
+        "subject": "URP", 
+        "title": "Coastal Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

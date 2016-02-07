@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides opportunities to acquire knowledge and skills related to planning and implementing a science program for elementary school children.", 
+        "number": "5215", 
+        "subject": "SCE", 
+        "title": "Conceptual Learning in Elementary School Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a fifteen week, off-campus student-teaching experience in Florida schools, supervised by University faculty in social science education.", 
+        "number": "4944", 
+        "subject": "SSE", 
+        "title": "Student Teaching in Social Science Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SSE 4362 and SSE 4664.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "12.00"
+    }
+}

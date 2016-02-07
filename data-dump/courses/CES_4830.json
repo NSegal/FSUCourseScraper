@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the design of basic reinforced masonry structures suchas walls, columns, and foundations. SBC and code applications used.", 
+        "number": "4830", 
+        "subject": "CES", 
+        "title": "Masonry Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

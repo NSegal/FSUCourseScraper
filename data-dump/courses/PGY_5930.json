@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a multi-disciplinary discussion forum on current photographic movements and ideas within the world of art, as well as studio experience for the creation of personal artworks.", 
+        "number": "5930", 
+        "subject": "PGY", 
+        "title": "Graduate Photography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

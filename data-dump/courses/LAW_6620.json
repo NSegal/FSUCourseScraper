@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to federal taxation of estates and gifts.", 
+        "number": "6620", 
+        "subject": "LAW", 
+        "title": "Estate and Gift Tax"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

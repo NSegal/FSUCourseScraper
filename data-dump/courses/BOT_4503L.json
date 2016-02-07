@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "4503L", 
+        "subject": "BOT", 
+        "title": "Plant Physiology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BOT 3015, BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

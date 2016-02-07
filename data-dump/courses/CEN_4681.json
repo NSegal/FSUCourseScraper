@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers definitions and historical development, methodology tools for analysis and design, survey of existing systems, inference engines, and theory and applications of fuzzy relational products to new developments in inference engines.", 
+        "number": "4681", 
+        "subject": "CEN", 
+        "title": "Expert Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

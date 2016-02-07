@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers analysis and implementation of numerical algorithms. Matrix analysis, conditioning, errors, direct and iterative solution of linear systems, root-finding, systems of nonlinear equations, numerical\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 optimization.", 
+        "number": "5403", 
+        "subject": "MAD", 
+        "title": "Foundations of Computational Mathematics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAS 3105 and competence in a programming language suitable for numeric computation.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

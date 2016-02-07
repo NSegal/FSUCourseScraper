@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes beginning training in digital arts and graphic design.", 
+        "number": "2600", 
+        "subject": "ART", 
+        "title": "Introduction to Digital Imaging"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

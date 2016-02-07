@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers state and local revenues, expenditures, and borrowing; intergovernmental relationships.", 
+        "number": "4554", 
+        "subject": "ECO", 
+        "title": "Economics of State and Local Government"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

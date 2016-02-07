@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "A maximum enrollment of five (5) students. This course allows students to pursue a topic within modern languages (linguistics, literature, culture or civilization). Number of semester hours taken depend on the content and breadth of the topic. May be repeated twice with different topics to a maximum of six (6) semester hours.", 
+        "number": "4930", 
+        "subject": "FOL", 
+        "title": "\"Tutorial in Modern Languages, Literatures or Linguistics\""
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 6.00"
+    }
+}

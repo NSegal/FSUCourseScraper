@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (5742)", 
+    "basic": {
+        "class_num": "5742", 
+        "course": "1010L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:10:00", 
+            "instructors": [
+                "Thomas Vaughan"
+            ], 
+            "location": "LOV 0307", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

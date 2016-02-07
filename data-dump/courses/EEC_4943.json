@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "4943", 
+        "subject": "EEC", 
+        "title": "Student Teaching in Early Childhood Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "6.00 - 10.00"
+    }
+}

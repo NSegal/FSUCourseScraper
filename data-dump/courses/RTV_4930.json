@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the TV and film industry in Los Angeles including the industry structure, production cycles, the studios, the networks, and the writers. The course takes place in Los Angeles and also addresses professional career paths in the Los Angeles entertainment industry.", 
+        "number": "4930", 
+        "subject": "RTV", 
+        "title": "Los Angeles Television Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Media Production major.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

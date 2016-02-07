@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes intensive work by a small number of undergraduates on a specific topic or research problem in Latin studies. May be repeated as topics vary to a maximum of six semester hours.", 
+        "number": "4999", 
+        "subject": "LNW", 
+        "title": "Tutorial in Latin"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LNW 3211, LNW 3323, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

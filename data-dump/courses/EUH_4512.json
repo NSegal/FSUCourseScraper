@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the history of England from the reign of James I to the death of Queen Anne in 1714. Scottish history is covered as well, and due attention is given to Irish history and to such areas as the arts, literature, and political theory.", 
+        "number": "4512", 
+        "subject": "EUH", 
+        "title": "Stuart England"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

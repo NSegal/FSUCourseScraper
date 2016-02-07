@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-DSS (5323)", 
+    "basic": {
+        "class_num": "5323", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "MAT", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Alec Kercheval"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

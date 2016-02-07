@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to financial accounting concepts, placing emphasis on financial statements and how they reflect business transactions. Please note, Accounting Majors must earn at least a \"B\" in this course to proceed to required 3000 level accounting courses.", 
+        "number": "2021", 
+        "subject": "ACG", 
+        "title": "Introduction to Financial Accounting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

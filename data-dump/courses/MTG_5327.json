@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of MTG5326.", 
+        "number": "5327", 
+        "subject": "MTG", 
+        "title": "Topology II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MTG 5326.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

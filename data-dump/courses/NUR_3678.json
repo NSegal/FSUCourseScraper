@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the application of nursing and related theories to the care of vulnerable populations throughout the life cycle. Emphasis is placed on nursing care of the elderly, clients with psychosocial disorders, and at-risk culturally diverse populations in the community. The impact of poverty, environment, support networks, health policy, and community resources on vulnerable populations and health outcomes is explored. The focus is on promoting client independence and maximizing quality of life of vulnerable individuals, families and communities.", 
+        "number": "3678", 
+        "subject": "NUR", 
+        "title": "Nursing Care of Vulnerable Populations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "NUR3056C,P,Y,**NUR3065C,P,Y,**NUR3125,P,Y,**NUR3636L,C,Y,**NUR3822,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

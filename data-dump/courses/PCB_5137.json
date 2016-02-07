@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: principles of cell organization; membrane structure and transport; cytoskeleton; signaling; organelle structure and function; energy metabolism; cellular aspects of cancer and immunity.", 
+        "number": "5137", 
+        "subject": "PCB", 
+        "title": "Advanced Cell Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

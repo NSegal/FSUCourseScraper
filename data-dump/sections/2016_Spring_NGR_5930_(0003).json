@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (8218)", 
+    "basic": {
+        "class_num": "8218", 
+        "course": "5930", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "NGR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "19:40:00", 
+            "instructors": [
+                "Jolynn Greenhalgh"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

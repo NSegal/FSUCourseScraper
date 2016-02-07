@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course has been designed to examine developmental processes of school-age children and adolescents. This course is a prerequisite course for practica experiences with these age groups. Consequently, strategies for working with school-age children and adolescents are also addressed.", 
+        "number": "4250", 
+        "subject": "CHD", 
+        "title": "Middle Childhood Contexts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status and junior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

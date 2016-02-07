@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers contemporary approaches to human learning, memory, and higher mental processes; lecture plus laboratory experiments.", 
+        "number": "3604C", 
+        "subject": "EXP", 
+        "title": "Cognitive Psychology with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

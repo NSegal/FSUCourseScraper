@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (3065)", 
+    "basic": {
+        "class_num": "3065", 
+        "course": "4291", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "EEX", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Kelly Whalon"
+            ], 
+            "location": "STB G158", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

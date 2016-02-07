@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, oral expression is emphasized.", 
+        "number": "3240", 
+        "subject": "RUS", 
+        "title": "Reading and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RUS 2220 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

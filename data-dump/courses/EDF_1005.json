@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students a broad view of education from historical, cultural, psychological, political, social, and philosophical perspectives. Includes lectures, discussions, and field experience.", 
+        "number": "1005", 
+        "subject": "EDF", 
+        "title": "Introduction to Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

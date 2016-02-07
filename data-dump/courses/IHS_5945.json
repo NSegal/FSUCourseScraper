@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "For this course, students in the PhD Program in Biomedical Sciences are required to register for a minimum of two semester hours before graduation. May be repeated to a maximum of five semester hours.", 
+        "number": "5945", 
+        "subject": "IHS", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

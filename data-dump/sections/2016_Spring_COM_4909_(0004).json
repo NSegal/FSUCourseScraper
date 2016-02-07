@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (14999)", 
+    "basic": {
+        "class_num": "14999", 
+        "course": "4909", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "COM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Summer Harlow"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -19,7 +19,7 @@ class SolusScraper(object):
             self.scrape_letters()
         except Exception as e:
             logging.debug(e)
-            self.session.parser.dump_html()
+            self.session.parser1.dump_html()
             raise
 
     def scrape_letters(self):
@@ -41,7 +41,7 @@ class SolusScraper(object):
         step = self.job["subject_step"]
 
         # Get a list of all subjects to iterate over
-        all_subjects = self.session.parser.all_subjects(start=start, end=end, step=step)
+        all_subjects = self.session.parser1.all_subjects(start=start, end=end, step=step)
 
         # Iterate over all subjects
         for subject in all_subjects:
@@ -64,13 +64,13 @@ class SolusScraper(object):
         end = self.job["course_end"]
 
         # Get a list of all courses to iterate over
-        all_courses = self.session.parser.all_courses(start=start, end=end)
+        all_courses = self.session.parser1.all_courses(start=start, end=end)
 
         # Iterate over all courses
         for course_unique in all_courses:
             self.session.open_course(course_unique)
             
-            course_attrs = self.session.parser.course_attrs()
+            course_attrs = self.session.parser1.course_attrs()
             course_attrs['basic']['subject'] = subject['abbreviation']
 
             logging.info(u"----Course: {number} - {title}".format(**course_attrs['basic']))
@@ -91,7 +91,7 @@ class SolusScraper(object):
         """Scrape terms"""
 
         # Get all terms on the page and iterate over them
-        all_terms = self.session.parser.all_terms()
+        all_terms = self.session.parser1.all_terms()
         for term in all_terms:
             logging.info(u"------Term: {year} - {season}".format(**term))
             self.session.switch_to_term(term["_unique"])
@@ -103,7 +103,7 @@ class SolusScraper(object):
         """Scrape sections"""
 
         # Grab all the basic data
-        all_sections = self.session.parser.all_section_data()
+        all_sections = self.session.parser1.all_section_data()
 
 
         if logging.getLogger().isEnabledFor(logging.INFO):
@@ -118,7 +118,7 @@ class SolusScraper(object):
                 self.session.visit_section_page(all_sections[i]["_unique"])
 
                 # Add the new information to the all_sections dict
-                new_data = self.session.parser.section_deep_attrs()
+                new_data = self.session.parser1.section_deep_attrs()
                 all_sections[i].update(new_data)
 
                 self.session.return_from_section()

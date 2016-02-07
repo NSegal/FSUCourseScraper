@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores the scientific basis and development of sports related fitness. Emphasis on muscle strength, endurance, speed, power, agility, and flexibility in competitive athletes. Various styles of programming and the methods used to elicit specific adaptations are emphasized. This course meets specific guidelines and competencies for strength and conditioning\u00a0\u00a0\u00a0 professionals.", 
+        "number": "5389", 
+        "subject": "PET", 
+        "title": "Strength Program Development for Competitive Athletes and Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admitted to the Sports Sciences Major of the MS in Exercise Science or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

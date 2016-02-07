@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces students to lens-formed image production through both liquid (traditional darkroom) and dry processes (digital). It includes image analysis within both critical and historical frameworks.", 
+        "number": "2941C", 
+        "subject": "PGY", 
+        "title": "Digital and Photographic Imaging"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1602C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

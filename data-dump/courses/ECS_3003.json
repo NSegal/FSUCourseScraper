@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on theoretical and practical aspects of the principal forms of economic organization. Emphasis on the varieties of market-based systems, and economies in transition from centrally-planned toward market economies.", 
+        "number": "3003", 
+        "subject": "ECS", 
+        "title": "Comparative Economic Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

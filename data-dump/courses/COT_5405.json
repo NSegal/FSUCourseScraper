@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers algorithms, formal proofs of correctness, and time complexity analysis for network flow problems, approximation of NP hard combinatorial optimization problems, parallel algorithms, cache-aware algorithms, randomized algorithms, computational geography, string algorithms, and other topics requiring advanced techniques for proof of correctness or time/space complexity analysis.", 
+        "number": "5405", 
+        "subject": "COT", 
+        "title": "Advanced Algorithms"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4351.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

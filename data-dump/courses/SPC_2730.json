@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course gives students an introduction to the basic processes of intercultural communication from a global perspective with a goal of increasing their curiosity and acceptance of other cultures.", 
+        "number": "2730", 
+        "subject": "SPC", 
+        "title": "Global Perspectives: Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

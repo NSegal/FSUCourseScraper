@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses critical appraisal of historical, philosophical, and contemporary trends and issues in the arts and art education.", 
+        "number": "5641", 
+        "subject": "ARE", 
+        "title": "Critical Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

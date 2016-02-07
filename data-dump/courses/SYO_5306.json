@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers intensive study of sociopolitical processes, structures, and institutions of modern society.\u00a0 Topics include relations of power, authority, and legitimacy, state formations, collective action and revolution, structures of domination and hegemony, socialization and political identity formation, and processes of global integration.", 
+        "number": "5306", 
+        "subject": "SYO", 
+        "title": "Political Sociology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

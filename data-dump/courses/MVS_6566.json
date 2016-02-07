@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is required of guitar performance majors. May be repeated to a maximum of four semester hours.", 
+        "number": "6566", 
+        "subject": "MVS", 
+        "title": "Guitar Repertory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

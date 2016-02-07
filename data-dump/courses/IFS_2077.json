@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies the regional geography of the island of Great Britain; its changing position from a \"great\" imperial and industrial power to a \"great\" financial and cultural leader.", 
+        "number": "2077", 
+        "subject": "IFS", 
+        "title": "Great Britain? Geography, Imperialism, Industry, and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

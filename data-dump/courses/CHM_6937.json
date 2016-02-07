@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a series of research presentations and original research proposal defenses delivered by graduate students enrolled in the Materials Chemistry Program. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6937", 
+        "subject": "CHM", 
+        "title": "Materials Chemistry Seminar II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

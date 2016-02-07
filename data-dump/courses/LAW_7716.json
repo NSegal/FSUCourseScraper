@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced workshop on Florida marital dissolution law.", 
+        "number": "7716", 
+        "subject": "LAW", 
+        "title": "Florida Dissolution of Marriage"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

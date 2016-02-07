@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces cross-cultural literary traditions, looking at historical rationales and interconnections among communities as well as vital differences.", 
+        "number": "3682", 
+        "subject": "AML", 
+        "title": "American Multi-Ethnic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

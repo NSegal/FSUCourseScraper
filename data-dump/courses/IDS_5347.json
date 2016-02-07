@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with knowledge of typical and atypical development from birth to three years of age, with particular attention paid to the impact of disabilities and risk factors on development.", 
+        "number": "5347", 
+        "subject": "IDS", 
+        "title": "Infant and Toddler Typical and Atypical Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

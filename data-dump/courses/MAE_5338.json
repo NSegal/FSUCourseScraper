@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5338", 
+        "subject": "MAE", 
+        "title": "Seminar on the Teaching of Geometry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00"
+    }
+}

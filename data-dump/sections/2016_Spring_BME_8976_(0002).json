@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-TDF (14231)", 
+    "basic": {
+        "class_num": "14231", 
+        "course": "8976", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "BME", 
+        "type": "TDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Samuel Grant"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

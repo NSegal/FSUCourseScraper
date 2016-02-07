@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides majors in the College of Fine Arts with a course designed to fulfill the university's oral communication requirement using examples drawn from a diverse range of artistic contexts.", 
+        "number": "2067", 
+        "subject": "SPC", 
+        "title": "Communication for Arts and Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

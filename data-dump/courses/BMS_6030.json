@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers fundamental concepts in three major areas basic to medicine: cellular structure and function, cell communication, and pharmacology. The course integrates knowledge from across the traditional disciplines in basic, behavioral and clinical sciences.\u00a0 Students incorporate this knowledge in understanding and treating patients as they learn to organize and perform a medical interview within the biopsychosocial model of health care. May be repeated to a maximum of ten semester hours.", 
+        "number": "6030", 
+        "subject": "BMS", 
+        "title": "Foundations of Medicine 2: Molecules to Mechanisms"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program or the FSU College of Medicine Bridge to Clinical Medicine major of the MS Program in Biomedical Sciences.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "5.00 - 10.00"
+    }
+}

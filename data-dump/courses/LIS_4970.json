@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an opportunity for students to engage in independent and original research in a specialized area beyond the current curriculum in information technology. To graduate with honors in information studies, the student must complete six semester hours of coursework with at least a \"B-\" or better and an overall 3.2 GPA or higher.", 
+        "number": "4970", 
+        "subject": "LIS", 
+        "title": "Honors Work in Information Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the honors program and information-technology major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

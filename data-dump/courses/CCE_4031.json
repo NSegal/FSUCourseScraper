@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes topics such as: planning, basic arrow diagramming, basic precedence diagramming, establishing activity duration, scheduling computations, bar charts, project controls, overlapping networks, resource leveling, and program evaluation review technique (PERT).", 
+        "number": "4031", 
+        "subject": "CCE", 
+        "title": "Construction Planning and Scheduling"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CCE 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

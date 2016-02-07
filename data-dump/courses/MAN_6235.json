@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a review of the literature and research in the field of organization theory. Emphasis is on both current and classical literature.", 
+        "number": "6235", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Organizational Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

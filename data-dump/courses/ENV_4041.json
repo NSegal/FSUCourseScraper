@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers systems analysis techniques applied to the solution of environmental problems, with particular emphasis on linear and dynamic programming.", 
+        "number": "4041", 
+        "subject": "ENV", 
+        "title": "Environmental Systems Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3200L, EES 3040, and either MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

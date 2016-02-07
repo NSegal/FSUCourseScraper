@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes evidence-based concepts in order to develop a personalized understanding of 21st century leadership. The course focuses on the development of leadership capacity for information professionals, including how to think reflectively as well as strategically, ethically influence others, design and maintain functional organizations, capitalize on a swiftly changing technological environment, and finally to demonstrate vision.", 
+        "number": "5442", 
+        "subject": "LIS", 
+        "title": "Information Leadership"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5408.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

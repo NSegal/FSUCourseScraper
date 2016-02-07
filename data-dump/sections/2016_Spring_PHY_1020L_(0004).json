@@ -1,0 +1,24 @@
+{
+    "_unique": "0004-LAB (8728)", 
+    "basic": {
+        "class_num": "8728", 
+        "course": "1020L", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "PHY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:25:00", 
+            "instructors": [], 
+            "location": "UPL 0112", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

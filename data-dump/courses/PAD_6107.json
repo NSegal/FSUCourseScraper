@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the paradigms of organizational change and their implications for values.", 
+        "number": "6107", 
+        "subject": "PAD", 
+        "title": "Seminar: Public Organizational Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5106 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

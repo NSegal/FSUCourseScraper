@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as synthesis of LC one-port networks, synthesis of LC two-port networks; operational amplifier applications; active filters; approximation methods; switched-capacitor filters.", 
+        "number": "4113", 
+        "subject": "EEL", 
+        "title": "Advanced Linear Networks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3135.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

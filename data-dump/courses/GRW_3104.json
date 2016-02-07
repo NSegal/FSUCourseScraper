@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of selected Greek works. May be repeated to a maximum of six semester hours with change of content.", 
+        "number": "3104", 
+        "subject": "GRW", 
+        "title": "Readings in Greek Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

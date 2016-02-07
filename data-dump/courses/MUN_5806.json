@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of ten semester hours. Student has the option to repeat during the same semester.", 
+        "number": "5806", 
+        "subject": "MUN", 
+        "title": "World Music Ensemble"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 1.00"
+    }
+}

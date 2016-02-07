@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the organ and its music from the Middle Ages to the end of the 17th century.", 
+        "number": "4411", 
+        "subject": "MUR", 
+        "title": "Organ History and Literature to the 18th Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

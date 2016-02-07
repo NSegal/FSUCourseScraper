@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores current research in textiles and consumer sciences.", 
+        "number": "5930", 
+        "subject": "CTE", 
+        "title": "Clothing and Textiles Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

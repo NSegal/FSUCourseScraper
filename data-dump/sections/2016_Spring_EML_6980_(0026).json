@@ -1,0 +1,26 @@
+{
+    "_unique": "0026-DSS (3232)", 
+    "basic": {
+        "class_num": "3232", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0026", 
+        "status": "Closed", 
+        "subject": "EML", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Farrukh Alvi"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

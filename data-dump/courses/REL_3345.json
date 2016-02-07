@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on Chan, a school of Chinese Buddhism popularly known in Japanese as \"Zen\". The course surveys Zen both historically and thematically, from its beginnings through the modern period. Topics include Chan's origins, history, doctrine, ethical beliefs, meditation, ritual, and monastic institutions.", 
+        "number": "3345", 
+        "subject": "REL", 
+        "title": "Chan/Zen Buddhism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

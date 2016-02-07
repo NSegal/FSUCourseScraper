@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on issues related to providing comprehensive services to you children with disabilities.", 
+        "number": "5456", 
+        "subject": "EEX", 
+        "title": "Program Development for Young Children with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

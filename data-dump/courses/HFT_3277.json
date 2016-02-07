@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the development and management of clubs, including golf course operations, organizational and financial structure, membership and guest relations, design, and other amenities.", 
+        "number": "3277", 
+        "subject": "HFT", 
+        "title": "Club Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

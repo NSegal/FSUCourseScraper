@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DIS (4639)", 
+    "basic": {
+        "class_num": "4639", 
+        "course": "5906", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "ISC", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Gordon Erlebacher"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides advanced level work in diverse forms of writing and editing. Students read, write, and theorize about what it means to compose in multiple contexts: handwriting, print, and on the Web. Students compose and edit a diversity of texts to be shared with a wide range of audiences, the academic as well as the public.", 
+        "number": "4404", 
+        "subject": "ENC", 
+        "title": "Advanced Writing and Editing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

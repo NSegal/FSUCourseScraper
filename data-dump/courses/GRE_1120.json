@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the basic grammar and syntax of classical Greek. Meets the foreign language requirement for the BA degree. No language laboratory required.", 
+        "number": "1120", 
+        "subject": "GRE", 
+        "title": "Beginning Greek I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

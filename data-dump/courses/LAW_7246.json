@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a perspectives course that uses the perceptions of the novelists as a way of exploring the interactions of lawyers and the legal profession with the larger society.", 
+        "number": "7246", 
+        "subject": "LAW", 
+        "title": "Lawyers and Literature"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

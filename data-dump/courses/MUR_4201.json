@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course practically and historically studies the Church's song.", 
+        "number": "4201", 
+        "subject": "MUR", 
+        "title": "Hymnology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

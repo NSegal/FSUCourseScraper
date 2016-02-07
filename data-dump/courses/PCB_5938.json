@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of sixteen semester hours within the same term.", 
+        "number": "5938", 
+        "subject": "PCB", 
+        "title": "Selected Topics in Ecology and Evolutionary Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

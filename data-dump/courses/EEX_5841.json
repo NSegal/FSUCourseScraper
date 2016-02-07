@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a practicum course covering specific areas of in-depth field experiences in special education. May be repeated to a maximum of twelve semester hours. Offered Fall and Spring semesters only.", 
+        "number": "5841", 
+        "subject": "EEX", 
+        "title": "Field Laboratory Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

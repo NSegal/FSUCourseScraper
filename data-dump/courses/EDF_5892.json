@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course utilizes of concepts and methods of the social and behavioral sciences in preparing a scheme for systematically revising a country's curriculum with attention to current problems. May be repeated to a maximum of nine semester hours.", 
+        "number": "5892", 
+        "subject": "EDF", 
+        "title": "The Design of National Curricula in Developing Countries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

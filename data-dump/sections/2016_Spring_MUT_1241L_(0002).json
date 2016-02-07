@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LAB (6892)", 
+    "basic": {
+        "class_num": "6892", 
+        "course": "1241L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MUT", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Andrew Selle"
+            ], 
+            "location": "KMU 0206", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Andrew Selle"
+            ], 
+            "location": "KMU 0206", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

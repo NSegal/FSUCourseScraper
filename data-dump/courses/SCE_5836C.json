@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes the traditional discipline categories of geology, meteorology, astronomy, and oceanography. The course utilizes National Science Education standards to organize subject matter, which is the focus of this pedagogical course.", 
+        "number": "5836C", 
+        "subject": "SCE", 
+        "title": "Teaching Earth and Space Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

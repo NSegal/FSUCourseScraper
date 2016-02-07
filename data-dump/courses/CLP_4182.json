@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the broad concept of \"addiction,\" emphasizing substance use problems, but touching on other gratifying compulsive behaviors such as overeating, gambling, and certain sexual deviations. Critical thinking about the available theoretical, empirical and popular literature as well as relevant public policy is the focus.", 
+        "number": "4182", 
+        "subject": "CLP", 
+        "title": "Addictive Behaviors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012 and junior or senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

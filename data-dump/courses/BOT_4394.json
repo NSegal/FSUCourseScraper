@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores molecular biology and biotechnology of plant growth and development.", 
+        "number": "4394", 
+        "subject": "BOT", 
+        "title": "Plant Molecular Biology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BOT 3015, BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L. Pre- or Corequisite: PCB 3063.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

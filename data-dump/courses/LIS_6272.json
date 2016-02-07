@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers a variety of qualitative research methods that may be used in library and information science. It explores general, epistemological, and ethical issue with qualitative research; methods of data collection; techniques for data analysis; and evaluation of qualitative research. It includes readings, short- and long-form writing, in-class discussions, and practical exercises in qualitative research.", 
+        "number": "6272", 
+        "subject": "LIS", 
+        "title": "Qualitative Research in Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

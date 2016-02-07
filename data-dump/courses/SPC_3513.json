@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the principles of argumentation theory and the practical applications of these principles in different argumentative situations. Traditional as well as contemporary approaches to the study of argument are combined with the settings of argument to provide a practical experience for each student.", 
+        "number": "3513", 
+        "subject": "SPC", 
+        "title": "Argumentation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a rigorous analysis of transport phenomena at the micro- and macroscopic scales in systems with mixtures of several components and featuring more than one phase. Boundary layer flows, mixing effects, transport in porous and structured media, transport processes at interfaces.", 
+        "number": "5262", 
+        "subject": "ECH", 
+        "title": "Advanced Transport Phenomena II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 5261.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

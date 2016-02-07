@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as special designs in analysis of variance, linear and nonlinear regression, least squares and weighted least squares, case analysis, model building, nonleast squares estimation.", 
+        "number": "5167", 
+        "subject": "STA", 
+        "title": "Statistics in Applications II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5166.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

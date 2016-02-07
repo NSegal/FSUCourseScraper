@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an in-depth study of the twenty years from 1845 to 1865. Emphasis is placed on the coming of the Civil War, the secession crisis, and on both the military and nonmilitary events of the war years.", 
+        "number": "4172", 
+        "subject": "AMH", 
+        "title": "The Civil War Era"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

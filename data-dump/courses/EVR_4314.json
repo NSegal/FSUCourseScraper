@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the demand and efficient use of energy from fossil fuels and alternate renewable sources, and how energy impacts urban and environmental sustainability.", 
+        "number": "4314", 
+        "subject": "EVR", 
+        "title": "Energy and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GEO 1330.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys environmentally important microbes and their roles in the environmental restoration processes. Major topics include basics of microbiology, stoichiometry and bacterial energetics; bioremediation and other environmental microbiology applications; as well as the detoxification of hazardous chemicals.", 
+        "number": "4031", 
+        "subject": "ENV", 
+        "title": "Applied Environmental Engineering Microbiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

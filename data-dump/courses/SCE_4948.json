@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides support and guidance to science education students participating in student teaching. The course focus is on classroom management and planning, professional ethics, and school law.", 
+        "number": "4948", 
+        "subject": "SCE", 
+        "title": "Classroom Management and Planning in Science Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 1005, EDF 2085, EME 2040, SCE 4320, SCE 4362, SCE 4363, and TSL 4324. Corequisite: SCE 4944.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

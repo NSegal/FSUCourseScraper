@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the operation of the housing market, the nature of the housing and community development problem, and the gradual development of a national housing and community development policy since the 1930s. The course also examines relationships between public and private sectors.", 
+        "number": "4741", 
+        "subject": "URP", 
+        "title": "Introduction to Issues in Housing and Community Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

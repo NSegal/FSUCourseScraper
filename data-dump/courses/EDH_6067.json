@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces learners to the international and comparative dimensions of higher education. Various topics covered in this course include comparison of higher education systems and the historical roots of the similarities and differences; comparison of the major participants in higher education across nations, with a special focus on the academic professoriate and college students; exchange of people and ideas in the global age; and salient policy issues in higher education from a global perspective, such as access and finance, accountability and quality assurance, and the emergence of entrepreneurial universities.", 
+        "number": "6067", 
+        "subject": "EDH", 
+        "title": "International Perspectives in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive examination to be taken during the semester in which student plans to graduate and requires the student to apply the knowledge acquired throughout the completion of sport management courses. May be repeated.", 
+        "number": "8969", 
+        "subject": "SPM", 
+        "title": "Comprehensive Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

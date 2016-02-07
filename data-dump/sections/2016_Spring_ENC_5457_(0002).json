@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-DSC (3388)", 
+    "basic": {
+        "class_num": "3388", 
+        "course": "5457", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "ENC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Susan Hellstrom"
+            ], 
+            "location": "HCB 0312", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Susan Hellstrom"
+            ], 
+            "location": "HCB 0312", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

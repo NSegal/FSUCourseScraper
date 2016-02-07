@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with provides student with advanced instruction related to their chosen field of specialization while requiring them to coordinate their efforts with those of their crew counterparts, up to the beginning of the thesis project production phase. Credit hours determined bywork load assigned, according to student's area of emphasis. Preproduction of MFA thesis projects. May be repeated during the same semester.", 
+        "number": "5408", 
+        "subject": "FIL", 
+        "title": "Preproduction and Production Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

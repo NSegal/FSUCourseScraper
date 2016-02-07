@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (2686)", 
+    "basic": {
+        "class_num": "2686", 
+        "course": "2085", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EDF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Ella-Mae Daniel"
+            ], 
+            "location": "STB G154", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

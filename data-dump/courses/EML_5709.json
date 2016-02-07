@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores Introductory concepts, description, and kinematical concepts of fluid motion, basic field equations, thermodynamics of fluid flow, Navier-Stokes equations, elements of the effects of friction and heat flow, unsteady one-dimensional motion, selected nonlinear steady flows.", 
+        "number": "5709", 
+        "subject": "EML", 
+        "title": "Fluid Mechanic Principles with Selected Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 5611, EML 5060, and graduate standing in mechanical engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

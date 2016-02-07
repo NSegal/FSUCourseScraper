@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores how probability and statistics underlie the decisions of researchers and investigators and how to evaluate the expression of probabilistic and statisical information being used to support such decisions. It provides an overview of types of quantitative data products concentrating on their interpretation and application. Techniques for combining multiple forms of evidence to achieve proof are examined.", 
+        "number": "4710", 
+        "subject": "CCJ", 
+        "title": "Applied Probability for Research and Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CCJ 4744.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

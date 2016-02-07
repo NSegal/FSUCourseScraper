@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Piano pedagogy subjects.", 
+        "number": "5651", 
+        "subject": "MVK", 
+        "title": "Piano Pedagogy I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the procedures and analytical methods used to evaluate real estate markets and project-specific investments. The course focuses on the topic of real estate investment analysis primarily from the private (equity) investor's perspective.", 
+        "number": "5305", 
+        "subject": "REE", 
+        "title": "Real Estate Investment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

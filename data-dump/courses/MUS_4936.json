@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Selected topics in music. May be repeated to a maximum of six semester hours.", 
+        "number": "4936", 
+        "subject": "MUS", 
+        "title": "Senior Tutorial in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Upper division music major status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers in-depth analysis of several central areas of social psychology with an emphasis on designing and carrying out research in these areas.", 
+        "number": "4214", 
+        "subject": "SOP", 
+        "title": "Experimental Social Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and SOP 3004.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers important topics including, but not limited to, the following: revenue management applications that hospitality managers can use to increase revenue without increasing products or promotions, strategies for tapping into new markets, and effectively and efficiently delivering products and services to customers.", 
+        "number": "5466", 
+        "subject": "HMG", 
+        "title": "Hospitality Revenue Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

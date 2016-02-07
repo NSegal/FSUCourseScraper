@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the U.S. medicine structure; a survey of medical specialties and terminology; as well as a survey of body systems, common\u00a0 malfunctions, therapeutic services, restorative techniques, and disability evaluations.", 
+        "number": "5080", 
+        "subject": "RCS", 
+        "title": "Medical Aspects of Disability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

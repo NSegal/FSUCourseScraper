@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory is a study of the physical and biological evidence for the known history of the earth.", 
+        "number": "2100L", 
+        "subject": "GLY", 
+        "title": "Historical Geology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: GLY 1102 or GLY 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

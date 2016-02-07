@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include particle and rigid body kinematics, particleand rigid body kinetics, DAlembert Principle, Lagranges equations of motion, system stability, computational techniques, orbital dynamics, multi-body dynamics.", 
+        "number": "5444", 
+        "subject": "EGM", 
+        "title": "Advanced Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3321, EML 3220, and MAP 3306.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

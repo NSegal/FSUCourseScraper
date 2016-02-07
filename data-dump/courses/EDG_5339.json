@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to support educators in exploring the concepts underlying the use of data to inform instructional strategies. The course provides an understanding of accountability systems and the wide range of data collection tools, and supports the development of educators' skills in basic data analysis procedures, data interpretation, and application of these interpretations to shape instructional practice in classrooms and other educational settings.", 
+        "number": "5339", 
+        "subject": "EDG", 
+        "title": "Making Sense of Data to Inform Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

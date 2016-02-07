@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics and issues discussed involve the organizational theory, behavior and structure of various sport organizations. The evolution of power and political activity engulfing sport organizations is also examined as well as concepts on leadership and management related to the sport industry. The course also includes an outside project that enhances the student's understanding of a selected sport organization and its event.", 
+        "number": "4604", 
+        "subject": "SPM", 
+        "title": "Sport Governance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

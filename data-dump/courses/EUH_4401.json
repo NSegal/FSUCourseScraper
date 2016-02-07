@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history of Greece from the beginning to Alexander the Great. Emphasis on the social and political structures of Sparta and Athens.", 
+        "number": "4401", 
+        "subject": "EUH", 
+        "title": "Classical Athens and Sparta"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

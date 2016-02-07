@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, major world cities are examined in terms of their natural, social, and built environments in order to assess those factors that promote quality-of-life and sustainability. Prospects for future growth and change are considered in light of demographic, cultural, economic, and political trends.", 
+        "number": "1006", 
+        "subject": "URS", 
+        "title": "World Cities: Quality of Life"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

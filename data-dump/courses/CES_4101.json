@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers matrix algebra review, direct stiffness method for truss analysis, computer applications, statistically indeterminate structures, slope-deflection and moment distribution methods, as well as computer modeling and analysis of structures using commercial FE codes.", 
+        "number": "4101", 
+        "subject": "CES", 
+        "title": "Advanced Structural Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

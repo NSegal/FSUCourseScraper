@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explains why and how social structure influences the distribution of health and illness and illustrates how the medical care system is organized and responds.", 
+        "number": "4402", 
+        "subject": "SYO", 
+        "title": "Medical Sociology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

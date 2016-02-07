@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated within the same semester to a maximum of fifteen semester hours. A maximum of three semester hours may apply to a master's degree.", 
+        "number": "5913", 
+        "subject": "ARH", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 15.00"
+    }
+}

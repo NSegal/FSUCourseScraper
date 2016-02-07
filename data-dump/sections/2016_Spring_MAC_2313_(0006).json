@@ -1,0 +1,55 @@
+{
+    "_unique": "0006-LEC (5102)", 
+    "basic": {
+        "class_num": "5102", 
+        "course": "2313", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "John Wyse"
+            ], 
+            "location": "MCH 0222", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "John Wyse"
+            ], 
+            "location": "MCH 0222", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [], 
+            "location": "MCH 0222", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [], 
+            "location": "MCH 0222", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of a thesis completed over a period of two or three semesters, based on traditional library research and critical analysis. May be repeated to a maximum of nine semester hours.", 
+        "number": "4911", 
+        "subject": "SOW", 
+        "title": "Honors Work in Social Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Junior standing, a 3.2 GPA or higher, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

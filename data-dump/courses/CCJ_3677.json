@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a multi-disciplinary examination of the emergence and impact of modern conceptions of human rights, including inquiry into the nature and sources of rights and of institutions for their enforcement, such as international war tribunals and peace and reconciliation commissions. Particular attention focuses on case studies of the violation or abrogation of human rights doctrines, drawing on literature, law, philosophy, history, religion, and the social sciences to explain and respond to the phenomena of crimes against humanity.", 
+        "number": "3677", 
+        "subject": "CCJ", 
+        "title": "Crimes Against Humanity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

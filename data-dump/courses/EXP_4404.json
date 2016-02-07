@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces issues related to human memory and learning. Theories of memory, including memory systems, capacity and duration of memory, and basic memorial processes are discussed. Applied issues are covered, including disorders of memory (e.g., Alzheimer's disease), repressed memories, and memory improvement.", 
+        "number": "4404", 
+        "subject": "EXP", 
+        "title": "Human Memory and Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

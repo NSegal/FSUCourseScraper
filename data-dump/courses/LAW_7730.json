@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the law of the sea, including maritime\u00a0\u00a0 jurisdiction.", 
+        "number": "7730", 
+        "subject": "LAW", 
+        "title": "Admiralty Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores emerging issues in rehabilitation counseling, including developments in legislation, research, and policy and professional practice. May be repeated within the same term to a maximum of six semester hours.", 
+        "number": "5930", 
+        "subject": "RCS", 
+        "title": "Special Topics in Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

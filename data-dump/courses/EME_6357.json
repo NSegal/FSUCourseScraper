@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the evaluation of training and instruction from a human performance technology perspective. The course provides the knowledge and skills for evaluating training systems and instructional programs. Students discuss training systems dynamics, interact with organizational environments, synthesize ideas through presentations, and write an evaluation proposal.", 
+        "number": "6357", 
+        "subject": "EME", 
+        "title": "Evaluation of Training in HPT"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an intense survey of organic chemistry covering structure, reactions, synthesis, analysis, and spectroscopy of organic compounds. Restricted to beginning graduate students in chemistry.", 
+        "number": "5330", 
+        "subject": "CHM", 
+        "title": "Graduate Survey of Organic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

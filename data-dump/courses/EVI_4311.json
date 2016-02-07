@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares future educators with strategies and techniques necessary for determining the mode of reading and for teaching reading and writing skills to students with visual impairments.", 
+        "number": "4311", 
+        "subject": "EVI", 
+        "title": "Teaching Reading and Writing to Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4011, EVI 4211, and EVI 4314 or EVI 5316.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

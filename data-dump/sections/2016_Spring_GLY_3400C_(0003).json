@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LAB (13750)", 
+    "basic": {
+        "class_num": "13750", 
+        "course": "3400C", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "GLY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Mary Lupo"
+            ], 
+            "location": "CAR 0315", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

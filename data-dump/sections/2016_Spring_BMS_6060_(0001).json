@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (467)", 
+    "basic": {
+        "class_num": "467", 
+        "course": "6060", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "BMS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Leslie Beitsch"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

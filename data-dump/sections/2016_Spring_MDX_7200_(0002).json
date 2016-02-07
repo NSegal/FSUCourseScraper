@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-MED (5721)", 
+    "basic": {
+        "class_num": "5721", 
+        "course": "7200", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MDX", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Juliette Lomax-Homier"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

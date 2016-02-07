@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a two or four week experience individually tailored to the interests of the particular students enrolled. Each individually designed experience focuses on preparing the students to deal more effectively with legal issues and processes likely to be encountered in clinical medical practice.", 
+        "number": "7011", 
+        "subject": "MDT", 
+        "title": "Special Topics in Medicine and Law"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

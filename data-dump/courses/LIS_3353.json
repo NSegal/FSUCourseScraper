@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a solid foundation in the fundamental concepts, theories and principles in information technology and discusses critical issues surrounding their use and how they impact everyday life. The course is also an understanding of the concepts and principles underlying the design and use of digital devices, computer hardware, software, telecommunications, networking and multimedia, and is an integral part of any IT curriculum.", 
+        "number": "3353", 
+        "subject": "LIS", 
+        "title": "Information Technologies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

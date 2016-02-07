@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the design, operation, and management of networked systems from local area networks (LANs) to the Internet. Includes communications concepts, technical, and application issues with a focus on managing a network.", 
+        "number": "5489", 
+        "subject": "LIS", 
+        "title": "Network Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5484.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

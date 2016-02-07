@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "6932", 
+        "subject": "MAT", 
+        "title": "Advanced Topics in Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

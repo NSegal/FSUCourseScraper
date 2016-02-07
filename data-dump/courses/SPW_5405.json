@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an examination of the major genres of the period together with readings of some secondary works. Topics for the course include, epics and ballads, Clerecia literature, courtly lyric, Alfonsine works, and early drama.", 
+        "number": "5405", 
+        "subject": "SPW", 
+        "title": "Medieval and Early Renaissance Spanish Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

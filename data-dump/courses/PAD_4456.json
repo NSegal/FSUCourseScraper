@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the theory, design, and implementation of quality management systems in public organizations compared to that in other sectors of the economy. It examines the need for and origins of quality management philosophies, techniques, transition strategies, case studies, and future scenarios.", 
+        "number": "4456", 
+        "subject": "PAD", 
+        "title": "Quality Management Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

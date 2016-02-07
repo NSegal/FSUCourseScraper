@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on managerial concepts and administration concerns involved with institutional food production.", 
+        "number": "4312", 
+        "subject": "FSS", 
+        "title": "Food Service Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: DIE 3005, FOS 3026, FOS 3026L, and HUN 1201.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

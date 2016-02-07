@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers trigonometric functions, inverse trigonometric functions and their graphs; identities and conditional equations; solution of triangles; trigonometric form of complex numbers; DeMoivre's theorem and nth roots; introduction to plane vectors.", 
+        "number": "1114", 
+        "subject": "MAC", 
+        "title": "Analytic Trigonometry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

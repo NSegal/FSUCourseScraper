@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as basic research terminology, principles and techniques in movement science, nutrition and food science including library materials and writing techniques.", 
+        "number": "5802", 
+        "subject": "HUN", 
+        "title": "Research Design and Methodology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

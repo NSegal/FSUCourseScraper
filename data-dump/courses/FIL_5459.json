@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is comprehensive practical training for first-year students in below-the-line production and post-production skills, including the work ofthe camera assistant, grip, gaffer, sound mixer, boom operator, sound engineer, assistant editor, and various others. Training is concurrent with students' crew work on multiple film productions.", 
+        "number": "5459", 
+        "subject": "FIL", 
+        "title": "Practicum in Technical Support"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course challenges students to integrate techniques of community assessment and principles of collaboration in order to develop strategic, operational, or evaluation plans based on objective, comprehensive assessment. Topics include health-system concepts related to a broad spectrum of communities, with emphasis on the evaluation and use of data, collaborative work within health systems, and the examination of outcomes.", 
+        "number": "6641", 
+        "subject": "NGR", 
+        "title": "Assessment and Collaboration with Communities and Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: All core courses.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

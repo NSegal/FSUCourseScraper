@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews the history, social, and environmental significance of America's national parks.", 
+        "number": "4213", 
+        "subject": "GEA", 
+        "title": "US National Parks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

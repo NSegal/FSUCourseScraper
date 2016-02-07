@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the applications of microeconomic theory for business and policy analysis. Topics include the theory of the firm, valuation techniques in the absence of market prices, empirical research with accounting, financial and administrative data, theory of supply and business strategy, cost-benefit methods.", 
+        "number": "3104", 
+        "subject": "ECO", 
+        "title": "Applied Microeconomic Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013; ECO 2023; and STA 2023, STA 2122, or STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

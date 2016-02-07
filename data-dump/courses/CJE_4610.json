@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the lawful gathering and evaluation of information concerning criminal acts, with attention to the fundamentals of investigation, the organization and management of the investigative process, and the knowledge and skills necessary for investigation.", 
+        "number": "4610", 
+        "subject": "CJE", 
+        "title": "Crime Detection and Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

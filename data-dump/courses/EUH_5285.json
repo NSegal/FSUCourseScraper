@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the post-World War II era in Europe, tracing occupation policies, the division of Europe east and west, the development of the major European states, and the efforts to arrive at detente in respect to East-West tensions.", 
+        "number": "5285", 
+        "subject": "EUH", 
+        "title": "Europe since 1945"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

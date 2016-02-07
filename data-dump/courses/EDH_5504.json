@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of comprehensive institutional advancement including planning, institutional relations, educational fund-raising, alumni, government relations, foundations, and corporate relations.", 
+        "number": "5504", 
+        "subject": "EDH", 
+        "title": "College and University Institutional Advancement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (2255)", 
+    "basic": {
+        "class_num": "2255", 
+        "course": "5405", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "COT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Ashok Srinivasan"
+            ], 
+            "location": "LOV 0103", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Ashok Srinivasan"
+            ], 
+            "location": "LOV 0103", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

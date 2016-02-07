@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the issues involved in food and water security on a planet where a billion people are malnourished, while at the same time another billion are overweight. The course examines the science and sustainability of food production, water quality, and soil development.", 
+        "number": "2088", 
+        "subject": "IFS", 
+        "title": "Sustainable Food and Water: Soil, Animals, Vegetables, and Grain"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

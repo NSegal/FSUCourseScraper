@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the systematics, morphology, ecology,\u00a0 behavior, physiology, and life history of the most diverse group of vertebrates on earth, the fishes. It includes conservation and management\u00a0 issues and laboratory exercises balanced with field trips to different northwest Florida habitats, including freshwater springs, salt marshes, seagrass beds, and offshore reefs.", 
+        "number": "4454C", 
+        "subject": "ZOO", 
+        "title": "Biology of Fishes"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

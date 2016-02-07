@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-LAB (532)", 
+    "basic": {
+        "class_num": "532", 
+        "course": "1005L", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Open", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:55:00", 
+            "instructors": [
+                "Carolyn Schultz"
+            ], 
+            "location": "MCH 0418", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

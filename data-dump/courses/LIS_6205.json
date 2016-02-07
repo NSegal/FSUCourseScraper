@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares doctoral students to do research focusing on an aspect of information behavior through the examination of the art of discovering issues in Information Behavior. The seminar introduces a range of techniques applied to the analysis of information behavior, with a focus on ethnographic methodologies.", 
+        "number": "6205", 
+        "subject": "LIS", 
+        "title": "Issues in Information Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

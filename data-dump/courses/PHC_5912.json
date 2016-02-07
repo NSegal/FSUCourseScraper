@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practical and research application course allows the student to integrate all knowledge gained in the core courses and apply that knowledge in a systematic way through an applied research project that is defended before two faculty.", 
+        "number": "5912", 
+        "subject": "PHC", 
+        "title": "Public Health Capstone and Research Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

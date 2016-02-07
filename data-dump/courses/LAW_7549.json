@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of study of the various statutes and executive orders governing the employment relationship relating to discrimination on the basis of sex, race, age, religion, color, national origin, and sexual preference.", 
+        "number": "7549", 
+        "subject": "LAW", 
+        "title": "Employment Discrimination"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

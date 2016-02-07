@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers solution of first-order quasi-linear partial differential equations, classification and reduction to normal form of linear second-order equations, Green's function, infinite domain problems, the wave equation, radiation condition, spherical harmonics.", 
+        "number": "4342", 
+        "subject": "MAP", 
+        "title": "Elementary Partial Differential Equations II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAP 4341.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

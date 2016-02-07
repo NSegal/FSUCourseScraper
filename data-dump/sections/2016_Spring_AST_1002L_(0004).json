@@ -1,0 +1,33 @@
+{
+    "_unique": "0004-LAB (378)", 
+    "basic": {
+        "class_num": "378", 
+        "course": "1002L", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "AST", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "22:00:00", 
+            "instructors": [], 
+            "location": "UPL 0105", 
+            "start_time": "20:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [], 
+            "location": "UPL 0101", 
+            "start_time": "20:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

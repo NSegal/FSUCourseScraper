@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-DIS (1741)", 
+    "basic": {
+        "class_num": "1741", 
+        "course": "5831", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Kenneth Hanson"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

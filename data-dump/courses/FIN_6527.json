@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This seminar studies the development of investment theories and empirical research. Topics include asset pricing, utility analysis, risk measurement, the structure and efficiency of security markets, as well as other current issues in investments.", 
+        "number": "6527", 
+        "subject": "FIN", 
+        "title": "Seminar in Finance - Investments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIN 6842.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

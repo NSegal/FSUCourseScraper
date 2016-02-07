@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the differences in income per capita in/between countries. Topics cover what drives the sustained growth in the standard of living in the United States and other developed countries, how less developed countries might catch up with the developed countries, and what has impeded this process.", 
+        "number": "4270", 
+        "subject": "ECO", 
+        "title": "Economic Growth"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023, ECO 3203 strongly recommended.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

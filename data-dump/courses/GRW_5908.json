@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours.", 
+        "number": "5908", 
+        "subject": "GRW", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

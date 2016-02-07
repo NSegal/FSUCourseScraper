@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Minimum six semester hours required.", 
+        "number": "5971", 
+        "subject": "LAE", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

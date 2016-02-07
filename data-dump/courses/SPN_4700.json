@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the origin, development and present-day variation of the Spanish language and provides an introduction to Spanish linguistics from a theoretical and empirical point of view.", 
+        "number": "4700", 
+        "subject": "SPN", 
+        "title": "Introduction to Hispanic Linguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400; or SPN 3500 (for Spanish heritage speakers); LIN 3041 (highly recommended).", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

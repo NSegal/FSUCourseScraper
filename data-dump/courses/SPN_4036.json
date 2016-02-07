@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide Spanish speaking students with training in medical terminology, cultural issues in medicine, and healthcare interpreting skills.", 
+        "number": "4036", 
+        "subject": "SPN", 
+        "title": "Spanish Medical Interpreting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPN 3300 or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

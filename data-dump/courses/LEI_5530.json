@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth analysis of the issues and problems related to working with staff members. Designed to enhance the skills and knowledge necessary to successfully motivate, train, appraise performance, and compensate staff members.", 
+        "number": "5530", 
+        "subject": "LEI", 
+        "title": "Problems of Staff Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

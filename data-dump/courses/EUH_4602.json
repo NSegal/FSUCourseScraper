@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the history of ideas documenting transition from \"Medieval Mind\" to \"Modern Mind,\" including impact of four Renaissances, Protestant Reformation, Scientific Revolution, and Age of Enlightenment. Interdisciplinary approach includes philosophy, literature, art, political theory, science, economic thought, religion, and music.", 
+        "number": "4602", 
+        "subject": "EUH", 
+        "title": "European Intellectual History, 1500-1800"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

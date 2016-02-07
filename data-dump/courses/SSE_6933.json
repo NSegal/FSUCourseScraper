@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an historical examination of the search for a curriculum rationale, adequate content, appropriate scope and sequence, and effective instructional practice in social studies/social science education, grades K-12.", 
+        "number": "6933", 
+        "subject": "SSE", 
+        "title": "History of Social Studies/Social Science Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

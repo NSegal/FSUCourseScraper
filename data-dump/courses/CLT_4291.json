@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an intensive study of the tragedies of Aeschylus, Sophocles,and Euripides.", 
+        "number": "4291", 
+        "subject": "CLT", 
+        "title": "Greek Tragedy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

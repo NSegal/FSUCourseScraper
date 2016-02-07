@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to develop students' Kanji skills in both writing and reading. Students learn and practice approximately 300 Kanji during the semester, in addition to acquiring knowledge of Kanji radicals and origins, which facilitates additional Kanji comprehension and memorization. May be repeated to a maximum of two semester hours.", 
+        "number": "3301", 
+        "subject": "JPN", 
+        "title": "Kanji Drill"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

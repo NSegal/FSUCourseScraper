@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of property law, water and natural resources law, and constitutional law from the perspective of the special needs of the coasts and oceans.", 
+        "number": "7475", 
+        "subject": "LAW", 
+        "title": "Coastal and Ocean Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

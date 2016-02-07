@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (6221)", 
+    "basic": {
+        "class_num": "6221", 
+        "course": "5477", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Pamela Andrews"
+            ], 
+            "location": "HMU N0229", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Pamela Andrews"
+            ], 
+            "location": "HMU N0229", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

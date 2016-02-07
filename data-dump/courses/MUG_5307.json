@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies wind literature through analysis and conducting. May be repeated to a maximum of four semester hours.", 
+        "number": "5307", 
+        "subject": "MUG", 
+        "title": "Advanced Conducting I: Band"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing and experience in conducting.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00"
+    }
+}

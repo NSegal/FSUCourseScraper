@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies geographical concepts and techniques to health-related problems, including the ecology of health, disease diffusion, medical cartography, and health care access.", 
+        "number": "4450", 
+        "subject": "GEO", 
+        "title": "Medical Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GEO 1400", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

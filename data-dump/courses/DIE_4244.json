@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Part two of a two course sequence. This course covers the pathophysiology of diseases and nutrition therapy in the treatment and prevention of acute disease states and includes guidelines for client assessment, nutritional diagnosis, intervention, education, and monitoring.", 
+        "number": "4244", 
+        "subject": "DIE", 
+        "title": "Medical Nutrition Therapy II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: HUN 1201, HUN 3403, PET 3322, PET 3322L, and DIE 4243.\nCorequisites: DIE 4244L and HUN 3226.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

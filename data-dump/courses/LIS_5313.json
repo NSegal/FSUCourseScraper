@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a conceptual and practical introduction to creating and using digital-media resources to support learning and collaboration in information professions. Students regularly engage in media analysis and media production activities that incorporate digital image, sound, and video elements; utilize Web-based collaborative tools; and apply knowledge of fair use, copyright, and copyleft to multimedia.", 
+        "number": "5313", 
+        "subject": "LIS", 
+        "title": "Digital Media:\u00a0 Concepts and Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

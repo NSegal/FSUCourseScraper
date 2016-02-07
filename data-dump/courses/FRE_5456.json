@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a systematic study of the stylistics and idiomatic differences between French and English, designed to improve writing skills.", 
+        "number": "5456", 
+        "subject": "FRE", 
+        "title": "Stylistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0006-LAB (8232)", 
+    "basic": {
+        "class_num": "8232", 
+        "course": "3225L", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Veronica Brewer"
+            ], 
+            "location": "CLI 0002", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-02-29"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Veronica Brewer"
+            ], 
+            "location": "CLI 0002", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-02-29"
+        }
+    ]
+}

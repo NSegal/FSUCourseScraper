@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers techniques and specific skills of playing and coaching operatic repertory.", 
+        "number": "5747", 
+        "subject": "MVK", 
+        "title": "Techniques of Opera Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

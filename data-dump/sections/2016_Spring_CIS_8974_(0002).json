@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-TDF (1821)", 
+    "basic": {
+        "class_num": "1821", 
+        "course": "8974", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "CIS", 
+        "type": "TDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Daniel Schwartz"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes strategies and tools for developing employment and investment in\u00a0 state and local economies. Considers programs targeted to depressed urban neighborhoods, rural communities, downtown commercial areas and specific business sectors.", 
+        "number": "5540", 
+        "subject": "URP", 
+        "title": "State and Local Economic Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

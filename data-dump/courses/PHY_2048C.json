@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with an understanding of how and why things move. Topics covered include kinematics, forces, energy, momentum, oscillations, and thermodynamics. The course is intended for physical science majors and engineers and to be taken as a sequence with General Physics B (PHY 2049C) and Intermediate Modern Physics (PHY 3101). Completing Modern Physics entitles students to a minor in physics. Calculus is used in this course.", 
+        "number": "2048C", 
+        "subject": "PHY", 
+        "title": "General Physics A"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "5.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the physiological and social basis of patient and physician behavior and the influence of these factors on health, illness, and the practice of medicine.", 
+        "number": "6821", 
+        "subject": "BMS", 
+        "title": "Medicine & Behavior I"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

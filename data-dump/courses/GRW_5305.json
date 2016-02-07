@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed study through readings in the original texts of selected Greek plays. May be repeated to a maximum of six semester hours.", 
+        "number": "5305", 
+        "subject": "GRW", 
+        "title": "Studies in Greek Drama"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

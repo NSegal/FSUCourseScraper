@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows athletic training/sports medicine students observe practitioners in the allied and affiliate site settings, including medical doctors, nurse practitioners, pharmacists, chiropractors, off-campus certified athletic trainers, and others in the sports medicine setting.", 
+        "number": "4947", 
+        "subject": "ATR", 
+        "title": "General Medical Issues Clinical"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prequisite: ATR 4932.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

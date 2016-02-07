@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the history and principles of speechwriting, the ethical issues involved, and speechwriting skills based on sound principles of\u00a0 communication.", 
+        "number": "4605", 
+        "subject": "SPC", 
+        "title": "The Principles of Speechwriting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COM 3110.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

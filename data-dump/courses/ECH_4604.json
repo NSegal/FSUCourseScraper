@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in a two-semester sequence on the analysis, synthesis, and design of chemical processes, preparing students for engineering practice. Students integrate knowledge from prior courses with process economics, computer-aided design, engineering standards, and realistic constraints to solve open-ended process problems.", 
+        "number": "4604", 
+        "subject": "ECH", 
+        "title": "Chemical Engineering Process Design I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisites: ECH 4404L and ECH 4504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is repeatable up to three times.", 
+        "number": "6918", 
+        "subject": "MAR", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission from the associate dean for academic programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

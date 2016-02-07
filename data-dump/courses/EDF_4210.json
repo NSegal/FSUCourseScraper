@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to concepts of human development, learning, and motivation as foundations for the planning and implementation of classroom instruction. Students are expected to acquire and use theoretical knowledge to inform decisions about strategies for helping learners develop, learn, and achieve.", 
+        "number": "4210", 
+        "subject": "EDF", 
+        "title": "Educational Psychology: Developing Learners"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

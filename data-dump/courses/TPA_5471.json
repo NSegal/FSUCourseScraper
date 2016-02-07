@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of effective leadership practices in the arts. The course also allows students to attain knowledge and skills needed to manage complex organizations and to coordinate effectively and manage personnel in an arts organization.", 
+        "number": "5471", 
+        "subject": "TPA", 
+        "title": "Leadership and Organizational Management in Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

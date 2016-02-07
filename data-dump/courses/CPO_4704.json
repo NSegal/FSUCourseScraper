@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores three questions related to welfare states: the evolution of welfare states in different societies, how the welfare state has developed in the modern era, and how welfare states in other countries can lead to better understanding of American welfare politics and policies.", 
+        "number": "4704", 
+        "subject": "CPO", 
+        "title": "Comparative Welfare States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

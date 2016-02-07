@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers the opportunity to follow a specific theme that may extend over a brief period or over centuries. Course material is often supplemented by audio visuals. May be repeated to a maximum of nine semester hours.", 
+        "number": "5595", 
+        "subject": "GEW", 
+        "title": "Studies in a Theme"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the basic theories and terminology of customer relationship management. Special emphasis is placed on customer retention and technological tools for enhancing customer relationships.", 
+        "number": "4860", 
+        "subject": "MAR", 
+        "title": "Customer Relationship Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a basic knowledge of multimedia hardware and software systems, particularly as they relate to music. Students develop multimedia projects. May be repeated to a maximum of six semester hours.", 
+        "number": "5536", 
+        "subject": "MUS", 
+        "title": "Multimedia for Musicians"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUS 3500 or MUS 3540 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

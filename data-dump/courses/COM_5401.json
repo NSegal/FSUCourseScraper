@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the field of communication through the study of key theories of human communication research.", 
+        "number": "5401", 
+        "subject": "COM", 
+        "title": "Analysis of Communication Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course integrates the major themes in the FSU-Teach program: infusion of technology in representation, analysis, modeling, assessment, and contextualization of the content; field-based experiences; as well as equity in an intellectually challenging culminating experience before students start teaching. Students must complete this course prior to enrolling in the Apprentice Teaching course and the seminar course (SMT 4945 and SMT 4930) of the FSU-Teach program.", 
+        "number": "4664", 
+        "subject": "SMT", 
+        "title": "Project Based Instruction (FSU-Teach)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043, SMT 1053, and SMT 3100. Corequisite: Successful completion of or current enrollment in SMT 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

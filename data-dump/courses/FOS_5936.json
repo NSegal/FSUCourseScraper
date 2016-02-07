@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an investigation of current research related to selected topics in food science and technology.", 
+        "number": "5936", 
+        "subject": "FOS", 
+        "title": "Selected Topics in Food Science and Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FOS 4114C and biochemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

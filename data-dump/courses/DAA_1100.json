@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops basic techniques and understanding of the art of contemporary dance. Includes some theoretical study of the history of the art form. May be repeated to a maximum of nine semester hours.", 
+        "number": "1100", 
+        "subject": "DAA", 
+        "title": "Beginning Contemporary Dance I-Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course dicusses the overall determinants of pace and structure of development, and specific issues, e.g., industrialization, human resources, foreign sector, income distribution, rural development, technology, etc.", 
+        "number": "5015", 
+        "subject": "ECS", 
+        "title": "Economic Development: Theory and Problems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

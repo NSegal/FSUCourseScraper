@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (1899)", 
+    "basic": {
+        "class_num": "1899", 
+        "course": "4763", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CJE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Michael Zinszer"
+            ], 
+            "location": "HOL B0207", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

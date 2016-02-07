@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on many topics including principal components and factor analysis, canonical correlation, discriminant analysis, multivariate analysis of variance, multidimensional contingency tables, and cluster analysis. Subsequent credit for STA 5707 is not permitted.", 
+        "number": "4702", 
+        "subject": "STA", 
+        "title": "Applied Multivariate Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 4203 or STA 4322.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course selects a specific category of sound, music, and a specific visual medium, photography, to explore the nature of each and to examine how the aural and visual interact today.", 
+        "number": "2057", 
+        "subject": "IFS", 
+        "title": "Seeing Sound, Hearing Pictures: The Interaction of Music and Photography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

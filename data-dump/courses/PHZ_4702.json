@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in a series of two introductory courses on the applications of physics in biology and medicine. The course discusses applications of classical mechanics, hydrodynamics, and thermodynamics to motion, to the structure of the musculoskeletal, respiratory, and circulatory systems, as well as to the biology of the cell. The course is intended for students preparing for graduate studies in the biological sciences, for medical school, or for medical professions such as physical therapy and nursing.", 
+        "number": "4702", 
+        "subject": "PHZ", 
+        "title": "Biomedical Physics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 2053C and PHY 2054C or PHY 2048C and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

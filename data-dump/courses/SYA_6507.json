@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the theoretical and practical issues involved in writing a scholarly paper. Topics covered include the structure of a sentence, transitions between sentences and paragraphs, punctuation, the organization of each section of a scholarly paper, and the review process. The course is designed to be useful to graduate students at any stage of their program.", 
+        "number": "6507", 
+        "subject": "SYA", 
+        "title": "Writing Seminar for Social Scientists"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

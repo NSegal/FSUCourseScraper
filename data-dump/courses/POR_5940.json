@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of three semester hours may apply to the master's degree. May be repeated to a maximum of five semester hours.", 
+        "number": "5940", 
+        "subject": "POR", 
+        "title": "Teaching Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 5.00"
+    }
+}

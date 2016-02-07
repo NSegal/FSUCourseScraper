@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an orientation designed to increase first-year student success, introduce departmental concentrations, and explore career possibilities. (S/U grade only.)", 
+        "number": "1000", 
+        "subject": "ART", 
+        "title": "Success Strategies in Art and Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

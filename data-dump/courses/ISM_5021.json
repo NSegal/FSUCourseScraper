@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an applied course in concepts and techniques used in the design andimplementation of management information systems and decision support systems, with emphasis on management of these systems.", 
+        "number": "5021", 
+        "subject": "ISM", 
+        "title": "Information and Technology Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

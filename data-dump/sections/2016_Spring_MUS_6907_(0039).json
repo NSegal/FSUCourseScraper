@@ -1,0 +1,26 @@
+{
+    "_unique": "0039-DIS (6505)", 
+    "basic": {
+        "class_num": "6505", 
+        "course": "6907", 
+        "season": "Spring", 
+        "solus_id": "0039", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Judy Bowers"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

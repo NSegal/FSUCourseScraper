@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Classic, Romantic, and twentieth-century styles, analysis, and writing skills.", 
+        "number": "5587", 
+        "subject": "MUT", 
+        "title": "Classic, Romantic, and 20th-Century Styles"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

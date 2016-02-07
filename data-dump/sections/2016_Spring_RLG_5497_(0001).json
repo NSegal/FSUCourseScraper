@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (9286)", 
+    "basic": {
+        "class_num": "9286", 
+        "course": "5497", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "RLG", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:15:00", 
+            "instructors": [
+                "Francois Dupuigrenet"
+            ], 
+            "location": "WMS 0002", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

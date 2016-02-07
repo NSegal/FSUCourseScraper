@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course carefully defines corruption and examines its causes and effects, both at the level of the individual and at the level of the society. Different theoretical models of corruption are discussed, along with empirical studies and various successful and unsuccessful anti-corruption policies in a number of countries.", 
+        "number": "4452", 
+        "subject": "ECP", 
+        "title": "Economics of Corruption"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

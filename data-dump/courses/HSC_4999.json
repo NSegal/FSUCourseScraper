@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This tutorial consists of small group discussions or project work. Topics selected in contemporary issues or current research. Maximum enrollment of ten students per tutorial. May be repeated when topics change to a maximum of four semester hours.", 
+        "number": "4999", 
+        "subject": "HSC", 
+        "title": "Tutorial in Health Promotion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

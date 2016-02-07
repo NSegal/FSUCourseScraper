@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes the reading and study of some of the outstanding modern prose writers of Latin America, such as Azuela, Carpentier, Borges, Rulfo, Fuentes, Garcia Marquez, Machado de Assis, and Amado. The course is taught in English.", 
+        "number": "3130", 
+        "subject": "SPT", 
+        "title": "Latin American Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

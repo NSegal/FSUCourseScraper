@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores the process and methods of trend analysis and fashion forecasting with a dual focus on both consumer and business aspects.", 
+        "number": "3809", 
+        "subject": "CTE", 
+        "title": "Trend Analysis and Forecasting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 2800, ECO 2013, and ECO 2023. Corequisite: CTE 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

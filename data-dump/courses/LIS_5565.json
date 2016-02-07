@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the study of media for young adults in relation to their characteristics, needs, interests, and abilities. Evaluation and use of printed and audiovisual materials.", 
+        "number": "5565", 
+        "subject": "LIS", 
+        "title": "Information Needs of Young Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

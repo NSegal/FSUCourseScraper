@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (2205)", 
+    "basic": {
+        "class_num": "2205", 
+        "course": "3252", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "COP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Richard Hurst"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

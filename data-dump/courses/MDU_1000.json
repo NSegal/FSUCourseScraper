@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is intended for all undergraduates who are seriously considering a career in medicine. Students learn how to sucessfully prepare for the academic, personal, and professional rigors of medical school and for a career in medicine. Students are encouraged to take this course early in their undergraduate years, so they can pursue the appropriate academic coursework, volunteer, and earn medical experience that will help them become succesful medical school applicants and health professionals.", 
+        "number": "1000", 
+        "subject": "MDU", 
+        "title": "Careers in Medicine: Preparation to Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

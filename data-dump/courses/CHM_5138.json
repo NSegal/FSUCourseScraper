@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers principles and techniques of ion formation, focusing, collision, fragmentation, and reaction; interpretation of mass spectra; mass analyzers and ion traps; selected chemical, analytical and biological applications.", 
+        "number": "5138", 
+        "subject": "CHM", 
+        "title": "Mass Spectrometry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

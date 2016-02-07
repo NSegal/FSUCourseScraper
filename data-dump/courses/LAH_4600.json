@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on Latin America's largest and most populous nation. Themes include the evolution of Brazil's multi-ethnic society, the struggle for economic development, and the search for a viable political regime.", 
+        "number": "4600", 
+        "subject": "LAH", 
+        "title": "History of Brazil"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

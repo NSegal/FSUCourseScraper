@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of methods and tools used by information professionals for research and data analysis. It focuses on both quantitative and qualitative methods in information technology professions including surveys, interviews, need assessments, requirements analysis, and transaction log analysis. It provides students with the opportunity to conceptualize an IT problem, develop a research plan, and design methods for assessing, collecting, analyzing, and reporting research data.", 
+        "number": "3201", 
+        "subject": "LIS", 
+        "title": "Research and Data Analysis in Information Technology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 2780, LIS 3267, LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

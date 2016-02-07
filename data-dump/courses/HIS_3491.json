@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the development of public health and the history of medicine in the United States from the colonial period to the present. Topics cover changes in medical knowledge, the medical profession, government responsibilities, and public responses; how individuals accept, modify, or reject medical authority; how race, class, gender, and ethnicity shape health practices and the delivery of medical care; how the health of a community can be protected; and what constitutes a public health hazard.", 
+        "number": "3491", 
+        "subject": "HIS", 
+        "title": "Medicine and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

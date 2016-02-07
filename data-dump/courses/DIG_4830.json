@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is intended to develop knowledge of the historical and social forces that have shaped and continue to shape art and design in contemporary culture.", 
+        "number": "4830", 
+        "subject": "DIG", 
+        "title": "Contemporary Design Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

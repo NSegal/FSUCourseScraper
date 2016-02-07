@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamentals of neural networks: dynamical systems, associative memories, perceptrons, supervised/unsupervised learning algorithms. Applications in signal processing, pattern recognition, control, optimization, and communications.", 
+        "number": "4810", 
+        "subject": "EEL", 
+        "title": "Introduction to Neural Networks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEE 3300 and EEL 3135.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the key concepts and approaches of Agile Project Management and prepares students to sit for the PMI-ACP certification exam.", 
+        "number": "5452", 
+        "subject": "COM", 
+        "title": "Agile Project Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: COM 5450.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

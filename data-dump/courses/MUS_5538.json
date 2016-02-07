@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides discussions and experiences in music instructional design. May be repeated to a maximum of six semester hours.", 
+        "number": "5538", 
+        "subject": "MUS", 
+        "title": "Computers in Music Design Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUS 5536.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

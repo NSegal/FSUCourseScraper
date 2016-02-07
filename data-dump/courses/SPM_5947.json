@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students the opportunity for practical experience in various areas of sport management. An open forum is established so as to provide an insight into various related topics. May be repeated to a maximum of twelve semester hours when topics change.", 
+        "number": "5947", 
+        "subject": "SPM", 
+        "title": "Practicum in Sport Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses performance interventions in terms of changes in organizational environment, structure, processes, and workforce performance. The course examines the issues surrounding planning, implementing, sustaining, and evaluating changes that result from instructional and non-instructional interventions which target the overall improvement of organizational performance.", 
+        "number": "6636", 
+        "subject": "EME", 
+        "title": "A Systems Approach to the Management of Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

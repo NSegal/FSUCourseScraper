@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the peoples, cultures, and places of the former Soviet Union. Discusses the region's natural environment, historical development, and contemporary politics.", 
+        "number": "4554", 
+        "subject": "GEA", 
+        "title": "Russia and Southern Eurasia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces prospective teachers of students with visual impairments, orientation and mobility specialists, and rehabilitation teachers to the anatomy and physiology of the human eye, the visual mechanism, its embryologic development, and various eye pathologies. Particular emphasis is placed on the impact of these eye pathologies on the visual functioning of the individual.", 
+        "number": "4121", 
+        "subject": "EVI", 
+        "title": "Anatomy and Diseases of the Eye for Blindness Professionals"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

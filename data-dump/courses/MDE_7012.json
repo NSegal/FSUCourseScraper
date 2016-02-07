@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a ten-week, non-credit elective course designed to improve first- and second-year medical students' health and well-being, by combining yoga and mindfulness techniques with an educational component focusing on scientific research mind-body medicine and neuroscience.", 
+        "number": "7012", 
+        "subject": "MDE", 
+        "title": "Mind-Body Health"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "0.00"
+    }
+}

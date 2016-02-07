@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a historical and critical examination of the intellectual traditions and foundational literature of library and information science (LIS). Readings in seminal works provide a rich background and context for analyzing and understanding current problems and future trends in LIS and developing research and applications to solve fundamental problems.", 
+        "number": "6024", 
+        "subject": "LIS", 
+        "title": "Seminar in the Historical Foundations of Library and Information Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

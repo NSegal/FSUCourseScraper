@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This fieldwork course affords students the experience of excavation through an approved archaeological field school or project. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4780", 
+        "subject": "CLA", 
+        "title": "Classical Archaeology: Fieldwork"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

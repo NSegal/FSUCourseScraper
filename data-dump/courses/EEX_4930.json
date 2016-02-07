@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics vary from term to term. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "EEX", 
+        "title": "Special Topics in Special Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

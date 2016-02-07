@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides experience in conceptualizing, creating, and critiquing two-dimensional compositions using the elements and principles of design.", 
+        "number": "1201C", 
+        "subject": "ART", 
+        "title": "Two-Dimensional Foundations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

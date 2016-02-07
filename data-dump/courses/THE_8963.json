@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is to be taken at the end of the first semester of residency and shows that the student is qualified to continue the program successfully. The course form varies with discipline and skills being demonstrated. May be repeated with consent of program director.", 
+        "number": "8963", 
+        "subject": "THE", 
+        "title": "MFA Qualifying Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

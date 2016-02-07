@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course presents the latest tools, resources, and techniques of searching online database systems (such as DialogWeb and Lexis/Nexis), various Web search tools (such as search engines, directories, and meta-search tools), and methods of delivering search results to clients.", 
+        "number": "5008", 
+        "subject": "LIS", 
+        "title": "Advanced Online Searching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5603.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

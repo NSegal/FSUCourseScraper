@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course adopts various topics, focusing on a regional Mesoamerican civilization, such as the Maya, Olmec, or Mixtec. Aspects of prehistoric society covered include: subsistence systems, trade, social and political organizations , ideology, calendrics and astronomy, language and writing, artifacts, sculpture, and painting. The course takes the format of a seminar, including presentations, research reports, and discussion. May be repeated to a maximum of nine semester hours.", 
+        "number": "5163", 
+        "subject": "ANG", 
+        "title": "Regional Civilizations in Ancient Mesoamerica"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

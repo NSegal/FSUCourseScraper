@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a one semester resident internship as a student teacher in approved public schools.", 
+        "number": "4940", 
+        "subject": "MUE", 
+        "title": "Internship in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUE 3334, MUE 4392, completion of all coursework in music education, school system security clearance (background check, fingerprinting), and successful completion of all state teacher certification exams.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "12.00"
+    }
+}

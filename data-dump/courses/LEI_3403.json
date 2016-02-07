@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with a comprehensive experience in recreation program implementation.", 
+        "number": "3403", 
+        "subject": "LEI", 
+        "title": "Applied Recreation Programming"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LEI 3004 and LEI 3420. Corequisite: LEI 3435.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

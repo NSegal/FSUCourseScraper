@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the principles of collection development and intelligence gathering, including selection, acquisition, distribution, circulation, preservation, and deselection of information resources in academic, public, and special library environments.", 
+        "number": "5511", 
+        "subject": "LIS", 
+        "title": "Management of Information Collections"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

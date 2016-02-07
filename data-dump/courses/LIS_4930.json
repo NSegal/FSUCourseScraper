@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a directed and supervised investigation of selected problems, issues, and trends in information studies, with an emphasis on research. Each offering is anticipated to be different, given the evolving nature of the subject matter. May be repeated to a maximum of six semester hours.", 
+        "number": "4930", 
+        "subject": "LIS", 
+        "title": "Special Topics in Information Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

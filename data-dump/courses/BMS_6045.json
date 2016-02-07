@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides core knowledge about the two principle regulatory systems in the human body, the autonomic nervous system and the endocrine system, and the closely related reproductive system in health and disease. The course integrates knowledge from across the traditional disciplines in basic, behavioral and clinical sciences and applies that knowledge in understanding and treating patients.", 
+        "number": "6045", 
+        "subject": "BMS", 
+        "title": "Med 3 Human Systems in Health and Disease: Autonomic Nervous System, Endocrine, Reproductive Systems"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "8.00 - 10.00"
+    }
+}

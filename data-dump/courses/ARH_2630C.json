@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys special topics in African-American art and aesthetics. Students explore power dynamics, social protest, artistic accommodation, criticism, perception, content, and motivation as historical and contemporary influences on and in African-American art.", 
+        "number": "2630C", 
+        "subject": "ARH", 
+        "title": "Survey in African-American Art and Aesthetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

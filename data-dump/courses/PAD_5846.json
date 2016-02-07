@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses theory and critical issues in health policy formation, implementation, and administration. Major topics include health politics, the economics of health care, regulatory issues, access, and payment issues.", 
+        "number": "5846", 
+        "subject": "PAD", 
+        "title": "Health Policy and Public Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing, PAD 5700, and PAD 5701 or equivalents.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

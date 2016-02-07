@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (8594)", 
+    "basic": {
+        "class_num": "8594", 
+        "course": "5751", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Mark Kasper"
+            ], 
+            "location": "SAN 0407", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

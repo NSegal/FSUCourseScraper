@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to current state-of-the-art trends in dance history, theory and research methodology. As the field of dance scholarship is currently undergoing dramatic, paradigm-shifting changes, the content of the course changes each semester to include the most current information. May be repeated to a maximum of nine semester hours.", 
+        "number": "5126", 
+        "subject": "DAN", 
+        "title": "Current Issues in Dance History, Theory, and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 3.00"
+    }
+}

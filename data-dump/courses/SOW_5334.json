@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an advanced understanding of the models for planned change in organizational and community systems. In accordance with systems theory, organizations and communities are understood as interdependent, complex, open systems influenced by other micro, mezzo, and macro systems in the larger environment.", 
+        "number": "5334", 
+        "subject": "SOW", 
+        "title": "Organizational and Community System Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

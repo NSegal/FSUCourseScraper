@@ -1,0 +1,24 @@
+{
+    "_unique": "0001-INT (9678)", 
+    "basic": {
+        "class_num": "9678", 
+        "course": "5947", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SSE", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

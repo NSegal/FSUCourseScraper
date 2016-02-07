@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces biological topics where mathematical and computational methods are applicable, including discrete and continuous models of biological systems, numerical methods for differential equations, nonlinear differential equations, and stochastic models.", 
+        "number": "5486", 
+        "subject": "MAP", 
+        "title": "Computational Methods in Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAP 5485.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

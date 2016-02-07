@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Professional on-the-job training in an area of specialization.", 
+        "number": "5955", 
+        "subject": "FIL", 
+        "title": "Apprenticeship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

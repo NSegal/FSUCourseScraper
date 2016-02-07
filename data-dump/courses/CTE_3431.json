@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics in product development. Focus on stages of product development for specific end use areas.", 
+        "number": "3431", 
+        "subject": "CTE", 
+        "title": "Product Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 1401C, CTE 3763, CTE 3809, and CTE 4443.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

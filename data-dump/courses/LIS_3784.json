@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches the concepts and practices of structuring information for use in activities inherent to data- and information-based technology design. Topics include the surrogation and aggregation of information entities and the role of models in representing information appropriately.", 
+        "number": "3784", 
+        "subject": "LIS", 
+        "title": "Information Organization and Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 2780.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

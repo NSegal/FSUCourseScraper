@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics included are general linear model applications including multiple regression, ANOVA, ANCOVA, aptitude-treatment-interaction analysis, and other techniques.", 
+        "number": "5401", 
+        "subject": "EDF", 
+        "title": "General Linear Model Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

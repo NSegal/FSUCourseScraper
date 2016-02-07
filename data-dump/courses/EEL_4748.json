@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to work on individual projects selected with consent of instructor. Selected lectures and an open-door Motorola 68000 laboratory.", 
+        "number": "4748", 
+        "subject": "EEL", 
+        "title": "Embedded Microcomputer Design Project"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 4746 and EEL 4746L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

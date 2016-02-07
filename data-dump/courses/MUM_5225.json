@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history and fundamental principles of the modern mechanism of the piano and theory of piano tuning.", 
+        "number": "5225", 
+        "subject": "MUM", 
+        "title": "Theory of Piano Technology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

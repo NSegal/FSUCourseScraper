@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Before attempting this course, satisfaction of the University's requirement for computer skills is recommended.", 
+        "number": "4410L", 
+        "subject": "CHM", 
+        "title": "Physicochemical Measurements and Techniques I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CHM 4410.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

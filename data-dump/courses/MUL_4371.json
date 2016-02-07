@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys recent musical techniques and aesthetics as revealed in selected works.", 
+        "number": "4371", 
+        "subject": "MUL", 
+        "title": "Music since World War II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

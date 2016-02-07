@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5555L", 
+        "subject": "FIL", 
+        "title": "Film Editing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

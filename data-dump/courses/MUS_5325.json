@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an understanding the world of commercial music and techniques in personal marketability.", 
+        "number": "5325", 
+        "subject": "MUS", 
+        "title": "Survey of the Music Industry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

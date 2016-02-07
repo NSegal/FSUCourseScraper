@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of twelve semester hours; however, only a maximum of four semester hours may apply to the master's degree.", 
+        "number": "5909", 
+        "subject": "HIS", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

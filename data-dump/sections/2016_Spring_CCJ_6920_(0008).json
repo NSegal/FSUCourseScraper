@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-DSC (11024)", 
+    "basic": {
+        "class_num": "11024", 
+        "course": "6920", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "CCJ", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "William Bales"
+            ], 
+            "location": "EPS 0214", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

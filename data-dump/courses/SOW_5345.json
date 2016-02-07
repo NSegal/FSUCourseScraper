@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines theories of administrative practice and provides skill development in executive leadership, decision-making, stratetic planning, and client-centered management. This course adopts a problem-solving approach and exposes students to a variety of complex issues present in the operation and management of social services entities. This course is taught from an interdisciplinary perspective so that students may fully explore the underlying ethical, social, legal, psychological, and political dynamics present when policy must be put into practice.", 
+        "number": "5345", 
+        "subject": "SOW", 
+        "title": "Advanced Social Services Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers methods in general navigation and and environmental awareness for learners with visual impairments. Travel skills and techniques are gained while working under simulated conditions in various environments, through the use of existing sensory modalities and appropriate mobility techniques. Emphasis is on travel within the outdoor environments.", 
+        "number": "5222", 
+        "subject": "EVI", 
+        "title": "Advanced Orientation and Mobility"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4121, EVI 4220, EVI 4314 or EVI 5316, and EVI 5221.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

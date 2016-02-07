@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a dynamic examination of managerial concepts of human behavior in work organizations.", 
+        "number": "5245", 
+        "subject": "MAN", 
+        "title": "Organizational Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

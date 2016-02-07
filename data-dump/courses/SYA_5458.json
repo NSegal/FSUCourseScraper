@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with the basic data management skills necessary for carrying out quantitative analysis and presenting the results to both lay and professional audiences in public health.", 
+        "number": "5458", 
+        "subject": "SYA", 
+        "title": "Social Statistics and Data Analysis for Public Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

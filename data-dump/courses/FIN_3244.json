@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on money and capital markets, financial institutions, financial systems, and financial environment including an introduction to investments. Emphasizes the microfinancial decision-making process of the business firm.", 
+        "number": "3244", 
+        "subject": "FIN", 
+        "title": "Financial Markets, Institutions, and International Finance Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ACG 2021 and ECO 2013.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

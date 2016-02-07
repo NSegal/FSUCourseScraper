@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the pedagogical content knowledge needed to teach earth/space science.", 
+        "number": "4835C", 
+        "subject": "SCE", 
+        "title": "Teaching Earth and Space Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (12184)", 
+    "basic": {
+        "class_num": "12184", 
+        "course": "6932", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Leonard Tung"
+            ], 
+            "location": "CE2 B0135", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

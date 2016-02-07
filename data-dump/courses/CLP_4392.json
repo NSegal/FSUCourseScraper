@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on understanding psychological factors relevant to the development and maintenance of criminal behavior. As a point of reference for understanding the intrapersonal factors contributing to criminality, the course focuses in detail on the clinical phenomenon of psychopathic personality, or \"psychopathy\", and the related concept of antisocial personality disorder.", 
+        "number": "4392", 
+        "subject": "CLP", 
+        "title": "Psychology of Criminal Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

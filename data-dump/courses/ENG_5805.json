@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the materials and mechanics of text in its history of production. Particular topics vary, but each course taught under this number takes the phenomenon of textual production as its core, which might be inscription on stone, or chirographic text, or the evolution of print, or visual and verbal text, or the development of digital media. Students learn to describe and analyze the key historical causes, effects, and attributes of particular materials and forms of textual producation; the reasons behind the development of the particular physical attributes of any medium; and students acquire an ability to use the critical vocabulary of the broader fleild.", 
+        "number": "5805", 
+        "subject": "ENG", 
+        "title": "Studies in Textual Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

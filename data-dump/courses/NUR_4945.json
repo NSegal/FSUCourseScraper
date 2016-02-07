@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course occurs following the completion of all required nursing courses. This capstone clinical experience requires the student to demonstrate competencies consistent with program outcomes. Synthesis of core values, core competencies, core knowledge, cultural humility, and role development is expected. The student collaborates with the faculty and the preceptor in choosing the care setting as well as in planning and organizing the learning experience, to facilitate a successful transition into the profession.", 
+        "number": "4945", 
+        "subject": "NUR", 
+        "title": "Professional Nursing Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: All required courses in the Nursing major (except required nursing electives).", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

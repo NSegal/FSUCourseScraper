@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to design as process and product: with applications in functional, structural, and decorative design; optical illusions; art elements and principles; design analysis.", 
+        "number": "3201", 
+        "subject": "CTE", 
+        "title": "Design Elements and Principles"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

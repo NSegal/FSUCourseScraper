@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (155)", 
+    "basic": {
+        "class_num": "155", 
+        "course": "6937", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ARE", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:45:00", 
+            "instructors": [
+                "Jeff Broome"
+            ], 
+            "location": "WJB 2008", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the political and governmental system of Great Britain within a comparative framework. Comparison and contrast with the United States emphasized.", 
+        "number": "3123", 
+        "subject": "CPO", 
+        "title": "Comparative Government and Politics: Great Britain"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course concentrates on costume design for film and television. In the course, students generate designs for a variety of projects, research work for working film and television, and understand the costume design process for film, television, and related fields.", 
+        "number": "5336", 
+        "subject": "TPA", 
+        "title": "Costume Design for Film and Television"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

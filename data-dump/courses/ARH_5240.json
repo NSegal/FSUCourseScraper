@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Generally called Gothic art, this course includes the cathedrals (including their sculpture and stained glass) built by bishops and towns, as well as the castles, sumptuous arts, and manuscripts commissioned by princes and lords. Topics of special interest include the Black Death, devotional art, civic expression, and the arts of the courts.", 
+        "number": "5240", 
+        "subject": "ARH", 
+        "title": "Later Medieval Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

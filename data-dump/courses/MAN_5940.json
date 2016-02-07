@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of three hours may apply to the masters degree.", 
+        "number": "5940", 
+        "subject": "MAN", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of associate dean for academic programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students to use discourse and conversation analysis\u00a0\u00a0 techniques in their research.", 
+        "number": "6499", 
+        "subject": "EDF", 
+        "title": "Discourse and Conversation Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

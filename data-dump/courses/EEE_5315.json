@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the design of integrated circuits, applications, solid-state-device switching characteristics, memory, computer-aided design, and layout.", 
+        "number": "5315", 
+        "subject": "EEE", 
+        "title": "Digital integrated circuit design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

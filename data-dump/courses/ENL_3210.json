@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores literature of the Anglo-Saxon and Anglo-Norman periods: Beowulf, Romance of the Rose, Sir Gawain and the Green Knight, and others.", 
+        "number": "3210", 
+        "subject": "ENL", 
+        "title": "Medieval Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

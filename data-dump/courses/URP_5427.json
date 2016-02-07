@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces legal concepts and doctrines relevant to pollution controls and the assessment of environmental impacts. The roles of courts, legislatures, and administrative agencies, in responding to the problems and formulating control strategies, are examined.", 
+        "number": "5427", 
+        "subject": "URP", 
+        "title": "Environmental Legislation and Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

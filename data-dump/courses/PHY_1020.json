@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for non-science majors and contains the essential physics students need in order to understand today's core science and technology issues, and to become the next generation of world leaders. The course empowers students possessing any level of scientific background with the tools they need to make informed decisions and to argue their views persuasively with anyone, expert or otherwise.", 
+        "number": "1020", 
+        "subject": "PHY", 
+        "title": "Physics and Technology for Future Presidents"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides the foundation for advanced study in communication science and disorders. Understanding the normal structure and function brings about an increased understanding of the pathology present in the myriad of patient populations encountered in future practical experiences as an SLP student clinician and, later, in practice. Students learn about the nature of communication and swallowing, primarily their anatomic, physiologic, acoustic, and perceptual characteristics.", 
+        "number": "5103", 
+        "subject": "SPA", 
+        "title": "Anatomy and Physiology: Speech, Language, and Hearing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

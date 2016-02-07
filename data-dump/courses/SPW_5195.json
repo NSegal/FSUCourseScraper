@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on specific literary and cultural topics in the field of Hispanic Studies from any region or period of the Spanish-speaking\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 world.", 
+        "number": "5195", 
+        "subject": "SPW", 
+        "title": "Studies in Hispanic Literatures and Cultures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "SPW3030,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

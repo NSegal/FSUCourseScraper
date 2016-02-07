@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the cardiorespiratory system during exercise and the adjustments within the system to exercise training and other stressors.", 
+        "number": "6365", 
+        "subject": "PET", 
+        "title": "Exercise and the Cardiorespiratory System"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Advanced exercise physiology.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

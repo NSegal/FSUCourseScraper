@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of representative choral works for men's voices. Open to all men enrolled in the University. May be repeated to a maximum of four semester hours.", 
+        "number": "4333", 
+        "subject": "MUN", 
+        "title": "Men Glee Club (Collegians)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

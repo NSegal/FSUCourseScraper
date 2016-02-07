@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the Roman family in its various facets. Its focus will not be only on the nuclear family but also on the broader concept of family, which includes slaves and dependents.", 
+        "number": "3502", 
+        "subject": "CLA", 
+        "title": "Women, Children, and Slaves in Ancient Rome: The Roman Family"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

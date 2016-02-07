@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies how contemporary Turkish films confront identity issues in a Muslim country unique for being a secular democracy and a bridge culture between East and West. Students analyze how filmmakers address the sociocultural dilemmas facing the individual in Turkish society (modern/traditional, eastern/western, urban/rural, religious/secular, nationalist/minority, etc.). The course also explores in detail the aesthetic vision of a sample of successful Turkish filmmakers. Taught in English, course materials in English, and all films subtitled in English.", 
+        "number": "3053", 
+        "subject": "TUT", 
+        "title": "Turkish Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

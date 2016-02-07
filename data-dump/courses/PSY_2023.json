@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is intended for psychology majors who are uncertain about their career goals. Students learn what career opportunities are available in psychology and related fields and what these careers involve. Students are encouraged to take this course early in their undergraduate years so they can pursue opportunities at FSU that will help prepare them for their chosen career paths.", 
+        "number": "2023", 
+        "subject": "PSY", 
+        "title": "Careers in Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

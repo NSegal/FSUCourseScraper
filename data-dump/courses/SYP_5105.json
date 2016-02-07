@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the major theoretical orientations in contemporary social psychology. Special attention is given to perspectives such as symbolic interactionism, social learning theory, expectation states/status characteristics theory, emotions work theory, and Goffman's dramatization theory.", 
+        "number": "5105", 
+        "subject": "SYP", 
+        "title": "Theories of Social Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the relationships among race, ethnicity, and crime in the justice system. The effect of social policy on racial and ethnic inequality is studied, and theories of ethnic and racial justice are presented in terms of their effect on crime and criminal justice.", 
+        "number": "5669", 
+        "subject": "CCJ", 
+        "title": "Race, Ethnicity, Crime and Social Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

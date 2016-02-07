@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the nature of archives; various types of records; arranging and processing archives; restoring and protecting records; archival institutions, policies, and procedures. The course does not count as credit toward the history major.", 
+        "number": "4080", 
+        "subject": "HIS", 
+        "title": "Archiving History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of speaking and language skills necessary for instruction in a university classroom. Emphasizes content-specific varieties of American English; practice in conversational management required for instruction. May be repeated to a maximum of eight semester hours.", 
+        "number": "4831", 
+        "subject": "EAP", 
+        "title": "Advanced Spoken English for International Teaching Assistants"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

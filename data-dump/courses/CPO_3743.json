@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the multifaceted ways in which political and economic spheres interrelate. Students will be exposed to relevant debates on democracy and growth, the state's role in the economy, corruption, natural resources, and redistribution.", 
+        "number": "3743", 
+        "subject": "CPO", 
+        "title": "States and Markets"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor's permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

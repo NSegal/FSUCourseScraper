@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the fundamental hardware and software elements of computer graphics systems, including intelligent terminals, communication, and graphic languages; cost effective use of interactive graphics; CAD/CAM; office automation; and computer animation.", 
+        "number": "4730", 
+        "subject": "CAP", 
+        "title": "Computer Graphics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

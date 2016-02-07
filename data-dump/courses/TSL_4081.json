@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the teaching of English learners and relates the techniques to second language acquisition theory addressed in the first ESOL course, Language Principles for Teachers.", 
+        "number": "4081", 
+        "subject": "TSL", 
+        "title": "Teaching English Learners"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: TSL 4080.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

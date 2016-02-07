@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a comprehensive overview of the natural processes associated with water occurrence and resources. Focus is given to water's unique properties, how it occurs and moves through Earth's environment; how it impacts human habitation, and its future as a critical and valuable natural resource. Development of socio-economic concepts of management, supply, use, reclamation, and sustainability are also emphasized.", 
+        "number": "4280", 
+        "subject": "GEO", 
+        "title": "Geography of Water Resources"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

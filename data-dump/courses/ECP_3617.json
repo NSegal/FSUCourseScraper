@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides the theoretical and institutional machinery for analyzing land, housing and mortgage markets, with special attention given to the intended and unintended effects of government regulation of these markets. Important empirical evidence is also reviewed.", 
+        "number": "3617", 
+        "subject": "ECP", 
+        "title": "Land Use, Housing and Government Regulation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

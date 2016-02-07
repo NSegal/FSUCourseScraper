@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with fundamental knowledge about the cultures and history of the Iberian peninsula in an effort to enhance their cultural and historical knowledge. This course also aims to improve their basic communicative skills in Spanish.", 
+        "number": "3510", 
+        "subject": "SPN", 
+        "title": "Cultures of Iberia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400, or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

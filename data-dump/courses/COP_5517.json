@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers all fundamental aspects of generic programming, including generic algorithms, generic iterators, as well as function and predicate objects. Examples are drawn from the FSU and STD template libraries, while techniques for extending these support libraries are covered in the context of a template-graph library. Policy-based design is then used to create generic implementations of several design-pattern implementations, including singleton, smart pointer, and abstract factory.", 
+        "number": "5517", 
+        "subject": "COP", 
+        "title": "Generic Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

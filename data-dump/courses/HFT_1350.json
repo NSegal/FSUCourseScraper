@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for students who have never experienced the game of golf. Students learn the basics of the game in a casual, fun environment. This course counts as credit for a physical education activity course.", 
+        "number": "1350", 
+        "subject": "HFT", 
+        "title": "Golf for Business and Life"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

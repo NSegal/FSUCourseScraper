@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (13377)", 
+    "basic": {
+        "class_num": "13377", 
+        "course": "2099", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "IFS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "08:45:00", 
+            "instructors": [
+                "Michael Buchler"
+            ], 
+            "location": "TBA", 
+            "start_time": "07:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

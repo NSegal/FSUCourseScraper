@@ -1,0 +1,26 @@
+{
+    "_unique": "0023-LEC (13327)", 
+    "basic": {
+        "class_num": "13327", 
+        "course": "2122", 
+        "season": "Spring", 
+        "solus_id": "0023", 
+        "status": "Closed", 
+        "subject": "STA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Megan Duncan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

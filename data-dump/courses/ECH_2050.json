@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes techniques for effective oral communication in settings most frequently encountered by the practicing engineer. Speaking skills are applied in informal presentations, formal presentations, and interviews.", 
+        "number": "2050", 
+        "subject": "ECH", 
+        "title": "Engineering Communications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

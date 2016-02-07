@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the unique characteristics of juvenile offending and victimization by examining the cultural traits that differentiate youths from society in general. In doing so, the class investigates various distinct subcultures globally and the relationship between specific forms of offending and subcultural traits.", 
+        "number": "3013", 
+        "subject": "CJJ", 
+        "title": "Youth Culture and Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

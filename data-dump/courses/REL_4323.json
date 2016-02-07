@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies the religions of the Graeco-Roman world with special emphasis on traditional religious forms, mystery religions, and developments in philosophy. Some attention is given to Judaism, Christianity, and Gnosticism in their broader social, cultural, and historical contexts.", 
+        "number": "4323", 
+        "subject": "REL", 
+        "title": "Religions of the Graeco-Roman World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

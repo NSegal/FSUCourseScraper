@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the design, operation, and management of telecommunication systems including electronic data interchange, office support, transborder information flow, and management support for networking. For MIS majors only.", 
+        "number": "4220", 
+        "subject": "ISM", 
+        "title": "Information and Communications Systems Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 4113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

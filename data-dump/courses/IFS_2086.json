@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course identifies cultural representations of rape and violence in literature, music and the arts and discusses current research in rape myth recognition to explain how these areas are interrelated.", 
+        "number": "2086", 
+        "subject": "IFS", 
+        "title": "Dangerous Liaisons: Rape Myths and Violence in Literature, the Arts, and Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

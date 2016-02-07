@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on active RF/microwave circuit design. Topics include two-port characterization of RF/microwave transistors; matching networks; RF/microwave transistor amplifier design using low-noise, high-gain, broadband and high-power design methods; and RF/microwave transistor oscillator design.", 
+        "number": "5427", 
+        "subject": "EEL", 
+        "title": "RF/Microwave Circuits II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

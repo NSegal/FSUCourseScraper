@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course describes, explains, and evaluates the structure, activities, and functions of political parties in the United States. Examines party organization and leadership, nominations and elections, the American electorate, and political campaigning.", 
+        "number": "3443", 
+        "subject": "POS", 
+        "title": "Political Parties and Campaigning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to microcomputer-based interactive graphics programming in the C language, including the designing and implementation of music computer programs.", 
+        "number": "3530", 
+        "subject": "MUS", 
+        "title": "Beginning C Computer Programming Techniques for Musicians"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

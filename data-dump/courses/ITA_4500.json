@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys Italian culture and civilization and provides a historical perspective to aspects of Italian society.", 
+        "number": "4500", 
+        "subject": "ITA", 
+        "title": "Italian Culture and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ITA 3100 and ITA 3101, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

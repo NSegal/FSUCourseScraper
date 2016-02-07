@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (10860)", 
+    "basic": {
+        "class_num": "10860", 
+        "course": "4244L", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "DIE", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Julia Inglis"
+            ], 
+            "location": "SAN 0101", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

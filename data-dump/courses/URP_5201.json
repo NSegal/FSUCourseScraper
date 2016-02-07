@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the social-science research process in planning. Topics include the linkage between theory and research, conceptualization and operationalization of the research problem, study designs, sampling, data sources and collection techniques, the logic of data analysis, as well as computer use.", 
+        "number": "5201", 
+        "subject": "URP", 
+        "title": "Planning Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

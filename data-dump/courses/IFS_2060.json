@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses how technology is changing the way people learn and what they need to know.", 
+        "number": "2060", 
+        "subject": "IFS", 
+        "title": "21st Century Literacies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

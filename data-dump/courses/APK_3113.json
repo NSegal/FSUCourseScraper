@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers topics involving the development of speed, strength, power, and endurance, and explores specific methods of strength and conditioning.", 
+        "number": "3113", 
+        "subject": "APK", 
+        "title": "Methodology of Strength and Conditioning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisite: ATR 1810.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the concepts and methods of determining income of corporations, partnerships, estates, and trusts for tax purposes as well as the interpretation of Internal Revenue Code, related regulations, and tax advisory services.", 
+        "number": "5015", 
+        "subject": "TAX", 
+        "title": "Federal Income Tax Accounting II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

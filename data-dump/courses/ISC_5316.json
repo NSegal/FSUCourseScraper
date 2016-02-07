@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with high-performance computational tools necessary to investigate problems arising in science and engineering, with an emphasis on combining them to accomplish more complex tasks. A combination of course work and lab work provides the proper blend of theory and practice with problems culled from the applied sciences. Topics include mesh generation, stochastic methods, basic parallel algorithms and programming, numerical optimization and nonlinear solvers.", 
+        "number": "5316", 
+        "subject": "ISC", 
+        "title": "Applied Computational Science II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 5315 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

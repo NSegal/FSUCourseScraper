@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents an overview of the rehabilitation teaching profession and provides practical experience in the basic procedures of rehabilitation teaching. Students develop and apply assessment tools, training plans, and evaluation instruments within an andragogical model.", 
+        "number": "5019", 
+        "subject": "EVI", 
+        "title": "Foundations of Rehabilitation Teaching of the Blind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

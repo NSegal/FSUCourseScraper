@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to produce original student narratives through writing, re-writing, pre-production, production, and post-production stages.", 
+        "number": "5652", 
+        "subject": "RTV", 
+        "title": "Advanced Narrative Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

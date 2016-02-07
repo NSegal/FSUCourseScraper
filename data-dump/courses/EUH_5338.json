@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the social, political, economic, and cultural development of the lands traditionally known as Poland, Hungary, Czechoslovakia, and the Baltic States from the Congress of Vienna to the present. Wherever possible, attempts are made to present issues within a comparative framework.", 
+        "number": "5338", 
+        "subject": "EUH", 
+        "title": "History of East Central Europe, 1815 to the Present"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

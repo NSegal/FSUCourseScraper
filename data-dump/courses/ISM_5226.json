@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides good exposure to the basic telecommunications technology concepts, standards, products and services, and the emerging developments in telecommunications, and provides an understanding of the business context of telecommunication technologies.", 
+        "number": "5226", 
+        "subject": "ISM", 
+        "title": "Network Development and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

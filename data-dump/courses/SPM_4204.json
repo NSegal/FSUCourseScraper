@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to examine major moral/ethical issues within sport. Students are introduced to critical-thinking regarding ethical issues in sport and learn to use moral reasoning to make ethical decisions in sport.", 
+        "number": "4204", 
+        "subject": "SPM", 
+        "title": "Ethics in Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

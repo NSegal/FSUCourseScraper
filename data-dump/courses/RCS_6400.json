@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an in depth and comprehensive examination of major approaches to counseling and psychotherapy in relationship to rehabilitation settings and individuals with disabilities.", 
+        "number": "6400", 
+        "subject": "RCS", 
+        "title": "Advanced Theories and Principles of Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

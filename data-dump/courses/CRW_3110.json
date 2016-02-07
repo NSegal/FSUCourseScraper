@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of and exercises in the elements of fiction: point of view, conflict, characterization, tone, and image.", 
+        "number": "3110", 
+        "subject": "CRW", 
+        "title": "Fiction Technique"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

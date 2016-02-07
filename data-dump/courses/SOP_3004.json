@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves scientific study of how people think about, influence, and relate to one another. Subjects include individual, cultural, behavioral, and biological levels of analysis.", 
+        "number": "3004", 
+        "subject": "SOP", 
+        "title": "Social Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

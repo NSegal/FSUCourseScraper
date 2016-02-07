@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis and critique of current organizational patterns related to teaching in the elementary school.", 
+        "number": "5511", 
+        "subject": "EDE", 
+        "title": "Organization for Classroom Instruction in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

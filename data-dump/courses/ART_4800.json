@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers aspects of contemporary art scene, galleries, and markets. Stress on developing portfolio/resum\u00e9, critical attitude, and skills necessary for presenting work.", 
+        "number": "4800", 
+        "subject": "ART", 
+        "title": "Criticism Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

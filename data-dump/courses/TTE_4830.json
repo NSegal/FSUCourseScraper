@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers aggregate properties and tests, tests of asphalt and asphalt concrete mixes, fundamental engineering characteristics of hot-mix asphalt concrete, mix design methods for asphalt concrete, as well as Superpave-mix design methodology and production and placement of hot-mix asphalt.", 
+        "number": "4830", 
+        "subject": "TTE", 
+        "title": "Hot Mix Asphalt Mixture Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CCE 3101. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

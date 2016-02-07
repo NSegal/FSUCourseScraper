@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A survey of contemporary jurisprudential thought.", 
+        "number": "7210", 
+        "subject": "LAW", 
+        "title": "Jurisprudence"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

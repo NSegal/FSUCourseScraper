@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course builds upon the speaking and reading skills learned at the 1110 level. May not be taken by native speakers. May not be taken concurrently with ITA 1110, 1120, 1121 and/or 2220. (Dartmouth method)", 
+        "number": "1111", 
+        "subject": "ITA", 
+        "title": "Elementary Conversational Italian II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 1110 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

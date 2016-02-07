@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the theoretical and practical issues and instructional strategies for the emotionally disturbed.", 
+        "number": "5223", 
+        "subject": "EBD", 
+        "title": "Advanced Study of Emotional Disturbance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

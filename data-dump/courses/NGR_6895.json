@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes the impact of politics and power on healthcare policies that affect healthcare delivery systems and advanced-nursing practice. Topics cover legal and ethical considerations of healthcare policies in the context of providing quality and cost-effective services, as well as the leadership role of advanced-practice nurses in designing strategies for influencing healthcare-policy development to promote optimal healthcare outcomes and quality care.", 
+        "number": "6895", 
+        "subject": "NGR", 
+        "title": "Healthcare Policy, Politics and Power"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

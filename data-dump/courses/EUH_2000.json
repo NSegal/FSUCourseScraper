@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a survey of Western traditions from the beginnings through the end of the Middle Ages. Emphasis is on patterns of thinking and on those institutions most distinctive for the Western tradition. Students who have previous college credit in Western civilization courses covering the same general chronological period cannot receive credit for EUH 2000. May not be taken by students with test credit in European history.", 
+        "number": "2000", 
+        "subject": "EUH", 
+        "title": "Ancient and Medieval Civilizations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

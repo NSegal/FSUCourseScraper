@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to artistic, intellectual, social, and political trends in Italy from pre-Roman times to the Age of Romanticism with specific reference to Medieval and Renaissance Italy as a center of culture in Europe. Offered in English.", 
+        "number": "3500", 
+        "subject": "ITT", 
+        "title": "Italian Culture and Civilization: From Origins to the Age of Romanticism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

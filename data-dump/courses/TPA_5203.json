@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course familiarizes theatrical design students with the drafting principles and accepted practices of theatrical design and technology. Projects include isometric and orthographic projection, shop drawings, rear elevations, sections, ground plans, and drop point perspective.", 
+        "number": "5203", 
+        "subject": "TPA", 
+        "title": "Drafting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

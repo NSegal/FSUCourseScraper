@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the myth of the Vampire, from its origins in Slavic folklore to its appropriation by the West. It examines why the Vampire has endured not only in Eastern Europe but also in the Western imagination. Taught in English.", 
+        "number": "3510", 
+        "subject": "SLL", 
+        "title": "The Slavic Vampire"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

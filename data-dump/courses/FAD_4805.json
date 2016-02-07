@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with experiences in a community setting serving children, youth, and families and the opportunity to apply course material to the work environment.", 
+        "number": "4805", 
+        "subject": "FAD", 
+        "title": "Practicum in Family and Child Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status, at least four additional major courses, and FAD 4932 (completed the semester before enrolling in FAD 4805).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

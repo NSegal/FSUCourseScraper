@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include basics of C++ language, objects and classes, programming with classes, constructors and destructors, dynamic memory allocation, function and operator overloading, master classes, the class iostream, base and derived classes, and templates.\u00a0 May not be applied toward a degree in computer science.", 
+        "number": "5409", 
+        "subject": "CGS", 
+        "title": "Object-Oriented Programming in C++ for Non-Majors"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3014 or a comparable course in C or C++ programming. Pre- or corequisite: COP 3353.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

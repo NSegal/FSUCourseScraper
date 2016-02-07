@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores photography as a fine art. Students develop a series of portfolios of images based on their personal vision and understanding of the medium.", 
+        "number": "3410C", 
+        "subject": "PGY", 
+        "title": "Photography II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PGY 2401C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

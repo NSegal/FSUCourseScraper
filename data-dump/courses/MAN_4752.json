@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies the tools and concepts acquired in other business and management courses in a hands-on business simulation of competitive dynamics with an eye toward contemporary, emerging competitive issues confronting business senior executives and owners.", 
+        "number": "4752", 
+        "subject": "MAN", 
+        "title": "Competitive Dynamics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 4720.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

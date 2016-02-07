@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students arrange with individual faculty members to undertake specialized study in areas outside of or in addition to the regular curriculum. May be repeated to a maximum of six semester hours.", 
+        "number": "4905", 
+        "subject": "GER", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

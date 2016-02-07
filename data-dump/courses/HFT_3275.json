@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers contemporary knowledge and understanding of concepts, challenges, and trends associated with resort development to include an in-depth examination of the process of resort development from property site identification, land acquisition, zoning and permitting, environmental impact statements (EIS), layout and design issues, construction processes, pre-opening, public relations and marketing, as well as many other issues.", 
+        "number": "3275", 
+        "subject": "HFT", 
+        "title": "Resort Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

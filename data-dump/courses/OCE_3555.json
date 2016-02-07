@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the earth system at and able the surface of the earth. It combines earth and biological sciences to explore the co-evolution of the earth and life over geological time. Evolution of the hydrosphere, atmosphere, and lithosphere are discussed.", 
+        "number": "3555", 
+        "subject": "OCE", 
+        "title": "Environmental Science II: Habitable Planet"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

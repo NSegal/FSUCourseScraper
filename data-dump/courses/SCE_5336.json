@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines several different instructional, metacognitive, and assessment strategies that have been shown to foster students' understanding and retention of key science concepts.", 
+        "number": "5336", 
+        "subject": "SCE", 
+        "title": "Instructional Strategies that Promote Learning in Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SCE 5945.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

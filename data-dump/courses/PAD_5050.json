@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of the intellectual heritage of public administration and its central issues. The student learnd key managerial skills and major sources of information for professional research.", 
+        "number": "5050", 
+        "subject": "PAD", 
+        "title": "The Profession of Public Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

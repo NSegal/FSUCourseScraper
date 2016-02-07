@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies choral literature through analysis and conducting. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "5205", 
+        "subject": "MUG", 
+        "title": "Advanced Conducting: Chorus"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing and experience in conducting.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

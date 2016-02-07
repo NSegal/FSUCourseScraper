@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This tutorial course is available only to BFA and BA students. May be repeated to a maximum of twenty-seven hours.", 
+        "number": "4928C", 
+        "subject": "ART", 
+        "title": "Advanced Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: All foundations courses.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

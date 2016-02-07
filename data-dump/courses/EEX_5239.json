@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This coures focuses on the formal and informal evaluation techniques and individualized instruction for young children with disabilities.", 
+        "number": "5239", 
+        "subject": "EEX", 
+        "title": "Assessment and Methods in Early Childhood Special Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEX 5017.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

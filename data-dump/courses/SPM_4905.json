@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course enables undergraduate study of a research problem. Students work with faculty supervision to complete an independent project pertaining to a particular topic of interest. May be repeated to a maximum of twelve semester hours as topics vary. May be repeated within the same semester.", 
+        "number": "4905", 
+        "subject": "SPM", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

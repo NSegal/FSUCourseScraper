@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an advanced PhD course on open economy macroeconomics and finance. Canonical models of open-economy are explored, including the real business cycle model and sticky price models.", 
+        "number": "6296", 
+        "subject": "ECO", 
+        "title": "Open Economy Macroeconomics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5116, ECO 5207, ECO 5423.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

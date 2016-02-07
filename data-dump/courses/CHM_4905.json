@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of eighteen semester hours.", 
+        "number": "4905", 
+        "subject": "CHM", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Upper class standing, \"B\" average in chemistry courses, and approval of the faculty supervisor.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

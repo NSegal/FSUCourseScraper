@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the relationship among psychological, social, environmental, disability, and multicultural factors as they pertain to understanding human behavior.", 
+        "number": "5060", 
+        "subject": "MHS", 
+        "title": "Psychosocial and Multicultural Aspects of Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

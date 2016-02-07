@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the development of skills in analyzing and critiquing research studies, and applying research knowledge to counseling practice.", 
+        "number": "5710", 
+        "subject": "MHS", 
+        "title": "Research in Human Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Introductory statistics.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

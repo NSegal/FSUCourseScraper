@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to on-camera interviewing and hosting of news and public affairs programs including research and writing components.", 
+        "number": "3602", 
+        "subject": "RTV", 
+        "title": "Television Interviewing and Hosting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of issues and problems associated with human sexuality, intended for social workers and others in helping professions. Emphasis is placed on sexually oppressed groups, sexual life cycle from a psychosocial perspective, and student's attitudes and values regarding sexuality.", 
+        "number": "4152", 
+        "subject": "SOW", 
+        "title": "Human Sexuality"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

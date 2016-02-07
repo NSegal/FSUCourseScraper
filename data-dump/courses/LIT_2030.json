@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course engages students in the art of understanding and analyzing poetry as a genre by looking closely and critically at the forms, themes, techniques, and devices in selected poems from a variety of historical periods.", 
+        "number": "2030", 
+        "subject": "LIT", 
+        "title": "Introduction to Poetry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

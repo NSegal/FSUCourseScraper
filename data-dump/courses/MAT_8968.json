@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This is an exam course. Students who pass their doctoral qualifying exam receive a pass.", 
+        "number": "8968", 
+        "subject": "MAT", 
+        "title": "Doctor Qualifying Exam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "DDE": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

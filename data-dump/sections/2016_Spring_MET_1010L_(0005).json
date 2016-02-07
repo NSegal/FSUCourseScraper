@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (5750)", 
+    "basic": {
+        "class_num": "5750", 
+        "course": "1010L", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:55:00", 
+            "instructors": [
+                "Sidney King"
+            ], 
+            "location": "LOV 0307", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

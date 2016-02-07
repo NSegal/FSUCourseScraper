@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the use of probability and statistical concepts in electrical engineering applications. Elementary probability-sets, sample spaces, axioms, joint and conditional probability. Random variables--distribution and density functions. Operations in random variables--expectation, moments, transformation of random variables. Introduction to random processes. Multiple random variables. Elements of statistics; parameter estimation and hypothesis testing.", 
+        "number": "4021", 
+        "subject": "EEL", 
+        "title": "Statistical Topics in Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3112 and MAP 3306 or MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

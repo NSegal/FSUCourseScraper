@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students at the advanced-elementary level in Japanese. Students are exposed to authentic Japanese in order to master basic listening skills. Emphasis is placed on conversational Japanese and basic daily situations to familiarize students with common structures, vocabulary, and grammar, and to facilitate improved oral comprehension in Japanese.", 
+        "number": "3132", 
+        "subject": "JPN", 
+        "title": "Listening Drill I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 1121.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

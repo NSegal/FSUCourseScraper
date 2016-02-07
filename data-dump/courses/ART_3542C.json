@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an investigation of acrylic, watercolor, gouache, and flash processes and techniques. A very intense study that requires exploration of watercolor to its fullest potential. May be repeated to a maximum of six semester hours.", 
+        "number": "3542C", 
+        "subject": "ART", 
+        "title": "Aqueous Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2500C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

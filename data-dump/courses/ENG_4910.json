@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to engage students in the authentic work of scholarly research in Renaissance/early modern literature. Hands-on work in research archives and databases builds toward a final research project with multimedia components.", 
+        "number": "4910", 
+        "subject": "ENG", 
+        "title": "Research in Renaissance Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

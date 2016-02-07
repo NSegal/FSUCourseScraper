@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers quotient groups, group mappings; permutation groups, Sylows theorem. Ring homomorphisms, ideals, quotient rings; fields; extension fields. Vector spaces; dual spaces. Algebra of linear transformations; theory of linear transformations.", 
+        "number": "5307", 
+        "subject": "MAS", 
+        "title": "Groups, Rings, and Vector Spaces I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAS 3105 and MAS 4302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

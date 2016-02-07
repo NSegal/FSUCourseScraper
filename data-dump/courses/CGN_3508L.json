@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the principal construction materials used in civil engineering practice (soils, concrete, timber, steel, etc.) with special attention to measuring mechanical properties through laboratory testing according to ASTM standards. Hands-on experience in conducting tests, including preparation and instrumentation of test specimens, test execution, data acquisition, and interpretation of test results using statistical analysis.", 
+        "number": "3508L", 
+        "subject": "CGN", 
+        "title": "Civil Engineering Materials Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGN 3331. Pre- or Corequisite: CEG 3011 or CCE 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

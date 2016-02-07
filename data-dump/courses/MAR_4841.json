@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines marketing in the service industries and places particular emphasis on unique aspects of services marketing, the service-marketing mix, and the implementation of service strategies.", 
+        "number": "4841", 
+        "subject": "MAR", 
+        "title": "Services Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

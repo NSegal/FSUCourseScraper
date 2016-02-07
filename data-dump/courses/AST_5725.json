@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers principles and techniques used in obtaining modern astronomical data. Includes an overview of current and next-generation astronomical instrumentation, discussion of calibration schemes and observing strategies, and an introduction to analysis techniques.", 
+        "number": "5725", 
+        "subject": "AST", 
+        "title": "Observational Techniques in Astrophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AST 4211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

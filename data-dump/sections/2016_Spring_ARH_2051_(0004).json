@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (11330)", 
+    "basic": {
+        "class_num": "11330", 
+        "course": "2051", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "ARH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Hilary Guise"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an examination of the full range of rights in criminal justice, dealing with them not only in broad philosophical and social terms but also in terms of specific instances, including the rights of the accused and extending to the rights of convicts, witnesses, victims, probationers, ex-convicts, officials, journalists, and the more generalized rights of participation by interest group advocates, taxpayers, and citizens in criminal justice policy and administration.", 
+        "number": "4064", 
+        "subject": "CJL", 
+        "title": "Individual Rights and the Criminal Justice System"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

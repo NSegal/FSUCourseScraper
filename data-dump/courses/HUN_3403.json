@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines nutrition during pregnancy, lactation, and growth from infancy to the elderly. Effects of nutrition on mother and child. Interrelationships of diet, nutrition, emotional development, behavior, stress and aging.", 
+        "number": "3403", 
+        "subject": "HUN", 
+        "title": "Life Cycle Nutrition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HUN 1201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

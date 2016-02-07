@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the principles and elements of design and how they are applied to scenery, costume and lighting design.", 
+        "number": "5098", 
+        "subject": "TPA", 
+        "title": "Theatrical Design for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

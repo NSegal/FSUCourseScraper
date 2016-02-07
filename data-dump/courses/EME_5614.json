@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to guide students to design and prototype learning games by understanding and applying the interdisciplinary principles of game design, psychology of play, education, and cognitive science.", 
+        "number": "5614", 
+        "subject": "EME", 
+        "title": "Design of Learning Games"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

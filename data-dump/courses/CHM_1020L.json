@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory emphasizes major topics from CHM 1020 relating chemistry concepts and techniques to everyday life experiences. This laboratory-based course meets two hours a week. No credit allowed after taking CHM 1045.", 
+        "number": "1020L", 
+        "subject": "CHM", 
+        "title": "Chemistry for Liberal Studies Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: CHM 1020.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines theory, research, and practice in counseling as a foundation for completing dissertation research and the doctoral internship.", 
+        "number": "6930", 
+        "subject": "PCO", 
+        "title": "Integrative Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MHS 6401 and MHS 6715.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

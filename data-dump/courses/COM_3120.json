@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on communication and group problem solving in bureaucracies.", 
+        "number": "3120", 
+        "subject": "COM", 
+        "title": "Communication for Organizing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

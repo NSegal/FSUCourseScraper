@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers opportunities for participants to use their skills and knowledge for K-12 learners in blended and online environments and demonstrate their practical application for design, development, and delivery of their blended or online course to their classmates, by using various technologies and principles of digital pedagogy. Students also explore, analyze, and reflect upon the latest national and international trends related to developing online initiatives.", 
+        "number": "5076", 
+        "subject": "EDG", 
+        "title": "Issues, Trends, and Practices in Blended and Online Learning and Teaching K-12"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDG 5073, EDG 5074, and EDG 5075.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

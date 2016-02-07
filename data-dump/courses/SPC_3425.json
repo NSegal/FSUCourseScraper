@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course in small groups includes both cognitive and experiential elements. Students study how small groups function as they create their own project groups and learn by doing.", 
+        "number": "3425", 
+        "subject": "SPC", 
+        "title": "Communication in Small Groups"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

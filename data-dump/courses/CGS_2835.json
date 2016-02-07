@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This interdisciplinary course provides basic training in project management, communication, information architecture, interface design, graphic design, Web technologies, content editing, and subject-area expertise, thus empowering students across disciplines to effectively communicate their subject-area expertise through today's most popular publishing medium, the Web.", 
+        "number": "2835", 
+        "subject": "CGS", 
+        "title": "Interdisciplinary Web Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

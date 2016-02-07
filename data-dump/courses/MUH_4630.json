@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys musical activities in the United States.", 
+        "number": "4630", 
+        "subject": "MUH", 
+        "title": "Music in the United States I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUH 3211, MUH 3212, and MUT 2117.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

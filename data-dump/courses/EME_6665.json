@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers. tools, techniques, and procedures for finding, synthesizing, analyzing, and summarizing research related to past and on-going relevant topics in Instructional Systems.", 
+        "number": "6665", 
+        "subject": "EME", 
+        "title": "Synthesis, Analysis, and Argumentation in Instructional Systems Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

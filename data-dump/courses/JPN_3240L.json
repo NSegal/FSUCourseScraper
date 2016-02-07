@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to develop intermediate-level communicative skills in Japanese.\u00a0\u00a0 Students communicate in Japanese on sociocultural issues and topics pertinent to daily life, interpret spoken language, and learn expressions critical to spoken fluency in Japanese.", 
+        "number": "3240L", 
+        "subject": "JPN", 
+        "title": "Conversational Japanese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 2300 or equivalent, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

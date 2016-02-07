@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DSC (2405)", 
+    "basic": {
+        "class_num": "2405", 
+        "course": "5930", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "DAN", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Timothy Glenn"
+            ], 
+            "location": "MON 0006", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

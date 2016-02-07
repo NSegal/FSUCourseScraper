@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of accompanied and a cappella works suitable for a twenty-four to thirty voice mixed chorus. May be repeated to a maximum of four semester hours.", 
+        "number": "5345", 
+        "subject": "MUN", 
+        "title": "Chamber Chorus"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: By audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

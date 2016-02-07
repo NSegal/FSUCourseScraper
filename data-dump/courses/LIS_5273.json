@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course blends library and information science theory with practical library experience and application. Students explore alternative approaches to a variety of challenges related to the management of information centers and interact with a variety of working information professionals.", 
+        "number": "5273", 
+        "subject": "LIS", 
+        "title": "Practical Library and Information Science Exploration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

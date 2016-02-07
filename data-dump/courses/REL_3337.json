@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies female power in Hindu cosmology, mythology, and society. A study of Hindu goddesses, women, and female symbolism and the multifaceted relationship among them.", 
+        "number": "3337", 
+        "subject": "REL", 
+        "title": "Goddesses, Women, and Power in Hinduism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

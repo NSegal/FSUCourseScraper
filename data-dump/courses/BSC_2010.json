@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the first part of a two-semester introductory biology course designed for those interested in pursuing a career in life sciences. The course provides the building blocks necessary for a student to gain a strong foundation in general biology. Topics covered provide an overview of biological processes and function at the molecular, cellular and organismal level.", 
+        "number": "2010", 
+        "subject": "BSC", 
+        "title": "Biological Science I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

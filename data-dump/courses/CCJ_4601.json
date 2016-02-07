@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the origins of human and deviant behavior from a multidisciplinary approach (biological, psychological, sociological, criminological); addresses major theories and research, including case studies illustrative of deviant behavior such as drug abuse, suicide, mental illness, and sexual deviance.", 
+        "number": "4601", 
+        "subject": "CCJ", 
+        "title": "Human Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

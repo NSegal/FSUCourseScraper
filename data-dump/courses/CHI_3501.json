@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction of selected materials in modern Chinese literature. The course objectives are to train students to be able to read some carefully chosen original works and to bring to students' awareness various cross-cultural differences.", 
+        "number": "3501", 
+        "subject": "CHI", 
+        "title": "Readings in Chinese Short Stories and Essays"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 2220 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

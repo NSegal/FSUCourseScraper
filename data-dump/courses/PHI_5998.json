@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of critical readings and discussions of important classical and contemporary philosophical texts. Variable content. Variable credit: one to two (1-2) semester hours for a reading course; three (3) semester hours for a reading course with substantial writing.", 
+        "number": "5998", 
+        "subject": "PHI", 
+        "title": "Tutorial in Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

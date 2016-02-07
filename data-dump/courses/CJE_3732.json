@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the production of intelligence from the analysis of multiple and diverse sources of information and on its use by formal and informal intelligence agencies. Emphasis is placed on the role of local public safety and security personnel and organizations as both producers and consumers of intelligence and on their relationship to the formal intelligence agencies.", 
+        "number": "3732", 
+        "subject": "CJE", 
+        "title": "Criminal Intelligence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

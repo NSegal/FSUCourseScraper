@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of European theatre history after the Renaissance, with a major emphasis on the modern era (1870 to the present).", 
+        "number": "4111", 
+        "subject": "THE", 
+        "title": "European Theatre History II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 3214.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

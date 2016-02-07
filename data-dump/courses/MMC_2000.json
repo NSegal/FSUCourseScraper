@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers a historical and social overview of the mass media and their relationship to the mass communication process in a modern society.", 
+        "number": "2000", 
+        "subject": "MMC", 
+        "title": "Introduction to the Mass Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

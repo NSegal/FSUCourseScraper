@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers issues of ethics and responsibilities for professional economists. Faculty and visiting economists offer presentations and discussions of the work of professional economists in the public and private sectors. May be repeated to a maximum of three semester hours.", 
+        "number": "5922", 
+        "subject": "ECO", 
+        "title": "Professional Development for Economists"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to MS program in economics.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 2.00"
+    }
+}

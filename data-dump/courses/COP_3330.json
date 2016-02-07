@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on object-oriented programming in a modern programming language; classes, objects, inheritance, and polymorphism; introduction to data structures and container classes.", 
+        "number": "3330", 
+        "subject": "COP", 
+        "title": "Object Oriented Programming"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3014, or a comparable course in C or C++ programming. Corequisite: COP 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

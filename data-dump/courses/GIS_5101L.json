@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory is computer practice in the use of geographic information system software.", 
+        "number": "5101L", 
+        "subject": "GIS", 
+        "title": "GIS Lab"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "GIS5101,C,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines economic globalization: what it is, who is harmed and helped by it, how countries and citizens respond to it, and what the future might hold. The course focuses heavily on economic issues but assumes no background in the subject.", 
+        "number": "4011", 
+        "subject": "INR", 
+        "title": "Political Responses to Economic Globalization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

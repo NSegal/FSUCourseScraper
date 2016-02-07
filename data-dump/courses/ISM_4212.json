@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the theory, techniques, and applications of information management and control including organizations as information-processing systems and executive support systems.", 
+        "number": "4212", 
+        "subject": "ISM", 
+        "title": "Information for Operating Control and Data Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 4113", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

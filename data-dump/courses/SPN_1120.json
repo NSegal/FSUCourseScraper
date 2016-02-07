@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the first of a three-semester sequence of courses for students with no prior knowledge of the Spanish language, either at the high-school or native-speaker level. The course emphasizes oral communication and grammatical expertise, as well as listening comprehension. Students read short texts and write paragraphs and short compositions in Spanish. May not be taken concurrently with SPN 1121, 1124, and/or 2220. May not be taken by native speakers. Some sections may be computer-assisted.", 
+        "number": "1120", 
+        "subject": "SPN", 
+        "title": "Elementary Spanish I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

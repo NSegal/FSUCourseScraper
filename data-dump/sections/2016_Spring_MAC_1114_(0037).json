@@ -1,0 +1,26 @@
+{
+    "_unique": "0037-LEC (11377)", 
+    "basic": {
+        "class_num": "11377", 
+        "course": "1114", 
+        "season": "Spring", 
+        "solus_id": "0037", 
+        "status": "Open", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Maria Perez-Quiles"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores poems and other forms of expression that address the complexities of the sentiments of love and violence in the manner that it has been expressed in Hispanic culture. It introduces and engages these topics as they relate to issues of gender, national politics, and culture from Latin America to Spain. May be repeated to a maximum of six semester hours.", 
+        "number": "4140", 
+        "subject": "SPW", 
+        "title": "The Poetics of Hispanic Love and Violence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

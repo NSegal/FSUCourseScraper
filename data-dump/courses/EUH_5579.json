@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the social, economic, cultural, and international as well as political development of Russia from the final years of Tsarist rule through the Bolshevik Revolution to its emergence as one of the world's superpowers in the 1980s.", 
+        "number": "5579", 
+        "subject": "EUH", 
+        "title": "20th-Century Russia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

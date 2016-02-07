@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of private instruction of the principal instrument for students whose major is not performance. May be repeated to a maximum of twelve semester hours. Credit may be modified by electing MVO 5350r (1), All Instruments.", 
+        "number": "5358", 
+        "subject": "MVJ", 
+        "title": "Applied Music Principal, Trombone, Jazz"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

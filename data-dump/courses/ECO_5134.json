@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the theory and practice of market design. Particular emphasis is placed on understanding how the rules and institutional features of different market-based mechanisms can be engineered to solve resource allocation problems. The course focuses on applications of two-sided matching markets, single-unit and multi-unit auctions, and markets for transferable permits.", 
+        "number": "5134", 
+        "subject": "ECO", 
+        "title": "Applied Market Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5114.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

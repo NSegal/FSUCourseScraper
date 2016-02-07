@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the religion, philosophy, literature, and arts of Chinese and Japanese culture in their classical and modern expressions. Not offered every semester.", 
+        "number": "3416", 
+        "subject": "HUM", 
+        "title": "East Asian Humanities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

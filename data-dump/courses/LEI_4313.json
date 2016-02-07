@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course supplies students with an understanding of the methods for obtaining and managing the resources required for the operation of special events, including fundraising activities and volunteers.", 
+        "number": "4313", 
+        "subject": "LEI", 
+        "title": "Special Event Resource Development and Fundraising"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

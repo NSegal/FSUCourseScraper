@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar examines the major psychological and social theories related to adjustment and adaptation to a disability or chronic illness with emphasis placed on research, the applicability, and the efficacy of these theories.", 
+        "number": "6249", 
+        "subject": "RCS", 
+        "title": "Advanced Psychological and Social Aspects of Disability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

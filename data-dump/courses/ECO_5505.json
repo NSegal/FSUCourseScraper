@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the principles of taxation and debt, shifting and incidence, public expenditures and redistribution theory.", 
+        "number": "5505", 
+        "subject": "ECO", 
+        "title": "Public Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

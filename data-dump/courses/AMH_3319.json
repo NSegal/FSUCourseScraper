@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an intermediate level survey of social and political developments in the fields of law and criminology, from the colonial era through Reconstruction. The course focuses upon social problems, criminal behavior, punishments, changing definitions of citizenship, and the Constitution.", 
+        "number": "3319", 
+        "subject": "AMH", 
+        "title": "The Evolution of Law, Crime, and Justice in American Society, to 1876"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

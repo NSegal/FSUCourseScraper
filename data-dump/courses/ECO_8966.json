@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8966", 
+        "subject": "ECO", 
+        "title": "Master's Comprehensive Exam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

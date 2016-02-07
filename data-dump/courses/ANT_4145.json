@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the evolution of complex societies and theories of state origins using a comparative method involving ecological, economic, and social approaches to investigate the origins, collapse, and sustainability of complex societies.", 
+        "number": "4145", 
+        "subject": "ANT", 
+        "title": "Origins of Complex Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

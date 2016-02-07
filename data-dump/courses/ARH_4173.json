@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores studies specific aspects of the archaeology and art of Greece and Italy. May be repeated to a maximum of nine hours.", 
+        "number": "4173", 
+        "subject": "ARH", 
+        "title": "Studies in Classical Archaeology and Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 9.00"
+    }
+}

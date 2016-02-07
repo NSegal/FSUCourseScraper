@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-MED (5705)", 
+    "basic": {
+        "class_num": "5705", 
+        "course": "7400", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MDX", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Ronald Hartsfield"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

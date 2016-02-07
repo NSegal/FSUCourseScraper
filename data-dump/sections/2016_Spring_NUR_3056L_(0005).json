@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (11738)", 
+    "basic": {
+        "class_num": "11738", 
+        "course": "3056L", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Mandy Bamber"
+            ], 
+            "location": "SCN 0308", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

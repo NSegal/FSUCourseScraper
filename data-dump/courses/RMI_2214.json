@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a thorough review of commercial property principles and exposures.", 
+        "number": "2214", 
+        "subject": "RMI", 
+        "title": "Commercial Property Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "2.00"
+    }
+}

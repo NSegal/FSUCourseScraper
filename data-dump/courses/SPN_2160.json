@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to linguistic and cultural skills in Spanish needed for specific work environments such as law enforcement, education, or medicine. Course content varies with semester. May not be taken by native speakers. With approval of the Department, may fulfill the Arts and Sciences language requirement.", 
+        "number": "2160", 
+        "subject": "SPN", 
+        "title": "Spanish for Careers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 1120 and SPN 1121, or PSN 1124, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "4.00"
+    }
+}

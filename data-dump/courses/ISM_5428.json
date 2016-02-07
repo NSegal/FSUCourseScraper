@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines knowledge management from an organizational perspective. Topics include principles; strategic issues; systems design and development; as well as knowledge creation, capture, capture, sharing, and application.", 
+        "number": "5428", 
+        "subject": "ISM", 
+        "title": "Knowledge Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

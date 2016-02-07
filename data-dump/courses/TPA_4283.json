@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the production process from play selection through set design, set load in, run of show, load out, and post mortem analysis. The course focuses on the various and linear aspects of the production, including the management and planning of the budgeting, pre-construction, construction, and strike aspects of the production.", 
+        "number": "4283", 
+        "subject": "TPA", 
+        "title": "Technical Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 2201 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is open to participants in the elementary education honors program. Up to twelve semester hours of honors work may be taken. Six thesis hours are required. Seminars are optional.", 
+        "number": "4970", 
+        "subject": "EDE", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

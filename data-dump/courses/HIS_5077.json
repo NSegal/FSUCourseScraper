@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes students to the use of oral history as a research technique and provides experience in conducting professionally acceptable oral history interviews.", 
+        "number": "5077", 
+        "subject": "HIS", 
+        "title": "Oral History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

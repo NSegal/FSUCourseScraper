@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides pre-service art education students with the practical knowledge and experiences of planning for learning, teaching methods, classroom management, discipline, and adapting and modifying for learning in art for diverse learners. Students learn the application of state and national standards to teaching art in K-12. Observation and participation in the K-12 public schools is required.", 
+        "number": "5046", 
+        "subject": "ARE", 
+        "title": "Art Education Theory and Practice I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARE 5358. Corequisite: ARE 5940.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops skilled undergraduate tutors for the Dartmouth method ITA 1110/1111 sequence. May be repeated to a maximum of six semester hours.", 
+        "number": "3941", 
+        "subject": "ITA", 
+        "title": "Directed Individual Tutorial Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 1111, ITA 1120, ITA 1121, ITA 2220, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

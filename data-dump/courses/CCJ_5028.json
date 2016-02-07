@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates in detail some special problems of criminal justice policy and practice. May be repeated to a maximum of nine semester hours.", 
+        "number": "5028", 
+        "subject": "CCJ", 
+        "title": "Seminar in Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

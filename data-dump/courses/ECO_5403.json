@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines mathematical methods used for the solution of static optimization problems in economic theory.", 
+        "number": "5403", 
+        "subject": "ECO", 
+        "title": "Static Optimization in Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

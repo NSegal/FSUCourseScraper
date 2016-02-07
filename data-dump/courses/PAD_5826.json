@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The role of the public administrator in developing and administering public policy within the system of federal, state, and local governments. Includes legal, financial, administrative issues as well as substantive areas such as social services, health, employment, education, and housing.", 
+        "number": "5826", 
+        "subject": "PAD", 
+        "title": "Intergovernmental Management and Relations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

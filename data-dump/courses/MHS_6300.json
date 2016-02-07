@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers meaning of work, theories of vocational behavior, and career development consultation.", 
+        "number": "6300", 
+        "subject": "MHS", 
+        "title": "Theories of Vocational Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

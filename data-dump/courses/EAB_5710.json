@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to work with developmentally disabled and autistic individuals. Topics include issues in assessment and intervention, improving language capability, preparation for community placement, and the treatment of severe behavior disorders.", 
+        "number": "5710", 
+        "subject": "EAB", 
+        "title": "Behavioral Analysis in Developmental Disabilities and Autism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

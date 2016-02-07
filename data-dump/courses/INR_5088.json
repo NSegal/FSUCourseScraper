@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course undertakes a comprehensive review of the theory and research oninternational conflict. A wide range of traditional theories on the causes of war are examined as are a number of topics such as deterrence theory, t heories of coercive diplomacy, and the question of the utility of force in the nuclear age.", 
+        "number": "5088", 
+        "subject": "INR", 
+        "title": "International Conflict"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

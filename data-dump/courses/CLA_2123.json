@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to different aspects of Roman culture, society, history, and literature from the period of the monarchy (roughly 8th century BCE) through the Late Empire (5th century CE). The goal is to understand the Romans through their words and the views of modern scholars, which students encounter in their assigned texts, translations of primary sources, and through lectures. Students also sharpen their oral competency skills through participation in debates in a variety of roles.", 
+        "number": "2123", 
+        "subject": "CLA", 
+        "title": "Debates About the Past: Roman Civilization, History and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

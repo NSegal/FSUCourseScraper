@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with advanced experience in the provision of reference services across virtual environments of different types, including asynchronous and synchronous services. Students participate hands-on in delivering and administering online reference services, gaining an in-depth understanding of management issues and user information seeking in computer-mediated interactions. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5916", 
+        "subject": "LIS", 
+        "title": "Issues in Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

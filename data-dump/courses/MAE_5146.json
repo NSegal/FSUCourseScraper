@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course establishes a theoretical perspective and then major curriculum projects are examined and critiqued. Reform movements are considered in light of historical events and the current social climate.", 
+        "number": "5146", 
+        "subject": "MAE", 
+        "title": "School Mathematics Curriculum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

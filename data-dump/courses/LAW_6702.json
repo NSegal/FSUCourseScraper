@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the law of liability for product injuries, including litigation, product safety regulation, and alternative means of resolving injury claims.", 
+        "number": "6702", 
+        "subject": "LAW", 
+        "title": "Products Liability"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

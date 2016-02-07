@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on writing screenplays that apply dramatic storytelling concepts. Through regular writing workshops, students examine and practice story development techniques as well as industry-standard practices involved in creating motion picture scripts. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5159", 
+        "subject": "FIL", 
+        "title": "Screenwriting: Motion Picture Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

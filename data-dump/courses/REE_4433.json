@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intermediate treatment of the legal environment of real estate and real estate decision making. The course emphasizes common law rules and legal considerations inherent in contemporary real property decisions. The course, in addition to REE 3043, meets the FREC educational requirements for real estate sales licensing.", 
+        "number": "4433", 
+        "subject": "REE", 
+        "title": "Legal Environment of Real Estate"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BUL 3310 and REE 3043.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

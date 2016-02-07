@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the student with an opportunity to study classic examples of superior filmmaking and develop critical skills that will help the individual understand and evaluate film communication, literature, and art.", 
+        "number": "2000", 
+        "subject": "FIL", 
+        "title": "Elements of Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a review and analysis of post-1950 motion pictures with emphasis on technique and industrial evolutions.", 
+        "number": "3803", 
+        "subject": "FIL", 
+        "title": "The Contemporary Cinema: Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

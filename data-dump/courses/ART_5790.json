@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course leads to the extensive development of ceramic techniques, concepts, and presentation strategies in support of personal aesthetic development.", 
+        "number": "5790", 
+        "subject": "ART", 
+        "title": "Graduate Ceramics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course applies leadership theory to problems of practice through role plays and through models of reflective practice.", 
+        "number": "5218", 
+        "subject": "EDA", 
+        "title": "Application of Leadership Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

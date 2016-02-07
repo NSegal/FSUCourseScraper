@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "4944", 
+        "subject": "SCE", 
+        "title": "Student Teaching in Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SCE 4948r.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "10.00"
+    }
+}

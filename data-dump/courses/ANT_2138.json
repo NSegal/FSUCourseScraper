@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the field of nautical archaeology through the excavation and exploration of ships and boats from 5000 years ago in ancient Egypt to the U.S.S. Yorktown of WWII. From Titanic to treasure ships, this global survey explores economy, technology and society.", 
+        "number": "2138", 
+        "subject": "ANT", 
+        "title": "World's Greatest Shipwrecks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

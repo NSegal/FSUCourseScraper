@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a detailed study of a major philosopher (e.g., Plato, Aristotle, Kant, etc.) or school of philosophy (e.g., the Stoics, the Marxists). May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "PHP", 
+        "title": "Studies in Major Philosophers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

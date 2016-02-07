@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the practical application of the techniques learned in SPA 4302.", 
+        "number": "4302L", 
+        "subject": "SPA", 
+        "title": "Introduction to Clinical Audiology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: SPA 4302.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

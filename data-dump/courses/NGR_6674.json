@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a foundation population health and applied epidemiology.\u00a0 The emphasis is on analysis of epidemiologic and scientific data for the assessment and evaluation of population health.", 
+        "number": "6674", 
+        "subject": "NGR", 
+        "title": "Population Health and Applied Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate Nursing program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

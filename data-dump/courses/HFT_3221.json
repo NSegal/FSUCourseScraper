@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an analysis of human-resource issues in the hospitality industry such as staffing, training, appraisal, wage and hour administration, discrimination, harassment, and other governmental issues.", 
+        "number": "3221", 
+        "subject": "HFT", 
+        "title": "Human Resource Management in Hospitality Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

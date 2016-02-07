@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the international law of the sea, including navigation rights, marine resources, and environmental problems.", 
+        "number": "7476", 
+        "subject": "LAW", 
+        "title": "Law of the Sea"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

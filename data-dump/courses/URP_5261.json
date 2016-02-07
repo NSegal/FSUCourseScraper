@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the methods used in plan analysis and development. Emphasis is given to demographic analysis and population-projection techniques, to economic-base analysis and economic-projection methods, as well as to methods for preparing a land-use plan. Students are required to use these methods in preparing a demographic, economic, and land-use analysis for a Florida county and subcounty area.", 
+        "number": "5261", 
+        "subject": "URP", 
+        "title": "Forecasting for Plan Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to develop techniques in electronic music composition and all aspects of MIDI.", 
+        "number": "5345", 
+        "subject": "MUS", 
+        "title": "Music Instrument Digital Interface"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MUS 5346.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7580", 
+        "subject": "MDE", 
+        "title": "Physical Medicine and Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 12.00"
+    }
+}

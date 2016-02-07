@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the effects of temperature, altitude, and air pollution on exercise performance. Offered alternate years.", 
+        "number": "6386", 
+        "subject": "PET", 
+        "title": "Environmental Aspects of Exercise"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

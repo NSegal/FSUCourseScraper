@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a social psychological examination of current issues and problems in municipal law enforcement, including such topics as the informal exercise of police authority, police role conflict, the relative significance of law enforcement and social service, and interactional dynamics of police subculture.", 
+        "number": "5024", 
+        "subject": "CJE", 
+        "title": "Police and Society"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

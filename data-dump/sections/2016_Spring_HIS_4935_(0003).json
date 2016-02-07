@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DSC (4204)", 
+    "basic": {
+        "class_num": "4204", 
+        "course": "4935", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "HIS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Frederick Davis"
+            ], 
+            "location": "BEL 0404", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

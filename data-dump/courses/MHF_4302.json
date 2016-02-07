@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers propositional and predicate logic, models, as well as Godel's completeness theorem and related theorems.", 
+        "number": "4302", 
+        "subject": "MHF", 
+        "title": "Mathematical Logic I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MGF 3301 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

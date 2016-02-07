@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the management of logistics activities involved in the flow of goods, information, and funds throughout the supply chain.", 
+        "number": "4203", 
+        "subject": "MAR", 
+        "title": "Logistics and Supply Chain Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course builds upon the principles covered in BMS 6401. Learners study in detail the pharmacologic agents used in treating organ systems disorders. Drug classes, interactions, and specific usages with functional and clinical applications are presented along with relevant clinical examples and the use of therapeutic drug monitoring.", 
+        "number": "6402", 
+        "subject": "BMS", 
+        "title": "Medical Pharmacology 202"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "BMS6401,P,Y,**BMS6401,P,Y,**BMS6401,P,Y,**", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

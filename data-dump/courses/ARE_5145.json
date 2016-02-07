@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a theoretical foundation for understanding what children know and learn through artistic inquiry and expression. The course emphasizes practical applications of this knowledge to curriculum development and lesson planning. Observation in the public schools is required.", 
+        "number": "5145", 
+        "subject": "ARE", 
+        "title": "Human Development and Learning in Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Art Education Teacher Certification Program. Corequisite: ARE 5046.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the development of the phonological and grammatical systems from the earliest records to the present.", 
+        "number": "4840", 
+        "subject": "RUS", 
+        "title": "History of the Russian Literary Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RUS 3400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

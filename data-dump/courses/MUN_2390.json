@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of works representative of a wide spectrum of choral literature for mixed voices. Open to all University students except voice performance majors. May be repeated to a maximum of four semester hours.", 
+        "number": "2390", 
+        "subject": "MUN", 
+        "title": "University Chorale"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 1.00"
+    }
+}

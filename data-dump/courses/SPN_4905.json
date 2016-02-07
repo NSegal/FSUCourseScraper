@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for advanced students who arrange a specialized study with a faculty member, outside or in addition to, regular studies. The course needs approval and may be repeated to a maximum of six semester hours.", 
+        "number": "4905", 
+        "subject": "SPN", 
+        "title": "Directed Individual Study in Hispanic Language, Linguistics or Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Approval of the faculty member, the divisional coordinator, and the Associate Chair for Undergraduate Studies.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

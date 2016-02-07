@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is to help those students whose interest is focused on literature. Students may choose a particular author from either ancient or modern time and do a thorough analysis of his or her works. Students may also choose a certain field or period and do extensive reading in that field or period. May be repeated to a maximum of six semester hours.", 
+        "number": "5505", 
+        "subject": "CHI", 
+        "title": "Readings in Chinese Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

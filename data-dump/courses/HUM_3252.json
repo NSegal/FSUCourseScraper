@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the thought, literature, values, and arts of Western culture, with special emphasis on film.", 
+        "number": "3252", 
+        "subject": "HUM", 
+        "title": "Humanities: Film and 20th Century Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students learn about the particular MIS perspective on systems development and its life cycle, from the birth of a new information system to its death and replacement. In addition, students learn about the tools, techniques, and methodologies used by systems analysts to develop information systems in organizations.", 
+        "number": "5123", 
+        "subject": "ISM", 
+        "title": "Information Systems Analysis and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

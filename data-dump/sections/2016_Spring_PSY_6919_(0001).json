@@ -1,0 +1,35 @@
+{
+    "_unique": "0001-DSC (8988)", 
+    "basic": {
+        "class_num": "8988", 
+        "course": "6919", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "PSY", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:50:00", 
+            "instructors": [
+                "Pamela Keel"
+            ], 
+            "location": "PDB C0122E", 
+            "start_time": "13:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "15:00:00", 
+            "instructors": [], 
+            "location": "PDB C0122E", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

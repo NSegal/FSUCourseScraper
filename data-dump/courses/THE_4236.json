@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines American theatre and drama in its cultural and social contexts.", 
+        "number": "4236", 
+        "subject": "THE", 
+        "title": "A Cultural History of the American Theatre and Drama from Beginnings to Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

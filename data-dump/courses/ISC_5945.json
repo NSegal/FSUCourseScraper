@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship is for students in the Master in Science Teaching program. Students complete at least thirteen weeks of student teaching in the classroom.", 
+        "number": "5945", 
+        "subject": "ISC", 
+        "title": "Full-Time Teaching Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5944 and ISC 5946.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "6.00"
+    }
+}

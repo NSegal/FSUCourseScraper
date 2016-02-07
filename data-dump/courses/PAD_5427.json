@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies institutional theory and behavior in government labor relations. Public policy implications, differences from the private sector, evolution of public unions, scope and practices with emphasis upon Florida.", 
+        "number": "5427", 
+        "subject": "PAD", 
+        "title": "Public Labor Relations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

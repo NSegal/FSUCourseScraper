@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves the actual editing of another's work, synthesizing another's ideas and data, structuring and clarifying.", 
+        "number": "4212", 
+        "subject": "ENC", 
+        "title": "Editing Manuscripts, Documents, and Reports"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

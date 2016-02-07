@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth treatment of the theory and practice of management information systems including information requirements analysis, design methodology, and system implementation considerations.", 
+        "number": "4113", 
+        "subject": "ISM", 
+        "title": "Management Information Systems Analysis and Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

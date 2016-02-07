@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the history of Great Britain (since 1870) from a greatworld power to a European Common Market member. Economic, diplomatic, imperial, social, and political affairs are considered.", 
+        "number": "4502", 
+        "subject": "EUH", 
+        "title": "England Since 1870"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

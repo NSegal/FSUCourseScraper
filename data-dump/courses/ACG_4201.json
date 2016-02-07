@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an in-depth study of financial reporting concepts and generally accepted practice for investments, business combinations, consolidated enterprises, foreign operations, and the statement of cash flows. Emphasis is placed on analyzing financial events and the consequences of financial reporting alternatives.", 
+        "number": "4201", 
+        "subject": "ACG", 
+        "title": "Financial Accounting and Reporting III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3111 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

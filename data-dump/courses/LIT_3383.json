@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students study texts that consider women's roles in society. The course focuses on women's gender roles and legal status during the Victorian period. What kinds of political and literary power did women have? What did women have to say about social and political matters? How did women use literary forms to communicate their arguments?", 
+        "number": "3383", 
+        "subject": "LIT", 
+        "title": "Women in Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

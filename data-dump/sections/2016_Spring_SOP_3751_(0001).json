@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (9449)", 
+    "basic": {
+        "class_num": "9449", 
+        "course": "3751", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SOP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "Teion Wells Harrison"
+            ], 
+            "location": "PDB A0106", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

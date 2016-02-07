@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This survey course is about international development NGOs. The course presents contemporary perspectives about NGOs, describes how NGOs operate, and introduces the challenges that their managers face and potential solutions for them.", 
+        "number": "4170", 
+        "subject": "PAD", 
+        "title": "Nongovernmental Organizations in Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

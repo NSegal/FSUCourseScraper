@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course fosters the development of skills, knowledge, and experience needed for effective post-secondary art instruction.", 
+        "number": "5387", 
+        "subject": "ARE", 
+        "title": "Teaching College Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

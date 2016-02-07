@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course requires six hours of credit that must be taken in two successive semesters and must result in the production of a thesis. May be repeated to a maximum of nine semester hours.", 
+        "number": "4970", 
+        "subject": "ASN", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

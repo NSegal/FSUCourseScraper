@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For composition majors only. May be repeated to a maximum of six semester hours.", 
+        "number": "3231", 
+        "subject": "MUC", 
+        "title": "Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUC 2221 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

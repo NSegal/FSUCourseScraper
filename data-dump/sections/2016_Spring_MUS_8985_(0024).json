@@ -1,0 +1,26 @@
+{
+    "_unique": "0024-DDF (6610)", 
+    "basic": {
+        "class_num": "6610", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0024", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Bruce Holzman"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

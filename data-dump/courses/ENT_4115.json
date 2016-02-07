@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the second in a two-course series for seniors in which\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 students complete a business plan for the creation of a new venture and construct a tradeshow booth to promote their venture. In this course, students learn the business planning process and take a highly feasible idea from ENT 4014 and develop a complete business plan and trade-show booth. Students are also exposed to concepts of entrepreneurial marketing and human resource management.", 
+        "number": "4115", 
+        "subject": "ENT", 
+        "title": "Creating New Ventures II: Business Planning and Competing for Capital"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENT 4014.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

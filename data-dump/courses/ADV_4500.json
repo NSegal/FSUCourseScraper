@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers survey, observational, and experimental methods and processes. Topics include research design, planning, questionnaire construction, sampling, validity measurements, field work, tabulations, presentation, and interpretation.", 
+        "number": "4500", 
+        "subject": "ADV", 
+        "title": "Advertising Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ADV 3008.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

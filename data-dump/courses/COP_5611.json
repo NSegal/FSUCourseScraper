@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on design principles of batch, multiprogramming, and time-sharing systems; distributed systems; problems of concurrency.", 
+        "number": "5611", 
+        "subject": "COP", 
+        "title": "Advanced Operating Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CDA 3101, COP 4610, and introductory probability or statistics.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

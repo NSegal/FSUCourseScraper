@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum gives students full-time experience in a leisure agency under the supervision of a professional practitioner.", 
+        "number": "5941", 
+        "subject": "LEI", 
+        "title": "Practicum in Leisure Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "9.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course helps develop an understanding of the nature of language, to dispel a number of myths and misconceptions about language, and to provide tools and techniques for describing linguistic data. May count toward the major in Slavic (Russian) and Spanish. May count toward the major in Spanish with a concentration in business, and the Spanish co-major.", 
+        "number": "3041", 
+        "subject": "LIN", 
+        "title": "Introductory Linguistics for Foreign Language Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

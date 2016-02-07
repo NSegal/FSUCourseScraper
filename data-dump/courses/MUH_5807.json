@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the evolution of jazz, including the study of Cool, Hard Bop, Free, Post Bop, and Pop-Jazz styles.", 
+        "number": "5807", 
+        "subject": "MUH", 
+        "title": "History of Jazz"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

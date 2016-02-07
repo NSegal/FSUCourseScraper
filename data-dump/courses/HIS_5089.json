@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for MA in historical administration and public history candidates only. A minimum of six semester hours is required. May be repeated to a maximum of six semester hours.", 
+        "number": "5089", 
+        "subject": "HIS", 
+        "title": "Historical Administration and Public History Program Capstone Research Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enhances student understanding of human diversity and prepares students to engage in a lifetime pursuit of cultural competence. Students are encouraged to discuss the intricacies of their own particular diverse dominant and minority social statuses and their relations to other persons, especially future social work clients. Although the course is not designed to train students in particular practice skill sets, emphasis is placed on enhancing respectful and empathic communication.", 
+        "number": "4620", 
+        "subject": "SOW", 
+        "title": "Diversity in Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

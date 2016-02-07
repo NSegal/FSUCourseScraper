@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course stresses the application of behavioral principles within business, industry, mental health, and Applied Behavior Analysis service-delivery settings. The class provides an overview of contemporary research and practice in the field of Performance Management as well as topics related to research-based strategies for supervising employees in a variety of settings.", 
+        "number": "5740", 
+        "subject": "EAB", 
+        "title": "Behavior Analysis in Performance Management and Supervision"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 or equivalents or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

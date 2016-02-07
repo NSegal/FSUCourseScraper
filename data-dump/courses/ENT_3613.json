@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the quest for ideas that lead to true innovation of a product, service or process, with the courage to create, with risks of failure or mistakes by the student. Solving problems in an environment of uncertainty and dynamic change. Creativity is the central focus.\u00a0 Students are challenged to demonstrate true entrepreneural thinking; taking ideas and concepts where none has been before. Students experience what it means to fully engage with the patterns that produce breakthrough ideas. Students are exposed to a systematic approach to changing the way you create, identify and sell these ideas. In addition, students are introduced to a number of techniques, concepts and methods that can be added to the students creative skills toolkit.", 
+        "number": "3613", 
+        "subject": "ENT", 
+        "title": "Innovation and Creativity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 and MAN 3025.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

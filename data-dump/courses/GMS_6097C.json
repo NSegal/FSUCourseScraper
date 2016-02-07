@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This laboratory course is designed to provide students with individualized instruction in specific experimental strategies and methods important in their chosen specialty area of biomedical research training. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6097C", 
+        "subject": "GMS", 
+        "title": "Biomedical Sciences Research"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (11373)", 
+    "basic": {
+        "class_num": "11373", 
+        "course": "3930", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "HUM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "David Nordlund"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

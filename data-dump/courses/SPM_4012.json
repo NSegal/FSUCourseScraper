@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the role of sports in the United States, focusing on sports as social and cultural phenomena. Focus is on the relationships between sports and social variables such as race and gender, social institutions such as education and family, as well as social issues such as drug use and violence.", 
+        "number": "4012", 
+        "subject": "SPM", 
+        "title": "Sport in Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a supervised program of study. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4905", 
+        "subject": "ECH", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission of department chair.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

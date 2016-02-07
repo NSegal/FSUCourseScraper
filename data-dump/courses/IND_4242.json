@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of advanced projects in creative problem solving with emphasis on programming, spatial analysis, and open-office systems.", 
+        "number": "4242", 
+        "subject": "IND", 
+        "title": "Interior Design Studio III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 4218.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

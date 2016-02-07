@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intensive training in the rudiments of retail operations.", 
+        "number": "3231", 
+        "subject": "MAR", 
+        "title": "Retailing Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

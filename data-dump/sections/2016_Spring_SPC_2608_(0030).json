@@ -1,0 +1,37 @@
+{
+    "_unique": "0030-LEC (13989)", 
+    "basic": {
+        "class_num": "13989", 
+        "course": "2608", 
+        "season": "Spring", 
+        "solus_id": "0030", 
+        "status": "Open", 
+        "subject": "SPC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Maria Del Rocio Grimaldo"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Maria Del Rocio Grimaldo"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

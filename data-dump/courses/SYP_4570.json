@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on major theories and research traditions, including structural and social psychological causes of deviant behavior, processes of labeling deviants, and social conflict over definition and treatment of deviance.", 
+        "number": "4570", 
+        "subject": "SYP", 
+        "title": "Deviance and Social Control"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

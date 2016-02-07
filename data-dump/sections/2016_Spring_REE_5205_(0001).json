@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-OTH (9227)", 
+    "basic": {
+        "class_num": "9227", 
+        "course": "5205", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "REE", 
+        "type": "OTH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "George Sirmans"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

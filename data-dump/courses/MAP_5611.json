@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the computational methods for solving mathematical problems in finance; basic numerical methods, numerical solution of parabolic partial differential equations, including convergence and stability, solution of the Black-Scholes equation, boundary conditions for American options and binomial and random walk methods.", 
+        "number": "5611", 
+        "subject": "MAP", 
+        "title": "Introduction to Computational Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 5601; and C, C++ or appropriate computer language.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

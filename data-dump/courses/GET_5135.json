@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5135", 
+        "subject": "GET", 
+        "title": "German Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

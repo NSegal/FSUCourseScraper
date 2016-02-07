@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers methods for analyzing a broad range of unsteady flow conditions and for designing facilities to cope with resulting problems. Based on these methods, students learn to apply computer programs to practical water distribution and open-channel systems.", 
+        "number": "4203", 
+        "subject": "CWR", 
+        "title": "Hydraulic Engineering II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CWR 3201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

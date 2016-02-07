@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the development and operation of programs and projects at the unit level in American higher education. Particular attention is given to the financial and planning aspects of program management.", 
+        "number": "5630", 
+        "subject": "EDH", 
+        "title": "Capstone in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

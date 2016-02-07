@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers advanced traffic management systems (ATMS), advanced traveler information systems, advanced vehicle control systems, commercial vehicle operations, rural ITS, human factors, institutional issues, architecture and standards, as well as simulation and modeling.", 
+        "number": "4271", 
+        "subject": "TTE", 
+        "title": "Intelligent Transportation Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

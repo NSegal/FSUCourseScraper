@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the experiences of women in nineteenth-century America, focusing upon the ways gender, race, ethnicity, class, religion, and region interacted to shape women's lives. Examines women's family, work, social, and political roles as well as their contributions and quest for equality.", 
+        "number": "5567", 
+        "subject": "AMH", 
+        "title": "Women in 19th-Century America"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

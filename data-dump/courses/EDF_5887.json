@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the history and philosophy of educational policies and practices that respond to the realities of cultural diversity in the United States and abroad.", 
+        "number": "5887", 
+        "subject": "EDF", 
+        "title": "Multicultural Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

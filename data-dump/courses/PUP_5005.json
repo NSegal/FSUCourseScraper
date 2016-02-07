@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys theoretical and empirical literature on institutional processes of policy making, from agenda-setting through implementation.", 
+        "number": "5005", 
+        "subject": "PUP", 
+        "title": "Public Policy: Institutions and Processes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

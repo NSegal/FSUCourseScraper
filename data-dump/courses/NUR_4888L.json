@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the application component of NUR 4888. Under the guidance of clinical instructors, the student is given opportunities to intergrate theoretical knowledge from NUR 4888 in clinical sessions. Deliberate practice, debriefing, and reflective instruction approaches are used. Skills required by the professional nurse leader, including delegation of responsibilities, networking, facilitation of groups, conflict resolution, case management, collaboration, budgeting, cost effectiveness and resource allocation, risk management, quality and performance indicators, teaching and professional development are emphasized and applied in relevant settings.", 
+        "number": "4888L", 
+        "subject": "NUR", 
+        "title": "Nursing Leadership in Systems of Care Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Semester I, II, and III Nursing courses. Corequisites: Semester IV Nursing courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "2.00"
+    }
+}

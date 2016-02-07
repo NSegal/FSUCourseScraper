@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of information systems concepts and practice including system management, maintenance, assurance, and reporting services, physical and human resources. The course includes an introduction to information system hardware components, operating systems, scripting languages, with practical training in databases and networked servers.\u00a0 In addition, this course provides practice in managing the people, processes and events (planned or otherwise) involved in information system management.", 
+        "number": "3706", 
+        "subject": "LIS", 
+        "title": "Information Systems and Services"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 2780 and LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

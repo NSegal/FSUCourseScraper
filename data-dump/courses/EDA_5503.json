@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a systemic approach to leadership and management roles, responsibilities, opportunities, and challenges of school principals.", 
+        "number": "5503", 
+        "subject": "EDA", 
+        "title": "The Principalship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of readings from the Greek prose writers. May be repeated to a maximum of six semester hours.", 
+        "number": "5215", 
+        "subject": "GRW", 
+        "title": "Studies in the Greek Prose Writers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

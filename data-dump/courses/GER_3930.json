@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to study non-literary topics of a special kind, depending on student interest and faculty expertise. May be repeated to a maximum of nine semester hours when content changes.", 
+        "number": "3930", 
+        "subject": "GER", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission. GER 3500 or GER 3310 are recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

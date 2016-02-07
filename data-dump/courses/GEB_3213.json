@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to help business students develop the writing, verbal, and interpersonal skills that are necessary for a successful business career.", 
+        "number": "3213", 
+        "subject": "GEB", 
+        "title": "Business Communications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Upper-division business major.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

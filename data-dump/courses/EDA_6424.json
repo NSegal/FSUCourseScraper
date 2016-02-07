@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with the knowledge and skills required to conduct systematic, empirical research in Pre-K-12 school settings. Working in collaboration with superintendents, principals, teachers, and other practitioners, students identify one or more research questions addressing issues of critical importance to educators in the field.", 
+        "number": "6424", 
+        "subject": "EDA", 
+        "title": "Research in Schools"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

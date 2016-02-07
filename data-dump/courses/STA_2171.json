@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to statistics emphasizing applications to biology. Topics include: descriptive statistics, elementary probability, the binomial and nomial distributions, confidence intervals and hypothesis tests for means and proportions, correlation and regression, contingency tables and goodness-of-fit tests as well as analysis of variance.", 
+        "number": "2171", 
+        "subject": "STA", 
+        "title": "Statistics For Biology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311 and biology major status or departmental approval.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

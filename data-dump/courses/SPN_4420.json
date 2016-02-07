@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course stresses composition in Spanish with less emphasis on translation from Spanish into English. For students with prior knowledge of essential points of Spanish grammar.", 
+        "number": "4420", 
+        "subject": "SPN", 
+        "title": "Advanced Spanish Composition and Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

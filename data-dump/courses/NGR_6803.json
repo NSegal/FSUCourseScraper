@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares advanced practice nurse anesthetists who are proficient in ethical utilization and clinical application of research including problem identification and evaluation to provide high quality care and improve practice.", 
+        "number": "6803", 
+        "subject": "NGR", 
+        "title": "Research and Evidence-Based Practice I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory academic standing within the nurse anesthesia program after semester three.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

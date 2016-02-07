@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the character of medieval Italy and a survey of economic, political, and cultural changes in Western Europe.", 
+        "number": "4140", 
+        "subject": "EUH", 
+        "title": "Renaissance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

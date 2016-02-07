@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the methods and strategies of biocultural and paleodemographic analysis. While it uses substantial bodies of archaeological data, the course is primarily a physical anthropology class. The course stresses the identification of appropriate data sets and methods.", 
+        "number": "5580", 
+        "subject": "ANG", 
+        "title": "Biocultural Adaptation and Paleodemography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

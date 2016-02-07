@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is preparation for supervised teaching and education outreach experiences. Topics include approaches to conduct of classes and laboratories, exam construction, ethics in teaching, legal and safety issues for instructors, and effective written and oral communication.", 
+        "number": "5933", 
+        "subject": "IHS", 
+        "title": "Seminar on Medical Science Education"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course combines the various analytical underwater examinations into a holistic investigation process designed to locate and detect persons and physical evidence involved in, or victims of, crimes in or on the water. Emphasis is placed on the theory of the technology and the scientific decision-making required for its optimum application.", 
+        "number": "4765", 
+        "subject": "CJE", 
+        "title": "Underwater Crime Scene Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 4764.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

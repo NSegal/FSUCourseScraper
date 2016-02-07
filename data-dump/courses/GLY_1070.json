@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an overview of the basic physics and chemistry of water and the processes that control water supply to natural ecosystems and to human civilization. It covers the hydrologic cycle, floods, drought, groundwater, patterns of water use, threats to water quality, the effects of global climate change on future water supplies, and water issues facing the state of Florida.", 
+        "number": "1070", 
+        "subject": "GLY", 
+        "title": "Living on the Water Planet"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

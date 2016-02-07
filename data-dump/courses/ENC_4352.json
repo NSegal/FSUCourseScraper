@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the newsletter genre through analysis and production. Students read, respond to, and analyze a range of newsletter samples before engaging in the process of collaboratively designing, writing, and editing a newsletter that is disseminated digitally to its intended audience.", 
+        "number": "4352", 
+        "subject": "ENC", 
+        "title": "Editing Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

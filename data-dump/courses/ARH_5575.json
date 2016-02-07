@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on Islamic art, architecture, and urbanism. It covers the definition of Islamic art and architecture, the historical placement of Islamic art within the medieval context, the problem of ornamentation and figurative representation in the Islamic artistic tradition, the question of revivalism and reaprropriation of antiquities and classical styles, as well as the politics of the study of Islamic art and its historiography.", 
+        "number": "5575", 
+        "subject": "ARH", 
+        "title": "Islamic Art and Architecture, 7th-21st Centuries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores types of environmental hazards (natural and human-made) and their effects, techniques for the analysis of risks, and strategies for recovering losses.", 
+        "number": "4340", 
+        "subject": "GEO", 
+        "title": "Living in a Hazardous Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

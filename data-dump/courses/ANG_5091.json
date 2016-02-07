@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course acquaints students with the elements of scientific research designs as used in anthropology including research designs, consideration of variations for field work and for laboratory/library projects. It also considers the format for the\u00a0 publication of results. Each of the elements of research design are considered and a variety of readings are utilized to understand the basic elements.", 
+        "number": "5091", 
+        "subject": "ANG", 
+        "title": "Seminar in Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

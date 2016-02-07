@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the problems of figure drawing as they relate specifically to the theatrical designer using live, nude, and draped models.", 
+        "number": "5086", 
+        "subject": "TPA", 
+        "title": "Life Drawing for Designers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

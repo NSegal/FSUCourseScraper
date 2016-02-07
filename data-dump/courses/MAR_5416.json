@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on quanitative methods for data analysis and strategic decision making related to sales territory design, sales force organizatioin, compensation plans, forecasting, and key account resource allocations.", 
+        "number": "5416", 
+        "subject": "MAR", 
+        "title": "Strategic Sales Force Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

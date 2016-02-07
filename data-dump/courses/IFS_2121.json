@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to help students understand current economic issues so that they can become more informed citizens and voters. Students learn the basics of economic thinking and how markets and the political process work, and then apply these concepts to current economic issues such as minimum wage, legalization of drugs, trade restrictions, and fiscal and monetary policy during an economic crisis.", 
+        "number": "2121", 
+        "subject": "IFS", 
+        "title": "Why is Good Politics Not Good Economics?"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

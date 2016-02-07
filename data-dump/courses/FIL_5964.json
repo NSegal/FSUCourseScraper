@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This exam is an evaluation of first-year progress including public screening of MFA qualifying project and oral examination.", 
+        "number": "5964", 
+        "subject": "FIL", 
+        "title": "MFA Qualifying Exam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Summer", 
+        "units": "0.00"
+    }
+}

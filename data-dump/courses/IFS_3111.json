@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines theories and research that focus on aspects of self-motivation as well as motivating groups. The course covers topics in the domains of educational psychology, leadership studies, sport psychology, counseling psychology, and social psychology. Students come to understand underlying mechanisms of becoming, and being, leaders within their domains.", 
+        "number": "3111", 
+        "subject": "IFS", 
+        "title": "Becoming and Being Leaders: Motivating Self and Others"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

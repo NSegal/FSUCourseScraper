@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes students to mostly inpatient consultative infectious disease medicine. Emphasis is placed on the proper use of antibiotics in a variety of infectious disease cases. MD grade only. May be repeated within the same term for a maximum of eight semester hours.", 
+        "number": "7320", 
+        "subject": "MDE", 
+        "title": "Infectious Disease"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

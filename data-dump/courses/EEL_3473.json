@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines topics such as Maxwell's equations, plane electromagnetic waves, group velocity, polarization, Poynting vector, boundary conditions, reflection and refraction of plane waves, skin effect, transmission line analysis, impedance matching, wave guides and cavity resonators, fundamentals of radiation and antennas.", 
+        "number": "3473", 
+        "subject": "EEL", 
+        "title": "Electromagnetic Fields II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3472.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

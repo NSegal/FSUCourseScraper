@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (11237)", 
+    "basic": {
+        "class_num": "11237", 
+        "course": "2000", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "ARH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Jane Zaloga"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

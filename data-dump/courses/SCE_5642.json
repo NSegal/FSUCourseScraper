@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course assists pre-service and in-service science teachers in understanding the issues associated with science education and policy from a historical and futuristic perspective.", 
+        "number": "5642", 
+        "subject": "SCE", 
+        "title": "Science Teaching and Education Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide doctoral students with information and essential skills for teaching in the university environment. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6804", 
+        "subject": "SPA", 
+        "title": "University Academic and Clinical Teaching Colloquium"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 2.00"
+    }
+}

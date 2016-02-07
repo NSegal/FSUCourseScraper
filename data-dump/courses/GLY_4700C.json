@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the description of landforms and landscapes on the earth's surface. Emphasis is placed on the basic mechanisms that govern landform evolution, and on the history of geomorphic study. Several field trips are required.", 
+        "number": "4700C", 
+        "subject": "GLY", 
+        "title": "Geomorphology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

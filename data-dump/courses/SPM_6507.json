@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course assists doctoral students in understanding the theory, concepts, and frameworks of sport finance research. Includes a discussion of major financial frameworks related to and outside of sport and prepares those aspiring to teach undergraduate sport-finance courses.", 
+        "number": "6507", 
+        "subject": "SPM", 
+        "title": "Seminar in Sport Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a comprehensive overview of digital libraries, beginning with the conceptual underpinnings of digital libraries and broadening to include issues in the design, management, and evaluation of digital libraries, such as collection management and digitization, knowledge representation, access and user interfaces, archiving and digital preservation, as well as evaluation. The course also discusses the research literature addressing digital-library development.", 
+        "number": "5472", 
+        "subject": "LIS", 
+        "title": "Digital Libraries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 5603 and LIS 5362. Pre- or corequisite: LIS 5703.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

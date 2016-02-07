@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes design of advanced control systems (using time and frequency domains) are emphasized. Implementation of control systems using continuous (operational amplifier) or digital (microprocessor) techniques are addressed and practiced.", 
+        "number": "4316", 
+        "subject": "EML", 
+        "title": "Advanced Design and Analysis of Control Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 4312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies several important string quartets in the literature, with a focus on understanding the development of the genre through time and improving listening skills through analysis of the pieces studied.", 
+        "number": "5426", 
+        "subject": "MUL", 
+        "title": "String Quartet Literature from Haydn to Bartok and Beyond"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5107", 
+        "subject": "MAP", 
+        "title": "Mathematical Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 5404, MAP 5431, and MAP 5345.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the substantive law, complex procedures, and ethical issues of mass tort litigation.", 
+        "number": "7704", 
+        "subject": "LAW", 
+        "title": "Mass Tort Litigation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "units": "2.00 - 3.00"
+    }
+}

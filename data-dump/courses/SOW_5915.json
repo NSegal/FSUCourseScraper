@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to engage in a research project, working as a group under the direction of a faculty member. At least one component of the experience relates to evaluation of social work practice.", 
+        "number": "5915", 
+        "subject": "SOW", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

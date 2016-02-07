@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LAB (6905)", 
+    "basic": {
+        "class_num": "6905", 
+        "course": "2247L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MUT", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Jennifer Harding"
+            ], 
+            "location": "KMU 0202", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Jennifer Harding"
+            ], 
+            "location": "KMU 0202", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

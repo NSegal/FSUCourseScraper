@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of operations, processes, and systems used in the design of facilities for maintaining water supply quality, wastewater control, and aquatic pollution control. Design of wastewater collection systems, water and wastewater treatment plants, and systems for disposal for residuals from such facilities.", 
+        "number": "5565", 
+        "subject": "ENV", 
+        "title": "Design of Water Quality Management Facilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3200L, CWR 3201, and EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introductory course that emphasizes learning Italian through speaking and understanding skills at the elementary level. May not be taken by native speakers. May not be taken concurrently with ITA 1111, 1120, 1121 and/or 2220. (Dartmouth method)", 
+        "number": "1110", 
+        "subject": "ITA", 
+        "title": "Elementary Conversational Italian I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to meet the needs of those teaching second languages abroad and pre-service teachers in K-12 foreign/second language education by developing an understanding of current theories of second language learning through exploration of relevant research. Opportunities are provided for students to use the theoretical base in the design of classroom lessons.", 
+        "number": "3033", 
+        "subject": "FLE", 
+        "title": "Introduction to Teaching Foreign/Second Languages"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course, taken in conjunction with student teaching, documents student progress in mastering the 12 Accomplished Practices by preparing professional portfolios for both the elementary and secondary art teaching levels.", 
+        "number": "4950", 
+        "subject": "ARE", 
+        "title": "Portfolio in Art Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARE 4042, ARE 4043, ARE 4144 and ARE 4550C. Corequisite: ARE 4940.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-TDF (14407)", 
+    "basic": {
+        "class_num": "14407", 
+        "course": "6972", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "CGN", 
+        "type": "TDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lisa Spainhour"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

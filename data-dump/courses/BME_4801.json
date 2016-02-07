@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the first of a two-semester sequence on the design of biomedical engineering processes and products. The first semester consists of introducing students to the principles of engineering economics and cost estimation techniques relating to principles of biomedical engineering design. Included is an introduction to computer-aided design calculations.", 
+        "number": "4801", 
+        "subject": "BME", 
+        "title": "Biomedical Engineering Process Design I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BCH 4053 and BME 4404C. Corequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

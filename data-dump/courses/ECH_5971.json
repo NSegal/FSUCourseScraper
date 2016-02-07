@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves the performance of research and preparation of master's. May be repeated as often as approved by the department. Only six hours can be counted towards degree requirements. A minimum of six semester hours is required.", 
+        "number": "5971", 
+        "subject": "ECH", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

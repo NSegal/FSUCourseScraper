@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines how law shapes and is shaped by economic relations, morality, social solidarity, state institutions, political domination, democratic governance, and legal consciousness, and how low impacts and is influenced by race, gender, and class relations. The course explores how social groups use law and legal ideology to press their rights to remedy social inequalities and to what extent these groups are successful. Students become familiar with major theoretical traditions in law and society as well as sociological issues such as civil rights, the legislation of morality, and the administration of justice.", 
+        "number": "4038", 
+        "subject": "CJL", 
+        "title": "Law, Society, and the Administration of Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

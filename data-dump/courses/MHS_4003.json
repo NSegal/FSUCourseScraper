@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines current issues in intelligence, creativity, talent development, and giftedness. Course topics include theories of intelligence, the four P's of creativity, conceptions of giftedness, and why certain groups of students are underrepresented in gifted programs.", 
+        "number": "4003", 
+        "subject": "MHS", 
+        "title": "Introduction to the Psychology of the Gifted"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing and 3.0 GPA in major.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

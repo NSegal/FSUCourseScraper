@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys the judicial system and its links to politics in the United States. Covers the U.S. Supreme Court, other federal courts, and state and local courts. Topics include legal education and law careers, role of lawyers in court, selection of judges, how civil and criminal cases get to and through the courts, plea bargaining, judicial decision-making, and court-made public policy.", 
+        "number": "4284", 
+        "subject": "POS", 
+        "title": "Courts, Law, and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

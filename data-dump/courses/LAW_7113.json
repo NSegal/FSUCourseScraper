@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of selected federal constitutional constraints on the criminal justice adjudicatory process.", 
+        "number": "7113", 
+        "subject": "LAW", 
+        "title": "Criminal Procedure - Adjudication"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

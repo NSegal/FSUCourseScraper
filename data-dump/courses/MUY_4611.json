@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes group drumming and improvisation techniques, applications for therapy and group drumming leadership skills for use in wellness, counseling, and other music therapy settings.", 
+        "number": "4611", 
+        "subject": "MUY", 
+        "title": "Music Therapy Drumming"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

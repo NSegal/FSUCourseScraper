@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the classic theological traditions in American religion from Puritanism to contemporary theology. Emphasis will be on Protestant thought, but attention is given to representative Roman Catholic and Jewish thinkers.", 
+        "number": "5486", 
+        "subject": "RLG", 
+        "title": "Religious Thought in America"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

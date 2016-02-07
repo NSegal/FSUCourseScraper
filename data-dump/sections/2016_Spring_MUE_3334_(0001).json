@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LEC (5999)", 
+    "basic": {
+        "class_num": "5999", 
+        "course": "3334", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MUE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Kimberly Van Weelden"
+            ], 
+            "location": "KMU 0340", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Kimberly Van Weelden"
+            ], 
+            "location": "KMU 0340", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Kimberly Van Weelden"
+            ], 
+            "location": "KMU 0340", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

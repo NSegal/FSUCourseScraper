@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the rules of German grammar and syntax and employing them correctly in speaking and writing.", 
+        "number": "3310", 
+        "subject": "GER", 
+        "title": "German Grammar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

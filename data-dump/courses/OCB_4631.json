@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This interdisciplinary course addresses the ecology of estuaries and the part of the inshore waters with which estuaries interact directly. The lectures address the general ecological principles that govern the productivity and diversity of estuaries, including their hydrodynamics, sedimentology, chemistry, as well as plant and animal community structure. Key species of estuarine systems are introduced and cycles of carbon and nutrients are explained.", 
+        "number": "4631", 
+        "subject": "OCB", 
+        "title": "Estuarine and Coastal Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Understanding of chemical processes.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

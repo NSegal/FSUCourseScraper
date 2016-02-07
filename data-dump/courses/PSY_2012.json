@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a broad overview covering important psychological principles and findings within the major subfields of psychology, and the basic scientific methods employed. A \"bio-psycho-social\" approach is emphasized throughout so that all behaviors (including how we think, feel, and act) are discussed in terms of biological, psychological, and social determinants and consequences.", 
+        "number": "2012", 
+        "subject": "PSY", 
+        "title": "General Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

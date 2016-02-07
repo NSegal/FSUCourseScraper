@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with competency in the assessment of students with disabilities. In addition to exploring issues related to assessment, the course focuses on the administration and interpretation of formal instruments and informal assessment procedures.", 
+        "number": "5225", 
+        "subject": "EEX", 
+        "title": "Assessment of Students with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

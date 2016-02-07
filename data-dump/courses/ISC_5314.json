@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the theory and practice of verification and validation in computational sciences. Students learn basic terminology, are exposed to procedures and practical methods used in software implementation validationand in solution verification, employ exact and manufactured solutions, and explore elements of software quality assurance. The course introduces esse ntial data analysis techniques and reviews software development and maintenance tools. Examples from physical sciences and engineering are used to illustrate aspects of code variation, including validation hierarchy, validation benchmarks, as well as uncertainty quantification and simulation code predictive capabilities. The computational laboratory is an essential part ofthis course.", 
+        "number": "5314", 
+        "subject": "ISC", 
+        "title": "Verification and Validation in Computational Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 5315 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

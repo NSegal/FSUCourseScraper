@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory is a continuation of ENT 2010L, focusing on growing and running the micro-business throughout the academic year with planned liquidation and shutdown (Harvesting) at the end of the academic year.", 
+        "number": "2011L", 
+        "subject": "ENT", 
+        "title": "Managing and Harvesting New Ventures Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the major, ACG 2021, ENT 2010, and ENT 2010L. Corequisites: ACG 2071 and ENT 2011L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

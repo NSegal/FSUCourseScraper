@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides continuing theory and practice in character and creature animation with an emphasis on animating believable multi-character dialogue and combat scenes and on implementing professional workflow standards. May be repeated to a maximum of nine semester hours.", 
+        "number": "4737", 
+        "subject": "FIL", 
+        "title": "Character Animation II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2731, FIL 3736, and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

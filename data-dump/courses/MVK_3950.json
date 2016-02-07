@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "3950", 
+        "subject": "MVK", 
+        "title": "Certificate Recital"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

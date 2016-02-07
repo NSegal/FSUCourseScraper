@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, cognitive processes (decision making, attention memory, etc.) are studied, with an emphasis upon explaining and optimizing sport-related behavior.", 
+        "number": "5222", 
+        "subject": "PET", 
+        "title": "Cognitive Processes in Sport Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PET 5216.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

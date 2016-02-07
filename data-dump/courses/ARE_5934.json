@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course varies content to offer intensive study regarding specific topics relevant to the practice of art therapy. These topics may include but are not limited to: treating sexual abuse, confronting substance abuse, coping with loss, utilizing family systems, and addressing multicultural issues. Please check with the Department of Art Education office for current topic(s). May be repeated to a maximum of six semester hours.", 
+        "number": "5934", 
+        "subject": "ARE", 
+        "title": "Special Topics: Art Therapy Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

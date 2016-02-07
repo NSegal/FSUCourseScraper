@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on seeking to understand the emergence, evolution and possible futures of what is commonly called political Islam. Students examine the crucial interplay between local and global forces shaping Muslim politics as a lived reality in today\u2019s world.", 
+        "number": "5429", 
+        "subject": "CPO", 
+        "title": "Political Islam: Ideology or Religion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

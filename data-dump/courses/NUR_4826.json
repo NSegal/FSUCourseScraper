@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to both explore the ethical dimensions of health care practices and to develop skills in ethical decision making. Students will practice the clinical application of ethical theory in relation to current health care issues and concerns.", 
+        "number": "4826", 
+        "subject": "NUR", 
+        "title": "Contemporary Clinical Ethics in Health Care"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

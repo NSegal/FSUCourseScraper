@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-LEC (11382)", 
+    "basic": {
+        "class_num": "11382", 
+        "course": "3240", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "MAN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Fernando Chornet"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

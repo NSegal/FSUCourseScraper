@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of advanced work in biblical studies for undergraduates. Topics vary. May be repeated to a maximum of nine semester hours. May be repeated within the same semester.", 
+        "number": "4290", 
+        "subject": "REL", 
+        "title": "Undergraduate Biblical Studies Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

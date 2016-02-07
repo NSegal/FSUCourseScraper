@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically analyzes contemporary theories about the fundamentals of human knowledge: what ought to count as knowledge; how we get it; the roles of certainty, doubt, and skepticism; and the means by which we might maximize it.", 
+        "number": "3300", 
+        "subject": "PHI", 
+        "title": "Knowledge and Belief"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

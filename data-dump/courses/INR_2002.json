@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the study of international relations. Major topics include the different actors that participate in international relations and the different goals they pursue, the processes of conflict and cooperation, and recent trends in international politics.", 
+        "number": "2002", 
+        "subject": "INR", 
+        "title": "Introduction to International Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

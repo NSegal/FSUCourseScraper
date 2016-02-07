@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students have the opportunity to read current writings on string pedagogy, develop performance skills on two stringed instruments, and observe professionals teaching strings in the public schools. This course is required of all undergraduate instrumental music education majors.", 
+        "number": "3441", 
+        "subject": "MUE", 
+        "title": "Methods of String Instruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

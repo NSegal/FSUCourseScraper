@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines resort marketing of service industries within the context of social media and how it is used to implement service strategies for resorts. This course is designed to provide students with fundamental resort marketing information combined with social media applications which enable them to establish promotional programs and develop, implement, and evaluate strategic marketing plans resorts.", 
+        "number": "3515", 
+        "subject": "HFT", 
+        "title": "Resort Marketing and Social Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

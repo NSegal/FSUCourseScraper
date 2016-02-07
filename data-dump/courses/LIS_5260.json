@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a basic introduction to the interdisciplinary field of information science, including its goals, methods, and applications in information providing/information managing environments. Emphasis is placed on understanding the broad system of topics within information studies.", 
+        "number": "5260", 
+        "subject": "LIS", 
+        "title": "Information Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

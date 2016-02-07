@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses the evolution of economic ideas from ancient Greece to the modern period emphasizing the relationship between developments in economic analysis and cultural/technological changes. Critique of modern economic theory in terms of its sources and logical content.", 
+        "number": "3303", 
+        "subject": "ECO", 
+        "title": "History of Economic Ideas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Any 2000-level ECO course.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-DIS (1836)", 
+    "basic": {
+        "class_num": "1836", 
+        "course": "5900", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Closed", 
+        "subject": "CIS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Weikuan Yu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a variable-content seminar for majors to do in-depth work in selected philosophical topics/areas and to practice writing a substantive philosophical paper. May be repeated once with instructor permission to a maximum of six semester hours.", 
+        "number": "4938", 
+        "subject": "PHI", 
+        "title": "Seminar for Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

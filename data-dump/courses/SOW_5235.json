@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a beginning understanding of the relationship between social welfare and social policy from a social work perspective. Students engage in policy practice to address social and economic well-being and to deliver effective social work services across diverse populations. Attention is given to critical analysis of the role that social work and social welfare policies and programs play in advancing human rights and social and economic justice. Emphasis is placed on the advancement of social and economic justice and human rights in a global context.", 
+        "number": "5235", 
+        "subject": "SOW", 
+        "title": "Social Welfare Policy and Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

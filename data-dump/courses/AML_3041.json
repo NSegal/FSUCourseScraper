@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers significant works by representative Realists, Literary Naturalists, Modernists, and contemporary writers. Authors typically covered include Twain, James, Crane, Chopin, Eliot, Hemingway, Frost, Fitzgerald, Faulkner, Wright, Baldwin, Morrison, and O'Connor.", 
+        "number": "3041", 
+        "subject": "AML", 
+        "title": "American Authors Since 1875"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

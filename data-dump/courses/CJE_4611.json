@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives the student an opportunity to explore and understand investigative facets of law enforcement service delivery. The students focus on the historical relevance of the investigative process, the evolution of investigation, the procedural guidelines for effective investigations, and the mechanics of the modern day investigative process.", 
+        "number": "4611", 
+        "subject": "CJE", 
+        "title": "Criminal Investigation: Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

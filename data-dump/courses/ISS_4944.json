@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this internship, students are placed in a variety of employment situations related to their academic interest and conduct, under faculty supervision, research related to a problem or issue facing the sponsor of the internship. May be repeated to a maximum of six semester hours.", 
+        "number": "4944", 
+        "subject": "ISS", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

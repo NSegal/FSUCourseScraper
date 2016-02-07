@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of issues, methods, strategies, and problems related to the integration of population information with policies for guiding the social and economic development of third-world nations. The topics to be covered include: 1) demographic conditions and trends of major world regions and specific countries; 2) population policies and intervention programs designed to alter demographic structures and processes; 3) the influence of demographic conditions and trends on indications of societal development; 4) development conditions and trends of major world regions and specific countries; 5) alternative policy and program strategies for promoting regional and societal development; 6) obstacles to the use of demographic information for development planning; and 7) procedures for promoting the use of demographic knowledge by development policymakers.", 
+        "number": "5614", 
+        "subject": "URP", 
+        "title": "Population and Development Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

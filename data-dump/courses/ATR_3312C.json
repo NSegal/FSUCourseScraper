@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, athletic training/sports medicine students examine the various exercise and rehabilitation topics including the following: concepts of healing; evaluation and assessment techniques; range of motion and flexibility; goniometric measurement; manual therapy techniques; muscle strengthening; plyometrics; proprioception; posture; ambulation and ambulation aids; core stabilization; aqua therapy; joint rehabilitation protocols; and spine rehabilitation protocols.", 
+        "number": "3312C", 
+        "subject": "ATR", 
+        "title": "Therapeutic Exercise/Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 3832.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

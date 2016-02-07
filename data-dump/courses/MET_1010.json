@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the structure of the atmosphere; weather processes and weather systems, including climatic processes. Credit may not be received in this course if student has already received credit in 2000-level or higher MET courses.", 
+        "number": "1010", 
+        "subject": "MET", 
+        "title": "Introduction to the Atmosphere"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

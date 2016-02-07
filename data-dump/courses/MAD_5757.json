@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers high order spatial and temporal discretization; artificial selective damping; numerical stability; radiation, inflow and outflow boundary conditions; wall and time-domain impedance boundary conditions; nonlinear acoustic waves; design of computation algorithms for direct\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 numerical simulation.", 
+        "number": "5757", 
+        "subject": "MAD", 
+        "title": "High Order Finite Difference Methods for Computational Acoustics and Fluid Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 5738.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

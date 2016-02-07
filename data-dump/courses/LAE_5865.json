@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to address the field of media literacy and equip practicing teachers with the knowledge and pedagogies needed to promote media literacy. Students are provided with tools to cultivate their own literacy as well as to teach for media literacy, which supports other literacies, learning, and digital citizenship", 
+        "number": "5865", 
+        "subject": "LAE", 
+        "title": "Teaching Media Literacy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

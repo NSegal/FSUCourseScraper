@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the design, execution, and reporting of tests for usability of information products and services. This includes cost justifying assessments and concepts of human cognition relevant to information processing.", 
+        "number": "5275", 
+        "subject": "LIS", 
+        "title": "Usability Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

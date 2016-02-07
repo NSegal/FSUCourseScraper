@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the complex interactions between literary culture and the changing, overlapping, frustrating, and inspiring media technologies that have shaped the way we produce, transmit, transform, receive, and interpret creative representations of human experience. Beginning with the two opposed categories of the ephemeral and the monumental, it describes and analyzes the historical evolution of technologies from manuscript to digital multimedia, using a combination of case studies, hands-on experience, and sampling from the most influential theoretical formulations of the field.", 
+        "number": "5801", 
+        "subject": "ENG", 
+        "title": "Introduction to the History of Text Technologies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

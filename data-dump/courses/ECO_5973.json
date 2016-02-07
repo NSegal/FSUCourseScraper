@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "As the capstone for the applied master's degree, this project requires students to use theory, research methods, and analytical procedures learned in the program to reserach an applied economics question.\u00a0 Finding are presented in both oral and written format.\u00a0 The three-hour project is taken in both six-week summer sessions, for a total of six semester hours.\u00a0 May be repeated to a maximum of nine semester hours.", 
+        "number": "5973", 
+        "subject": "ECO", 
+        "title": "Applied Master's Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5114, ECO 5117, ECO 5206, ECO 5208, ECO 5420, ECO 5434, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

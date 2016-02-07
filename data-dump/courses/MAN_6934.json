@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a hands-on application of statistical tests utilizing computer packages to analyze various databases.", 
+        "number": "6934", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Management Research: Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

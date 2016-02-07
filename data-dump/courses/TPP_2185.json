@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a general survey of the development of acting and actor training, Stanislavsky to Hagen, with exercises in the basics of the actor's process and audition technique.", 
+        "number": "2185", 
+        "subject": "TPP", 
+        "title": "Orientation to Acting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

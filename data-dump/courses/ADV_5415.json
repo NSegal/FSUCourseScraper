@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares professionals to field the increasing number of positions that require marketing expertise to serve the U.S. Hispanic market.", 
+        "number": "5415", 
+        "subject": "ADV", 
+        "title": "Hispanic Marketing Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

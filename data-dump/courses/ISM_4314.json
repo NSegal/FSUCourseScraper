@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the fundamental knowledge areas related to successful project management. Topics include project selection and initiation, work breakdown structure and scope management, scheduling, budgeting and cost analysis, quality control, project communication plans, project risk analysis, resource leveling and procurement issues.", 
+        "number": "4314", 
+        "subject": "ISM", 
+        "title": "Project Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 4113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

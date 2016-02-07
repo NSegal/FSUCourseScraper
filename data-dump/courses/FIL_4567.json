@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers advanced study in film editing techniques and styles.", 
+        "number": "4567", 
+        "subject": "FIL", 
+        "title": "Production: Advanced Editing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

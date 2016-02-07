@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Private instruction. Major instrument. For performance majors. May be repeated to a maximum of twenty-four semester hours. Credit may be modified by electing MVO 5450 (2), all instruments. Credit for MVV 5451r is for three semester hours.", 
+        "number": "5450", 
+        "subject": "MVO", 
+        "title": "Modified Credit, All Instruments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

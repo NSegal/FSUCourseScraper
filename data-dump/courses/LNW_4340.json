@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of the works of Vergil or the other hexameter poets. May be repeated to a maximum of six semester hours.", 
+        "number": "4340", 
+        "subject": "LNW", 
+        "title": "Roman Epic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

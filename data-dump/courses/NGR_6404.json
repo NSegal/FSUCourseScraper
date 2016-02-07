@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents, analyzes/evaluates anatomy, physiology/pathophysiology of the respiratory and renal systems. The course also examines fluid and electrolyte balance, abnormalities and management in the acute and chronically ill patient.", 
+        "number": "6404", 
+        "subject": "NGR", 
+        "title": "Anatomy, Physiology/Pathophysiology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the nurse anesthesia program and undergraduate course work in anatomy and physiology/pathophysiology.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

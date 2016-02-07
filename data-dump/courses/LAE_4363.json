@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides those seeking an undergraduate English-Education degree with the opportunity to develop an understanding of the scope of British literature. Participants explore historical, political, and social events that influenced the creation of literature from the Anglo-Saxon era to the present, post-modern period.", 
+        "number": "4363", 
+        "subject": "LAE", 
+        "title": "A Survey of British Literature for English Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

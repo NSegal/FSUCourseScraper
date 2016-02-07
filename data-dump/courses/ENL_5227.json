@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various approaches to the study of British works and authors from 1500 to 1660, including but not limited to poetry, prose, and\u00a0\u00a0\u00a0 drama.", 
+        "number": "5227", 
+        "subject": "ENL", 
+        "title": "Studies in Renaissance Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

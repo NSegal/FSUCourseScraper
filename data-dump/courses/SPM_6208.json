@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course assists students in self-evaluating, examining, and developing philosophical and moral reasoning skills. Major moral/ethical theories and frameworks outside and pertaining to sport are researched and discussed. Students experience the ethical decision-making process through opportunities for critical thinking.", 
+        "number": "6208", 
+        "subject": "SPM", 
+        "title": "Seminar in Sport Ethics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

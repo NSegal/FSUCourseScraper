@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses gene organization and replication; control of gene expression in transcription and translation; application of recombinant DNA techniques.", 
+        "number": "5405", 
+        "subject": "BCH", 
+        "title": "Molecular Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate biochemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

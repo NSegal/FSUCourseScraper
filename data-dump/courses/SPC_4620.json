@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to enhance the speech making abilities of students interested in a career where these skills are essential. Students are trained in selecting and organizing ideas; conducting Internet and library research; adapting a message to a particular audience; speaking to main points; supporting ideas; and delivering an effective messaging in a presentations will be addressed in this course.\u00a0 This course is offered exclusively at\u00a0\u00a0 the FSU Panama City Campus.", 
+        "number": "4620", 
+        "subject": "SPC", 
+        "title": "Strategic Speech Making"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

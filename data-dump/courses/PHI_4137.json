@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced course in modern symbolic logic. Topics discussed include the compactness theorem, the logic of identity, names and descriptions, second-order logic, type theory, the ancestral, the Frege-Russell definition of natural number, and G\u00f6del's incompleteness results.", 
+        "number": "4137", 
+        "subject": "PHI", 
+        "title": "Modern Logic II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHI 4134.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

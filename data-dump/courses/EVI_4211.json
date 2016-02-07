@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course students develop skills in the preparation of materials for blind students in the literary braille code using a braillewriter. Interlining and proofreading are emphasized.", 
+        "number": "4211", 
+        "subject": "EVI", 
+        "title": "Literary Braille"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

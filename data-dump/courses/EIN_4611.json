@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces and familiarizes students with the basic automation problems and the technologies used in automated production and robotic systems. Various components and systems and their applications to industrial automation are discussed. The course is supplemented by labs that help students apply and evaluate the concepts studied in the classroom.", 
+        "number": "4611", 
+        "subject": "EIN", 
+        "title": "Industrial Automation and Robotics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 3390C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

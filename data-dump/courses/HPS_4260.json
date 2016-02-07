@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course adopts a historiographical perspective and explores the idiosyncratic projects, socio-cultural contexts, and theological horizons of early modern natural philosophy and natural history. Topics draw on primary and secondary sources and include the role of \"spirits\" in corpuscular philosophy and the place of \"monsters\" in the natural world.", 
+        "number": "4260", 
+        "subject": "HPS", 
+        "title": "Empiricism Before Science: Religion, Natural History and Natural Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

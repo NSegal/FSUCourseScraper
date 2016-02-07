@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a graduate introduction to the history, present status, principal isues, and methodologies in the academic study of religion.", 
+        "number": "5035", 
+        "subject": "RLG", 
+        "title": "Seminar: Introduction to the Study of Religion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

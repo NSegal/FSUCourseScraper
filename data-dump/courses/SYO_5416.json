@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course in the sociology of mental health and substance problems focuses on the role of social stress and the stress process.\u00a0 Theories and measurement of disorder and of stress exposure are considered, along with evidence on factors that increase and decrease risk for mental health and substance abuse problems.", 
+        "number": "5416", 
+        "subject": "SYO", 
+        "title": "Stress and Mental Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

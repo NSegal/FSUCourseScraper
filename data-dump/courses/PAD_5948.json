@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5948", 
+        "subject": "PAD", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

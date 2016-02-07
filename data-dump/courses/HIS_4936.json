@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is open to participants in the University's and departmental honors program. The student must complete six thesis hours. The course does not count as credit toward the history major. May be repeated to a maximum of six semester hours.", 
+        "number": "4936", 
+        "subject": "HIS", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

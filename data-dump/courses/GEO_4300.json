@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the spatial distributions of flora and fauna, ecosystem change, and human interventions such as logging, invasive species, and wilderness preservation.", 
+        "number": "4300", 
+        "subject": "GEO", 
+        "title": "Biogeography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: theories of truth, meaning, and reference; vagueness; and in-depth readings of figures such as Tarski, Frege, Russell, Wittgenstein, and Kripke.", 
+        "number": "6225", 
+        "subject": "PHI", 
+        "title": "Philosophy of Language"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

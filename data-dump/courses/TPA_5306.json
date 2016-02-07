@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of the concepts and materials covered in TPA 5310 (Structural Design for the Stage I).", 
+        "number": "5306", 
+        "subject": "TPA", 
+        "title": "Structural Design for the Stage II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "TPA5310,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

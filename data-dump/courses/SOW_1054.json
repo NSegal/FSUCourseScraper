@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course entails a direct human service experience in a social services\nagency or community organization or program. Thirty hours of volunteer services are required per credit hour. Through the volunteer experience, students are able to observe the application of social work knowledge and skills within a human service program and to learn about the role social workers play in generalist practice settings with systems of all sizes. May be repeated to a maximum of two semester hours.", 
+        "number": "1054", 
+        "subject": "SOW", 
+        "title": "Human Services Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (3039)", 
+    "basic": {
+        "class_num": "3039", 
+        "course": "4842", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EEX", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Mary Hanline"
+            ], 
+            "location": "STB G150", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

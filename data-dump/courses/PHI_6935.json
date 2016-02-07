@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a research seminar on a topic to be determined by the instructor's current research interests. Intensive and advanced.", 
+        "number": "6935", 
+        "subject": "PHI", 
+        "title": "Seminar in Philosophical Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

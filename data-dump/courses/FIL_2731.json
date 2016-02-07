@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction in the foundation principles of animation. Students apply course concepts to create original animation that conveys emotion and demonstrates basic understanding of body mechanics.", 
+        "number": "2731", 
+        "subject": "FIL", 
+        "title": "Introduction to 3D Computer Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

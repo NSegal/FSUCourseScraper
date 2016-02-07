@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the foundations of art education and structure and communication in art education. May be repeated to a maximum of six semester hours within the same term.", 
+        "number": "6937", 
+        "subject": "ARE", 
+        "title": "Doctoral Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

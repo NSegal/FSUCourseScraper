@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a line by line script examination, analyzing how playwrights of various periods achieved characterization, structure, and plotting.", 
+        "number": "4303", 
+        "subject": "THE", 
+        "title": "Play Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

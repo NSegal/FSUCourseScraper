@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced techniques of silkscreen, relief printing, etching, and lithography, as well as photo-silkscreen and papermaking, depending on the appropriate instructor. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4923C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Printmaking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2400C or ART 2430C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

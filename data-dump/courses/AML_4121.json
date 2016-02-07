@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course typically covers Dreiser, Dos Passos, Fitzgerald, Hemingway, Faulkner, Bellow, and Wright.", 
+        "number": "4121", 
+        "subject": "AML", 
+        "title": "The 20th-Century American Novel"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

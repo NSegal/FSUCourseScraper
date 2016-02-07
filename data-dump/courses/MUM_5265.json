@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Open to all graduate organ majors and principals and others by consent of the instructor.", 
+        "number": "5265", 
+        "subject": "MUM", 
+        "title": "Organ Design and Maintenance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to manual and computerized accounting information systems. Transaction cycles, internal controls, and flowcharting are emphasized.", 
+        "number": "4401", 
+        "subject": "ACG", 
+        "title": "Accounting Information Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ACG 3101 with a grade of \"C\" or better and CGS 2518.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

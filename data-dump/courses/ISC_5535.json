@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course immerses preservice teachers in science research and reflectio n on the pedagogy of inquiry-based teaching. Students also develop a template for designing inquiry-based teaching in the classroom.", 
+        "number": "5535", 
+        "subject": "ISC", 
+        "title": "Research in the Content Area for Teachers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "ISC5525,C,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "6.00"
+    }
+}

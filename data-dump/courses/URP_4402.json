@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines various dimensions of the \"sustainable development\" paradigm and its local-global policy implications, issues, and controversies with a focus upon North American and Latin America. The course is organized into three modules: 1) environmental philosophies that have influenced the movement; 2) North American approaches to planning for sustainable development; and 3) critical issues of sustainable development in Latin America.", 
+        "number": "4402", 
+        "subject": "URP", 
+        "title": "Sustainable Development Planning in the Americas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

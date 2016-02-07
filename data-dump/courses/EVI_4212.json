@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course enables students preparing to be teachers of blind school-age children to support the instruction of mathematics skills. Topics include the foundation of the acquisition of mathematics skills, the Nemeth Code, adaptations of mathematics diagrams and structures, instruction in the abacus, and strategies for teaching mathematics skills to students with visual impairments.", 
+        "number": "4212", 
+        "subject": "EVI", 
+        "title": "Nemeth Code and Supporting Math Instruction for Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4011, EVI 4211, and EVI 4254.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

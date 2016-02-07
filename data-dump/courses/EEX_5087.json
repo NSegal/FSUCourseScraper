@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course assists participants to develop curricular planning skills for middle and high school students with disabilities. Emphasis is placed on evidence-based instructional strategies appropriate for teaching middle and high school students receiving special education services.", 
+        "number": "5087", 
+        "subject": "EEX", 
+        "title": "Middle and Secondary Curriculum for Learners with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

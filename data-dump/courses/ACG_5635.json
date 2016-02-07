@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the theory of auditing and the development of auditing programs, procedures for obtaining audit evidence, as well as the responsibilities of auditors according to the requirements of the Securities and Exchange Commission.", 
+        "number": "5635", 
+        "subject": "ACG", 
+        "title": "Auditing Theory and Application II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

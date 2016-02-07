@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This entry-level Liberal Arts course provides an introduction to the research and ideation processes essential to cutting-edge creativity.", 
+        "number": "2015", 
+        "subject": "IFS", 
+        "title": "Creative Inquiry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

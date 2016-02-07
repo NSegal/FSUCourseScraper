@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a required prerequisite for all marketing courses. Gives the student an understanding of the decision areas and the ability to utilize marketing concepts to make business decisions.", 
+        "number": "3023", 
+        "subject": "MAR", 
+        "title": "Basic Marketing Concepts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2023 and one behavioral science course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

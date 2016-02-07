@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the evolution of jazz, 1890-1950, including the study of ragtime, New Orleans, Chicago, pre-Swing, Swing, Be-Bop, and West Coast styles.", 
+        "number": "4801", 
+        "subject": "MUH", 
+        "title": "History of Jazz I (1890-1950)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the Roman Empire from Augustus to Constantine. Emphasis on the evolution from the duarchy of the early empire to the monarchy of the late empire.", 
+        "number": "5418", 
+        "subject": "EUH", 
+        "title": "The Roman Empire"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

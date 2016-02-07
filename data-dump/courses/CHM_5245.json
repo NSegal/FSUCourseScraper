@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers linear free energy relationships, inductive effects, treatment of steric effects, prediction of enthalpies and entropies of formation, kinetics and potential energy diagrams, isotope effects, general acid-base catalysis, acidity functions and their use in studies of mechanisms, strategies of investigation of mechanisms.", 
+        "number": "5245", 
+        "subject": "CHM", 
+        "title": "Physical Organic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate organic chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

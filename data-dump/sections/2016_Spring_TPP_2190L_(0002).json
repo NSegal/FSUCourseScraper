@@ -1,0 +1,24 @@
+{
+    "_unique": "0002-LAB (10045)", 
+    "basic": {
+        "class_num": "10045", 
+        "course": "2190L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "TPP", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:05:00", 
+            "instructors": [], 
+            "location": "FAA 0117", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

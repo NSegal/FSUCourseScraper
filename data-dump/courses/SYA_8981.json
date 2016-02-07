@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course indicates that a student has faculty approval for the Doctoral Review Paper.", 
+        "number": "8981", 
+        "subject": "SYA", 
+        "title": "Doctoral Review Paper Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Dissertation Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

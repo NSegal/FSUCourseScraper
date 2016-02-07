@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5337", 
+        "subject": "TPA", 
+        "title": "Costume Rendering Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "TPA5047,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

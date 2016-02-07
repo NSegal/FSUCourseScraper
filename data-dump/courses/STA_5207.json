@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics such as general linear hypothesis, analysis of covariance, multiple correlation and regression, response surface methods. Graduate credit for non-statistics majors only.", 
+        "number": "5207", 
+        "subject": "STA", 
+        "title": "Applied Regression Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One of STA 2122, STA 4322, or STA 5126.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

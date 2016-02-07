@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a hands-on introduction to environmental and hydraulic engineering topics. Physical experiments that demonstrate fundamental concepts such as hydrostatics, pipe flow, open channel flow, water quality, and water treatment processes are performed.", 
+        "number": "3200L", 
+        "subject": "CWR", 
+        "title": "Environmental and Hydraulic Engineering Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: EES 3040 or CWR 3201.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

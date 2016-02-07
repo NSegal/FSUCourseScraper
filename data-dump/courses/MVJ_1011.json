@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "1011", 
+        "subject": "MVJ", 
+        "title": "App Mus Prep, Voice, Jazz"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of philosophical, environmental, social, and psychological phenomenon of leisure and recreation such as socialization, motivation, attitude, satisfaction, boredom, and wellness. Scientific and philosophical explanations will be used.", 
+        "number": "5171", 
+        "subject": "LEI", 
+        "title": "Philosophical, Social, and Behavioral Foundations of Leisure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

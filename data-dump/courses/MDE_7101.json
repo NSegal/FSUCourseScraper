@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7101", 
+        "subject": "MDE", 
+        "title": "Psychosocial Issues in Underserved Populations"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "4.00"
+    }
+}

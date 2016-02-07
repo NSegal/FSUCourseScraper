@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers poverty in the United States, with particular emphasis\u00a0 on homelessness.\u00a0 It includes content related to values and ethics in programs and policies as well as cultural diversity among people in poverty.\u00a0\u00a0\u00a0 Particular attention to those who suffer from poverty and other societal\u00a0\u00a0 oppression, such as those who are also people of color, women, gays, lesbians, HIV positive, or disabled.", 
+        "number": "4247", 
+        "subject": "SOW", 
+        "title": "Homelessness in America: People, Programs and Policies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

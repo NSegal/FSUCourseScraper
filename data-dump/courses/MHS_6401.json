@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the nature of theory and instruction in a variety of counseling theories. Emphasis is placed on counseling-research literature and evidence-based practice.", 
+        "number": "6401", 
+        "subject": "MHS", 
+        "title": "Evidence-based Counseling/Psychotheraphy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MHS 5400 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes students to current business trends and issues in the film industry; introduces case studies that examine all business aspects surrounding a feature film; introduces current readings on the film industry.", 
+        "number": "4602", 
+        "subject": "FIL", 
+        "title": "Film Business Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

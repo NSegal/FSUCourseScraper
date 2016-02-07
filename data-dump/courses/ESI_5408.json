@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines optimization topics relevant to industrial operations and systems. Emphasis on basic modeling assumptions and procedure implementation. Topics include linear programming, nonlinear programming, discrete optimization and large-scale optimization software. Design exercises.", 
+        "number": "5408", 
+        "subject": "ESI", 
+        "title": "Applied Optimization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 3312C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to cover topics not otherwise available in the curriculum. Topics vary and a particular topic is announced at least one semester in advance. May be repeated to a maximum of nine semester hours.", 
+        "number": "6934", 
+        "subject": "SPW", 
+        "title": "Topics in Hispanic Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

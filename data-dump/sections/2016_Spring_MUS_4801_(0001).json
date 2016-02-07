@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (6362)", 
+    "basic": {
+        "class_num": "6362", 
+        "course": "4801", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Eva Amsler"
+            ], 
+            "location": "KMU 0340", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

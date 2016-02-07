@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on childrens development of mathematical content and on the development of mathematics curriculum from childrens view points. Technology as a tool for learning mathematics is included in the course.", 
+        "number": "4326", 
+        "subject": "MAE", 
+        "title": "How Children Learn Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Block I. Corequisite: Block II.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews the history and the essential economic and environmental factors of the Middle East region. The centrifugal and centripetal forces affecting development, culture, religion, ethnicity, and geopolitics.", 
+        "number": "4635", 
+        "subject": "GEA", 
+        "title": "Geography of the Middle East"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

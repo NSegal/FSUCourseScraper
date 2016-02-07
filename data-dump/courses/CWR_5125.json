@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the fundamentals of groundwater flow and contaminant transport. Topics include: Darcy's law, flow nets, mass conservation, heterogeneity and anisotropy, storage properties, 3-D equation of groundwater flow, regional recirculation, unsaturated flow, recharge, stream-aquifer interaction, well hydraulics, slug test analyses, and contaminant transport processes.", 
+        "number": "5125", 
+        "subject": "CWR", 
+        "title": "Groundwater Hydrology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3201 and EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

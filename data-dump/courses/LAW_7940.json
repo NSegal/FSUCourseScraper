@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the College of Law Clinical Programs, appellate brief writing, trial and appellate proceedings, and a review of applicable Florida practice and procedure. May be repeated within the same term to a maximum of two semester hours.", 
+        "number": "7940", 
+        "subject": "LAW", 
+        "title": "Clinical Orientation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 2.00"
+    }
+}

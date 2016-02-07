@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents advanced mathematical techniques for chemical engineering applications within a unified framework of operator-theoretic methods. Green's functions solution of partial differential equations, regular and singular perturbation techniques, boundary value problems, and boundary-element and finite-element techniques.", 
+        "number": "5841", 
+        "subject": "ECH", 
+        "title": "Advanced Chemical Engineering Mathematics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 5840.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

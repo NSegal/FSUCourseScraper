@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the prehistory of North America from the earliest big-game hunters who exploited extinct megafauna to the societies existing at the time of historic contact. Regional variation and continuity in subsistence and settlement patterns and material culture are examined.", 
+        "number": "4153", 
+        "subject": "ANT", 
+        "title": "North American Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

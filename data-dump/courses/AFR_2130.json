@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey course concerned with the beginnings of manned flight and the development of aerospace power in the United States, including the employment of air power in WWI, WWII, Korea, Vietnam, the Gulf War and the peaceful employment of U.S. air power in civic actions, scientific missions and support of space exploration.", 
+        "number": "2130", 
+        "subject": "AFR", 
+        "title": "The Evolution of Aerospace Studies I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

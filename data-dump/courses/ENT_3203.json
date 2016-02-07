@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the management of rapidly growing entrepreneurial firms. Topics include building an infrastructure, planning stage financing, managing under adversity, and managing a business with rapid growth.", 
+        "number": "3203", 
+        "subject": "ENT", 
+        "title": "Managing New Venture Growth"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 and MAN 3025.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

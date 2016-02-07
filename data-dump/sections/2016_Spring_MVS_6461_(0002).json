@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-PRF (7531)", 
+    "basic": {
+        "class_num": "7531", 
+        "course": "6461", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MVS", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Benjamin Sung"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

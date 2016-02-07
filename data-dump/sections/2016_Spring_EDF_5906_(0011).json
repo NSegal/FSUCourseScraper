@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-DIS (14131)", 
+    "basic": {
+        "class_num": "14131", 
+        "course": "5906", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Closed", 
+        "subject": "EDF", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Graig Chow"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

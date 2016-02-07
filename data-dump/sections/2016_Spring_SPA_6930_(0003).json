@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (14095)", 
+    "basic": {
+        "class_num": "14095", 
+        "course": "6930", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "SPA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Carla Wood"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers human adjustments and the resulting forms of behavior. Abnormal and normal behavior are contrasted. Special emphasis on the determinants of adjustments.", 
+        "number": "3003", 
+        "subject": "CLP", 
+        "title": "Psychology of Adjustment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

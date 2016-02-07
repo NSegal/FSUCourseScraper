@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of the theoretical issues and research on the law and legal control of deviance in society.", 
+        "number": "5285", 
+        "subject": "CCJ", 
+        "title": "Survey of Criminal Justice Theory and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

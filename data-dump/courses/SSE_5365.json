@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the identification of problems, their investigation, and application of findings to instruction. May be repeated to a maximum of six semester hours.", 
+        "number": "5365", 
+        "subject": "SSE", 
+        "title": "Problems of Teaching Social Studies in Secondary School and Junior College"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

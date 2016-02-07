@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches the potential filmmaker to have their own aesthetics of filmmaking and to articulate that style by viewing various films with unique styles and aesthetics and through class discussion.", 
+        "number": "5875", 
+        "subject": "FIL", 
+        "title": "Film Aesthetics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

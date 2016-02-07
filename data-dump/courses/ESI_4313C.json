@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the development and application of nondeterministic, analytic models including PERT/CPM, discrete and continuous time Markov chains, queuing models including queuing networks, inventory models, and decision analysis. Case studies and design exercises.", 
+        "number": "4313C", 
+        "subject": "ESI", 
+        "title": "Operations Research II: Nondeterministic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3443 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced concepts in purchasing and materials management. Emphasis is on recent research and current practice to achieve strategic sourcing objectives.", 
+        "number": "4462", 
+        "subject": "MAR", 
+        "title": "Seminar in Purchasing/Materials Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3461.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

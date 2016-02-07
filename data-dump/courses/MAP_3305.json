@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers ordinary differential equations, Laplace transform, and linear algebra: determinants, matrices, eigenvalues and eigenvectors. Not open to students having credit in MAP 2302.", 
+        "number": "3305", 
+        "subject": "MAP", 
+        "title": "Engineering Mathematics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313 or MAC 2312 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

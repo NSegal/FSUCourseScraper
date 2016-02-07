@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers issues and techniques related to the planning, production, and management of large World Wide Web sites, including information on organization and design, hardware and software, and cutting-edge development tools. Special emphasis is placed on information provision and the role of Web developers as providers and managers of information resources.", 
+        "number": "4366", 
+        "subject": "LIS", 
+        "title": "Website Development and Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

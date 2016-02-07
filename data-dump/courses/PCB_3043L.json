@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics covered include quantifying populations and population growth; species interactions such as competition, predation, and mutualisms; documenting community patterns across gradients; adaptation and traits of species; habitat use, movement and species ranges; natural history of local habitats.", 
+        "number": "3043L", 
+        "subject": "PCB", 
+        "title": "Lab for Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L. Corequisite: BSC 3052 or PCB 3043.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the development of public health and the history of medicine in the United States from the colonial period to the present. The course examines changes in medical knowledge, the medical profession, governmental responsibilities, public responses; how individuals accept, modify, or reject medical authority; how race, class, gender, and ethnicity shape health practices and the delivery of medical care; how we protect the health of a community; and what constitutes a public hazard.", 
+        "number": "3323", 
+        "subject": "HPS", 
+        "title": "History and Philosophy of Environmental Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

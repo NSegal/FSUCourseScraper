@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies white mensural notation and the various types of tablature notation.", 
+        "number": "5411", 
+        "subject": "MUH", 
+        "title": "Notation of Polyphonic Music II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis and interpretation of research in textiles and consumer sciences. Principles of quantitative and qualitative research; methodologies used in survey, experimental, and historical research. Emphasis is placed on theory development, and research design.", 
+        "number": "5911", 
+        "subject": "CTE", 
+        "title": "Research Analysis in Clothing and Textiles"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

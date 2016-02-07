@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed for ballet students who are ready to develop proficiency at the intermediate level, and includes some theoretical study of the history of the art form as well as comprehension of the vocabulary of ballet technical terms. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "2203", 
+        "subject": "DAA", 
+        "title": "Intermediate Ballet-Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Faculty placement or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

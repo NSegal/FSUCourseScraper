@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents current science based information about nutrition, dieting, eating disorders, and body image.", 
+        "number": "5297", 
+        "subject": "HUN", 
+        "title": "Eating Disorders, Body Image and Healthy Weight Maintenance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

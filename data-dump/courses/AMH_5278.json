@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the political and cultural issues faced by the United States during the period of the Cold War (1945 to 1988). Special attention is given to postwar affluence, suburban America, the mass society, the movement from isolationism to interventionism, McCarthyism, the civil rights movement, social conflict in the 1960s, and the rise of postwar conservatism.", 
+        "number": "5278", 
+        "subject": "AMH", 
+        "title": "The United States Since 1945"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

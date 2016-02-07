@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (7421)", 
+    "basic": {
+        "class_num": "7421", 
+        "course": "6566", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "MVS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Bruce Holzman"
+            ], 
+            "location": "HMU N0111", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

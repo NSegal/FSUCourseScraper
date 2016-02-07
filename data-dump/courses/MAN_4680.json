@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected topics in international management which vary depending upon the instructor for the course. Topics such as cultural influences on management, international personnel management, and other related management topics are discussed. May be repeated to a maximum of six semester hours.", 
+        "number": "4680", 
+        "subject": "MAN", 
+        "title": "Selected Topics in International Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013, ECO 2023, and MAN 3600.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

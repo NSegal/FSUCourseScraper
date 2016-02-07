@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the direction and production of multiple-camera studio video projects including camera, lighting, audio, and live-to-tape switching.", 
+        "number": "3543", 
+        "subject": "RTV", 
+        "title": "Multiple Camera Studio Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RTV 3531.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

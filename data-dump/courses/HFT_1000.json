@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introductory review of the segments, disciplines, career opportunities, and current issues in the hospitality industry.", 
+        "number": "1000", 
+        "subject": "HFT", 
+        "title": "Introduction to Hospitality and Tourism Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

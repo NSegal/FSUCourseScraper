@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of international film as an industry, mass medium, and art form.", 
+        "number": "2030", 
+        "subject": "FIL", 
+        "title": "History of Motion Pictures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

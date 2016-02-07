@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the history of interiors, furnishings, and architecture of the contemporary movement from the nineteenth century\u00a0 to the present.", 
+        "number": "5165", 
+        "subject": "IND", 
+        "title": "History of Interiors Seminar III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: IND 5105r and IND 5135r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

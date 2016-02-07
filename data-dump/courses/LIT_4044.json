@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers specific topics in the study of British, American, or Continental drama. May be repeated to a maximum of six hours credit.", 
+        "number": "4044", 
+        "subject": "LIT", 
+        "title": "Readings in Dramatic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00 - 6.00"
+    }
+}

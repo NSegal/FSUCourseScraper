@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of independent or directed research in a specialized area beyond the current curriculum in electrical engineering. May be repeated to a maximum of nine semester hours.", 
+        "number": "4906", 
+        "subject": "EEL", 
+        "title": "Honors Work in Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the honors program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

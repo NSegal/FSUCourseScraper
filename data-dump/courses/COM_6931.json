@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes survey, analysis, and practicum of research in specialized topics relating to the process and effects of communication in the aural, oral, or mass media mode. May be repeated to a maximum of nine semester hours. Duplicate registration is allowed.", 
+        "number": "6931", 
+        "subject": "COM", 
+        "title": "Special Topics in Communication Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of art therapy through examination of its history, literature, populations, and professional opportunities.", 
+        "number": "5555", 
+        "subject": "ARE", 
+        "title": "Advanced Art Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

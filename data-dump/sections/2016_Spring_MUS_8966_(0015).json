@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-MEX (6551)", 
+    "basic": {
+        "class_num": "6551", 
+        "course": "8966", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "MEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jeffrey Keesecker"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

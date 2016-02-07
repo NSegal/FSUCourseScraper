@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces graduate students to critical theories and their application to non-English literary texts. Members of the Department of Modern Languages and Linguistics and invited faculty from other University departments team teach.", 
+        "number": "5025", 
+        "subject": "FOW", 
+        "title": "Critical Theory and Its Application to Non-English Literatures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

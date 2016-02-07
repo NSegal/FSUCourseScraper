@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the field of social gerontology and gerontological social work. Topics include the demography, physical, cognitive, and psychosocial aspects of aging; health-care and social policies that impact older persons, caregivers, and the aging network of services; ways in which forms of oppression (such as ageism, sexism, racism, ablebodyism, beautism, and homophobia) impact our work with older people; as well as ways to promote dignity, self-determination, and socio-economic justice for older persons.", 
+        "number": "5646", 
+        "subject": "SOW", 
+        "title": "Gerontological Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

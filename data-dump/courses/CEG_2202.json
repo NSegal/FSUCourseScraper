@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores methods and procedures of surface mapping and subsurface sectioning including distance measurements, traverse computations and topographic mapping, and Global Positioning Systems. Use of field equipment and procedures to measure distances, elevations, angles, and perform complete surveys.", 
+        "number": "2202", 
+        "subject": "CEG", 
+        "title": "Introduction to Geomatics Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311. Corequisite: CEG 2202L. Pre- or Corequisite: EGN 2123.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

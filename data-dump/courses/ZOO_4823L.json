@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes topics such as: collection, keying, and curation of local insects.", 
+        "number": "4823L", 
+        "subject": "ZOO", 
+        "title": "Insect Diversity of North Florida"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L and MAC 2311. Pre- or corequisite: ZOO 4823.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

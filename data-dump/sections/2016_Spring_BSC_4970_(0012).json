@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-DIS (951)", 
+    "basic": {
+        "class_num": "951", 
+        "course": "4970", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Elizabeth Hammock"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

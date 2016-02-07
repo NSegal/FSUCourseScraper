@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for students who have had three semesters of Arabic language or equivalent learning experience. This course aims to continue developing students' speaking, listening and reading comprehension, as well as writing and cultural skills. It focuses on grammar, composition, and vocabulary building. May be taken concurrently with ARA 2240.", 
+        "number": "3222", 
+        "subject": "ARA", 
+        "title": "Mid-Intermediate Arabic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARA 2220 or higher.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

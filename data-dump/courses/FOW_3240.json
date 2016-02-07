@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates how modern Western fiction, in particular the modern novel, represents and critically examines a variety of themes related to sexuality in a socio-cultural and political context", 
+        "number": "3240", 
+        "subject": "FOW", 
+        "title": "Literature and Sexuality"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

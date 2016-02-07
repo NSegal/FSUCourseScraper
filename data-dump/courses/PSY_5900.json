@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised individual research study on a selected topic by a directing professor. Participation includes active participation in research and a written product, the nature of which is to be detailed in a written contract between professor and student.", 
+        "number": "5900", 
+        "subject": "PSY", 
+        "title": "Individual Research Study"
+    }, 
+    "extra": {
+        "add_consent": "Instructor Consent Required", 
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 9.00"
+    }
+}

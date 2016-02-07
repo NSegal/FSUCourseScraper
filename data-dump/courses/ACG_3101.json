@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an in-depth study of financial-reporting concepts and generally accepted practice, including an overview of the accounting-cycle assets and noncurrent assets. Emphasis is placed on analyzing financial events and the consequences of financial-reporting alternatives.", 
+        "number": "3101", 
+        "subject": "ACG", 
+        "title": "Financial Accounting and Reporting I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 2021 and ACG 2071 with a grade of \"B\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores best practices and theories regarding emotional intelligence, communication, behavior and ethics in professional Emergency Management. At the conclusion of this course, students have the knowledge and skills necessary to be successful in a professional emergency management setting. May be repeated to a maximum of nine semester hours.", 
+        "number": "4936", 
+        "subject": "PAD", 
+        "title": "Special Topics in Public Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

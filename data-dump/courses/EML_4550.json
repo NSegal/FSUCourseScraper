@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a formal lecture component of the mechanical engineering 'capstone' senior design course project. The course covers the product design cycle from problem identification and need assessment, to specification, concept generation and selection, preliminary design, materials selection, and final design. The design process is placed in context by presenting topics such as legal and ethical issues, product reliability and liability considerations, engineering economics, and optimal design.", 
+        "number": "4550", 
+        "subject": "EML", 
+        "title": "Engineering Design Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3002L and EML 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a graduate seminar and core entry course for the applied Master of Science in Demography Interdisciplinary degree. It covers acquisition of data from censuses, vital statistics, and surveys; basic demographic and statistical techniques to evaluate data quality and make estimates and projections; and application of such data to decisions in business, government, education, health care and other applied settings.", 
+        "number": "5133", 
+        "subject": "SYD", 
+        "title": "POPULATION DATA"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

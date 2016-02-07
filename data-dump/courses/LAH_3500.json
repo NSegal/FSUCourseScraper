@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory survey from the Inca Civilization to modern Chile, Peru, Argentina, etc. Emphasis is placed on the contrasts and conflicts between Indian and European culture and on basic social, economic, and political evolution. The persistence of \"underdevelopment\" and poverty are also explored.", 
+        "number": "3500", 
+        "subject": "LAH", 
+        "title": "History of South America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

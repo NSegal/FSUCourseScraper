@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an historical and philsophical analysis of major questions in the relationship between religion and science.", 
+        "number": "3160", 
+        "subject": "REL", 
+        "title": "Religion and Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

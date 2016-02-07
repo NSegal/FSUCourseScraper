@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for undergraduate students who wish an individualized research experience in the Medical Humanities and Social Sciences, Public Health, or other fields represented in the College of Medicine. Students receive training in research methods and improve their readiness for and appreciation of research in health-related science.", 
+        "number": "4904", 
+        "subject": "IHS", 
+        "title": "Directed Individual Study in Health Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Medical Science": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

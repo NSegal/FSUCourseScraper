@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Laboratory linked to and required of all students in PAD 5701. Intensive i nstruction in computer techniques, in-class exercises in statistical techniques and methods, supplementary lecture material.", 
+        "number": "5701L", 
+        "subject": "PAD", 
+        "title": "Quantitative Analysis in Public Administration Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5700 and PAD 5700L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "0.00"
+    }
+}

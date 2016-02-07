@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the design process by solving specific design problems in video and sound, going from conceptualization to refinement and final implementation.", 
+        "number": "3193C", 
+        "subject": "GRA", 
+        "title": "Graphic Design III/Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1000, ART 1201C, ART 1203, ART 1300C, ART 1602C and ART 2003C or ART 2204C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

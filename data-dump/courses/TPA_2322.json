@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to theatre costume and lighting practices. Students participate in at least one run-crew assignment.", 
+        "number": "2322", 
+        "subject": "TPA", 
+        "title": "Technical Theatre Practices I: Costumes, Lighting, and Backstage Run-Crews"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

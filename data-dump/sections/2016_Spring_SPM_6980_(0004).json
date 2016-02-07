@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DSS (9638)", 
+    "basic": {
+        "class_num": "9638", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "SPM", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Ryan Rodenberg"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

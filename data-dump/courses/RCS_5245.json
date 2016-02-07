@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the major theoretical perspectives and concepts of adjustment and adaptation to a disability and chronic illness. Social, cultural, and psychological factors of disability are viewed from a life-span perspective.", 
+        "number": "5245", 
+        "subject": "RCS", 
+        "title": "Psychosocial and Multicultural Aspects of Disability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

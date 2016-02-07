@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (2694)", 
+    "basic": {
+        "class_num": "2694", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EDF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:20:00", 
+            "instructors": [
+                "Toby Park"
+            ], 
+            "location": "STB 1301A", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

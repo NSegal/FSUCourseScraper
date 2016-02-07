@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This clinical laboratory course provides the returning registered nurse student with the opportunity to apply professional nursing strategies while assisting clients and families in maintaining and/or regaining an optimal level of wellness. Emphasis is given to the professional nursing roles of care provider/coordinator, teacher, collaborator, and problem solver in clients/family health care across the life span.", 
+        "number": "4080L", 
+        "subject": "NUR", 
+        "title": "Nursing Practicum I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequsiite: NUR 4069C. Corequisite: NUR 4080.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes reading, research, drafting, and writing of essays and a journal for a total of 7,000 words. No auditors.", 
+        "number": "1102", 
+        "subject": "ENC", 
+        "title": "Freshman Writing, Reading, and Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 1101 or ENC 1149.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

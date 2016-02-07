@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the development of skills in sight singing and ear training.", 
+        "number": "1242L", 
+        "subject": "MUT", 
+        "title": "Sight Singing and Ear Training II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 1111 and MUT 1241L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00"
+    }
+}

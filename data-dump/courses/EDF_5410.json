@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the consideration and application of topics in nonparametric statistics.", 
+        "number": "5410", 
+        "subject": "EDF", 
+        "title": "Nonparametric Analysis Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

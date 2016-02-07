@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers positive definite matrices, matrix computation, linear programming and game theory. Applications.", 
+        "number": "4106", 
+        "subject": "MAS", 
+        "title": "Applied Linear Algebra II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

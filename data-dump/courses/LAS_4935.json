@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to participate in supervised research and produce a paper describing the results of that work. Open to participants in the University and department honors program. May be repeated to a maximum of nine semester hours.", 
+        "number": "4935", 
+        "subject": "LAS", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

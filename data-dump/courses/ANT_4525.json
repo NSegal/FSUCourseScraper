@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to acquaint the student with each of the bones of the normal adult human skeleton. It is particularly appropriate for those students interested in archaeology and physical anthropology. Each bone is examined, followed by a review of abnormal variations. The uses of anthropometric instruments are demonstrated as are the methods of estimating age, sex, and racial origin.", 
+        "number": "4525", 
+        "subject": "ANT", 
+        "title": "Human Osteology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2511 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

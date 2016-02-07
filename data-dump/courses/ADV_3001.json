@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This foundation course in advertising explores creativity in a workshop environment.", 
+        "number": "3001", 
+        "subject": "ADV", 
+        "title": "Creative Strategy I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on electric fields for static charge distributions, electric fields in matter, magnetic fields for constant current configurations, magnetic fields in matter, and Maxwell's equations.", 
+        "number": "4323", 
+        "subject": "PHY", 
+        "title": "Electricity and Magnetism I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3221 and PHZ 3113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

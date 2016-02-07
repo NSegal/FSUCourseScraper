@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores and evaluates accounts of human nature that key, historically influential philosophers have given to this question and the ways in which their answers are reflected in contemporary debates about what humans are.", 
+        "number": "2065", 
+        "subject": "IFS", 
+        "title": "Human Nature: Modern and Contemporary Perspectives"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is about oral expression, listening skills, and vocabulary acquisition in French with a variety of domains, using contemporary materials.", 
+        "number": "4410", 
+        "subject": "FRE", 
+        "title": "Advanced Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

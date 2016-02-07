@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes selected seminars complemented by a ten-week, two-person student consulting team working with a local area entrepreneurial client. Closely supervised consultation with a comprehensive consulting report provided for each client. Effort is placed on developing proficiencies in a range of skills required to practice consulting.", 
+        "number": "4944", 
+        "subject": "ENT", 
+        "title": "Small Business and New Venture Analysis and Consultation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENT 3413.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

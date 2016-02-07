@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines techniques of film scoring and review of application requirements. May be repeated to a maximum of six semester hours.", 
+        "number": "5615", 
+        "subject": "MUC", 
+        "title": "Film Scoring"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers research methodologies useful in developing and evaluating accounting theories and principles; an introduction to behavioral accounting research and empirical financial accounting research. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6939", 
+        "subject": "ACG", 
+        "title": "Seminar in Accounting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

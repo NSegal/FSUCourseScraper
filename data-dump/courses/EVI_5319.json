@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers the knowledge of communication and emergent literacy for young children (birth to age five) who are visually impaired or have other disabilities. The course prepares students to assess and plan for communication, language development, and literacy interventions for this age group.", 
+        "number": "5319", 
+        "subject": "EVI", 
+        "title": "Communication and Emergent Literacy for Young Children with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DDF (15018)", 
+    "basic": {
+        "class_num": "15018", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "ACG", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Allen Blay"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

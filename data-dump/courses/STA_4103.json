@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course utilizes Matlab and a programming language (C/Fortran). The course is a continuation of STA 4102 in computational techniques for linear and non-linear statistics. The course also explores topics such as statistical image understanding, elements of pattern theory, simulated annealing, Metropolis-Hastings algorithm, and Gibbs sampling.", 
+        "number": "4103", 
+        "subject": "STA", 
+        "title": "Computational Methods in Statistics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides information about the process of applying for public art commissions including in-depth information about each component of the application. Students go through the process of designing a public art project and creating a complete proposal.\u00a0 This course provides insight into the business side of public art and the experiences of creating a proposal that elucidates the beginning steps of creating work for the public sphere.", 
+        "number": "3845", 
+        "subject": "ART", 
+        "title": "Entering the Public Sphere: How to Apply for Public Art Commissions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1000, ART 1201C, ART 1203, ART 1300C, ART 1602C, and ART 2204C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

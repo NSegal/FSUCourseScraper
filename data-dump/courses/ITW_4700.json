@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a study of the Trecento writers: Dante, Petrarch and Boccaccio. Readings and discussions are available in both English and Italian.", 
+        "number": "4700", 
+        "subject": "ITW", 
+        "title": "The Trecento Writers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ITW 3100 and ITW 3101, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers techniques of definition and logical argument, sets and functions, propositional logic, introduction to graphs and relations, and\u00a0 applications. Mathematics majors should take MGF 3301 instead of MAD 2104.", 
+        "number": "2104", 
+        "subject": "MAD", 
+        "title": "Discrete Mathematics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311 or COP 3014 and MAC 1140. Recommended prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

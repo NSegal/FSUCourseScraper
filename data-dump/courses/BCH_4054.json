@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second course required for biochemistry majors; it is also recommended for other majors who intend to study advanced biochemistry. Topics include quantitative analysis of assembly and mechanisms of molecular machines involved in metabolic and information transfer processes, how proteins bind proteins, nucleic acids, and ligands, as well as the methods for characterizing structures and interactions. This lecture-based course meets three hours a week.", 
+        "number": "4054", 
+        "subject": "BCH", 
+        "title": "General Biochemistry II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BCH 4053 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

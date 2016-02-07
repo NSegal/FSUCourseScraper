@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to help professional teachers use technology for the development of higher-order thinking. Emphasis is given to current trends and issues in technology, such as Hypermedia and Internet. Teachers develop plans for their own classes that are consistent with recommendations for school improvement.", 
+        "number": "5346", 
+        "subject": "EDE", 
+        "title": "Technology in Elementary and Middle School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the production of MFA thesis projects. The course provides students with advanced instruction related to their chosen field of specialization while requiring them to coordinate their efforts with those of theircrew counterparts, up to the thesis project postproduction phase. Credit hours determined by work load assigned, according to student's area of emphasis. May be repeated one time to a maximum of fifteen semester hours. May berepeated during the same semester.", 
+        "number": "5977", 
+        "subject": "FIL", 
+        "title": "MFA Thesis Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 15.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (4689)", 
+    "basic": {
+        "class_num": "4689", 
+        "course": "4314", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "LAE", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Shelly Bowden"
+            ], 
+            "location": "BAY C104", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

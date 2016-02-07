@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the foundations of distance learning and on-line educational programs. It examines the design and technologies necessary for quality interactive education at a distance.", 
+        "number": "5457", 
+        "subject": "EME", 
+        "title": "Introduction to Distance Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

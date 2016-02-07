@@ -1,0 +1,26 @@
+{
+    "_unique": "0031-LEC (14433)", 
+    "basic": {
+        "class_num": "14433", 
+        "course": "7930", 
+        "season": "Spring", 
+        "solus_id": "0031", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:05:00", 
+            "instructors": [
+                "Garrick Pursley"
+            ], 
+            "location": "LAW 0308", 
+            "start_time": "13:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

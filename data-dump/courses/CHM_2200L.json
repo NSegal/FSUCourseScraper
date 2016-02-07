@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "2200L", 
+        "subject": "CHM", 
+        "title": "Survey of Organic Chemistry Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CHM 2200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course deals with syntactical and morphological rules based on early transformational grammar. These rules are tested in class discussion, and attempts are made to analyze prose and poetry according to the rules. Students make a syntactical analysis of one or more literary works, or parts of works, of their choice.", 
+        "number": "5805", 
+        "subject": "SPN", 
+        "title": "Spanish Morphology and Syntax"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A working knowledge of Spanish.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

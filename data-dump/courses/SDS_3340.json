@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the principles and practices of career planning and management, including use of self-assessment, career resources, and employability skill guides.\u00a0 May be repeated to a maximum of three semester hours.", 
+        "number": "3340", 
+        "subject": "SDS", 
+        "title": "Introduction to Career Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

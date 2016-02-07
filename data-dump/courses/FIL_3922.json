@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students the opportunity to view historical and current films followed by discussions in an academic forum. May be repeated to a maximum of six semester hours.", 
+        "number": "3922", 
+        "subject": "FIL", 
+        "title": "Film Genres and Film Makers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

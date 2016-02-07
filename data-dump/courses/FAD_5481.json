@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students to teach in the area of family sciences in a higher education setting. It focuses upon units of study, evaluation, procedures, teaching models and strategies.", 
+        "number": "5481", 
+        "subject": "FAD", 
+        "title": "College Teaching in Family Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

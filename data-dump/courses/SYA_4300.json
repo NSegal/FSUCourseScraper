@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a broad coverage of research design, data collection, and data analysis. The course is required for sociology majors.", 
+        "number": "4300", 
+        "subject": "SYA", 
+        "title": "Methods of Social Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

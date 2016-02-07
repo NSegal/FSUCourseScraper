@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This two-part course is designed for students to engage in supervised research. This course helps students move from having a substantive area to developing a research agenda, planning, and executing their own work. Students are encouraged to select a topic relevant to their own substantive area of interest. In the first semester, students develop a working relationship with an individual faculty member; simultaneously students attend a seminar in which they propose a project, prepare a work plan, and prepare an IRB application. In the second semester, the individual faculty member supervises the students' implementation and write-up of the research project.", 
+        "number": "6945", 
+        "subject": "SOW", 
+        "title": "Practicum in Applied Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 6.00"
+    }
+}

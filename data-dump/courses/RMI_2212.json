@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of property risks and coverages. Insurer operations are discussed in detail. Social problems associated with the risks are discussed as well as the impact of inland marine, transportation, and multi-peril coverages.", 
+        "number": "2212", 
+        "subject": "RMI", 
+        "title": "Personal and Business Property Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

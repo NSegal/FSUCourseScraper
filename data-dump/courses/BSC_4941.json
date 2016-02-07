@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This internship course is designed for majors in the department of Biological Science who wish to gain real world experience in their field of interest through on-the-job practice and have this experience reflected on their transcript. Students work under the supervision of an approved professional in the field of biological science with oversight by the Associate Chair of Undergraduate Studies. May be repeated to a maximum of six semester hours, but only four hours may count toward the major.", 
+        "number": "4941", 
+        "subject": "BSC", 
+        "title": "Internship in Biological Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, junior or senior standing, a 3.0 or greater GPA in biology, and permission of the Associate Chair of Undergraduate Studies.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 4.00"
+    }
+}

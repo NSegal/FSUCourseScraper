@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course facilitates students being knowledgeable and articulate discussants of current issues and trends in the field of rehabilitation. Emphasizes leadership development related to major policy trends and practices in the rehabilitation of persons with disabilities, as well as trends in rehabilitation education and professionalism. May be repeated to a maximum of six semester hours.", 
+        "number": "6700", 
+        "subject": "RCS", 
+        "title": "Professional Issues in Rehabilitation Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

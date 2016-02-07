@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students begin to identify with the social work profession, its history, mission, and core values, and conduct themselves in accordance with the ethical principles that guide professional practice. Students also learn how the social work profession engages in policy and practice to address issues of social and economic well-being. They begin to recognize the social, political, economic, and environmental influences on client systems of all sizes and apply them to the conduct of social work practice.", 
+        "number": "3203", 
+        "subject": "SOW", 
+        "title": "The Social Work Profession"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

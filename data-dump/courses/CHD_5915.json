@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores research design, with emphasis on the development of a thesis or dissertation prospectus. Includes a laboratory to practice data-analysis applications.", 
+        "number": "5915", 
+        "subject": "CHD", 
+        "title": "Methods of Research I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: A graduate statistics course such as EDF 6401 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

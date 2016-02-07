@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the thought, values, and arts of Greek and Roman\u00a0\u00a0\u00a0 culture.", 
+        "number": "5227", 
+        "subject": "HUM", 
+        "title": "The Humanistic Tradition: Greek and Roman"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on reproduction and development, transmission (Mendelian) genetics, population biology, ecology, and evolution.", 
+        "number": "2011L", 
+        "subject": "BSC", 
+        "title": "Biological Science II Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010 and BSC 2010L. Corequisite: BSC 2011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

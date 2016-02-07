@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the role and impact that ethnicity, racism, gender, and other diversity topics have had on sport, while providing students with an opportunity to develop an understanding and appreciation for diversity in sport.", 
+        "number": "4025", 
+        "subject": "SPM", 
+        "title": "Diversity in Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

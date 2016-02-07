@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the design and use of digital technologies for the purpose of influencing individuals' attitudes or behaviors in a number of contexts (i.e., e-commerce, social marketing, education, health, etc.). Computers as persuasive technology or \"captology\" is an interdisciplinary field that draws on theories and methods of psychology, human behavior studies, communication and human-computer interaction to inform the design of persuasive experiences delivered through interactive and computational technologies.", 
+        "number": "5751", 
+        "subject": "LIS", 
+        "title": "Computers as Persuasive Tech"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of doctoral student presentations concerning current research and developments in exercise physiology and motor learning/control.", 
+        "number": "6930", 
+        "subject": "PET", 
+        "title": "Seminar in Movement Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

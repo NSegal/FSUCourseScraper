@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the relevance of gender to various aspects of education including formal, nonformal, and informal education. Research and issues from various regions of the world are included for analysis. Students develop their ability to analyze gender in educational settings and to incorporate gender analysis into educational planning in a variety of contexts.", 
+        "number": "5706", 
+        "subject": "EDF", 
+        "title": "Gender and Education in Comparative Perspective"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

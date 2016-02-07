@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to masterpieces of German literature from the 19th century to the present. It uses works by authors of various ethnic, minority, and gender backgrounds that bring forth German representations of gendered or cultural others and transcultural issues. May be counted for major or minor credit. Taught in English.", 
+        "number": "3130", 
+        "subject": "GET", 
+        "title": "Masterpieces of German Literature in Translation: 19th and 20th Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

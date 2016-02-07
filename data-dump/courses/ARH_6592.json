@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced seminar on specific topics within the area of Eastern art. Specific topics vary. May be repeated to a maximum of nine semester hours.", 
+        "number": "6592", 
+        "subject": "ARH", 
+        "title": "Topics in Eastern Art: Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

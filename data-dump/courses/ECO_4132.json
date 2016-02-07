@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses international and domestic issues of compassionate, charitable, and philanthropic activities. It offers an economic framework from which students can critically evaluate public and private actions whose purpose is to eliminate hunger, disease, poverty or other human burdens.", 
+        "number": "4132", 
+        "subject": "ECO", 
+        "title": "Economics of Compassion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

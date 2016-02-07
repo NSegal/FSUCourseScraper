@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to renewable energy generation. Topics include smart grid system, hybrid electric vehicle, and grid-connected PV inverters. Emphasis is placed on the energy conversion techniques applied in the renewable energy storage elements.", 
+        "number": "4282", 
+        "subject": "EEL", 
+        "title": "Renewable Energy Generation II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

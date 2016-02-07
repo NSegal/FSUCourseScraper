@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the principles of analysis and interpretation in archaeological research while bridging the gap between archaeological field data and activities that produced the data. May be repeated to a maximum of six semester hours.", 
+        "number": "5194", 
+        "subject": "ANG", 
+        "title": "Analysis and Interpretation of Archaeological Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

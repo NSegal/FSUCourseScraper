@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history of attempts to build a science around human sexual behavior, more specifically, how the project of building a \"sexual science\" (scientia sexualis) was predicated on the idea that, by nature, human beings have a \"sexuality\" that can be expressed or repressed. The course asks \"How has science served to define what counts as 'normal' sexual behavior?\" and \"How has the discourse of scientific 'sexuality' participated in explicitly political projects?\"", 
+        "number": "3313", 
+        "subject": "HPS", 
+        "title": "The History of Sexual Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

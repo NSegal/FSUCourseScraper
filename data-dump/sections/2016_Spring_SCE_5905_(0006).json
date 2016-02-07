@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DIS (14187)", 
+    "basic": {
+        "class_num": "14187", 
+        "course": "5905", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "SCE", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Sherry Southerland"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

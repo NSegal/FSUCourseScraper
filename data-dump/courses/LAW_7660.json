@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar evaluates topics such as the choice of a tax base (income or consumption), rate structure (flat or progressive), taxable unit (individual or family), and method of government spending (direct or through the tax system via tax expenditures) against the tax policy norms of equity, efficiency, and administrability to determine how well the present tax system satifies these norms.", 
+        "number": "7660", 
+        "subject": "LAW", 
+        "title": "Tax Policy"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

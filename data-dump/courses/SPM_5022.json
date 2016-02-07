@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students opportunities to identify and discuss current issues that are prevalent in the sport industry at the international level.", 
+        "number": "5022", 
+        "subject": "SPM", 
+        "title": "Global Issues in Sport Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

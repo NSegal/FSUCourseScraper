@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Up to twelve semester hours may be taken in honors work. May be repeated to a maximum of nine semester hours.", 
+        "number": "4909", 
+        "subject": "CLA", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

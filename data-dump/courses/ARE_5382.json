@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the uniqueness of artistic expression in therapy.\u00a0 Implications for practical applications are presented for varying therapeutic needs.\u00a0 Methods of interactions with clients are explored with emphasis on building rapport, establishing trust, facilitating communication, initiating problem solving, and implementing termination of treatment.", 
+        "number": "5382", 
+        "subject": "ARE", 
+        "title": "Introduction to Counseling for Art Therapists"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

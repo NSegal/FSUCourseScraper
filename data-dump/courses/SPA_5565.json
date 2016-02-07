@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers a review of the anatomy, neurology, and function of the normal swallow. Etiologies and types of dysphagia in children and adults. Evaluation and management of swallowing disorders. Prior anatomy and neurology courses are recommended.", 
+        "number": "5565", 
+        "subject": "SPA", 
+        "title": "Seminar in Dysphagia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

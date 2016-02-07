@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies major philosophers and trends that may bridge or extend over more than one distinct chronological period.", 
+        "number": "6009", 
+        "subject": "PHH", 
+        "title": "Studies in the History of Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

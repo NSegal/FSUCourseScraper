@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of risk, the management of pure risk, insurance mechanisms, insurer operations and the evolution of risk management.", 
+        "number": "5710C", 
+        "subject": "RMI", 
+        "title": "Insurance Company Operations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 5017.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

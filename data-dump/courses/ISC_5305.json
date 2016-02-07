@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on object-oriented coding in C++, Java and Fortran 90 with applications to scientific programming. Discussion of class hierarchies, pointers, function and operator overloading and portability. Examples include computational grids and multidimensional arrays.", 
+        "number": "5305", 
+        "subject": "ISC", 
+        "title": "Scientific Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Working knowledge of one programming language (C++, Fortran, Java) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

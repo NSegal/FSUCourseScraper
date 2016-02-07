@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the factors that limit the accuracy, precision and speed of measurements with instruments with detailed discussions of the meaning and implications of signal bandwidth, signal orthogonality, impedance relationships, modulation and phase sensitive detection, sampling, the Fourier transform, information theory, analog signal handling with negative feedback and digital signal handling.", 
+        "number": "5140", 
+        "subject": "CHM", 
+        "title": "Introduction to Chemical Instrumentation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

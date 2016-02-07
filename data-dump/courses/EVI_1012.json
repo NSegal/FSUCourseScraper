@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students explore blindness, talk with people who are intimately familiar with blindness, and experience adventure under blindfold. Students explore society's reaction to blindness, probing its roots, and take a closer look at how views of blindness are shaped when experienced through the lenses of gender, race, class, religion, and ethnicity. Through blindfold experiences, students have opportunities to learn about braille and the activities of daily life necessary for achieving independence. Through writing, students explore their own reactions and thoughts of blindness, and reflect on the many questions that arise from delving deeper into the blindness experience.", 
+        "number": "1012", 
+        "subject": "EVI", 
+        "title": "The Blindness Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

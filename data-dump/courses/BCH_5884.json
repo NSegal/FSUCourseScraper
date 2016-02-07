@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of programming using the scripting language Python and is geared towards chemistry graduate students with a need to process data in novel ways. Students are introduced to programming through the use of example problems researchers often face in chemical and biochemical research. No previous knowledge of programming is required.", 
+        "number": "5884", 
+        "subject": "BCH", 
+        "title": "Programming for Chemists and Biochemists"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

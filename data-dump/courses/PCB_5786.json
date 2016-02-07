@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course attempts to merge classical principles and analyses of membrane biophysics with that of current focal areas of physiological research in order to best prepare an analytically-minded student for today's scientific applications.", 
+        "number": "5786", 
+        "subject": "PCB", 
+        "title": "Membrane Biophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers high-performance computing, meaning the use of parallel supercomputers, computer clusters, and everything from software to hardwareto speed up computations. Students learn how to write faster code that is\u00a0 highly optimized for modern multi-core processors and clusters, using modern software development tools and performance profilers, specialized algorithms, parallelization strategies, and advanced parallel programming constructs.", 
+        "number": "5319", 
+        "subject": "ISC", 
+        "title": "Advanced Topics in High-Performance Computing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 5318.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

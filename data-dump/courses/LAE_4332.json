@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for prospective middle and high school teachers and deals with contemporary approaches to English linguistics taught in Florida public secondary schools: grammar, usage, dialectology, diction (vocabulary development), semantics, and lexicography. Linguistic content is related to\u00a0\u00a0\u00a0\u00a0\u00a0 contemporary theories of learning.", 
+        "number": "4332", 
+        "subject": "LAE", 
+        "title": "Applied English Linguistics for Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A minimum of six semester hours in composition and six semester hours in literature.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

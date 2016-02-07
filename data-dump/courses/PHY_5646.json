@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the development of quantum theory from wave mechanics to matrix mechanics, approximation methods with applications in modern physics, elementary scattering theory, and relativistic quantum theory.", 
+        "number": "5646", 
+        "subject": "PHY", 
+        "title": "Quantum Mechanics B"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 4605 or PHY 5608r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

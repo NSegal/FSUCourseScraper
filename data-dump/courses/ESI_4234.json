@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to quality and reliability engineering. Statistical quality control techniques, process capability analysis, design and analysis of experiments for quality and reliability improvement.", 
+        "number": "4234", 
+        "subject": "ESI", 
+        "title": "Quality Control and Reliability Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3443 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

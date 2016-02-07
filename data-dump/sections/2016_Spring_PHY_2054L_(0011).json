@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-LAB (8802)", 
+    "basic": {
+        "class_num": "8802", 
+        "course": "2054L", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Closed", 
+        "subject": "PHY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:45:00", 
+            "instructors": [
+                "David Lind"
+            ], 
+            "location": "UPL 0110", 
+            "start_time": "15:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

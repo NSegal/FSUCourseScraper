@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course the student learns the components of warm water coral reef ecosystems, their functions and interactions, and their response to environmental change. The biological, chemical and physical processes that govern the ecology of warm water coral reef ecosystems are addressed as well as the anthropogenic impact on reef ecosystems and the management of coral ecosystems.", 
+        "number": "4265", 
+        "subject": "OCE", 
+        "title": "Coral Reef Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A good basic understanding of biological, chemical, and physical processes.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

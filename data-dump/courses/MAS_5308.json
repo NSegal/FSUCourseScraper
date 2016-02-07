@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of MAS5307.", 
+        "number": "5308", 
+        "subject": "MAS", 
+        "title": "Groups, Rings, and Vector Spaces II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 5307.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

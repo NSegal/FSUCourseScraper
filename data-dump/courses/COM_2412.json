@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course brings international and U.S. American students together to\u00a0 explore intercultural communication in a specific set of contexts, including the academic environment; day to day social interactions; family structures; national political scenes; the business world and more.", 
+        "number": "2412", 
+        "subject": "COM", 
+        "title": "Culture, Identity and Communication in Context"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

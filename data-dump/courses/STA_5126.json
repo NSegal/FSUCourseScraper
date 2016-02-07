@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers graduate credit for non-statistics majors. Topics include data collection, sample variation, basic probability, confidence intervals, hypothesis testing, analysis of variance, contingency tables, correlation, regression, and nonparametric statistics. No credit is given for STA 5126 if a \"C-\" or better is earned in STA 2023, STA 2122, STA 2171, STA 3014, STA 3032, or QMB 3200.", 
+        "number": "5126", 
+        "subject": "STA", 
+        "title": "Introduction to Applied Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

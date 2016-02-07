@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the Russians, their history, culture, and traditions, from the Middle Ages to the present. Fiction and film give students a perspective from the \"inside.\" Taught in English.", 
+        "number": "3505", 
+        "subject": "RUT", 
+        "title": "Russian Culture and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

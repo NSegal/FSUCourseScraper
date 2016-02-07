@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a survey of subject areas studied and research methods used in accounting.", 
+        "number": "6885", 
+        "subject": "ACG", 
+        "title": "Introduction to Accounting Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

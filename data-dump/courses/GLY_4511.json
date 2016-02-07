@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis and synthesis of stratigraphic sequences. Depositional systems; physical and biostratigraphy; geochronology and chronostratigraphy; magnetic, seismic, and sequence stratigraphy; tectonic vs. climatic controls. Term paper required.", 
+        "number": "4511", 
+        "subject": "GLY", 
+        "title": "Principles of Stratigraphy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 3340C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

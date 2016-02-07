@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-PRF (7849)", 
+    "basic": {
+        "class_num": "7849", 
+        "course": "3331", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Wanda Brister Rachwal"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

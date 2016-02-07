@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a detailed review of the theoretical approaches, methods and statistical procedures used in the study of infectious disease.\u00a0 Attention is given to both traditional and emerging infectious diseases and the behavioral and societal factors leading to infectious disease risk.", 
+        "number": "5138", 
+        "subject": "SYD", 
+        "title": "Infectious Disease Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

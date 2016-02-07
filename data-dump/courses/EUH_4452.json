@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the 18th century and its transformation by the forces unleashed by the French Revolution. The radicalization of the Revolution is traced to the Terror and the overthrow of Robespierre's dictatorship.", 
+        "number": "4452", 
+        "subject": "EUH", 
+        "title": "The Age of the French Revolution, 1715-1795"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

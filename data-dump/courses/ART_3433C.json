@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students expand on the basics of screen printing learned in the Introduction to Printmaking course. New processes include photo based stencils, alternate materials, multiple colors, and advanced concepts and uses of the multiple. May be repeated to a maximum of nine semester hours.", 
+        "number": "3433C", 
+        "subject": "ART", 
+        "title": "Screen Printing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2400C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

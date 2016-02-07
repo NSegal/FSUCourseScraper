@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses a number of topics, including fertilization, early embryonic events, organogenesis, differentiation, morphogenesis, cytoplasmic localization, determination, and differential gene expression.", 
+        "number": "4253", 
+        "subject": "PCB", 
+        "title": "Animal Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, and PCB 3063.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

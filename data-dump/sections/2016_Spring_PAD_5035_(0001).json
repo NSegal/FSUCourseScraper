@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (8375)", 
+    "basic": {
+        "class_num": "8375", 
+        "course": "5035", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "PAD", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "20:15:00", 
+            "instructors": [
+                "Frances Berry"
+            ], 
+            "location": "HCB 0309", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

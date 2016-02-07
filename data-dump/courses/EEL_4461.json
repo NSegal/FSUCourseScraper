@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as antenna theory, including Hertzian dipoles, thin linear antennas, aperture antennas, arrays, loop antenna, slots, horns, and waveguides.", 
+        "number": "4461", 
+        "subject": "EEL", 
+        "title": "Antenna Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3473.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

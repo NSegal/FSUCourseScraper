@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the role and impact of the sport industry and helps students identify activities and opportunities in sport management. The course also orients new graduate students to the academic and professional field of sport management.", 
+        "number": "6008", 
+        "subject": "SPM", 
+        "title": "Foundations in Sport Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

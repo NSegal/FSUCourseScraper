@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps students determine physical, index, hydraulic and mechanical soil properties using laboratory and field testing techniques.", 
+        "number": "3011L", 
+        "subject": "CEG", 
+        "title": "Soil Mechanics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

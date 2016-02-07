@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides instruction and practice in the leadership and management of departments within the field of visual effects and animation. The course also addresses positions such as digital effects producer, supervisor, as well as modeling, animation, and compositing leads. May be repeated to a maximum of twelve semester hours.", 
+        "number": "3690", 
+        "subject": "FIL", 
+        "title": "Digital Studio Department Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status and instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 12.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of six semester hours when subject matter changes.", 
+        "number": "4931", 
+        "subject": "MAT", 
+        "title": "Special Topics in Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

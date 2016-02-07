@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course course includes the description of the design and use of currently available electronic support tools. Each student conceptualizes, designs, and develops a prototype for an electronic performance support tool.", 
+        "number": "6613", 
+        "subject": "EME", 
+        "title": "Design and Development of Electronic Performance Support Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

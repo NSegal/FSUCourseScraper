@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys approaches to the study of global dance perspectives and practices through emphasis on dance as expression of cultural, historical, social and political forces. Issues of tradition and innovation in select dance phenomena are especially explored through readings, discussion, media presentation, embodied experiences, and movement laboratories. While movement is a key component of this course, no prior dance experience is required.", 
+        "number": "3144", 
+        "subject": "DAN", 
+        "title": "Global Perspectives on Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

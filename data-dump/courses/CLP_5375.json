@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores methods, designs, evaluation of treatment outcome, andprogram evaluation research. Ethical and practical considerations of clinical research.", 
+        "number": "5375", 
+        "subject": "CLP", 
+        "title": "Research Design and Methods in Clinical Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

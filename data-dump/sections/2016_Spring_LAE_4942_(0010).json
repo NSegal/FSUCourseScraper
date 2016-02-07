@@ -1,0 +1,24 @@
+{
+    "_unique": "0010-INT (13739)", 
+    "basic": {
+        "class_num": "13739", 
+        "course": "4942", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Closed", 
+        "subject": "LAE", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

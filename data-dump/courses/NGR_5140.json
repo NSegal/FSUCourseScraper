@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to acquaint the nursing graduate student with the principals of pathophysiology appropriate to entry-level graduate work.", 
+        "number": "5140", 
+        "subject": "NGR", 
+        "title": "Advanced Pathophysiological Concepts in Nursing Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2085, BSC 2085L, BSC 2086, and BSC 2086L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

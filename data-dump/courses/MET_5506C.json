@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers synoptic calculation and four-dimensional analysis of\u00a0\u00a0 weather systems.", 
+        "number": "5506C", 
+        "subject": "MET", 
+        "title": "Advanced Synoptic Lecture-Laboratory II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 5331, MET 5420, MET 5500C, and STA 2122.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

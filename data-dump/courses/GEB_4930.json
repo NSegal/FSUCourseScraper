@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The content of this course varies to provide an opportunitiy to study current issues in business and topics not covered in other courses. Prerequisites may vary as content varies; contact the department for further information.", 
+        "number": "4930", 
+        "subject": "GEB", 
+        "title": "Special Topics in Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

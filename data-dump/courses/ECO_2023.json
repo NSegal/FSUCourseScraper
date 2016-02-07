@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers consumption, production, and resource allocations considered from a private and social point of view; microeconomic problems and policy alternatives; economics of inequality and poverty; and comparative economic systems.", 
+        "number": "2023", 
+        "subject": "ECO", 
+        "title": "Principles of Microeconomics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of selected contemporary art theory in parallel with an introduction to a range of digital new media art practices.", 
+        "number": "5898", 
+        "subject": "ART", 
+        "title": "Art, Technology, and Critical Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

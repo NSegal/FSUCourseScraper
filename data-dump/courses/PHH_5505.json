@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies either a major philosopher (e.g., Hegel, Marx, Mill) or philosophic movement (e.g., idealism, positivism, Marxism) of the nineteenth century.", 
+        "number": "5505", 
+        "subject": "PHH", 
+        "title": "19th-Century Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

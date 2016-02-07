@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The study of clinical neuroscience includes neurophysiology, neuroendocrinology and functional neuroanatomy. This course lays the foundation for future work in neurology and enables students to understand neural function and the nature of neurological disorders.", 
+        "number": "6706C", 
+        "subject": "BMS", 
+        "title": "Clinical Neuroscience"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "6.00"
+    }
+}

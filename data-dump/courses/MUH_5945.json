@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to perform every aspect of running an early music program, including choosing the program, instrumentation, learning to teach a variety of early instruments, diction for singers, sources for instruments, music, and supplies. In addition, it provides students with administrative skills that are vital to maintaining a viable program.", 
+        "number": "5945", 
+        "subject": "MUH", 
+        "title": "Practicum in Collegium Directing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

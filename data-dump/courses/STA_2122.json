@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers normal distributions, sampling variation, confidence intervals, hypothesis testing, one-way and two-way analysis of variance, correlation, simple and multiple regression, contingency tables and chi-square tests, non-parametric statistics. No credit given for STA 2122 if a grade of \"C-\" or better is earned in STA 2171, STA 3032 or QMB 3200.", 
+        "number": "2122", 
+        "subject": "STA", 
+        "title": "Introduction to Applied Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies a particular body of music literature. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5936", 
+        "subject": "MUL", 
+        "title": "Special Topics in Music Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 3.00"
+    }
+}

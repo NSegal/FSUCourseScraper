@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops students' skills in collecting qualitative data for program evaluation. The political context of evaluation and the strategies for ensuring the production of quality work are emphasized. The goals of the course are to provide students with 1) an understanding of theoretical frameworks guiding qualitative research and evaluation, and 2) hands-on experience in the collection and analysis of qualitative data.", 
+        "number": "5464", 
+        "subject": "EDF", 
+        "title": "Qualitative Research and Evaluation Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

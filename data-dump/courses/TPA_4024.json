@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course encompasses lighting design for a variety of production styles such as musicals, opera, dance, comedy, and tragedy.", 
+        "number": "4024", 
+        "subject": "TPA", 
+        "title": "Lighting Design III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

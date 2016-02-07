@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the conquest of the Americas. It explores the arts of domination, power, and resistance and specific historical encounters where such arts are employed.", 
+        "number": "4309", 
+        "subject": "ANT", 
+        "title": "Conquest of the Americas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

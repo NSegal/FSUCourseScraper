@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised training in facilitation and mediation skills for aiding planning disputes. Students work under the direct leadership of an environmental facilitator or mediator in convening dispute resolution or consensus forums, aiding stake holders in articulation interests, developing alternatives and concluding agreements.", 
+        "number": "5944", 
+        "subject": "URP", 
+        "title": "Dispute Resolution Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5122.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

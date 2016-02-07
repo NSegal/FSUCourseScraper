@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a foundation course to prepare SLP students to evaluate and manage neuromotor speech disorders, aphasia, traumatic brain injury, right hemisphere syndromes, dementia, and communication effects of progressive neurological diseases.", 
+        "number": "5254", 
+        "subject": "SPA", 
+        "title": "Acquired Neurolinguistic and Cognitive Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

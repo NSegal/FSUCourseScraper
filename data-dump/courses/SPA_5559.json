@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of augmentative and alternative communication systems (AAC) and the process for selecting and implementing these systems. Application of AAC systems for nonspeaking individuals with developmental and acquired disorders is covered.", 
+        "number": "5559", 
+        "subject": "SPA", 
+        "title": "Augmentative Communication Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

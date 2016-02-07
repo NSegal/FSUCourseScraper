@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the cultural history of Italian cuisine from its ancient roots to contemporary times. Students examine how culinary practices and the culture of food are essential elements of \"Italian\" identity.", 
+        "number": "3091", 
+        "subject": "IFS", 
+        "title": "The Culture is in the Cuisine: The Food of Italy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is the oral defense of master's research and thesis. Students should register during the term in which they intend to defend their master's thesis.", 
+        "number": "8976", 
+        "subject": "BSC", 
+        "title": "Master's Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

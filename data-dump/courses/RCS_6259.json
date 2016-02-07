@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores theories and research related to assessment and evaluation procedures used in various rehabilitation settings. Emphasis is placed on psychological, medical, vocational, and ecological assessment procedures.", 
+        "number": "6259", 
+        "subject": "RCS", 
+        "title": "Advanced Assessment in Rehabilitation Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

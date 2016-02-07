@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines corporate information security from several perspectives. Topics include differences in security of physical versus digital assets; sources of security threats; solutions involving technology, people, andpolicy; and proper responses to attacks on digital assets.", 
+        "number": "5327", 
+        "subject": "ISM", 
+        "title": "Corporate Information Security"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

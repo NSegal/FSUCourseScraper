@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares graduate students in classics for their role as teachers of undergraduates in lower-level courses in etymology, classical civilization, myth and Latin.", 
+        "number": "5810", 
+        "subject": "FLE", 
+        "title": "Teaching Classics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

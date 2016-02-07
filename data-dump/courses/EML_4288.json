@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This introductory course in vehicle design emphasizes vehicle dynamics. Content covers the primary performance related features of vehicle design (suspension, steering, chassis, and tires). Using the latest industry-standard software, the course examines various design parameters that influence vehicle performance and handling.", 
+        "number": "4288", 
+        "subject": "EML", 
+        "title": "Vehicle Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3014C and EML 3018C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

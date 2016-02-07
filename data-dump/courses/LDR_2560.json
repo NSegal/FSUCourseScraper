@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course initiates a thoughtful consideration of the nature of leadership as depicted in film. Film provides unique insights to investigate character and motive, as well as culture, allowing students to access meaning and significance through theoretical, analytic and dialogic inquiry.", 
+        "number": "2560", 
+        "subject": "LDR", 
+        "title": "Leadership in Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

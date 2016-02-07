@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the fundamentals of hydrogeology with emphasis on groundwater flow and hydrochemistry. Both theory and applications are addressed.", 
+        "number": "5827", 
+        "subject": "GLY", 
+        "title": "Principles of Hydrology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Basic chemistry and basic physics (for science majors).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

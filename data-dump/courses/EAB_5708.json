@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines basic behavioral processes that allow human and non-human animals to acquire new knowledge and adapt to environmental demands. Students become acquainted with current research findings in the field and learn how research with non-human animals has served as a foundation for the application of behavioral principles across a variety of clinical problems.", 
+        "number": "5708", 
+        "subject": "EAB", 
+        "title": "Experimental Analysis of Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3708 and EXP 3422 or equivalents or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

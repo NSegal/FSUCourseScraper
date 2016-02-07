@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7144", 
+        "subject": "MDE", 
+        "title": "Subacute Skilled Nursing Facility Care"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to familiarize history students with the practical aspects of classroom teaching and to provide some understanding of the philosophical and theoretical approaches to the teaching of history.", 
+        "number": "6941", 
+        "subject": "HIS", 
+        "title": "Teaching History at the College Level"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on Europe's terrain, variety of cultures, economies, and recent trends toward unity.", 
+        "number": "4500", 
+        "subject": "GEA", 
+        "title": "Europe"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

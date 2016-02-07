@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on tools of economic analysis and concepts such as incentives, efficiency, tradeoffs, uncertainty, and inputs into production. It utilizes case studies to illustrate how economic concepts are used by executives to improve managerial performance and how economics thinking contributes to the resolution of problems they face.", 
+        "number": "5125", 
+        "subject": "ISS", 
+        "title": "Introduction to Economics for Executives"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

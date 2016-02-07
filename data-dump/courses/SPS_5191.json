@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an overview of assessment of intelligence and cognitive functioning including foci on theories of intelligence, assessment instruments and approaches, disorders related to cognitive functioning, and assessment of adaptive behavior. The course includes practice administration of assessment instruments with activities related to interpretation and reporting of assessment data.", 
+        "number": "5191", 
+        "subject": "SPS", 
+        "title": "Assessment of Intelligence"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

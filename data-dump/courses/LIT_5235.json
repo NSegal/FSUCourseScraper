@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various approaches to the study of English-language literature from \"Third World\" countries that were former British colonies in Africa, Asia, and the Caribbean.", 
+        "number": "5235", 
+        "subject": "LIT", 
+        "title": "Studies in Post-Colonial Literature in English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

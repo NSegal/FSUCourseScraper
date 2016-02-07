@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on information technology and how it affects marketing within the supply chain. These include logistical issues and the flow of goods, services and funds within the supply chain to the final consumer. Specific elements covered include: electronic commerce, Internet, intranets, extranets, marketing information systems and logistics information systems.", 
+        "number": "5726", 
+        "subject": "MAR", 
+        "title": "Electronic Business in Supply Chain Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

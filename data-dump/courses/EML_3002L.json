@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers computer aided design and drafting, programming, machining, and a basic introduction to the mechanical engineering profession and ethics. Course includes building and testing a simple Stirling engine.", 
+        "number": "3002L", 
+        "subject": "EML", 
+        "title": "Mechanical Engineering Tools Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311 and PHY 2048C. Corequisite: EML 3002.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

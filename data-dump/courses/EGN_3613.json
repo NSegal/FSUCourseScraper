@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes discrete cash flow diagrams, cash flow equivalence factors, standard criteria for comparing project proposals, special cash flow topics, special analysis, and case studies.", 
+        "number": "3613", 
+        "subject": "EGN", 
+        "title": "Principles of Engineering Economy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

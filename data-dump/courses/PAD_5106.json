@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the elements of micro and macroorganizational analysis. Includes organization theory, structure and design, power and conflict, motivation, leadership, group behavior, organizational effectiveness, and development.", 
+        "number": "5106", 
+        "subject": "PAD", 
+        "title": "Public Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers issues in the American civilization and places emphasis on the University. May be repeated to a maximum of two semester hours.", 
+        "number": "1363", 
+        "subject": "AMS", 
+        "title": "Issues in American Civilization: The University"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops concepts such as time value of money, statistical analysis, information technology, and management of risk exposure. Topics\u00a0 include risk fundamentals, risk management, insurer operations, and insurance regulation.", 
+        "number": "5017", 
+        "subject": "RMI", 
+        "title": "Fundamentals of Risk and Insurance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

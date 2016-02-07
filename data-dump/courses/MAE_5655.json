@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of methods and techniques for using the computer in mathematics education and/or precollege mathematics classroom instruction.", 
+        "number": "5655", 
+        "subject": "MAE", 
+        "title": "Computers in Mathematics Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2160 and six semester hours of 2000-level or above mathematics.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

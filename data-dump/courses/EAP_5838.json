@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to help non-native English speakers improve pronunciation skills in order to become more competent and confident speakers of English; it provides learners with an understanding of the phonetic and phonemic structure of English and includes extensive speaking and listening practice. The course helps students develop an awareness of specific pronunciation features of North American English consonant and vowel sounds. Features of English rhythm and stress patterns are also analyzed and practiced. May be repeated to a maximum of nine semester hours.", 
+        "number": "5838", 
+        "subject": "EAP", 
+        "title": "English Pronunciation for International Teaching Assistants"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

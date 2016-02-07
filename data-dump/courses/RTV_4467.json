@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of producing and directing television programs and video projects. May be repeated to a maximum of six semester hours.", 
+        "number": "4467", 
+        "subject": "RTV", 
+        "title": "Television Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RTV 3531 and RTV 3571.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

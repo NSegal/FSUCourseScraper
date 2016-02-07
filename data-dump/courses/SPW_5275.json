@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the Spanish novel from the Generation of 1898 through the Post Civil War period. May be repeated to a maximum of six semester hours.", 
+        "number": "5275", 
+        "subject": "SPW", 
+        "title": "Spanish 20th-Century Novel"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

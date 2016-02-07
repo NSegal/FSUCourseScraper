@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies various consumer or resource management issues/trends. May be repeated when topics vary. May be repeated to a maximum of twelve semester hours as topics vary.", 
+        "number": "4935", 
+        "subject": "COA", 
+        "title": "Special Topics in Consumer Economics: Topics Vary"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 9.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the application of behavioral and persuasive communication theories, as well as the techniques necessary to develop effective personal selling skills within organizations.", 
+        "number": "3400", 
+        "subject": "MAR", 
+        "title": "Professional Selling"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

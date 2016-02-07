@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-PRF (13115)", 
+    "basic": {
+        "class_num": "13115", 
+        "course": "3265", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "TPP", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Leslie Patterson"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

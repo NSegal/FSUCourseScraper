@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies sport/multi-purpose public assembly facility management. The course includes design, planning processes, funding, construction, and maintenance.", 
+        "number": "5106", 
+        "subject": "SPM", 
+        "title": "Facility Management in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

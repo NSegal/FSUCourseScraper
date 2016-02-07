@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (12614)", 
+    "basic": {
+        "class_num": "12614", 
+        "course": "4001", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "TAX", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Jeff Paterson"
+            ], 
+            "location": "HOL B0312", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

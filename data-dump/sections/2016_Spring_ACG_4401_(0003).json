@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (12610)", 
+    "basic": {
+        "class_num": "12610", 
+        "course": "4401", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "ACG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Derek Hillison"
+            ], 
+            "location": "HOL B0209", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

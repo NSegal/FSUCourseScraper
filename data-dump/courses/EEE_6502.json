@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the fundamentals of digital signal processing and design of a variety of digital processors and filters. Introduction to DFT-FFTand spectral estimation theory and practice.", 
+        "number": "6502", 
+        "subject": "EEE", 
+        "title": "Digital Signal Processing I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 5173.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

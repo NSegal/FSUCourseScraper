@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to economics for graduate students inmajors other than economics. Covers material in ECO 2013 and ECO 2023 in one semester. Intended for international affairs graduate students and similar.", 
+        "number": "5005", 
+        "subject": "ECO", 
+        "title": "Economic Principles for International Affairs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

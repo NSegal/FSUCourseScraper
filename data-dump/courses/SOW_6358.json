@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a review of various clinical research assessment strategies for the evaluation of social work interventions.", 
+        "number": "6358", 
+        "subject": "SOW", 
+        "title": "Measurement in Social Work Research I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

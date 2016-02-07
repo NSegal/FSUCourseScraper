@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for dance and theatre majors and focuses on fundamentals of voice production. May be repeated to a maximum of two semester hours.", 
+        "number": "5151", 
+        "subject": "MVV", 
+        "title": "Class Voice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses, analyzes and examines the arts of people from Oceania, Africa, and Native America. It provides students with a valid framework for understanding the complexities involved with these art forms from inside and outside specific social and cultural contexts.", 
+        "number": "4583", 
+        "subject": "ARH", 
+        "title": "The Arts of Oceania, Africa and Native America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

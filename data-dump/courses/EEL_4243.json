@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to develop a basic understanding of using switched electronic circuits for the conversion and regulation of power. The course focuses on the basic converters and their steady state analysis. Dynamic modeling analysis, controller design, power semiconductor device, and simulation also are covered.", 
+        "number": "4243", 
+        "subject": "EEL", 
+        "title": "Power Electronics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEE 3300 and EEL 3135.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

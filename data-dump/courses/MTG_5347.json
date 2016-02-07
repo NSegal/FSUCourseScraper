@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines singular homology and cohomology, orientation of manifolds, cup and cap products, Poincare and Lefschetz duality, and acyclic models.", 
+        "number": "5347", 
+        "subject": "MTG", 
+        "title": "Algebraic Topology II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MTG 5346.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course synthesizes approaches to transforming the delivery of health care from various disciplines including organizational, human factors, political, and economic science. The purpose of the course is to facilitate the student's ability to integrate a broad application of these disciplines in facilitating beneficial outcomes within health care organizations. Students are challenged to analyze problems at the organizational and systems level and develop effective evidence based solutions. Advanced levels of clinical judgement, systems thinking, and accountability in designing and evaluating care delivery models and strategies are emphasized.", 
+        "number": "6899", 
+        "subject": "NGR", 
+        "title": "Transforming Health Care Delivery"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 6853 and NGR 6896.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

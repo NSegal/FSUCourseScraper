@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in a sequence of two courses intended to provide the essential tools for the design and analysis of mechanical systems. Emphasis is on linkages; constraints and degrees of freedom; position, velocity,and acceleration analysis; cams, gears, and gear trains, static and dynamic analysis; computer simulations and models of components and systems; team class projects involving dissection of existing machines and design and manufacture of new mechanical systems.", 
+        "number": "3017C", 
+        "subject": "EML", 
+        "title": "Mechanical Systems I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3011C, EML 3013C, and MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

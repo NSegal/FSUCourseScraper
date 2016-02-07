@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers special topics of current interest or of benefit from the specialties of visiting faculty. May be repeated in the same semester.", 
+        "number": "5936", 
+        "subject": "ECO", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

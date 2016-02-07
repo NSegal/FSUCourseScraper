@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare the student for the use of IT in various professions within the Criminal Justice community. This includes, the fundamentals of computing, the use of data processing, word processing, e-mail, Computer Automated Dispatch, Records Management Systems, use of the Internet and IT Security protocols.", 
+        "number": "3071", 
+        "subject": "CCJ", 
+        "title": "Computer Applications in Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

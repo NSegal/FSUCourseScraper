@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores entrepreneurship in society by understanding how innovation can led to commerce and how commerce impacts our daily lives. Topics include the process of innovation, the nature of entrepreneurialism, the essence of Problem-Opportunity-Venture-Operations (POVO) model, the lean star-up business model, different kinds of entrepreneurship (commercial, social, scientific and artistic) and an introduction to competencies that have facilitated success in other entrepreneurs.", 
+        "number": "2802", 
+        "subject": "ENT", 
+        "title": "Entrepreneurship and Contemporary Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

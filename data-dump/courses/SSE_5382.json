@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the similarities, differences, and perceived competing orientations of the historical developments of the global and multicultural education movements in social studies education since the second half of the 20th century. The course analyzes the rationale, purpose, goals, and implementation difficulties and controversies surrounding both fields, while offering conceptual frameworks and theories of global and multicultural education. Pre-service teachers enrolled in this course become conversant in seminal readings and contributions by leading scholars in global and multicultural education.", 
+        "number": "5382", 
+        "subject": "SSE", 
+        "title": "Seminar in Global and Multicultural Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

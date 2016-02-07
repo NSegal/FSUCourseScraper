@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This field study consists of 1,000 hours of satisfactory, acceptable work experience in the hospitality industry. Discussion expands and integrates the work experience to enhance management decision-making skills. Report and supervisors' evaluation required. Students should register for this class the semester in which they plan to graduate.", 
+        "number": "4941", 
+        "subject": "HFT", 
+        "title": "Field Study in Hospitality Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

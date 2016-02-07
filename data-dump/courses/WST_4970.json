@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "For this course, the honors thesis in women's studies is a research document of an interdisciplinary nature, drawing on the various categories in humanities and the social sciences represented in the Women's Studies Program. Permission of WST director required. May be repeated to a maximum of nine semester hours.", 
+        "number": "4970", 
+        "subject": "WST", 
+        "title": "Honors Thesis-Women's Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: WST 3251.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

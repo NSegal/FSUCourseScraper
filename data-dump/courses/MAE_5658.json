@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the uses of various technologies in mathematics classes, demonstrated through hands-on activities and experiences.", 
+        "number": "5658", 
+        "subject": "MAE", 
+        "title": "Using Technology in the Teaching of Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One course in computers/technology or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

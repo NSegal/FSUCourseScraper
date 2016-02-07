@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students learn appropriate scientific research methods for several types of research questions. Using the inquiry method of learning, they develop a research question and an experiment to answer it, and then use statistical techniques to analyze their resulting data.", 
+        "number": "3523C", 
+        "subject": "ISC", 
+        "title": "Research Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043 and SMT 1053.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

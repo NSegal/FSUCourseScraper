@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on varying topics in pre-1800 American literature and\u00a0 culture, such as exploration and captivity narratives, Native American literature, the Puritan tradition, the enlightenment and revolutionary eras in America, the trans- and circum-Atlantic world, the slave trade, early-American print culture (including the novel), gender studies, and/or selected authors.", 
+        "number": "4213", 
+        "subject": "AML", 
+        "title": "Early American Literature and Culture before 1800"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Suggested prerequisite: AML 2010.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

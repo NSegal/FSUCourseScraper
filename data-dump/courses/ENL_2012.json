@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of English masterworks intended for students in liberal studies and those exploring a literature major. Among the authors typically considered are Chaucer, Shakespeare, and Milton.", 
+        "number": "2012", 
+        "subject": "ENL", 
+        "title": "British Authors: Beginnings to 1790"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the influence of religion on crime from historical, sociological, and criminological perspectives. Students learn how religion operates both as a protection against crime and as a motivation for crime.", 
+        "number": "3688", 
+        "subject": "CCJ", 
+        "title": "Religion and Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

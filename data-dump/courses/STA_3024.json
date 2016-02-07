@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the SAS programming language in a lab-based format. The objective is for students to develop programming and statistical computing skills to address data management and analysis issues using SAS. The course also provides a survey of some of the most common data analysis tools in use today and provide decision-making strategies in selecting the appropriate methods for extracting information from data.", 
+        "number": "3024", 
+        "subject": "STA", 
+        "title": "SAS for Data and Statistical Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 2023 or STA 2122.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

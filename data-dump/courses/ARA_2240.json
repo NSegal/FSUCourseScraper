@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on a practical communicative approach in order to use Arabic in meaningful contexts. It provides a bridge between Classical and Colloquial Arabic. Students are introduced to authentic Spoken Arabic and learn the language of everyday life. A variety of original texts, video clips, and audio tapes are used in class to give students a better understanding of the Arab world. May be repeated to a maximum of six semester hours.", 
+        "number": "2240", 
+        "subject": "ARA", 
+        "title": "Intermediate Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARA 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

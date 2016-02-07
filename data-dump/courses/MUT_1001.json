@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the rudimentary fundamentals of music theory, including the basic properties of notation, scales, intervals, triads, and rhythmic notation.", 
+        "number": "1001", 
+        "subject": "MUT", 
+        "title": "Fundamentals of Music Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the field of Women's Studies. Topics include the construction of gender and gender roles in varying social and cultural contexts. Women's roles are examined from a variety of perspectives, which may include social class, religion, culture, and sexuality. The course includes an overview of theories of feminism.", 
+        "number": "3015", 
+        "subject": "WST", 
+        "title": "Introduction to Women's Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar discusses traditional and contemporary approaches.", 
+        "number": "6349", 
+        "subject": "CLP", 
+        "title": "Seminar in Clinical Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-DSC (11690)", 
+    "basic": {
+        "class_num": "11690", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "PAD", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Keon-Hyung Lee"
+            ], 
+            "location": "BEL 0115", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

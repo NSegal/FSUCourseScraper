@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines analytical techniques for the interpretation of sedimentary basins, including: lithofacies analysis, depositional systems, thermal history, seismic reflection and sequence stratigraphy. Also addresses climatic and tectonic controls on basin evolution; subsidence modeling, provenance studies and cyclic sedimentation.", 
+        "number": "5577", 
+        "subject": "GLY", 
+        "title": "Sedimentary Basin Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 4511.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides information and techniques needed to facilitate and evaluate home, school, and community relations through the lifespan.", 
+        "number": "4455", 
+        "subject": "FAD", 
+        "title": "Family Life Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

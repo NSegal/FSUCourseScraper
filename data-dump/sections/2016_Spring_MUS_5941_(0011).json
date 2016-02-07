@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-INT (6795)", 
+    "basic": {
+        "class_num": "6795", 
+        "course": "5941", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Corinne Bowman"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

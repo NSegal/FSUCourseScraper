@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This advanced course focuses on all aspects of the initial investigation on sudden and violent death scenes to include special procedures and techniques to be evaluated in a major crime investigation. The course introduces the procedures and technologies used to document the different modes of death. Students become familiar with the forensic application and collection of evidence, as well as documentation protocols.", 
+        "number": "4638", 
+        "subject": "CJE", 
+        "title": "Forensic Death Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 4762 and CJE 4762L.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

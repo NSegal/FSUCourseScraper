@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines theory and practice in global education and the integration of global perspectives into curriculum and pedagogy in social sciences and social studies education. The course also evaluates major issues and controversies embedded in the field, and enables students to critique scholarship, analyze controversies, and propose ideas for integrating global perspectives in curriculum and instruction.", 
+        "number": "4194", 
+        "subject": "SSE", 
+        "title": "Developing a Global Perspective"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDG 4321 and SSE 4362.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

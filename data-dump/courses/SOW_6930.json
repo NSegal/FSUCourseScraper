@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare students for college teaching. Students are assigned as Teaching Assistants in foundation social work courses while taking this class. The aim of the course is to familiarize students with pedagogical theories and strategies for development and delivery of course content, course management, and assessment. Students practice skills in the classroom and receive guidance and feedback from experienced instructors.", 
+        "number": "6930", 
+        "subject": "SOW", 
+        "title": "Teaching Seminar and Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Supervised Teaching": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

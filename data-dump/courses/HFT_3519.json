@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive approach to managing, marketing, and planning conventions, special events, and conferences.", 
+        "number": "3519", 
+        "subject": "HFT", 
+        "title": "Convention Services and Event Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

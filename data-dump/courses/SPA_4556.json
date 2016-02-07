@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide a field experience for undergraduate students to gain an understanding of the services available to help people with developmental disabilities. May be repeated to a maximum of six semester hours.", 
+        "number": "4556", 
+        "subject": "SPA", 
+        "title": "Practicum in Developmental Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

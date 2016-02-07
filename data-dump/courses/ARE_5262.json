@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students study theories of the processes critical for establishing and sustaining non-profit cultural organizations including strategic planning, nonprofit organizational behavior and legal structures, life stages, and boards of directors.", 
+        "number": "5262", 
+        "subject": "ARE", 
+        "title": "Principles of Arts Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8978", 
+        "subject": "SSE", 
+        "title": "Specialist in Education Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "0.00"
+    }
+}

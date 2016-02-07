@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to engage in a formative active learning experience: working in a cultural institution that collects, preserves, and presents history for general audiences. It exposes students to the diversity of possible career paths related to the field of public history. May be repeated to a maximum of six semester hours.", 
+        "number": "4944", 
+        "subject": "HIS", 
+        "title": "Undergraduate History Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

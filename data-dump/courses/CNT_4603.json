@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a hands-on introduction to Unix and Microsoft Windows systems and network administration. Topics include installation, maintenance, and extension of a multi-user computer system; development of administrative policies and procedures; user assistance and education; specifics of the Unix and Windows operating systems; and practical troubleshooting and problem solving.", 
+        "number": "4603", 
+        "subject": "CNT", 
+        "title": "Computer and Network System Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequiste: CGS 3406 or COP 3014.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

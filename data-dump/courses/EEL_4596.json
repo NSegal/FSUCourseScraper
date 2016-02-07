@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an in-depth knowledge of some of the advanced topics in communications. Topics covered include ideal communication systems, signal to noise ratio (S/N) for amplitude and angle modulation, design of systems to improve S/N ratio, satellite communication, and mobile communication.", 
+        "number": "4596", 
+        "subject": "EEL", 
+        "title": "Advanced Topics in Communications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3135, EEL 4515 and EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

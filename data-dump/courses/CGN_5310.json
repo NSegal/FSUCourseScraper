@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on conceptual data modeling; application and use of relational database management systems and geographical information systems;\u00a0 introduction to modern computational tools (genetic algorithms, neural networks, etc.); completion of individual projects applying course knowledge to sub-disciplines within the civil engineering program, according to student interest.", 
+        "number": "5310", 
+        "subject": "CGN", 
+        "title": "Engineering Data Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

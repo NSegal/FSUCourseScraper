@@ -1,0 +1,26 @@
+{
+    "_unique": "0033-DIS (12122)", 
+    "basic": {
+        "class_num": "12122", 
+        "course": "5831", 
+        "season": "Spring", 
+        "solus_id": "0033", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Albert Stiegman"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

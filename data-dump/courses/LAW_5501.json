@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines judicial function in constitutional cases, the federal system, powers delegated to national government, powers reserved to the states, due process of the law, and fundamental individual rights.", 
+        "number": "5501", 
+        "subject": "LAW", 
+        "title": "Constitutional Law I"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

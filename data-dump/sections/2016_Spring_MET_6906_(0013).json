@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-DIS (14122)", 
+    "basic": {
+        "class_num": "14122", 
+        "course": "6906", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Guosheng Liu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

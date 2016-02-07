@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course is designed to acquaint students with the components of the theatrical experience as they relate specifically to current dramaturgy and stagecraft in London. It is to be offered only at The Florida State University London Study Center. It should be viewed as a companion class to THE 2000 Introduction to Theatre, for majors and nonmajors, but may be taken independently. It makes use of the theatrical resources in the city of London, including attendance at leading theatres, backstage tours, and lectures by prominent theatre artists.", 
+        "number": "3061", 
+        "subject": "THE", 
+        "title": "Introduction to Theatre in London"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

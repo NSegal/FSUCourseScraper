@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents an in-depth investigation of eating disorders including anorexia nervosa, bulimia nervosa, and eating disorders not otherwise specified, spanning topics such as biological bases of disordered eating, cultural and historical patterns in prevalence of eating pathology, and cognitive disturbances and personality features associated with eating disorders.", 
+        "number": "4110", 
+        "subject": "CLP", 
+        "title": "Eating Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012. Junior or senior standing strongly recommended.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

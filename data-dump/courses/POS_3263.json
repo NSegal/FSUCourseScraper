@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers the major areas related to representation in American government: how public officials are elected, the nature of their interactions with citizens, how policy is made at the national level, and the level of popular control.", 
+        "number": "3263", 
+        "subject": "POS", 
+        "title": "Political Elites and Representation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to observe private and class piano instruction on the college level.", 
+        "number": "2622", 
+        "subject": "MVK", 
+        "title": "Directed Observation in Piano Pedagogy: College"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "All students must register for this course for the term in which they intend to defend their thesis.", 
+        "number": "8976", 
+        "subject": "ECH", 
+        "title": "Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 5126, ECH 5261, and ECH 5842. Corequisite: ECH 5971r.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the effects of sports training upon individual nutrient stores and requirements. The effects of nutrient intake upon sports performance.", 
+        "number": "3361", 
+        "subject": "PET", 
+        "title": "Nutrition and Sports"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: HUN 1201 with a\u00a0 grade of \"B-\" or better and PET 3322.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

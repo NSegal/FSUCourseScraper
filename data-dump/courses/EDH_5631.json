@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the dynamics and cultures of colleges and universities through a detailed study of the structures, functions, and politics of academic departments. In addition, the interdependence of tasks and responsibilities of provosts, deans, and department chairs are studied to demonstrate how leadership styles at these different levels converge and translate into teaching, research, and service at the department level.", 
+        "number": "5631", 
+        "subject": "EDH", 
+        "title": "Academic Leadership and Middle Management in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

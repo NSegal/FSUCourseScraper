@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LEC (10755)", 
+    "basic": {
+        "class_num": "10755", 
+        "course": "5365", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MUS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Laura Singletary"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Laura Singletary"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the late Medieval Church, and the Protestant and Catholic Reformations in Europe from 1517 to the Peace of Westphalia in 1648.", 
+        "number": "5147", 
+        "subject": "EUH", 
+        "title": "The Reformation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

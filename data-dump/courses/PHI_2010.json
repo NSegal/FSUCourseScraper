@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces some of the central problems in philosophy. Students also learn how to construct and criticize arguments and develop their own philosophical positions.", 
+        "number": "2010", 
+        "subject": "PHI", 
+        "title": "Introduction to Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

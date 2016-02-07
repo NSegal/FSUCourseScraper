@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the geographical basis of sports at different spatial scales, including locational strategies of franchises, recruiting patterns, and the urban political economy of professional sports arenas.", 
+        "number": "3423", 
+        "subject": "GEO", 
+        "title": "Sports Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course for African history and civilization covers the broad sweep of African history and culture. The primary emphasis is to understand the background to some of Africa's major problems and possibilities today. The course does not count as credit toward the history major.", 
+        "number": "1000", 
+        "subject": "AFH", 
+        "title": "African History and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

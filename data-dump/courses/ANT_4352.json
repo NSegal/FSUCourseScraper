@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of African peoples and cultures, emphasizing the sub-Saharan region. Topics studied include geography, prehistory, history, religion, political economy, kinship, gender, and marriage as well as contemporary issues in the anthropology of Africa.", 
+        "number": "4352", 
+        "subject": "ANT", 
+        "title": "Peoples and Cultures of Africa"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

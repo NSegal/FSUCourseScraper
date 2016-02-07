@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines classical and modern decision-making techniques based on probabilistic concepts. Emphasizes applications to all areas of business.", 
+        "number": "3200", 
+        "subject": "QMB", 
+        "title": "Quantitative Methods for Business Decisions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2100, MAC 2233, and STA 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

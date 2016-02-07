@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a foundation in the teaching and learning of community college mathematics courses including introductory mathematics, introductory algebra, college algebra, trigonometry, calculus, and statistics. Topics include investigations into the conceptual nature of mathematics and applications in the community college mathematics curriculum.", 
+        "number": "5175", 
+        "subject": "MAE", 
+        "title": "Teaching Community College Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing and MAC 2313; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

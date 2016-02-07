@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introductory study of transportation engineering in the United States with special emphasis on highway and traffic engineering, planning and design, construction, operation, management, and safety.", 
+        "number": "3004", 
+        "subject": "TTE", 
+        "title": "Transportation Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CEG 2202, CEG 2202L, and STA 2122 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

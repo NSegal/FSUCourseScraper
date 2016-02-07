@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on dynamic motions and life processes in the marine environment. Long-term geologic history of the oceans and recent changes caused by man. An overview of oceanography for upper-division students majoring in science, mathematics, or science teaching.", 
+        "number": "4008", 
+        "subject": "OCE", 
+        "title": "Principles of Oceanography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A science major or minor status and junior or senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for writers who aspire toward publication. Writer-editor relationship between student and instructor. May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "4311", 
+        "subject": "ENC", 
+        "title": "Advanced Article and Essay Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

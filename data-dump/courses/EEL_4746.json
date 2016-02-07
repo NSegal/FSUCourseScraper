@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores fundamental topics in basic computer design, structured assembly-language software design, RTL, CPU design, pipelineing and superscaling, computer arithmetic, memory and I/O organization and interface, cache, and design tools.", 
+        "number": "4746", 
+        "subject": "EEL", 
+        "title": "Microprocessor-Based System Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3705 and EEL 3705L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

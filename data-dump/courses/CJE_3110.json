@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an advanced survey of law enforcement concentrating on the police, and places emphasis on functions (law enforcement, order maintenance, public service) and responsibilities (e.g., preservation of constitutional rights, community relations), including organizational and management aspects.", 
+        "number": "3110", 
+        "subject": "CJE", 
+        "title": "Law Enforcement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

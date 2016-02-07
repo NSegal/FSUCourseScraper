@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the major issues concerning the history, law, practices, and perspectives in American Corrections. Students examine the interaction of correctional perspectives and practices, their consequences, and policies being advocated to change them.", 
+        "number": "3311", 
+        "subject": "CJC", 
+        "title": "Corrections: Practices and Perspectives"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

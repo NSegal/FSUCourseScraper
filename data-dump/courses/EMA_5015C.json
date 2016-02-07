@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students the basic understanding and up-to-date knowledge on nanostructured materials, characterization methods, nano-devices, and nano-fabrication through class lectures, literature reading, and hands-on lab experiments.", 
+        "number": "5015C", 
+        "subject": "EMA", 
+        "title": "Nanomaterials and Nanotechnology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

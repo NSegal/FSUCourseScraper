@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (10927)", 
+    "basic": {
+        "class_num": "10927", 
+        "course": "5091", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CPO", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Amanda Driscoll"
+            ], 
+            "location": "BEL 0113", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

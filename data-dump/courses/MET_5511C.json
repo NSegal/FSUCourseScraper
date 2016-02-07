@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers structure and dynamics of mesoscale atmospheric systems.", 
+        "number": "5511C", 
+        "subject": "MET", 
+        "title": "Meso-Meteorology Lecture Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4501C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

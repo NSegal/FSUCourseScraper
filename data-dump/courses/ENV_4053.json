@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the processes of pollutant transport and transformation in and between air, water, and soil or sediments. Topics include advection, dispersion, diffusion, sorption, degradation, and phase-change processes.", 
+        "number": "4053", 
+        "subject": "ENV", 
+        "title": "Chemical Fate and Transport in the Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3201, EES 3040, and either MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

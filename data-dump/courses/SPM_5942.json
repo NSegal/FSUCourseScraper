@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to work with faculty supervision to complete supervised teaching pertaining to a particular course. May be repeated to a maximum of sixteen semester hours as topics vary.", 
+        "number": "5942", 
+        "subject": "SPM", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Optional", 
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

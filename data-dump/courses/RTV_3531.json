@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses direction and production of single-camera video projects including camera, audio, lighting, and linear editing.", 
+        "number": "3531", 
+        "subject": "RTV", 
+        "title": "Single-Camera Video Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: RTV 3571.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

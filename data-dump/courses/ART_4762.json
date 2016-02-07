@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes development of ceramic techniques, concepts, and presentation strategies in support of personal aesthetic development using a potter's wheel.", 
+        "number": "4762", 
+        "subject": "ART", 
+        "title": "Ceramics II: Wheel As Tool"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1000, ART 1201C, ART 1203C, ART 1300C, ART 1602C, ART 2204C, and ART 4922.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

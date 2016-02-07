@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the the role of government, public goods and externalities, voting and collecive choice, bureaucracy theory, and political structure and economic organzation.", 
+        "number": "5533", 
+        "subject": "ECO", 
+        "title": "Public Choice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

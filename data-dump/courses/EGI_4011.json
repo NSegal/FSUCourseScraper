@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the nature and needs of exceptional children and youth including the special groups of underachieving, culturally diverse, women, and handicapped gifted.", 
+        "number": "4011", 
+        "subject": "EGI", 
+        "title": "Introduction to Gifted and Talented Students"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

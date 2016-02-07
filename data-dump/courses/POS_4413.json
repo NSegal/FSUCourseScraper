@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the evolution and power of the American presidency and the relations of the President with the branches of government. Also offered by the School of Public Administration and Policy.", 
+        "number": "4413", 
+        "subject": "POS", 
+        "title": "The American Presidency"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

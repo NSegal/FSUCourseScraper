@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of eight semester hours; duplicate registration allowed. School approval required.", 
+        "number": "6403", 
+        "subject": "COM", 
+        "title": "Advanced Problems in Communication Theory and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 8.00"
+    }
+}

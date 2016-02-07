@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers needs assessment, programmatic goals and objectives, program planning, evaluation design, accountability, and dissemination.", 
+        "number": "6630", 
+        "subject": "MHS", 
+        "title": "Program Development and Evaluation in Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

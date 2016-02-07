@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers descriptive chemistry, including main group and transition elements, coordination and organometallic chemistry.", 
+        "number": "5620", 
+        "subject": "CHM", 
+        "title": "Principles of Inorganic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the relationship between humans and their environment through the study of personal and social use of space, proxemics, spatial analysis, and the effects of the environment on human behavior.", 
+        "number": "5609", 
+        "subject": "IND", 
+        "title": "Graduate Seminar: Social-Psychological Aspects of Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

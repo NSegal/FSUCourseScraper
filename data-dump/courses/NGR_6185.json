@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to facilitate the nursing student's understanding of genetics and emerging disease on the professional-nursing practice. Topics include basic concepts of genetics and emerging diseases, their application to nursing practice and global health, as well as related ethical, legal, and social issues.", 
+        "number": "6185", 
+        "subject": "NGR", 
+        "title": "Genetics and Emerging Diseases"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 5140.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

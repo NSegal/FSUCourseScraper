@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (12605)", 
+    "basic": {
+        "class_num": "12605", 
+        "course": "3413", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "ENT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "James Dever"
+            ], 
+            "location": "HOL B0212", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines environmental issues as they relate to geological phenomena, which include volcanic and earthquake hazards, resource and land-use planning, air and water pollution, waste disposal, glaciation and sea-level change, landslides, flooding, shoreline erosion, and global change issues. Course credit may not be received for this course and also GLY 1000 or 2010C. Credit can be received for taking GLY 1000L.", 
+        "number": "1030", 
+        "subject": "GLY", 
+        "title": "Environmental Issues in Geology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

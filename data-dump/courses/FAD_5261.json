@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses theoretical consideration of persistence and change in families with special attentions to critical transitions in family development.", 
+        "number": "5261", 
+        "subject": "FAD", 
+        "title": "Families in Crisis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

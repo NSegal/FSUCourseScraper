@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LEC (13873)", 
+    "basic": {
+        "class_num": "13873", 
+        "course": "3003", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "INS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:45:00", 
+            "instructors": [
+                "Carla Pousa"
+            ], 
+            "location": "TBA", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:45:00", 
+            "instructors": [
+                "Carla Pousa"
+            ], 
+            "location": "TBA", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

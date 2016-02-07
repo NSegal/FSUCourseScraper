@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the graduate level capstone of the research, programming, space planning, and final visual presentation of an interior design project that is unique to each student's research interests.", 
+        "number": "5282", 
+        "subject": "IND", 
+        "title": "Graduate Studio VII"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5281.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critical study of selected major western philosophers of the seventeenth and eighteenth centuries, with an emphasis on logic, epistemology, and metaphysics.", 
+        "number": "5405", 
+        "subject": "PHH", 
+        "title": "Modern Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

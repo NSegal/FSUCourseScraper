@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics in nuclear structure and nuclear reactions.", 
+        "number": "5305", 
+        "subject": "PHZ", 
+        "title": "Nuclear Physics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

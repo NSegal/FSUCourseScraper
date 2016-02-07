@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive survey of the most important schools of thought, traditional problems, and current issues in Anglo-American philosophy of law. Chief theories discussed are natural law, positivism, realism (including the law and economics movement), and critical legal studies (including race and gender theory). Also explored are different views about the interpretation of law and the role of the judiciary in American politics. Includes analysis of legal cases and consideration of issues such as justice, equality, liberty, privacy, and punishment.", 
+        "number": "3400", 
+        "subject": "PHM", 
+        "title": "Philosophy of Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides teacher candidates with field work experience teaching K-12 students with severe cognitive disabilities and/or autism spectrum disorder. The practicum provides experience in developing, implementing, and evaluating functional and academic skills for K-12 students with these disabilities.", 
+        "number": "4842", 
+        "subject": "EEX", 
+        "title": "Practicum in Severe Cognitive Disabilities and/or Autism Spectrum Disorder"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

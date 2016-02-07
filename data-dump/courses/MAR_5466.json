@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the downstream portion of the supply chain and the strategic marketing implications related to managing customer relationships. Focus is on the management of the processes necessary to stimulate and meet customer demand, as well as on the development of long-term customer relationships.", 
+        "number": "5466", 
+        "subject": "MAR", 
+        "title": "Logistics and Supply Chain Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

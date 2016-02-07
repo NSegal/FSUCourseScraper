@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-MED (5602)", 
+    "basic": {
+        "class_num": "5602", 
+        "course": "7164", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "MDE", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Ronald Hartsfield"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

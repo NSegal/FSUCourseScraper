@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers applications of fundamental principles from general, organic and biological chemistry, to major environmental engineering processes. Emphasis is placed on the chemistry of water treatment.", 
+        "number": "4417", 
+        "subject": "ENV", 
+        "title": "Applied Environmental Engineering Chemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

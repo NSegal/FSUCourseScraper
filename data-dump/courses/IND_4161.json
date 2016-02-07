@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes the study of architecture, interior, and furniture design from the 19th century to the present. May be repeated to a maximum of six semester hours.", 
+        "number": "4161", 
+        "subject": "IND", 
+        "title": "History of Interiors III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics in hadronic physics, experimental techniques and facilities, nuclear astrophysics, and the use of the nucleus as a laboratory.", 
+        "number": "5307", 
+        "subject": "PHZ", 
+        "title": "Nuclear Physics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

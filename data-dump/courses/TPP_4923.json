@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides evaluation, systemization, supervision, and critiques of all performance work undertaken to isolate acting, dance, and musical problems that occur in musical theatre and to seel their solution in performance. May be repeated to a maximum of eight semester hours.", 
+        "number": "4923", 
+        "subject": "TPP", 
+        "title": "Musical Theatre Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BFA candidates only and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

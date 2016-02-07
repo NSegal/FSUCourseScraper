@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps classroom teachers, reading specialists, and other educators seek answers to some of the problems related to reading needs of children of varying abilities.", 
+        "number": "5147", 
+        "subject": "RED", 
+        "title": "Foundations of Developmental Reading"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to a graduate degree program in the School of Teacher Education.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

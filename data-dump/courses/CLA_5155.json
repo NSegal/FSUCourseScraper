@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a study of the archaeology of Pompeii and neighboring towns from the seventh century BCE to the first century CE.", 
+        "number": "5155", 
+        "subject": "CLA", 
+        "title": "Pompeii"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

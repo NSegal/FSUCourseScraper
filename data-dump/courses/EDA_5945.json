@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course integrates Department of Education requirements of experiential learning through field experiences, school-based mentoring from an expert in the field, and the Florida Leaders Web site for professional development for aspiring school leaders.", 
+        "number": "5945", 
+        "subject": "EDA", 
+        "title": "Practicum in Educational Leadership I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

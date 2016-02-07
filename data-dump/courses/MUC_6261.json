@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for composition majors only. May be repeated for maximum credit of six semester hours.", 
+        "number": "6261", 
+        "subject": "MUC", 
+        "title": "Composition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

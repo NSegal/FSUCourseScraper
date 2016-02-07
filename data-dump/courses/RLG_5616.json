@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of Judaism as a religious and cultural phenomenon in Europe, North America, and the Middle East from the Europeant Enlightment to to the birth of the State of Israel.", 
+        "number": "5616", 
+        "subject": "RLG", 
+        "title": "Modern Judaism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

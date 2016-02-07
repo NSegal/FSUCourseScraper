@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of major genres of theatrical criticism with focus on twentieth-century movements. The course is also designed to aid not only dissertation analyses but also performance criticism and production work.", 
+        "number": "6531", 
+        "subject": "THE", 
+        "title": "Methods of Theatre Criticism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

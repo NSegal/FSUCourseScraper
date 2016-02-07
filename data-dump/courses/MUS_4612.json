@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers applied research methods in psychology of music through examination of selected research studies and behavioral projects.", 
+        "number": "4612", 
+        "subject": "MUS", 
+        "title": "Psychology of Music Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUS 4611.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

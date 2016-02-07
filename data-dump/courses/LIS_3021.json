@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers technical and professional documents generated and used by information professionals. Emphasis is on the writing process, more specifically on audience analysis, document design, collaboration, and peer editing.", 
+        "number": "3021", 
+        "subject": "LIS", 
+        "title": "Technical Communication for the Information Professions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 2780, LIS 3267, and LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

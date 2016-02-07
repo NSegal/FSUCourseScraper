@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This elective course focuses on a developmental approach to social-intervention research. It includes articulation of conceptual intervention models and their development, piloting, implementation, and dissemination. Micro-, mezzo-, and macro-level intervention models may be included as part of the course, depending on the students' interest. Background in both theory building and research methods is required.", 
+        "number": "6499", 
+        "subject": "SOW", 
+        "title": "Intervention Research in Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies human interaction with bodies of water, particularly in the maritime environment. Illustrated presentations, readings, and discussions focus on a variety of cultures and watercraft from Asia, Australia, the Mediterranean, and Europe.", 
+        "number": "4135", 
+        "subject": "ANT", 
+        "title": "Nautical Archaeology: Global View"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

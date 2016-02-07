@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive introduction to molecular dynamics simulation algorithms and their corresponding applications in molecular sciences.", 
+        "number": "5225", 
+        "subject": "ISC", 
+        "title": "Molecular Dynamics: Algorithms and Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5305; MAC 2311 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

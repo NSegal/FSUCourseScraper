@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys theory and research on gender and mental health, focusing on sociological theory adn research on gender and differences in mental health problems in the U.S.", 
+        "number": "5426", 
+        "subject": "SYO", 
+        "title": "Gender and Mental Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

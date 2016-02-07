@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar consists of student and faculty presentations on research and developments in food science and nutrition.", 
+        "number": "6930", 
+        "subject": "FOS", 
+        "title": "Seminar in Food and Nutrition Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

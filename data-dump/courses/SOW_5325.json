@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves a critical examination of small group theory as well as the use of self in the therapeutic process. Attention is given to practice without discrimination, to knowledge and skills related to clients' age, class, color, culture, disability, ethnicity, family structure, gender, marital status, national origin, race, religion, sex, and sexual orientation.", 
+        "number": "5325", 
+        "subject": "SOW", 
+        "title": "Advanced Group Practice and Treatment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5324 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a continuation of ENT 2010, focusing on growing and exiting a business. Additional course content exposes students to the basics of entrepreneurial law, negotiation, and understanding financial statements.", 
+        "number": "2011", 
+        "subject": "ENT", 
+        "title": "Managing and Harvesting New Ventures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the major, ACG 2021, ENT 2010, and ENT 2010L. Corequisites: ACG 2071 and ENT 2011L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

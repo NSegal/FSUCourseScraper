@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of European theatre history from the Greeks through the Renaissance.", 
+        "number": "4110", 
+        "subject": "THE", 
+        "title": "European Theatre History I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 3214.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

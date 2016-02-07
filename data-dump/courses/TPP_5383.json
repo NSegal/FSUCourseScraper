@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is advanced directing scene work for the specialist degree.", 
+        "number": "5383", 
+        "subject": "TPP", 
+        "title": "Problems in Directing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

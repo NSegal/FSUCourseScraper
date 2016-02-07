@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the nursing management of adults and their families in acute care and appropriate community care settings. Critical reasoning and problem solving skills are used to address safe intervention and evaluation outcomes appropriate to the health care needs of adults and families experiencing complex health disorders. The course includes content on the triage of care of patients during events that result in widespread illness or mass casualties.", 
+        "number": "4766", 
+        "subject": "NUR", 
+        "title": "Nursing Care of Adults and Populations with Complex Health Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: NUR 3056C, NUR 3065C, NUR 3125, NUR 3225C, NUR 3636L, NUR 3678, NUR 3822, and NUR 4445C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

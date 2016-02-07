@@ -1,0 +1,26 @@
+{
+    "_unique": "0032-DIS (12130)", 
+    "basic": {
+        "class_num": "12130", 
+        "course": "5833", 
+        "season": "Spring", 
+        "solus_id": "0032", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Oliver Steinbock"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

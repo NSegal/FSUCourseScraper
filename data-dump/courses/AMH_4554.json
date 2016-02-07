@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the history of both the U.S. Constitution and American law in the 19th-century. Topics include the Marshall Court, slave law and the Dred Scott decision, the impact of the Civil War and Reconstruction on the law, and the effects of industrialization on American law. The course is not about constitutional interpretation or theories applied by the current Supreme Court.", 
+        "number": "4554", 
+        "subject": "AMH", 
+        "title": "American Legal History II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

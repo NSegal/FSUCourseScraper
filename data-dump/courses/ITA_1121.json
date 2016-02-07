@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds upon the students ability to speak, understand, read, and write Italian at an elementary level. May not be taken by native speakers. May not be taken concurrently with ITA 1111, 1120 and/or 2220.", 
+        "number": "1121", 
+        "subject": "ITA", 
+        "title": "Elementary Italian II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 1120 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

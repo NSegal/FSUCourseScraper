@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops an overview of the philosophies, processes and practices of raising funds in the arts; teaches a working vocabulary and language relative to development and fundraising practices in the arts; and further develops students' research, writing and presentation skills.", 
+        "number": "5815", 
+        "subject": "MUM", 
+        "title": "Fundraising Strategies in the Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

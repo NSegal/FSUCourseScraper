@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course repeats with different topics covered each semester. Topics covered include clinical bases for planning and conduct of therapy, behavior management, counseling, ethics, certification and licensure, instrumentation, and clinical research methods.", 
+        "number": "5055", 
+        "subject": "SPA", 
+        "title": "Professional Tools in Speech-Language Pathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

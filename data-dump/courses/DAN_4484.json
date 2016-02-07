@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course instructs students in capturing the art of motion, combining hands-on experience with reading, discussion, and critique to develop technical skills and aesthetic awareness related to the documentation of concert dance.", 
+        "number": "4484", 
+        "subject": "DAN", 
+        "title": "Documentation Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 4418.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

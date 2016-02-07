@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers American and European art from Abstract Expressionism to the present. The course examines the reactions against Abstract Expressionism and investigates late-modernist practices (e.g., Pop Art, Minimalism, Conceptualism, Earth Art, Performance Art). Topics discussed include contemporary artistic practices and the relationship between \"modernism\" and\u00a0 \"postmodernism\".", 
+        "number": "4642", 
+        "subject": "ARH", 
+        "title": "Art after 1940"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

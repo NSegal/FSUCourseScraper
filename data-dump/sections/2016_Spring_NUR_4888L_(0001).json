@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (8265)", 
+    "basic": {
+        "class_num": "8265", 
+        "course": "4888L", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Mandy Bamber"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-02-26", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

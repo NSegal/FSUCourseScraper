@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to German with emphasis on speaking (conversational method). Additional hours arranged for conversational practice. Students with three or four years of high school German or the equivalent should consult the department for placement. May not be taken by native speakers. May not be taken concurrently with GER 1110, 1120, 1121, and/or 2220.", 
+        "number": "1111", 
+        "subject": "GER", 
+        "title": "Elementary Conversational German"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GER 1110, GER 1120 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

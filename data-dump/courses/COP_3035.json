@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes Python basics, use of Python control and data structures, use of Python functions, Python I/O, and implementation of basic Python programming tasks.", 
+        "number": "3035", 
+        "subject": "COP", 
+        "title": "Introduction to Programming Using Python"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

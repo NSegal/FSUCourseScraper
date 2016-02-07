@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course immerses students in the literature on \"law and economics\" including the seminal contributions to this field. The differences between the most important \"schools\" of thought (approaches to the analysis of law and economics) are examined in the process of an exploration of the economic analysis of property law, contract law, tort law, and criminal law. The impact of economic incentives and objectives is explored, as well as objectives on the procedures of each on economic behavior. Students also engage in research by applying an economic approach to study and write about an issue in law or legal processes.", 
+        "number": "5456", 
+        "subject": "ECP", 
+        "title": "Law and Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

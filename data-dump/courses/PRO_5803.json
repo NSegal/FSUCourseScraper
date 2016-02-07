@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course combines traditional classroom meetings on-site with clinical rotation hours off-site, in which students observe, assist, and practice patient care and device fabrication in an\u00a0 environment that prepares them for an orthotic or prosthetic residency. Students study traditional and emerging topics related to the O&P field and are then placed at a clinical agency to practice skills under close supervision of an American Board Certified (ABC) prosthetist/orthotist.", 
+        "number": "5803", 
+        "subject": "PRO", 
+        "title": "Orthotics and Prosthetics Clinical Rotation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

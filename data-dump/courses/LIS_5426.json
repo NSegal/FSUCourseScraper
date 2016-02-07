@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course develops basic skills in planning, evaluation, and financial management, as well as application of these aspects to the overall management task in the information organization.", 
+        "number": "5426", 
+        "subject": "LIS", 
+        "title": "Grant Writing, Evaluation, and Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

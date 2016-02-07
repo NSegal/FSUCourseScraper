@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the field of victimology and explores its conceptual boundaries, basic concepts and literature within various subareas.", 
+        "number": "6665", 
+        "subject": "CCJ", 
+        "title": "Victimology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCJ 5705 and CCJ 5706.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

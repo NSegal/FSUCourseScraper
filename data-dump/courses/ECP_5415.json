@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the role of the state in establishing the framework of the market economy; including enforced competition, regulated industries, and nationalized industries.", 
+        "number": "5415", 
+        "subject": "ECP", 
+        "title": "Social Control of Business"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

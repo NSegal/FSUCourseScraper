@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on advanced techniques, materials, and repertoire for college/university voice teaching. Includes observation and teaching with laboratory situations.", 
+        "number": "6662", 
+        "subject": "MVV", 
+        "title": "Vocal Pedagogy Seminar II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVV 6661.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

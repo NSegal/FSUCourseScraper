@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is offered to meet the needs of students in current intermediate-level Chinese classes who seek not only to study Chinese at a more advanced level, but also to improve their Chinese proficiency in reading comprehension and oral communication in various settings.", 
+        "number": "3240", 
+        "subject": "CHI", 
+        "title": "Chinese Reading and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

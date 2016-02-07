@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies and analyzes theories, programs, and essential components in classroom management. Explores techniques for classroom teachers to use in developing a child study with emphasis on educational implications.", 
+        "number": "5605", 
+        "subject": "EEC", 
+        "title": "Techniques of Classroom Management and Child Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

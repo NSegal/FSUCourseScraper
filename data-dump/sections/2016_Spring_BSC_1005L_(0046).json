@@ -1,0 +1,26 @@
+{
+    "_unique": "0046-LAB (13817)", 
+    "basic": {
+        "class_num": "13817", 
+        "course": "1005L", 
+        "season": "Spring", 
+        "solus_id": "0046", 
+        "status": "Open", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:50:00", 
+            "instructors": [
+                "Mirella Martinez"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

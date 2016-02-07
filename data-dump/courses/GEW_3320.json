@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on contemporary German drama in a socio-historical context. Addresses the difficulties authors confront when dramatizing current social trends, as well as the problems of interpreting and staging a play.", 
+        "number": "3320", 
+        "subject": "GEW", 
+        "title": "Drama"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission. GER 3400, GER 3310, or GER 3500 are recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the law relating to administration of decedents estates; establishment and validity of private and charitable trusts; execution, revocation, validity, and construction of wills; class gifts; powers of appointment; future interests; and the Rule Against Perpetuities.", 
+        "number": "6430", 
+        "subject": "LAW", 
+        "title": "Gratuitous Transfers"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 5400.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

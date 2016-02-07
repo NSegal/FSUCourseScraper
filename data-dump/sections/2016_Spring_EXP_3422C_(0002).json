@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (3695)", 
+    "basic": {
+        "class_num": "3695", 
+        "course": "3422C", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EXP", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "11:25:00", 
+            "instructors": [
+                "Sarah Terrill"
+            ], 
+            "location": "PDB C0141", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

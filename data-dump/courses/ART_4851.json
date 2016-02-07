@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, BA students in their final year of study have the opportunity to use knowledge and skills learned earlier in their studies and apply these toward a summative exhibition. The various ways others who have earned a BA in studio art have found to apply their experiences toward their future endeavors are discussed. The course also includes guest who talk about a full range of opportunities and resources, as well as an exploration of some basic tools for sustaining a life in the arts post-graduation.", 
+        "number": "4851", 
+        "subject": "ART", 
+        "title": "Graduating BA Course"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

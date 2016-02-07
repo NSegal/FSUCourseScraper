@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes in-depth coverage of the U.S. federal income taxation of pass-through entities including partnerships, Subchapter S corporations, trusts, and estates.", 
+        "number": "5205", 
+        "subject": "TAX", 
+        "title": "Pass-Through Entities and Fiduciaries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

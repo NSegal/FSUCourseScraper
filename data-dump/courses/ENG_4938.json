@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The honors student takes two seminars. Permission required. May be repeated to a maximum of six semester hours.", 
+        "number": "4938", 
+        "subject": "ENG", 
+        "title": "Advanced Seminar in English"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the department's honors-in-the-major program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

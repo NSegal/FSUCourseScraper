@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum course's primary purpose is to provide students an experiential orientation into the components for fulfilling certification requirements in Educational Leadership/Administration toward Level I Educational Leadership Certification.\u00a0 The practicum provides the infrastructure that bridges leadership practice with leadership theory as students acquire the skills, knowledge, and dispositions to make a positive impact on improving schools and student achievement.", 
+        "number": "5942", 
+        "subject": "EDA", 
+        "title": "Practical Experiences in Educational Leadership"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

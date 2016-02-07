@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the concept and practice of policy in the field of education with special focus on the use of social knowledge in policy formation. It highlights policy as a multidisciplinary field of study.", 
+        "number": "5641", 
+        "subject": "EDF", 
+        "title": "Introduction to Policy Studies in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides class participants with skills in non-physical methods for preventing or managing disruptive behavior, including positive behavior support (PBS) at the tertiary level. In addition, the course includes the study of crisis prevention methods including restraint positions, transport techniques and team strategies. Students who successfully complete the course are eligible for a two-year Crisis Prevention Institute (CPI) blue card that validates their completion of the Nonviolent Crisis Intervention training program.", 
+        "number": "5615", 
+        "subject": "EEX", 
+        "title": "Nonviolent Crisis Intervention"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

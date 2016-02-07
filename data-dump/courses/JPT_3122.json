@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers short stories and novels of major authors in modern Japanese literature after 1868, giving students an understanding of various aspects of modern Japan. May be repeated to a maximum of six semester hours. Taught in English.", 
+        "number": "3122", 
+        "subject": "JPT", 
+        "title": "Modern Japanese Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

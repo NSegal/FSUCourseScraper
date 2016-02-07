@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students learn to understand the role and scope of music therapy in medical treatment; learn to design music activities in medical situations\u00a0 to reduce pain, anxiety and distress; participate in field experiences observing medical music therapy practices in a hospital setting; and learn medical documentation for clinical music therapy.", 
+        "number": "5305", 
+        "subject": "MUY", 
+        "title": "Medical Music Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

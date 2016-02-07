@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to pressing issues in mathematics, science, and mathematics and science education. Students engage in critical thinking regarding effective teaching and learning of mathematics and science today and into the future.", 
+        "number": "2051", 
+        "subject": "IFS", 
+        "title": "Questioning What We Know: Teaching and Learning Mathematics and Science in the 21st Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

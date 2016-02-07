@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second course focusing on the nurse practitioner role. It is designed to provide learners with the knowledge and skills to develop basic strategies designed to promote health, diagnose and manage basic acute and chronic health problems across the life span. The focus of the course is the development of sound diagnostic skill through an emphasis on the differential diagnostic process and institution of clinical strategies to address common acute and chronic disorders. The course provides a foundation for the development of the student's approach to the nurse practitioner role as they progress through the program.", 
+        "number": "6601", 
+        "subject": "NGR", 
+        "title": "Advanced Management of the Family I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5003C and DNP core courses. Corequisite: NGR 6601L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

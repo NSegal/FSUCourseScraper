@@ -1,0 +1,26 @@
+{
+    "_unique": "0014-INT (13084)", 
+    "basic": {
+        "class_num": "13084", 
+        "course": "4945", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Closed", 
+        "subject": "COM", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Ulla Sypher"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

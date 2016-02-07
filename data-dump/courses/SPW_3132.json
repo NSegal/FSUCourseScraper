@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Through a variety of readings and written and oral activities, this course provides students with knowledge about early Spanish America, from approximately 1492 to 1800. Topics may include the conquest, slavery, mestizaje, founding cultural institutions, and the aesthetics and ideologies of nation-building.", 
+        "number": "3132", 
+        "subject": "SPW", 
+        "title": "Readings from Early Spanish America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPW 330 and SPN 3400; or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

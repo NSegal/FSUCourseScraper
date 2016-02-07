@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second part of a two-part sequence, integrating mechanics and principles of materials science.\u00a0 Emphasis is on\u00a0 measurement techniques and experimental methods in solid mechanics and materials science.\u00a0 Topics covered include tensile, impact, torsion, fatigue and combined loading; beams in bending; structures of steel and other concepts learned in mechanics of materials and materials science.\u00a0 This course also gives the students an insight into technical report writing techniques.", 
+        "number": "3012C", 
+        "subject": "EML", 
+        "title": "Mechanics and Materials II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3011C and PHY 2049C. Corequisite: EML 3234.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

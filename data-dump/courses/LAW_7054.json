@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of selected topics regarding bankruptcy\u00a0\u00a0 law and policy.", 
+        "number": "7054", 
+        "subject": "LAW", 
+        "title": "Bankruptcy Policy Seminar"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 7050.", 
+        "grading_basis": "Law Numeric", 
+        "units": "2.00"
+    }
+}

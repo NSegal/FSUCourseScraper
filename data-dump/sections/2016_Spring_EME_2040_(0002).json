@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (3128)", 
+    "basic": {
+        "class_num": "3128", 
+        "course": "2040", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EME", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Benjamin Emihovich"
+            ], 
+            "location": "STB 1301A", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with experience developing, implementing, and assessing intervention programs for learners identified as having autism spectrum disorder. May be repeated to a maximum of three semester hours.", 
+        "number": "5836", 
+        "subject": "EEX", 
+        "title": "Practicum with Students with Autism Spectrum Disorder and Severe Intellectual Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

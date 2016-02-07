@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-DSC (9416)", 
+    "basic": {
+        "class_num": "9416", 
+        "course": "1122", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "SLS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Korey Lowry"
+            ], 
+            "location": "WJB G0039", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

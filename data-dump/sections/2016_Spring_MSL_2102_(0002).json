@@ -1,0 +1,69 @@
+{
+    "_unique": "0002-LEC (5944)", 
+    "basic": {
+        "class_num": "5944", 
+        "course": "2102", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MSL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [], 
+            "location": "MIL 0211", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:15:00", 
+            "instructors": [], 
+            "location": "MIL 0211", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "07:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "07:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "07:30:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "17:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

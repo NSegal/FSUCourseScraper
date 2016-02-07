@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced training in historical methods and historiography. The historical material varies from seminar to seminar depending upon the instructor's area of expertise.", 
+        "number": "4935", 
+        "subject": "HIS", 
+        "title": "Senior Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

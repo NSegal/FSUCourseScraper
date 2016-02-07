@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys computer technology in music, including hardware, software, computer-based instruction, multimedia and internet.", 
+        "number": "2360", 
+        "subject": "MUS", 
+        "title": "Introduction to Technology in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 1112 or equivalent and sophomore standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

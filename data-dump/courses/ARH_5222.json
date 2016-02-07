@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the history of book illustration in Western Europe from\u00a0 Insular Gospel Books (ca. 700) and Carolingian Bibles (ca. 800) to deluxe Gothic literary and devotional books produced until the introduction of printing during the later Middle Ages (ca. 1450).", 
+        "number": "5222", 
+        "subject": "ARH", 
+        "title": "Medieval Illustrated Manuscripts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

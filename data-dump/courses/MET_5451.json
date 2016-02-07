@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the interaction between electromagnetic radiation and the atmosphere. Absorption and emission of light by the sun, the earth, and various components of the atmosphere, and the transfer of energy and scattering of radiation by the atmosphere.", 
+        "number": "5451", 
+        "subject": "MET", 
+        "title": "Advanced Physical Meteorology II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 5425 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0006-LAB (11715)", 
+    "basic": {
+        "class_num": "11715", 
+        "course": "4928C", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "ART", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "Haley Lauw"
+            ], 
+            "location": "KRB 0010", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "Haley Lauw"
+            ], 
+            "location": "KRB 0010", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

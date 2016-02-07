@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar introduces students to theories, methods and philosophies of\u00a0 qualitative inquiry in sport and physical culture, including cultural studies, ethnography, narrative inquiry, researcher subjectivity, and the politics of evidence. Students develop an in-depth understanding of the art and\u00a0 practice of interpretation as it relates to qualitative approaches to research in sport management and related fields.", 
+        "number": "6746", 
+        "subject": "SPM", 
+        "title": "Qualitative Inquiry in Sport and Physical Culture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

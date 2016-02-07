@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the history of the Seminoles and other Southeastern Native Americans in the territory that is now known as the American South.\u00a0 The course covers the pre-contact era to the present with an emphasis on tribal perspectives.", 
+        "number": "2583", 
+        "subject": "AMH", 
+        "title": "The Seminoles and the Southeastern Indians"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

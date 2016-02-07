@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to analyze, discuss, and put into practice the skills and techniques required to edit a narrative motion picture.", 
+        "number": "2552", 
+        "subject": "FIL", 
+        "title": "Film Editing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

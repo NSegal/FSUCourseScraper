@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the current issues facing the profession and the practitioner of leisure services.", 
+        "number": "5185", 
+        "subject": "LEI", 
+        "title": "Current Issues in Leisure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

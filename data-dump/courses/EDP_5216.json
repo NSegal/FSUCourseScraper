@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the applications of prominent contemporary theories of learning, cognition, and information processing to instructional settings.", 
+        "number": "5216", 
+        "subject": "EDP", 
+        "title": "Theories of Learning and Cognition in Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (4018)", 
+    "basic": {
+        "class_num": "4018", 
+        "course": "2100L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "GLY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:25:00", 
+            "instructors": [
+                "Brian Woodall"
+            ], 
+            "location": "CAR 0217", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

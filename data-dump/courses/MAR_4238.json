@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the complex nature of the retail industry, shows how to recognize and manage the many challenges when students begin their career, and examines the many characteristics of leadership and the necessary critical thinking and strategic decision-making skills they need to effectively build and lead teams.", 
+        "number": "4238", 
+        "subject": "MAR", 
+        "title": "Advanced Strategic Retail Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

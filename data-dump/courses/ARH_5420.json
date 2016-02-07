@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses European art from 1780-1880, concentrating on the evolving dialogue between academic and anti-academic practices through an investigation of the relationship between theory, criticism, and techniques of representation. Topics of inquiry include: David and Neoclassicism; British landscape painting; Delacroix and French Romanticism; Courbet's Realism and Manet's Naturalism; and French Impressionism.", 
+        "number": "5420", 
+        "subject": "ARH", 
+        "title": "Modern European Art: Neoclassicism through Impressionism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

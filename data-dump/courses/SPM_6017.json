@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an interdisciplinary examination of the globalization of sport. By contrasting local and global dimensions, students examine the social, cultural, technological, and economic structures that constitute, and are constituted by the expanding sports industry. Using theories from a number of disciplines, students in this course consider issues and problems related to the globalization of sport.", 
+        "number": "6017", 
+        "subject": "SPM", 
+        "title": "Globalization, Development, and Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

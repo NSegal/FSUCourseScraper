@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students discuss real-world business problems, learn to identify key issues, and analyze and develop solutions. To complete the thought process, students also think through the implementation and the expected outcomes. Critical reading, writing and presenting are used to convey the solution.", 
+        "number": "3124", 
+        "subject": "IFS", 
+        "title": "Business Case Analysis and Solution Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

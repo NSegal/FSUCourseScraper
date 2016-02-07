@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DIS (13605)", 
+    "basic": {
+        "class_num": "13605", 
+        "course": "5906", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "GLY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Xiaolong Hu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

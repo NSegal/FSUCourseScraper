@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes the role of monetary policy in various macroeconomic theories. Focus on controversy over the effects monetary policy has on employment, inflation, and interest rates.", 
+        "number": "4224", 
+        "subject": "ECO", 
+        "title": "Issues in Money and Banking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ECO2013,P,Y,**ECO2023,P,Y,**ECO3223,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

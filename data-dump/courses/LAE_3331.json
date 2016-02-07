@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores recent adolescent literature, resources and methods for teaching literature in high schools, uses of creative dramatics in teaching literature and language skills.", 
+        "number": "3331", 
+        "subject": "LAE", 
+        "title": "Teaching Literature and Drama in High Schools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to English Education program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

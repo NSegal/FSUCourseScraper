@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores physical principles, systematics in the chemistry of periodic groups, descriptive chemistry of the inorganic elements. Topics include atomic structure and the periodic classification of the elements, chemical bonding and reactivity, acid-base chemistry, chemistry of main group elements, and coordination chemistry of the transitional metal elements.", 
+        "number": "4610", 
+        "subject": "CHM", 
+        "title": "Inorganic Chemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 2211 and 2211L, each with a grade of \"C-\" or better. Corequisite: CHM 4410 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

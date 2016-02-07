@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced principles and practice of making a short, sync-sound, 16 mm film. May be repeated to a maximum of nine semester hours; duplicate registration allowed within the same term.", 
+        "number": "4434", 
+        "subject": "FIL", 
+        "title": "Advanced Filmmaking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 9.00"
+    }
+}

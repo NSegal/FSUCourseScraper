@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a critical examination and analysis of major issues,\u00a0 definitions, and controversies associated with the development of terrorism in the modern world. Historical, religious, psychological, and sociological aspects that explain terrorism are covered, along with the characteristic means and methods of terrorist groups.", 
+        "number": "3661", 
+        "subject": "CCJ", 
+        "title": "Terrorism and Violence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

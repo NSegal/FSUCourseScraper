@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students for conducting teacher action research using single case research designs (SCRD) in educational settings. Salient features of SCRD and the advantages and disadvantages of this research methodology are discussed. Students build competence in creating and analyzing high quality single case design studies to investigate the effectiveness of instructional interventions.", 
+        "number": "5498", 
+        "subject": "EDF", 
+        "title": "Single Case Design Research for Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5481 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

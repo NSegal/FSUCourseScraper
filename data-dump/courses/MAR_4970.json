@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of six semester hours. Six semester hours of thesis are required to complete honors in the major.", 
+        "number": "4970", 
+        "subject": "MAR", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 3023 and admission to the honors-in-the-major program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

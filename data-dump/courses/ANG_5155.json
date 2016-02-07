@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a critical evaluation of special problems and processes of cultural evolution and adaptation in the southeast.", 
+        "number": "5155", 
+        "subject": "ANG", 
+        "title": "Regional Archaeology: Southeast United States"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

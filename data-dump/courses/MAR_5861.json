@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes customers as arguably the single most important stakeholder of any modern corporation and focuses on strategies aimed at developing and maintaining enduring customer relationships. Management of customer relationships in concert with other key stakeholder relationships is also explored.", 
+        "number": "5861", 
+        "subject": "MAR", 
+        "title": "Customer Relationship Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

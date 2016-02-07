@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces advanced spatial modeling theories and associated techniques in GIS. Topics addressed include spatial optimization, GIS for transportation, spatial decision support systems, and other advanced quantitative techniques. Emphasis is on fostering a broad understanding of spatial modeling and connecting spatial modeling techniques to students' substantive domains.", 
+        "number": "5111", 
+        "subject": "GIS", 
+        "title": "Spatial Modeling in Geographic Information Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

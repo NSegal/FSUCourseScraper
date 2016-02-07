@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines modern Chinese literature in its historical contexts and examines its role in the nation-building process of Modern China. Students read English translations of works that cover the primary literary genres and were created by major writers during this period from mainland China, Taiwan and the Chinese diaspora. Taught in English. May be repeated to a maximum of six semester hours.", 
+        "number": "3124", 
+        "subject": "CHT", 
+        "title": "Modern Chinese Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

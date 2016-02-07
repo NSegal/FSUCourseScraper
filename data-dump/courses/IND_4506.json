@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course involves advanced analysis and research into the theory and philosophy of professional interior design practice.", 
+        "number": "4506", 
+        "subject": "IND", 
+        "title": "Business Practices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 4242.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

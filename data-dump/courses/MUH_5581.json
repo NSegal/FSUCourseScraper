@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with an in-depth study of a particular approach, theory, or methodology in ethnomusicology, as espoused by a particular person or school of thought. Students apply the techniques learned to a music culture of their choice. May be repeated to a maximum of six semester hours.", 
+        "number": "5581", 
+        "subject": "MUH", 
+        "title": "Seminar in Ethnomusicology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUH 5580.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

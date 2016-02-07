@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the professional and institutional application of GIS in government, industry and business.", 
+        "number": "5605", 
+        "subject": "GIS", 
+        "title": "GIS Local Government"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GIS 5101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the student with an in-depth view of curriculum and instruction as well as a knowledge base for planning, designing, organizing, and implementing an effective instructional program.", 
+        "number": "5250", 
+        "subject": "EDG", 
+        "title": "Curriculum and Instruction for School Leaders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

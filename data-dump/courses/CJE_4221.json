@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction on entomological equipment, supplies, techniques and procedures utilized to collect, rear, and preserve insects and related arthropods of medicocriminal forensic importance. Equipment and methods for acquiring weather, climatological and other relevant data are covered as well.", 
+        "number": "4221", 
+        "subject": "CJE", 
+        "title": "Forensic Entomology: Field Collection Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 4220.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

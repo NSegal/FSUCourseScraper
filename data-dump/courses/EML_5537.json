@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses the Finite Element Method - what it is, elementary FEM theory, structures and elements, trusses, beams, and frames, two-dimensional solids, three-dimensional solids, axisymmetric solids, thin-walled structures, static and dynamic problems, available hardware and software, basicsteps in FEM analysis, pre/post processing, interpretation of results, advanced modeling techniques, design optimization, advanced materials using FEM.", 
+        "number": "5537", 
+        "subject": "EML", 
+        "title": "Design Using FEM"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

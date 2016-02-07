@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Students receive credit for teaching an undergraduate course under supervision of graduate faculty.", 
+        "number": "6942", 
+        "subject": "CGN", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Doctoral candidate status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

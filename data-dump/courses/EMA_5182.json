@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides basic understanding of composite materials. Topics include introduction to composite materials, properties and forms of constituent materials, consideration of composite behavior and failure modes, characterization of material performance and testing, introduction to available manufacturing techniques, laboratory demonstrations, and case studies.", 
+        "number": "5182", 
+        "subject": "EMA", 
+        "title": "Composite Materials Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

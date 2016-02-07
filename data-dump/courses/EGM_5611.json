@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines solid and fluid continua. Cartesian tensor theory. Kinematics of infinitesimal deformation, relations between stress, strain, strain rate for elastic, plastic, and viscous solids and for compressible viscous fluids. General equations of continuum mechanics, integral forms, and their physical interpretation. Particular forms of equations and boundary conditions for elastic and viscoelastic solids and Newtonian fluids.", 
+        "number": "5611", 
+        "subject": "EGM", 
+        "title": "Introduction to Continuum Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

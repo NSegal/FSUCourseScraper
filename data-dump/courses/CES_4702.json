@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the design of reinforced concrete structures using current ACI specifications and building codes. Topics include flexural design of reinforced concrete beams, flanged beams, and one-way slabs. The course also presents column design, shear reinforcement design, bond and anchorage, and control of deflections and cracks.", 
+        "number": "4702", 
+        "subject": "CES", 
+        "title": "Concrete Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

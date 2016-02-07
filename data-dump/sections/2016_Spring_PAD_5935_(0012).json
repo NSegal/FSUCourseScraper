@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-DSC (14472)", 
+    "basic": {
+        "class_num": "14472", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Closed", 
+        "subject": "PAD", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "David Merrick"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

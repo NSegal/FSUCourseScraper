@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a case analysis of business and management problems for the formulation of managerial strategies and policies.", 
+        "number": "4720", 
+        "subject": "MAN", 
+        "title": "Strategic Management and Business Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIN 3403, MAN 3240, and MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

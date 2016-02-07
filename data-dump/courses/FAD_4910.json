@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides upper-division students with an opportunity to undertake an independent and original research project in their particular area of interest. May be repeated to a maximum of six semester hours.", 
+        "number": "4910", 
+        "subject": "FAD", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Upper division students with an overall GPA of 3.5; instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

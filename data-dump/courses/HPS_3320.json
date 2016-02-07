@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines how cinema has provided a unique framework for wrestling with the implications of the modern scientific enterprise, examining how easily scientific rationality can be harnessed to both moral and immoral ends and what kind of world that science has produced. By probing a variety of genres - including biography, documentary, historical drama, science fiction, political satire, and horror - this course observes the cinematic and cultural desire to make sense of science. A critical element of the course is diversity in the Western culture through the lens of race, class, gender, and ethnicity.", 
+        "number": "3320", 
+        "subject": "HPS", 
+        "title": "Screening the Scientific Life: Cinema and the Cultural Image of Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

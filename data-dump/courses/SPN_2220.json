@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes oral communication and grammatical expertise, as well as listening comprehension. Students read short stories, poems, and articles, and write extended compositions and papers in Spanish. May not be taken concurrently with SPN 1120, 1121, and/or 1124 or be taken by native speakers.", 
+        "number": "2220", 
+        "subject": "SPN", 
+        "title": "Intermediate Spanish"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPN 1121 and SPN 1124 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

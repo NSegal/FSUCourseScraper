@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers calculus-based probability, discrete and continuous random variables, joint distributions, sampling distributions, and the central limit theorem. Topics include descriptive statistics, interval estimates and hypothesis tests, ANOVA, correlation, simple and multiple regression, analysis of categorical data, and statistical quality control.", 
+        "number": "3032", 
+        "subject": "STA", 
+        "title": "Applied Statistics for Engineers and Scientists"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 5.00"
+    }
+}

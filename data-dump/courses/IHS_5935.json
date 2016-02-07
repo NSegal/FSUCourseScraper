@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a seminar program for students in the PhD Program in Biomedical Sciences and other health-related programs. Biomedical Sciences students are required to enroll each Fall and Spring semester. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5935", 
+        "subject": "IHS", 
+        "title": "Health Sciences Seminar"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to the basic processes of intercultural communication from a global perspective in hopes of increasing their curiosity and acceptance of other cultures.", 
+        "number": "2052", 
+        "subject": "IFS", 
+        "title": "Global Perspectives: Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

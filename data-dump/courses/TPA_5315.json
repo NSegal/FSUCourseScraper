@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the fundamentals of physics and Newton's Laws as they relate to stage machinery. The course discusses the application of these\u00a0\u00a0 dynamics for prediction and understanding of motion of stage wagons, turntables or lifts and emphasizes the practical use of motors, winches, turntables, lifts and other stage mechanisms.", 
+        "number": "5315", 
+        "subject": "TPA", 
+        "title": "Physics of Stage Machinery"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses anthropogenic impacts on the world's marine biological resources and ways to mitigate those impacts. The course begins with a brief overview of some relevant key concepts in marine biology and ecology.", 
+        "number": "4064", 
+        "subject": "OCE", 
+        "title": "Marine Conservation Biology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 2011.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

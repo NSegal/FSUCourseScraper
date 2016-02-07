@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers principles of engineering graphics: visualization, spreadsheet applications, graphical calculus, and descriptive geometry. Also introduces the engineering design process and CAD systems.", 
+        "number": "2123", 
+        "subject": "EGN", 
+        "title": "Computer Graphics for Engineers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

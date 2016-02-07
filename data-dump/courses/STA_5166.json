@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces topics such as comparison of two treatments, random sampling, and randomization and blocking with two comparisons, statistical inference for means, variances, proportions and frequencies, and analysis\u00a0 of variance.", 
+        "number": "5166", 
+        "subject": "STA", 
+        "title": "Statistics in Applications I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

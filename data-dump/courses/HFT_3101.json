@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an in depth understanding of how global club and golf resort facilities operate to remain sustainable in both the US and international markets.\u00a0 Emphasis is placed on the club governance, management and leadership models, and the operation of various business units within a club and golf resort.", 
+        "number": "3101", 
+        "subject": "HFT", 
+        "title": "Global Club Operations and Governance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3100.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

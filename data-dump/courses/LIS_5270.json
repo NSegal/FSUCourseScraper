@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the importance and applications of evaluating networked information services and systems. It examines a number of research methods and specific data collection techniques to assess their quality and impact, emphasizing assessment in public and governmental sectors. Descriptions of the development of performance measures are also discussed.", 
+        "number": "5270", 
+        "subject": "LIS", 
+        "title": "Evaluating Networked Information Services & Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

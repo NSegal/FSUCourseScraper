@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This special topics course offers consideration of special legal areas not included elsewhere in the curriculum. May be repeated when content changes to a maximum of twenty-two semester hours. (S/U grade only.)", 
+        "number": "7939", 
+        "subject": "LAW", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

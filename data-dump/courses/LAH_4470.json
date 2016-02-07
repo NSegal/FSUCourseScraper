@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on Cuba, Puerto Rico, and other Caribbean societies. European and United States colonialism and local Caribbean forces are studied to help understand the area's social, economic, and political problems and prospects.", 
+        "number": "4470", 
+        "subject": "LAH", 
+        "title": "History of the Caribbean"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

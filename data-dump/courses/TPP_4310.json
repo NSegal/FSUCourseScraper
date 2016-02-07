@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a basic techniques course with emphasis on script analysis, fundamentals of staging, and work with actors.", 
+        "number": "4310", 
+        "subject": "TPP", 
+        "title": "Directing I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: THE 4303.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

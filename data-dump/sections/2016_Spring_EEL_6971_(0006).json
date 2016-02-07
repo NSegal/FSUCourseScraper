@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-THE (3020)", 
+    "basic": {
+        "class_num": "3020", 
+        "course": "6971", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Chris Edrington"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

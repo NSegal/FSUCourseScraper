@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (10070)", 
+    "basic": {
+        "class_num": "10070", 
+        "course": "4080", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "TSL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Cristina Rios"
+            ], 
+            "location": "HOL B0305", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

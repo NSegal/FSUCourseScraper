@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of topical seminars in physiological psychology, varying as to offering faculty.", 
+        "number": "6059", 
+        "subject": "PSB", 
+        "title": "Seminar in Physiological Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers basic concepts of finite element analysis. Topics include boundary conditions; computer techniques used in structural analysis; structural finite elements for trusses, beams, beams on an elastic foundation, and frames; plane stress and plane strains in triangular elements; and engineering modeling.", 
+        "number": "6116", 
+        "subject": "CES", 
+        "title": "Finite Elements in Structures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on issues related to women throughout the life cycle including sexuality, obesity, anorexia, cancer, etc. Emphasis is on prevention of illness and rights to health care access.", 
+        "number": "3425", 
+        "subject": "NSP", 
+        "title": "Women's Health Issues: Concerns Through the Life Cycle"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies the role of the consultant and ethical factors; field methods; use of time, reporting, personal organization, interviewing, group work, and record keeping.", 
+        "number": "5763", 
+        "subject": "EDF", 
+        "title": "The Educational Consultant: Fieldwork Techniques"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to environmental science that covers the basic functioning of the earth's environmental system and human effects on that system.", 
+        "number": "1001", 
+        "subject": "EVR", 
+        "title": "Introduction to Environmental Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

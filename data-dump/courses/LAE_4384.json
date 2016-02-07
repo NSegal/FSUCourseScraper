@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for secondary English teachers in need of developing content knowledge. The primary focus is on reading a variety of literary works suitable for teaching grades six through twelve.", 
+        "number": "4384", 
+        "subject": "LAE", 
+        "title": "A Survey of American Literature for English Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

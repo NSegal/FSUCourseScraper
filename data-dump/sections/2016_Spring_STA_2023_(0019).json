@@ -1,0 +1,37 @@
+{
+    "_unique": "0019-LEC (9707)", 
+    "basic": {
+        "class_num": "9707", 
+        "course": "2023", 
+        "season": "Spring", 
+        "solus_id": "0019", 
+        "status": "Open", 
+        "subject": "STA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Ruite Guo"
+            ], 
+            "location": "OSB 0110", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Ruite Guo"
+            ], 
+            "location": "OSB 0110", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

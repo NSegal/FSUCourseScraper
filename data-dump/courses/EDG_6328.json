@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of the empirical and conceptual basis for a variety of viewpoints regarding teaching, learning, and models of instructional design.", 
+        "number": "6328", 
+        "subject": "EDG", 
+        "title": "Alternate Views of Teaching and Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of a major medieval authors or genres. May be repeated to a maximum of six semester hours.", 
+        "number": "5419", 
+        "subject": "FRW", 
+        "title": "Studies in Medieval French Literature: Figure or Genre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 5755. Recommended prerequisite: FRE 5756.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

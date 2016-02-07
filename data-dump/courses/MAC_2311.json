@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers polynomial, trigonometric, exponential, and logarithmic functions; first and second derivatives and their interpretations; definition and interpretation of the integral; differentiation rules; implicit differentiation; applications of the derivative; anti-derivatives; fundamental theorem of calculus. This course must be taken for reduced credit by students with prior credit for some of the content.", 
+        "number": "2311", 
+        "subject": "MAC", 
+        "title": "Calculus with Analytic Geometry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1147; or MAC 1140 and MAC 1114; or suitable mathematics examination placement score.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

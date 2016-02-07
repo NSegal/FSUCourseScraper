@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents the linkage between planning model outputs and the development of alternative transportation plans. Topics include techniques of facility location assessment, horizontal alignment, vertical alignment, capacity analysis, and impact assessment, as employed at the preliminary design stage of proposed transportation network improvements.", 
+        "number": "5717", 
+        "subject": "URP", 
+        "title": "Methods of Transportation Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

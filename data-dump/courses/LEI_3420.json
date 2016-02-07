@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes selection, development, and understanding of recreatieon activities and how specific activities meet the needs of individuals. This course develops leadership skills and the ability to plan and lead activities appropriate to age, interest, and culture.", 
+        "number": "3420", 
+        "subject": "LEI", 
+        "title": "Recreation Activities Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

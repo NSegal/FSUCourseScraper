@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is directed special project/research in an area of civil engineering science or design not covered in the curriculum. May be repeated to a maximum of three semester hours.", 
+        "number": "4906", 
+        "subject": "EGN", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EES 3040 and EES 3040L. Corequisite: CWR 4202.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

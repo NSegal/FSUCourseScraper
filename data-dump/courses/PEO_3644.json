@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on organization, game theory, and the fundamental techniques of playing, teaching, and coaching.", 
+        "number": "3644", 
+        "subject": "PEO", 
+        "title": "Theory and Practice of Football"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

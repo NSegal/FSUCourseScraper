@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies one or more of the following structures: topological, P.L. or smooth manifolds, Riemannian geometry, homotopy theory, obstruction theory, and/or fibre bundles.", 
+        "number": "5376", 
+        "subject": "MTG", 
+        "title": "Topological Structures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MTG 5327.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

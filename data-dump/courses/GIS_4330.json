@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an evaluation of the breadth of environmental and social applications of geographic information systems specific to the State of Florida.", 
+        "number": "4330", 
+        "subject": "GIS", 
+        "title": "Florida GIS Applications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

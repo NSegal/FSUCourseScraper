@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves participation on the law review. Selection determined by directing professor. May be repeated within the same term to a maximum of twelve semester hours.", 
+        "number": "7950", 
+        "subject": "LAW", 
+        "title": "Law Review"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Upper-division level.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

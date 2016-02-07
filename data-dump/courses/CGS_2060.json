@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers computer and digital technology skills and concepts for all majors. Topics cover file management, personal information management, Internet communications, word processing, spreadsheet, and other software skills. Students learn about digital technologies, telecommunications, the Internet and the Web, management information systems, digital media, information security, digital society, as well as ethics. Not open to students with credit in CGS 2100.", 
+        "number": "2060", 
+        "subject": "CGS", 
+        "title": "Computer Fluency"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

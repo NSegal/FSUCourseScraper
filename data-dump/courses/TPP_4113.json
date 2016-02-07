@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an acting workshop oriented to particular problems the actor confronts in dealing with historic periods in dramatic literature or material of post-realistic and contemporary styles and thought. May be repeated to a maximum of nine semester hours.", 
+        "number": "4113", 
+        "subject": "TPP", 
+        "title": "Acting Techniques III: Acting Problems in Genre and Style"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 2110r, TPP 2111r, TPP 3711, and/or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

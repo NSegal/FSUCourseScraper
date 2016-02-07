@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the nature of prejudice and stereotyping in our society using a social psychological perspective.", 
+        "number": "4722", 
+        "subject": "SOP", 
+        "title": "Prejudice and Stereotyping"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and SOP 4722.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

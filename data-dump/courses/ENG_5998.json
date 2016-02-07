@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This tutorial entails intensive work by one to four graduate students devoted to a specific topic or research problem in English studies.", 
+        "number": "5998", 
+        "subject": "ENG", 
+        "title": "Tutorial in English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

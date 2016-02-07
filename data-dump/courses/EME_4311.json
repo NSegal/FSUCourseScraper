@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to help pre-professional teachers use technology for the development of higher learning skills. Included in the technology content are animated graphics, scanned pictures, and linked files. Students work with students in schools to apply concepts from the class. Students acquire technology skills that allow them to develop electronic professional portfolios.", 
+        "number": "4311", 
+        "subject": "EME", 
+        "title": "Technology and Learning for Elementary and Middle School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EME 2040 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

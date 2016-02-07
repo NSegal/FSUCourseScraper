@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the nature and process of management, with emphasis upon management of physical and human resources. (Credit not allowed for business majors.)", 
+        "number": "3025", 
+        "subject": "MAN", 
+        "title": "Concepts of Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

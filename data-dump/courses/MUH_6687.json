@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers doctoral-level study of research topics from all areas of musicological research. May be repeated to a maximum of nine semester hours.", 
+        "number": "6687", 
+        "subject": "MUH", 
+        "title": "Advanced Seminar in Musicology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

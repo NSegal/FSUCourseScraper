@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the evolution of dance in the American popular film industry. Emphasis will be placed on how movies encapusulate popular stereotypes and icons, revealing the roles of gender, race, fashion, economic and political forces.", 
+        "number": "4182", 
+        "subject": "DAN", 
+        "title": "Dancing in the Movies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab focuses on sensory and organ systems found in the human body. Physiology of the sensory and organ systems are explored with lab activities and computer simulated experiments.", 
+        "number": "2086L", 
+        "subject": "BSC", 
+        "title": "Anatomy and Physiology II Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: BSC 2086.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

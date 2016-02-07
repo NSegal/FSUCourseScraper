@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (11022)", 
+    "basic": {
+        "class_num": "11022", 
+        "course": "3520", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "FRT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Corbin Treacy"
+            ], 
+            "location": "HCB 0310", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:25:00", 
+            "instructors": [
+                "Corbin Treacy"
+            ], 
+            "location": "HCB 0310", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

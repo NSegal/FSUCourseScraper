@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is intended to give the student practical experience with motors, generators, transformers and power system instrumentation equipment. Students learn the principles of electromechanical energy conversion by connecting, operating, and controlling induction, synchronous, and dc machines. Transport of electrical energy through transmission lines is also explored.", 
+        "number": "4217L", 
+        "subject": "EEL", 
+        "title": "Power and Energy Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3216.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers remote sensing foundations and the use of remote sensing for environmental and cultural applications. Focus is on the foundations of remote sensing, aerial photography and photogrammetry, characteristics of various sensing systems, remote sensing applications, and an introduction todigital image processing.", 
+        "number": "4035", 
+        "subject": "GIS", 
+        "title": "Introduction to Remote Sensing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: GIS 4035L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

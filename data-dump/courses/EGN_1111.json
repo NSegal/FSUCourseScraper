@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "FAMU COURSE", 
+        "number": "1111", 
+        "subject": "EGN", 
+        "title": "ENGINEERING GRAPHICS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

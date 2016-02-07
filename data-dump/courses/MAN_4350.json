@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the various forms of training and development and their implementation both on and off the job.", 
+        "number": "4350", 
+        "subject": "MAN", 
+        "title": "Training and Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAN 3240 and MAN 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

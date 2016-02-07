@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers design and fabrication of solid-state devices. Topics include oxidation, diffusion, metallization, photolithography, and device characterization.", 
+        "number": "4330", 
+        "subject": "EEE", 
+        "title": "Microelectronics Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 3300 and EEE 3300L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

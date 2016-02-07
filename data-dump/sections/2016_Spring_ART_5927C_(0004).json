@@ -1,0 +1,37 @@
+{
+    "_unique": "0004-LAB (308)", 
+    "basic": {
+        "class_num": "308", 
+        "course": "5927C", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "ART", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:35:00", 
+            "instructors": [
+                "Pat Williams"
+            ], 
+            "location": "CAB 1444", 
+            "start_time": "19:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "21:35:00", 
+            "instructors": [
+                "Pat Williams"
+            ], 
+            "location": "CAB 1444", 
+            "start_time": "19:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

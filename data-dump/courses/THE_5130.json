@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics include Neoclassicism, Elizabethan/Jacobean,Spanish Gold Age, Restoration, Decline of Neoclassism, and Germany.", 
+        "number": "5130", 
+        "subject": "THE", 
+        "title": "Advanced Theatre History II: Renaissance and 18th Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students learn biological, chemical and physical processes in marine sediments, and complete experiments addressing the ecology of marine sediments.", 
+        "number": "5067C", 
+        "subject": "OCB", 
+        "title": "Ecology of Marine Sediments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 2011, CHM 1046, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

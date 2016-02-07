@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to develop comprehensive knowledge of corporate income taxation concepts, problems, and authorities.", 
+        "number": "5105", 
+        "subject": "TAX", 
+        "title": "Seminar in Corporate Income Taxation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

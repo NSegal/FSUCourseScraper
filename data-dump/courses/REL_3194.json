@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the origins, the process, and the consequences of the destruction of the European Jews during World War II.", 
+        "number": "3194", 
+        "subject": "REL", 
+        "title": "The Holocaust"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

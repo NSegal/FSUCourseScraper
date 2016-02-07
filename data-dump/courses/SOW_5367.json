@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the theoretical foundations and practice models of crisis intervention and other forms of brief treatment.", 
+        "number": "5367", 
+        "subject": "SOW", 
+        "title": "Theories and Practice of Crisis Intervention"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers methods and techniques used in physical-education research, including the use of library materials and writing techniques.", 
+        "number": "5102", 
+        "subject": "SPM", 
+        "title": "Research Methods in Sport Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to examine techniques of evaluation for physical fitness and health, with a particular emphasis on aerobic capacity, flexibility, strength, and body composition. It entails the design, implementation, and administration of programs for developing physical fitness and lifestyle changes.", 
+        "number": "4771C", 
+        "subject": "PET", 
+        "title": "Applied Physical Fitness Concepts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PET 4302C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

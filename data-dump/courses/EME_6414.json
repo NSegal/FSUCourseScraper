@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on how the widespread use of social networking/media have influenced learning and human performance. Additionally, the course covers how instructional learning experiences and performance supports might be designed to take advantage of participatory culture.", 
+        "number": "6414", 
+        "subject": "EME", 
+        "title": "Web 2.0-Based Learning and Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

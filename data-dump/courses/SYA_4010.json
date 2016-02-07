@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the kind of theory which has developed in the field of sociology since its foundation, moving through to the contemporary scene. Major theoretical fields, major theorists, and dominant theoretical issues that continue to be part of the sociological approach to explanation are covered. This is a required course for sociology majors.", 
+        "number": "4010", 
+        "subject": "SYA", 
+        "title": "Sociological Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

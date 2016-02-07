@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of current topics in marketing. May be repeated to a maximum of three times as topics vary.", 
+        "number": "5935", 
+        "subject": "MAR", 
+        "title": "Special Topics in Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

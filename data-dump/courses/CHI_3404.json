@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops both the ability to write Chinese characters and the knowledge of the Chinese calligraphy. It comprises two tasks: 1) to grasp\u00a0 the structural rules of Chinese characters and the skills of memorizing and writing characters; 2) to understand the history and appreciate the charm of Chinese calligraphy by integrating calligraphic practice with the study of literary texts. May be repeated to a maximum of six semester hours.", 
+        "number": "3404", 
+        "subject": "CHI", 
+        "title": "Chinese Calligraphy and Poetry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One Chinese language course or equivalent ability.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

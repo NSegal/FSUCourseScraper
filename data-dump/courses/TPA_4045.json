@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the elements and principles of design as they relate to stage costuming. Coursework includes design projects.", 
+        "number": "4045", 
+        "subject": "TPA", 
+        "title": "Costume Design for the Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 4260 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

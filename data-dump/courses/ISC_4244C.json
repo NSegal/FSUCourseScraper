@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives the students practical knowledge of a powerful and flexible programming language with application to computational and research elements important to the field of psychology. Topics include complex searches, image and audio manipulation, data analysis, and all in the context of using a variety of software tools and packages.", 
+        "number": "4244C", 
+        "subject": "ISC", 
+        "title": "Computer Applications in Psychology with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 (BSC 2010L, CGS 2100, CGS 2960, or ISC 3313) and PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

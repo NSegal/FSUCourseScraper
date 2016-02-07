@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates African authors, pre- and post-Apartheid, to demonstrate the problems of living in a diverse world. It fosters awareness and acceptance of people different from students through the study of the African-American culture, and stimulates an appreciation and respect for people of all cultures.", 
+        "number": "1003", 
+        "subject": "AFA", 
+        "title": "Diversity and Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The seminar course in marine resource ecology is designed to introduce students to a broad array of current research priorities and interests in marine ecology. Students have the opportunity to meet with resource managers and scientists from both the biological and social fields. Lectures topics range from life history studies of marine fish to the economic consequences of marine policy.", 
+        "number": "4937", 
+        "subject": "BSC", 
+        "title": "Seminar in Living Marine Resource Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a graduate level introduction to key issues in the field of cultural heritage, including such topics as definitions of tangible and intangible cultural heritage, the role of public opinion and tourism in the protection and interpretation of cultural heritage, the impact of development and conflict, questions of authenticity and identity, international law, and ethics.", 
+        "number": "5799", 
+        "subject": "ARH", 
+        "title": "Cultural Heritage Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

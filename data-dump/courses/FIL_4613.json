@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the marketing and exhibition of motion pictures, with an emphasis on current methods and practical techniques for promoting, publicizing, and distributing short films. Throughout the course, students develop original marketing materials to be used primarily for film festival submissions. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4613", 
+        "subject": "FIL", 
+        "title": "Motion Picture Marketing and Exhibition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

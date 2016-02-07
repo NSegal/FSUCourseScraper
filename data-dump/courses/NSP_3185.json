@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comparative analytical approach to the study of communication, current problems, issues, health care beliefs, values, and practices of different systems and cultural norms as they affect health care practices which conflict with ethnic or cultural communication related to standards and value systems.", 
+        "number": "3185", 
+        "subject": "NSP", 
+        "title": "Multicultural Factors and Health"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

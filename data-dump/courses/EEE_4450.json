@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers various numerical techniques for the modeling and simulation of semiconductor devices, such as pn-junctions, metal-oxide semiconductor contacts, metal-oxide-semiconductor field effect transistors, and bipolar devices. Special emphasis is on the description and simulation of electron and hole transport in semiconductor devices.", 
+        "number": "4450", 
+        "subject": "EEE", 
+        "title": "Modeling and Simulation of Semiconductor Devices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 3300.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

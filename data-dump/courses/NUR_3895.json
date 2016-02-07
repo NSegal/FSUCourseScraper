@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the role of teaching and learning in health care settings. Utilizing the concepts of adult education and educational psychology, the student develops a teaching/learning episode and assimilates strategies for teaching clients along the health care continuum.", 
+        "number": "3895", 
+        "subject": "NUR", 
+        "title": "Teaching Adults in Health-Related Areas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

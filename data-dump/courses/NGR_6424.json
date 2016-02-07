@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes/evaluates principles relevant to acute care and the practice of anesthesia for the following specific populations: orthopedic patients, trauma patients, burn patients, ENT patients, spinal cord injury patients, patients with neuromuscular disease, chronic pain patients, patients being monitored with evoked potentials, patients undergoing organ transplant, and patients with coagulopathies. The course also explores the anesthesia techniques of neuraxial and regional anesthesia.", 
+        "number": "6424", 
+        "subject": "NGR", 
+        "title": "Advanced Principles of Anesthesia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6420.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

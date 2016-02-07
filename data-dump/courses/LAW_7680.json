@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the federal income tax laws and international tax treaty provisions that apply to transactions that cross international boundaries.", 
+        "number": "7680", 
+        "subject": "LAW", 
+        "title": "International Tax"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 6600.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

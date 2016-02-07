@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, a student registered for an individual-study course must submit a prospectus, outline, and bibliography and schedule at least one conference a week on campus. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4905", 
+        "subject": "CCJ", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Instructor permission and dean permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

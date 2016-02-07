@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a critical overview of theory and research in leadership within the field of sport management. Focusing on such topics as ethical leadership and strategic vision to group dynamics and diversity, the course examines the ways in which different leadership approaches, skills, and dynamics influence a sport organization. The course also focuses on translating academic literature in the field to practical/industry settings.", 
+        "number": "5117", 
+        "subject": "SPM", 
+        "title": "Sport Leadership"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

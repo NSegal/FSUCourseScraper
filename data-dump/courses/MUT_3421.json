@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies contrapuntal techniques of the 18th century.", 
+        "number": "3421", 
+        "subject": "MUT", 
+        "title": "18th-Century Counterpoint"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 2117, MUT 2247, and MUT 3421 or MUT 3422.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

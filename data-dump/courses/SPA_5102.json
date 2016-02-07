@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the normal neuroanatomy and neurophysiology of human communication (speech, language, and hearing), while also covering introductory information related to neuropathologies and clinical causes that affect communication. This courses serves as a basis for understanding the normative and pathological processes that affect human communication and provides a foundation for advanced, graduate-level coursework in speech, language, and cognitive functions. Classes are primarily lecture based and are supplemented by videotapes, illustrations, handouts, in-class review activities, and Internet activities. Lectures follow the text but not necessarily in order of the chapters.", 
+        "number": "5102", 
+        "subject": "SPA", 
+        "title": "Neurological Basis of Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

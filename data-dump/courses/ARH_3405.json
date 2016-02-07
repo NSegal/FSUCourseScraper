@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This undergraduate survey course addresses key conceptual issues regarding the functions and siting of contemporary public art, providing students with a working knowledge of the relevant critical literature. Students will also learn the basic components of writing a public art project proposal.", 
+        "number": "3405", 
+        "subject": "ARH", 
+        "title": "Contemporary Art in Public Spaces"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1000, ART 1201C, ART 1203, ART 1300C, ART 1602C and ART 2204C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

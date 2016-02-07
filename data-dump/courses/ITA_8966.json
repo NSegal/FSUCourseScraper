@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The examination is based on the Modern Language Association reading lists, and represents the five areas of specialization.", 
+        "number": "8966", 
+        "subject": "ITA", 
+        "title": "Master's Comprehensive Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of principal periods of architectural development and interior design from ancient Egypt through the Art Deco movement\u00a0 in the 1930s.", 
+        "number": "4285", 
+        "subject": "THE", 
+        "title": "History of Architecture and Decor"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the critical elements and use of healthcare information systems and patient-care technology as applied to healthcare delivery, quality improvement, patient safety, and the evaluation of organizational outcomes. Topics cover health applications related to clinical, administrative research, and educational decision making, with emphasis on the exploration of issues and trends related to human-technology interface, implementation science, ethics, and cultural diversity.", 
+        "number": "5871", 
+        "subject": "NGR", 
+        "title": "Managing Information and Technology in Health Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

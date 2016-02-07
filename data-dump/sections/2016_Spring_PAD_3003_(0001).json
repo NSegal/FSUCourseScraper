@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (8349)", 
+    "basic": {
+        "class_num": "8349", 
+        "course": "3003", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "PAD", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Michael Thomas"
+            ], 
+            "location": "BEL 0005", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Michael Thomas"
+            ], 
+            "location": "BEL 0005", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers techniques for using direct, daily, and continuous measurement in the assessment and instruction of youth with academic and emotional/behavioral problems.", 
+        "number": "5320", 
+        "subject": "EBD", 
+        "title": "Precision Teaching Methods for Emotional Disturbances"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the strategy applied to planning, analysis, and control; emphasis on individual situation analysis involving consumer needs, market position, competition, and public policy environment.", 
+        "number": "5816", 
+        "subject": "MAR", 
+        "title": "Marketing Strategy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

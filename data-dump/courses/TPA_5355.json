@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview in the primary light design and visualization software programs. No prior knowledge of computer-aided design is necessary although significant individual work is required.", 
+        "number": "5355", 
+        "subject": "TPA", 
+        "title": "Lighting Software for Theatre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

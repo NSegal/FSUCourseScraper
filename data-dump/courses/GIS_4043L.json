@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of GIS topics, including locational control, spatial data structures, modeling and analysis, and future trends in decision support, sensors, and geographic methods.", 
+        "number": "4043L", 
+        "subject": "GIS", 
+        "title": "GIS Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GIS 3015. Corequisite: GIS 4043.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

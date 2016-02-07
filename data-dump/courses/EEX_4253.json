@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines methods for teaching functional reading and life skills to individuals with disabilities.", 
+        "number": "4253", 
+        "subject": "EEX", 
+        "title": "Access to the General Education Curriculum for Individuals with Moderate/Severe Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course assumes previous field experiences and focuses on issues in curriculum, assessment, and the use of technology in science instruction. The course is offered at the school site, is project-based, and there is an extensive fieldwork component.", 
+        "number": "4363", 
+        "subject": "SCE", 
+        "title": "Advanced Topics in High School Science Teaching and Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisites: SCE 4320 and SCE 4362.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a seminar on topics of major theoretical or policy relevance to political scientists. Opportunity for discussion and instructor interaction. Topic varies. May be repeated to a maximum of six semester hours.", 
+        "number": "3930", 
+        "subject": "POS", 
+        "title": "Advanced Undergraduate Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: At least twelve semester hours of political science or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

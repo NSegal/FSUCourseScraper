@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on quantitative approaches to the analysis of remotely sensed data. Digital multitemporal, multispectral, multisensor remote sensing images acquired by a range of sensors, and the application of digital remote sensing for urban and environmental analysis will be discussed. Quantitative methods in digital remote sensing image enhancement, radiometric normalization, rectification, georeferencing and classification.", 
+        "number": "5038C", 
+        "subject": "GIS", 
+        "title": "Advanced Remote Sensing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the economic analysis of industry, a survey of market structures, oligopoly and collusion, a variety of commercial practices under imperfect competition, the welfare consequences and policy approaches to the problems of monopoly.", 
+        "number": "3403", 
+        "subject": "ECP", 
+        "title": "Business Organization and Market Structure"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

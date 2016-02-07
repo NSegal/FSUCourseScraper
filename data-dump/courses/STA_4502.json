@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as the application of nonparametric tests, estimates, confidence intervals, and multiple comparison procedures.", 
+        "number": "4502", 
+        "subject": "STA", 
+        "title": "Applied Nonparametric Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A statistics course above STA 1013 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

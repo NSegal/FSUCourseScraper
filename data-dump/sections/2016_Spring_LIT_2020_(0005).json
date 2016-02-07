@@ -1,0 +1,48 @@
+{
+    "_unique": "0005-LEC (4903)", 
+    "basic": {
+        "class_num": "4903", 
+        "course": "2020", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "LIT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Heather Bailey"
+            ], 
+            "location": "BEL 0048", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Heather Bailey"
+            ], 
+            "location": "BEL 0048", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Heather Bailey"
+            ], 
+            "location": "BEL 0048", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

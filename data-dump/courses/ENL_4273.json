@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores British poetry, fiction, and essays since 1900. Typically includes Hardy, Conrad, Joyce, Yeats, Lawrence, Woolf, Auden, and Lessing.", 
+        "number": "4273", 
+        "subject": "ENL", 
+        "title": "Modern British Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

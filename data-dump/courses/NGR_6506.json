@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare students to effectively coordinate mental health care of clients in primary care, DNP's must be knowledgeable about various treatment modalities; their availability, cost and effectiveness. This elective seminar explores treatment modalities that may be appropriate for clients who present in primary care settings, with mental health concerns.", 
+        "number": "6506", 
+        "subject": "NGR", 
+        "title": "Mental Health Care Coordination in Primary Care"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP-FNP Program.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

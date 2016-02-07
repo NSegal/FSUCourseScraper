@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as metabolism, physiological action, andinterrelationships of carbohydrates, proteins, and lipids.", 
+        "number": "5242", 
+        "subject": "HUN", 
+        "title": "Carbohydrates, Fats, and Proteins"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Biochemistry or HUN 3224.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

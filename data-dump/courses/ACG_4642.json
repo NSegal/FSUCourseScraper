@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers theory of auditing and development of audit programs; sampling; procedures of obtaining audit evidence; auditor responsibility under Securities and Exchange Commission requirements; and auditing computerized systems. Subsequent credit for ACG 5635 is not permitted.", 
+        "number": "4642", 
+        "subject": "ACG", 
+        "title": "Auditing Theory and Application II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 4632 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

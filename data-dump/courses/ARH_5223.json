@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the art and architecture in Late Antiquity, a time of transition from the Roman to the Medieval periods. Emphasis is on the processes of transmission, adoption, and adaptation of established iconographies and architectural forms from Jewish and pagan arts to serve the needs ofthe newly established Christian religion.", 
+        "number": "5223", 
+        "subject": "ARH", 
+        "title": "Late Antique and Early Christian Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

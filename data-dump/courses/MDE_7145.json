@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7145", 
+        "subject": "MDE", 
+        "title": "Hospital-Based Care of the Older Adult"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the theory and practice of staff training and development based on the designand use of experiential instructional interventions m eant to enhance individual, group, and organizational efforts.", 
+        "number": "5189", 
+        "subject": "ADE", 
+        "title": "Staff Training and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

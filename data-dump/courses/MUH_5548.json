@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the musics of the Caribbean Basin: from Cuba to Trinidad-Tobago; the coastal regions of northern Venezuela and Colombia; and the eastern coasts of Central America and Mexico.", 
+        "number": "5548", 
+        "subject": "MUH", 
+        "title": "Music in the Caribbean"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

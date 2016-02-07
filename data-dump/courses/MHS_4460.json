@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers training in basic helping skills for dealing with people in crisis situations, specifically telephone hotline training. May be repeated to a maximum of six semester hours.", 
+        "number": "4460", 
+        "subject": "MHS", 
+        "title": "Crisis Intervention Counseling: Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

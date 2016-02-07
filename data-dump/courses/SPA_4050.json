@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides supervised practice in therapeutic procedures with persons with various speech-language problems.", 
+        "number": "4050", 
+        "subject": "SPA", 
+        "title": "Clinical Observation and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPA 3201, SPA 4302, and SPA 4400.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

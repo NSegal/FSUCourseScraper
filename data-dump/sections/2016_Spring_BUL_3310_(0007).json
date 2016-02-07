@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-LEC (1081)", 
+    "basic": {
+        "class_num": "1081", 
+        "course": "3310", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "BUL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Chad Marzen"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the knowledge and skills to collaborate and team with professionals from a variety of disciplines in the schools and other community agencies, to include family members in the collaboration process, and to support families of children with disabilities throughout the life cycle.", 
+        "number": "5708", 
+        "subject": "EEX", 
+        "title": "Teaming with Families, Schools and the Community"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of opera production by way of its support areas: stage management, dramaturgy, production support of directors and designers. Emphasis and practical application with FSU Opera production running concurrently with the course. May be repeated to a maximum of four semester hours.", 
+        "number": "5605", 
+        "subject": "MUO", 
+        "title": "Opera Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Interview and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students increase their knowledge and understanding essential for effective therapeutic interventions in the psychological and behavioral disorders of children and develop special skills in selected intervention techniques and modalities in working with children in a variety of professional roles.", 
+        "number": "5655", 
+        "subject": "SOW", 
+        "title": "Social Work with Children and Adolescents"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

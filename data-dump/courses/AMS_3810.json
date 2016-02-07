@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses topics in American intellectual history. May be repeated to a maximum of six semester hours. May be repeated within the same semester.", 
+        "number": "3810", 
+        "subject": "AMS", 
+        "title": "The Life of the Mind in America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

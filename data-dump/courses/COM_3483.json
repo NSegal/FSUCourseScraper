@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a basic understanding of the law through the use of films about the law. Concepts include: natural law, coaching witnesses, rights of the accused, jury deliberations, perjury, legal ethics, congressional investigations, obligation of witnesses, right to counsel, etc. Topics such as race, class, gender, and ethnicity as pertaining to law are also explored.", 
+        "number": "3483", 
+        "subject": "COM", 
+        "title": "Reel Legal"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

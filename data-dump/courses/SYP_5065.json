@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the sociological literature on sexuality. Drawing from social psychological theories and life course perspective, the following questions are pursued: (1) How do sexual behaviors change across life stages?; (2) What influences and is influenced by sexuality in each life stage?; and (3) How does sexuality influence life trajectories? The course pays special attention to social inequality issues.", 
+        "number": "5065", 
+        "subject": "SYP", 
+        "title": "Sexuality Over the Life Course"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

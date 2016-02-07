@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps students explore managerial, strategic, and technical issues associated with developing and deploying Business Intelligence applications. For MIS majors only.", 
+        "number": "4117", 
+        "subject": "ISM", 
+        "title": "Business Intelligence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 4212.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

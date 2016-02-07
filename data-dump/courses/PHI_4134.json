@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intermediate course in modern symbolic logic, with special attention to the semantic evaluation of symbolized arguments. Topics include schemata and interpretation, models, satisfiability, normal forms, expressive completeness, proof procedures, metalogical laws, and soundness and completeness theorems.", 
+        "number": "4134", 
+        "subject": "PHI", 
+        "title": "Modern Logic I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHI 3130 or equivalent or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

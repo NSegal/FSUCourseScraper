@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows for special topics in Interdisciplinary Studies to be taught, focusing on Applied Methods and Theory, specific to the concept of Applied Studies and Science, Technology, Engineering and Mathematics.", 
+        "number": "5930", 
+        "subject": "ISC", 
+        "title": "Special Topics in Applied Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

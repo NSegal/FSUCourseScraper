@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the elastic and inelastic buckling of columns including large deformation theory and imperfect columns, beam column theory, and buckling of frames. Methods of analysis include the formation and solution to differential equations, energy methods, and matrix methods. AISC stability design techniques are used with LRFD format. Computer software is used as a teaching tool.", 
+        "number": "5218", 
+        "subject": "CES", 
+        "title": "Fundamentals of Structural Stability Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CES 4101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

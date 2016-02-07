@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar focuses on both historical and contemporary research pertaining to civic education. Students conduct research on civic education as it pertains to the teaching of history and the social sciences.", 
+        "number": "5675", 
+        "subject": "SSE", 
+        "title": "Seminar in Civic Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

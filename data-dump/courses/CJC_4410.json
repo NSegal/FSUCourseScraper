@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces theories and techniques that may be employed within the boundaries of probation, parole, or prison to influence and alter the attitudes, values, and behaviors of persons adjudicated guilty by the criminal justice system.", 
+        "number": "4410", 
+        "subject": "CJC", 
+        "title": "Theories and Methods of Offender Treatment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "CJC4410,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

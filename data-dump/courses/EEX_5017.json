@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on typical and atypical development in the early years (birth through 8 years). Particular attention is paid to factors influencing development and the impact of disabilities and biomedical risk factors on learning, development, and behavior. Recent research and its implication for evidence-based practices is a major component of the course.", 
+        "number": "5017", 
+        "subject": "EEX", 
+        "title": "Typical and Atypical Early Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

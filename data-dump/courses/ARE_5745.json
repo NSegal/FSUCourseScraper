@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of research in teaching, learning, and administration in the arts in formal and informal settings; survey of resources and published studies; proposal and grant writing and evaluation.", 
+        "number": "5745", 
+        "subject": "ARE", 
+        "title": "Research Survey"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

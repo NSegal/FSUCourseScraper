@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of catalytic and noncatalytic reactor design for homogeneous and heterogeneous systems. Includes non-ideal flow and mixing, including distribution functions and modeling.", 
+        "number": "5526", 
+        "subject": "ECH", 
+        "title": "Advanced Reactor Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 4504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0024-THE (6645)", 
+    "basic": {
+        "class_num": "6645", 
+        "course": "5971", 
+        "season": "Spring", 
+        "solus_id": "0024", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Kimberly Van Weelden"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

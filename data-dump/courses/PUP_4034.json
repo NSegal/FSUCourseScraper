@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is concerned with the accountability and performance of bureaucracies and their implications for democracy, examining the role of organizations and bureaucracies in public policy, focusing on factors such as decision-making activities, rationality, motivation, and conflict within and among organizations.", 
+        "number": "4034", 
+        "subject": "PUP", 
+        "title": "Organizations and Public Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PUP 3002.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

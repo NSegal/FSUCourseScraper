@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to address the field of new literacy studies and identifies how emerging understandings of literacy can support the development of literacy practices in academic settings. Students examine the attributes of mutiliterate learners and focus on how to develop those attributes through a variety of academic and popular culture texts.", 
+        "number": "5348", 
+        "subject": "LAE", 
+        "title": "Teaching Multiliteracies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

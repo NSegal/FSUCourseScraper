@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This directed individual study course in biomedical sciences offers a unique opportunity for undergraduate students to perform research in the biomedical science laboratories in the College of Medicine. Students perform special supervised study or research in the area of the faculty member's research. An oral presentation and a final report of the research in the format of a short scientific publication is required. May be repeated to a maximum of fifteen semester hours.", 
+        "number": "4901", 
+        "subject": "BMS", 
+        "title": "DIS in Biomedical Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required", 
+            "Medical Science": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission. Corequisite: Must have a combined GPA of 3.0 in biology, chemistry, and physics coursework.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

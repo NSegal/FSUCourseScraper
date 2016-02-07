@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as population genetics, quantitative genetics, and optimality approaches to the study of evolution. Emphasis is on basic theory and how this relates to empirical applications.", 
+        "number": "5675", 
+        "subject": "PCB", 
+        "title": "Advanced Evolutionary Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PCB 3063 or PCB 4674 or equivalent or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

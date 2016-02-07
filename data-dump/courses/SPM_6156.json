@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with information concerning current research literature and research methods appropriate for administration of physical education and athletics.", 
+        "number": "6156", 
+        "subject": "SPM", 
+        "title": "Seminar in Administration of Physical Education and Athletics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPM 5102.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-LAB (3682)", 
+    "basic": {
+        "class_num": "3682", 
+        "course": "3202C", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "EXP", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Jamie Quinn"
+            ], 
+            "location": "PDB C0141", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

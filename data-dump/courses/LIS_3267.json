@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents the history, philosophical bases, concepts, theories and methodologies of information science. It also emphasizes the definitions and properties of information, formal and informal information systems, information origination, transfer, classification, formatting and use.", 
+        "number": "3267", 
+        "subject": "LIS", 
+        "title": "Information Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

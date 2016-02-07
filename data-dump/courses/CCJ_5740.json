@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers at an intermediate level, data analysis problems in quasi-experimental designs and theory testing in criminology.", 
+        "number": "5740", 
+        "subject": "CCJ", 
+        "title": "Data Analysis in Criminology and Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

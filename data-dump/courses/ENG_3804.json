@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the relationship between image and word in different historical eras by examining various texts and media. Students read, respond to, and analyze a range of materials, which may include Medieval manuscripts and graphic novels. Finally, students produce an original composition involving the interplay of image and language.", 
+        "number": "3804", 
+        "subject": "ENG", 
+        "title": "History of Illustrated Texts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to test theory; mathematical bases for operational procedures; practical applications of theory.", 
+        "number": "5432", 
+        "subject": "EDF", 
+        "title": "Measurement Theory I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 4440 or EDF 5400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

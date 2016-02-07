@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes discussions, readings, lectures, and audiovisual materials on all the major drugs, including alcohol, opiates, stimulants, sedatives, hallucinogens, inhalants, and nicotine. We cover the etiology and epidemiology of drug abuse, physiological and behavioral consequences of drug abuse, treatment approaches, and major policies and programs. Special attention is directed toward drug use in special populations, such as women, racial and ethnic minorities, gays and lesbians, persons with disabilities, and the elderly. We also spend a considerable amount of time discussing social work with involuntary clients, since most persons receiving treatment for chemical dependency probably fall into this category. A systems perspective is used to relate drug-using behavior to family, community, and social systems.", 
+        "number": "5712", 
+        "subject": "SOW", 
+        "title": "Chemical Dependency Problems and Programs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses many topics, including, shoreline, shelf, and deep ocean processes; marine sediment types and sedimentary environments; plate tectonics; origin of the ocean; paleooceanography; marine mineral resources. The course includes research methods cruise for familiarization with marine geologic sampling and sensing devices. Credit may not be received for both GLY 5736 and OCG 5050.", 
+        "number": "5736", 
+        "subject": "GLY", 
+        "title": "Marine Geology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

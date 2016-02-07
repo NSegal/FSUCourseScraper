@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates the social, cultural, and political history of Great Britain from 1714 to approximately 1870. Major themes include the evolution of social structures; new cultural trends; changing political culture, ideologies and institutions as well as the relationship between these perspectives.", 
+        "number": "4520", 
+        "subject": "EUH", 
+        "title": "England, 1714-1870"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

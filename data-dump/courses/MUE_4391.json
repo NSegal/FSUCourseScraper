@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines techniques of teaching music to children in special education programs. Open to music and non-music majors.", 
+        "number": "4391", 
+        "subject": "MUE", 
+        "title": "Music in Special Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

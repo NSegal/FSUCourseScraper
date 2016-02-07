@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students opportunities to tour sport venues, meet international sport managers, attend events, and discuss current and future issues surrounding venue and event management in the international sport industry.", 
+        "number": "5021", 
+        "subject": "SPM", 
+        "title": "Global Sport Venues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

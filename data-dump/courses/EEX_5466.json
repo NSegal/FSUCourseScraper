@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines Universal Design for Learning (UDL) as a framework for addressing the educational needs of K-12 learners. Elements of UDL to be discussed include teaching content in multiple formats so that all students can access it, providing students with various ways to demonstrate their learning, and stimulating students' interests and motivation for learning in a variety of ways.", 
+        "number": "5466", 
+        "subject": "EEX", 
+        "title": "Universal Design for Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

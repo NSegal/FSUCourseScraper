@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers marching band experience open to all University students with prior marching band experience. May be repeated to a maximum of four semester hours.", 
+        "number": "4113", 
+        "subject": "MUN", 
+        "title": "Marching Chiefs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "0.00 - 1.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-LEC (6190)", 
+    "basic": {
+        "class_num": "6190", 
+        "course": "2460", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Open", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Samuel Winternheimer"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

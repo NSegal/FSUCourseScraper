@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers groups, permutation groups, subgroups, group homomorphisms, structure of groups, rings, ideals, ring homomorphisms, rings of quotients, polynomials, factorization, fields, field extensions.", 
+        "number": "4302", 
+        "subject": "MAS", 
+        "title": "Introduction to Abstract Algebra I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 3105 and prior experience with mathematical proofs (MGF 3301, MAD 2104 or other proving experience).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

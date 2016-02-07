@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of insurance theory and regulation with emphasis on recurring coverage litigation and interpretation of insurance\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 contracts.", 
+        "number": "6080", 
+        "subject": "LAW", 
+        "title": "Insurance Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

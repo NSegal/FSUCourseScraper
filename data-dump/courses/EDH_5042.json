@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the theories and research on student success and explores effective policies, programs, and practices that can be adopted to promote student success in higher education.", 
+        "number": "5042", 
+        "subject": "EDH", 
+        "title": "Student Success In College"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

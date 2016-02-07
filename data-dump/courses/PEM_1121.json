@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course students are introduced to basic stretching principles and techniques. The course also introduces students to several relaxation methods and provides them with practical experience in both areas.", 
+        "number": "1121", 
+        "subject": "PEM", 
+        "title": "Stretch and Relaxation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

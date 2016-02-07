@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Topics vary. May be repeated within the same term to a maximum of nine semester hours.", 
+        "number": "3931", 
+        "subject": "INR", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

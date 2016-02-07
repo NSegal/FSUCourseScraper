@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides work experience to apply and extend knowledge learned within the master's program.", 
+        "number": "5946", 
+        "subject": "COM", 
+        "title": "Communication Residency"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

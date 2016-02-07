@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches forensic techniques used by crime scene professionals to detect, document and preserve various impression and pattern evidence commonly encountered in violent crimes. Students become familiar with the forensic application and collection of evidence, as well as documentation protocols.", 
+        "number": "4135L", 
+        "subject": "CJE", 
+        "title": "Impression and Pattern Evidence Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CJE 4135.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

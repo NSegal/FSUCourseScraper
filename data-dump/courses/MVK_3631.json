@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "3631", 
+        "subject": "MVK", 
+        "title": "Piano Pedagogy I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

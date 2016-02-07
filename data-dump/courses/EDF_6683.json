@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the theories, current research, and research methods associated with the multiple influences families have on students' educational achievement, with particular attention to issues of development and diversity.", 
+        "number": "6683", 
+        "subject": "EDF", 
+        "title": "Family Support for Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of advanced radio work in either of two areas: management or other supervisory roles at the student radio station; or special individual projects in the application, study, or research of audio pertaining to radio broadcasting. May be repeated to a maximum of six semester hours.", 
+        "number": "3941", 
+        "subject": "RTV", 
+        "title": "Radio Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

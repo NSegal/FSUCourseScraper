@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides instruction in clinical epidemiology, biostatistics, preventive medicine and strategies for analyzing and improving public health. The critical appraisal of the medical literature is emphasized.", 
+        "number": "6823", 
+        "subject": "BMS", 
+        "title": "Health Issues in Medicine"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

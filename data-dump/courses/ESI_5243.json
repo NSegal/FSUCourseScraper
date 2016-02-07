@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of experimental and observational data from engineering systems. Course focuses on empirical model building using observational data for characterization, estimation, inference and prediction.", 
+        "number": "5243", 
+        "subject": "ESI", 
+        "title": "Engineering Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGN 3443 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

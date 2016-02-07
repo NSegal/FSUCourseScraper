@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an analysis of both the traditional and contemporary issues and problems existing in the law enforcement community. Topics represent a wide variety of concerns, including such areas as corruption, police use of deadly force, and the utilization of law enforcement to combat corporate crime, computer crime, and terrorism.", 
+        "number": "4114", 
+        "subject": "CJE", 
+        "title": "Police Problems and Practices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

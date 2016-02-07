@@ -1,0 +1,46 @@
+{
+    "_unique": "0003-LEC (566)", 
+    "basic": {
+        "class_num": "566", 
+        "course": "2010", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "BSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Steven Marks"
+            ], 
+            "location": "MOR M0104", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Steven Marks"
+            ], 
+            "location": "MOR M0104", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "19:30:00", 
+            "instructors": [], 
+            "location": "KIN 1024", 
+            "start_time": "18:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

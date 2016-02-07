@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a basic introduction to appraising personal property. It covers all aspects of proper appraisal procedure and methodology for fine art: painting, drawing, sculpture, prints, ceramics, sliver, glass, jewelry, books, etc. The course follows the proper requirements of USPAP and the IRS.", 
+        "number": "5885", 
+        "subject": "ARH", 
+        "title": "Introduction to Appraising Personal Property"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

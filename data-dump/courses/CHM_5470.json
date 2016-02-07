@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers symmetry and group theory, operators and wave-mechanics; atomic orbitals; diatomic molecule electronic structure and spectra; spectral properties of polyatomic molecules.", 
+        "number": "5470", 
+        "subject": "CHM", 
+        "title": "Valence Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

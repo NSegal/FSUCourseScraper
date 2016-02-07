@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses research-based literacy strategies and content essential for differentiating reading instruction across content areas, using assessments to inform instruction, and implementing tiers of intervention.", 
+        "number": "4316", 
+        "subject": "EDE", 
+        "title": "Differentiating Reading and Content Area Literacy Instruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 4314, RED 4310 and TSL 4080. Corequisite: RED 4510.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

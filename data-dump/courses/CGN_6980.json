@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a means of registering for dissertation and recording progress towards completion. A dissertation representing twenty-four semester hours of academic work is a requirement for the PhD degree in civil engineering. May be repeated as often as approved by the supervisory committee. A maximum of twenty-four semester hours may be applied towards the PhD degree.", 
+        "number": "6980", 
+        "subject": "CGN", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to doctoral candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 24.00"
+    }
+}

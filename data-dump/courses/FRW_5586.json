@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the prose other than Rabelais and Montaigne alternates with an examination of the theater and poetry of the period. If interest warrants, a single author such as Marguerite de Navarre may be treated in depth. May be repeated to a maximum of six semester hours.", 
+        "number": "5586", 
+        "subject": "FRW", 
+        "title": "Studies in 16th-Century Literature: Figure or Movement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

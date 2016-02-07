@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the contemporary philosophical debates about sex and sexual relationships. Topics include, but are not limited to how to define sex, the distinction between \"normal\" and \"abnormal\" sex, sexual exploitation and objectification, sexual consent, the relationship between sex and the meaning of life, and the nature of romantic love.", 
+        "number": "3020", 
+        "subject": "PHM", 
+        "title": "Philosophy of Sex"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

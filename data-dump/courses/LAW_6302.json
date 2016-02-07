@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the federal court system; examination of original and removal jurisdiction of United States District Courts; relationships between state and federal courts at all levels.", 
+        "number": "6302", 
+        "subject": "LAW", 
+        "title": "Federal Jurisdiction"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5300, LAW 5501, and LAW 5502.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

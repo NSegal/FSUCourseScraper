@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines topological spaces, metric spaces, connectedness, compactness, separation properties, topology of the plane, and product spaces.", 
+        "number": "4302", 
+        "subject": "MTG", 
+        "title": "Elementary Topology I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313 and prior experience with mathematical proofs (MGF 3301, MAD 2104 or other proving experience).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for upper-division students with a grade point average of 3.2 in all courses. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4909", 
+        "subject": "CCJ", 
+        "title": "Honors in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

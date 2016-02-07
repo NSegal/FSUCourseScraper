@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course builds on the Criminal Investigations: Theory and Practice course to provide students the practice in applying investigative procedures within legal constraints; the use of specialized documentation and analyses required in the investigation of injury and death, crimes against persons and property; and the combination of evidence from crime scenes, medical-legal examinations, records, and interviews to produce legal proof and articulate its reliability.", 
+        "number": "4615", 
+        "subject": "CJE", 
+        "title": "Conduct of Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 4611.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

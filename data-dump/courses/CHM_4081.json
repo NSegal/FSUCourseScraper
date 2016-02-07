@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the organic geochemistry of natural waters and sediments. It offers an overview of the sources of organic matter in aquatic systems, the important reactions and transport mechanisms that control the biochemical cycling of organic carbon in these systems, and the impact of naturally-occurring organic carbon on environmental and ecological processes. Attention is also devoted to anthropogenic (xenobiotic) organic molecules. It also discusses how analytical techniques such as 13C NMR, mass spectroscopy, and capillary electrophoresis provide useful organic biogeochemical information.", 
+        "number": "4081", 
+        "subject": "CHM", 
+        "title": "Environmental Chemistry II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 2211 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

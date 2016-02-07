@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on reciprocal relationships between human behavior and social environments. Content includes system theory, an ecological perspective, and life course theories that focus on human development at the individual and family level, including interactions between and among systems of all sizes, including groups, societies, and economic systems.", 
+        "number": "4104", 
+        "subject": "SOW", 
+        "title": "Human Behavior in the Social Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SOW 4620.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

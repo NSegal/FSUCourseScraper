@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with teaching and performance techniques for string instruments.", 
+        "number": "3443", 
+        "subject": "MUE", 
+        "title": "Introduction to Teaching String Instruments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the professional sequence or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

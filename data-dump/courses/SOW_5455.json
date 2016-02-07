@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "While funding agencies have their own guidelines, there are some commonalities among grant proposals. This course covers the basics of proposals: purpose statements, background and justification, aims or objectives, personnel, time line, methods, budget, evaluation, and how to effectively manage grants once they are funded. Particularly in the public and not-for-profit sectors, grants may be necessary to expand the type or number of resources available to clients; therefore, grant writing is related to social work objectives that stress access to and availability of resources. The needs of disenfranchised groups or communities are discussed in this course, along with the particulars of proposals that may be most effective in meeting such needs.", 
+        "number": "5455", 
+        "subject": "SOW", 
+        "title": "Grant Writing and Grant Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

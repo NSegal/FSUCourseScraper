@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes topics such as fundamental leadership concepts and doctrine, basic skills underlying effective problem solving, and the officer experience.", 
+        "number": "1002", 
+        "subject": "MSL", 
+        "title": "Basic Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MSL 2101L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

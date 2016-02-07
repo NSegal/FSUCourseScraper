@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to educational administration and organizational practice for graduate students interested in education and policy. The course is composed of a social-systems model of which critical elements such as structure, motivation, culture and politics are covered. Opportunities and constraints for schools are explored along with key administrative processes and contemporary research on the effectiveness of schools.", 
+        "number": "6061", 
+        "subject": "EDA", 
+        "title": "Educational Administration and Organizational Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

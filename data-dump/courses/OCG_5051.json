@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the structural and oceanographic setting of continents and ocean basins, plate techtonics, ocean margins, marine sediments, and ocean history.", 
+        "number": "5051", 
+        "subject": "OCG", 
+        "title": "Basic Geological Oceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

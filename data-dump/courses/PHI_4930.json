@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines selected philosophical problems from an advanced point of view. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "PHI", 
+        "title": "Philosophical Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

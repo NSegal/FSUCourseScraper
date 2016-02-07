@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course presents the challenge of changing the global energy system so it addresses reducing dependence on finite fossil energy sources and moving to environmentally sustainable energy sources. The emphasis is on greenhouse gas emissions-free energy production strategies, including renewable energy sources such as solar, wind, and biomass. Topics include photovoltaic cells, fuel cells, and thermoelectric systems.", 
+        "number": "4450", 
+        "subject": "EML", 
+        "title": "Energy Conversion Systems for Sustainability"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3016C and senior standing in engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics such as signal analysis, Fourier series/Fourier transform, sampling theorem, distortions and attenuation in signal transmission, and analog modulation AM, FM, pulse-code modulation, and pulse shaping.", 
+        "number": "3512", 
+        "subject": "EEL", 
+        "title": "Introduction to Communications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3112, EEL 3135, and MAP 3305 or MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

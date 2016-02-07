@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required in satisfaction of the Florida Bar requirement for curricular study of the aspirational and disciplinary regulations of the integrated bar. Critical attention is given to the exclusionary and anticompetitive practices of the organized Bar, and to controversy over the deficiencies of various codes and formal (and informal) advisory opinions on professional behavior. The course is intended to furnish some insight into the customs and courtesies, sociology, and expectations of lawyers performing their various tasks in a variety of environments.", 
+        "number": "7750", 
+        "subject": "LAW", 
+        "title": "Professional Responsibility"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

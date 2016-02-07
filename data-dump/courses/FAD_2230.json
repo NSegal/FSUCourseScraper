@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the dynamics of contemporary family life and interpersonal relationships in a changing society and over the life course.", 
+        "number": "2230", 
+        "subject": "FAD", 
+        "title": "Family Relationships: A Life Span Development Approach"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

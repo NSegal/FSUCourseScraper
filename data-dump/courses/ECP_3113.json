@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines determinants and consequences of world population growth and changes, components of population growth in more- and less-developed countries, population and food supply, nonrenewable resource interrelationships.", 
+        "number": "3113", 
+        "subject": "ECP", 
+        "title": "Economics of Population"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

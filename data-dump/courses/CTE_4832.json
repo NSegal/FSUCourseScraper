@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a discussion of issues resulting from the interaction between merchandising and small business. Family businesses and other types of ownership are discussed. Guest speakers include family business owners, bankers, accountants, lawyers and government officials who deal with small and family businesses.", 
+        "number": "4832", 
+        "subject": "CTE", 
+        "title": "Merchandising of Small Business Enterprises"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

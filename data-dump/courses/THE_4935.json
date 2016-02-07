@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth examination of various topics not covered in the regular course offerings. The course is for seniors and juniors who have completed at least fifty percent of their major requirements. May be repeated to a maximum of fifteen semester hours.", 
+        "number": "4935", 
+        "subject": "THE", 
+        "title": "Selected Subjects in Theatre Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers practical hands-on experience with forms and practices of technical and professional writing, including documentation, correspondence, audience analysis, writing for social media, evaluation, and review. The course emphasizes clear, concise, and effective writing in information technology settings, both within organizations and for user services.", 
+        "number": "4022", 
+        "subject": "LIS", 
+        "title": "Writing for the Information Professions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

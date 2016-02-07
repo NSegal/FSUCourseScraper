@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the components and relationships that make up effective classroom instruction. Working on the assumption that effective classroom instruction is a necessary foundation for student achievement, school leaders need to know how to coach and monitor teachers use of effective instructional practices.", 
+        "number": "5507", 
+        "subject": "EDA", 
+        "title": "Planning Effective Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

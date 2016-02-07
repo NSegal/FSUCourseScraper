@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers special topics.", 
+        "number": "5933", 
+        "subject": "MAT", 
+        "title": "Special Topics in Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

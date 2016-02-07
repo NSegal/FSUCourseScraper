@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of six semester hours.", 
+        "number": "4931", 
+        "subject": "ART", 
+        "title": "Instruction in Advanced Technical Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

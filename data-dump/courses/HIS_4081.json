@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history and philosophy of museums, especially historical museums; organization and operation; planning exhibits; educational activities; and public relations. The course does not count as credit toward the history major.", 
+        "number": "4081", 
+        "subject": "HIS", 
+        "title": "Museum Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

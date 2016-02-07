@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course applies the reading process to the secondary school curriculum. Diagnostic procedures and instructional strategies useful in developing school reading programs.", 
+        "number": "5337", 
+        "subject": "RED", 
+        "title": "Literacy Across the Content Areas"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

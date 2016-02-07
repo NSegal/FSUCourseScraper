@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course acquaints the student with the fundamental theories from behavioral sciences as applied to the consumer decision making process.", 
+        "number": "3503", 
+        "subject": "MAR", 
+        "title": "Consumer Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

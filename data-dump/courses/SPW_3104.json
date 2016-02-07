@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students, through a variety of readings and written and oral activities, with a fundamental knowledge of the critical issues related to modern Spain from 1700 to the present.", 
+        "number": "3104", 
+        "subject": "SPW", 
+        "title": "Readings from Modern Spain"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPW 330 and SPN 3400; or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

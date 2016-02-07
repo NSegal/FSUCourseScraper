@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces concepts, strategies, and methods associated with secondary analysis of data and how that data relates to social work research. Both classroom and lab components of the course focus on acquisition, manipulation, and maintenance of public-use data and longitudinal analysis.Students demonstrate competence in problem conceptualization by defining a problem/research question in their social science research area, and by identifying and obtaining an appropriate public-use dataset to answer their proposed question. Students develop and demonstrate an understanding of issues in secondary analysis, as well.", 
+        "number": "6466", 
+        "subject": "SOW", 
+        "title": "Social Work Research Using Secondary Data"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

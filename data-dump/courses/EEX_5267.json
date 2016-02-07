@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the purpose and rationale for differentiated instruction in middle and high school mathematics classes. Classroom strategies for differentiating mathematics and ways to relate initial assessments (diagnostic) and assessment for learning (formative) to these strategies are examined.", 
+        "number": "5267", 
+        "subject": "EEX", 
+        "title": "Differentiating Mathematics Instruction in Middle and High School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

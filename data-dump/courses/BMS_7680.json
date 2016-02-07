@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7680", 
+        "subject": "BMS", 
+        "title": "Medical Externship in Pathology-Anatomic and Clinical"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 9.00"
+    }
+}

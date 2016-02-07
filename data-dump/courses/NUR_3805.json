@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for the returning registered nurse student. Current and\nemerging concerns of professional nursing are addressed within the context of nursing history, nursing practice, impact of global trends, and the influence of political and socioeconomic policies on nursing and health care. The roles of the baccalaureate nurse are examined in relation to individual, family, and community outcomes with emphasis on client advocacy, teaching, autonomy, accountability, change agent, research, critical thinking, and leadership. The legal and ethical framework for professional nursing and cultural diversity also are explored. Selected nursing practice models and health belief models are considered for applicability to nursing practice.", 
+        "number": "3805", 
+        "subject": "NUR", 
+        "title": "Nursing: Role and Scope"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to RN or BSN Program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

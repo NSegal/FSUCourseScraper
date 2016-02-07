@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-TDF (9079)", 
+    "basic": {
+        "class_num": "9079", 
+        "course": "8976", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "TDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lisa Eckel"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

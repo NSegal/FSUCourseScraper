@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses chronic disease rick factors, conditions, and diseases and public health approaches within the context of epidemiology. Students learn concepts and methodology in describing chronic diseases and their methods for control.", 
+        "number": "5003", 
+        "subject": "PHC", 
+        "title": "Chronic Disease Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

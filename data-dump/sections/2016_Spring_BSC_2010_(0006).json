@@ -1,0 +1,37 @@
+{
+    "_unique": "0006-LEC (13846)", 
+    "basic": {
+        "class_num": "13846", 
+        "course": "2010", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:45:00", 
+            "instructors": [
+                "Mirella Martinez"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:45:00", 
+            "instructors": [
+                "Mirella Martinez"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a skills-development course that covers the process of designing and building mechanical effects for the stage. Areas to be studied include basic physics, hydraulics and pneumatics, electro-mechanics, and control systems, as well as a systematic approach to machinery design. This study leads to the public presentation of a fully realized, practical final project.", 
+        "number": "5015", 
+        "subject": "TPA", 
+        "title": "Stage Machinery Design and Construction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

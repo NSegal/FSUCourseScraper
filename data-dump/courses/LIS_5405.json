@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the leadership concepts necessary to build successful information technology infrastructures in a variety of contexts. Through the course, students develop an understanding of IT leadership careers, the roles and responsibilities of IT leaders, evidence-based methods for developing leadership strategies, and how to lead innovative and entrepreneurial technology development in fast-paced environments. The course challenges students to engage in active planning of their careers through the development of leadership vision statements and personal action plans.", 
+        "number": "5405", 
+        "subject": "LIS", 
+        "title": "Leadership in Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

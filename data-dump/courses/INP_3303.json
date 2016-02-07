@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as vocational selection, psychological principles of supervision and leadership, emotional problems of employees,\u00a0 selling, and advertising.", 
+        "number": "3303", 
+        "subject": "INP", 
+        "title": "Business Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

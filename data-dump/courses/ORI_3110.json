@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes analysis of and practical experience in the performance of poetry and prose.", 
+        "number": "3110", 
+        "subject": "ORI", 
+        "title": "Performance of Contemporary Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

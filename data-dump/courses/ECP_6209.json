@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the theoretical and empirical research literature related to labor policy. In particular, students examine theoretical and empirical issues related to the wage and employment effects.", 
+        "number": "6209", 
+        "subject": "ECP", 
+        "title": "Labor Policy and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a mandatory class for all PhD seeking students.", 
+        "number": "6980", 
+        "subject": "EIN", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to doctoral candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 24.00"
+    }
+}

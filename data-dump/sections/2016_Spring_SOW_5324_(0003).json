@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (10315)", 
+    "basic": {
+        "class_num": "10315", 
+        "course": "5324", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "SOW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Francine Gomory"
+            ], 
+            "location": "UCC C1705", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

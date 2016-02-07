@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers conformational statistics of random coil polymer chains; ordered polymer structures and order-disorder transitions; thermodynamics of polymer solutions; structure-property relationships of polymers. Cross-listed under biochemistry.", 
+        "number": "5506", 
+        "subject": "CHM", 
+        "title": "Physical Chemistry of Macromolecules I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

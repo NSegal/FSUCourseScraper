@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores basic statistical analysis, samples and populations, variability, hypothesis formulation, and data analysis. Use of computer software and interpretation of results.", 
+        "number": "3443", 
+        "subject": "EGN", 
+        "title": "Statistical Topics in Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

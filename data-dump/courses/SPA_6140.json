@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines phonetics experimentation through review of relevant journal articles and participation in speech recording, measurements, and analysis. The focus is on one of the three phonetic areas: physiologic, acoustic or perceptual. May be repeated to a maximum of nine semester hours.", 
+        "number": "6140", 
+        "subject": "SPA", 
+        "title": "Seminar in Experimental Phonetics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

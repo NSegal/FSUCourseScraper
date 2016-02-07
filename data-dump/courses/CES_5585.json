@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers statics and dynamics of wind-induced loads and structural responses. Topics include wind damage, extreme wind probability, wind characteristics, wind pressure and forces, basics of single DOF structural dynamics, and overview of wind dynamics. State-of-the-art research in wind engineering is also introduced.", 
+        "number": "5585", 
+        "subject": "CES", 
+        "title": "Wind Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

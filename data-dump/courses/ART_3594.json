@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores one very broad class of materials that includes but is not limited to acrylic, watercolor, gouache, and flash as well as a range of alternative substrates and tools, both digital and found. May be repeated to a maximum of six semester hours.", 
+        "number": "3594", 
+        "subject": "ART", 
+        "title": "Contemporary Media Approaches"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 2500C and ART 3522.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

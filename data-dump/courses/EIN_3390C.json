@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to industrial materials and their composition, properties, metallography, and heat treatment. Introduction to the manufacturing processes of machine industries including hot working, cold working, and metal removal.", 
+        "number": "3390C", 
+        "subject": "EIN", 
+        "title": "Engineering Materials and Manufacturing Processes I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 1045. Corequisite: EGN 2123.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes lectures and computer labs for understanding various uncertainty sources in computational science. Methods are taught for quantifying the uncertainties and their propagation through mathematical and computational modeling. Students learn how to communicate the uncertainty quantification to colleagues and decision-makers. They also discuss how to reduce predictive uncertainty to improve scientific understanding of complex systems.", 
+        "number": "5237", 
+        "subject": "ISC", 
+        "title": "Uncertainty Analysis in Computation Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 3222 or ISC 5226 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

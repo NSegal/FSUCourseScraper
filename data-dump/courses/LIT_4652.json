@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores English translations of various genres of literature written in the Middle East and offers a Middle Eastern perspective of the religious, cultural, economic, territorial, and geopolitical conflicts of the region. The course covers the use of theoretical languages and concepts from a broad spectrum of literary fields such as postcolonialism, religious studies, feminism, globalization studies, and area studies.", 
+        "number": "4652", 
+        "subject": "LIT", 
+        "title": "Middle Eastern Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

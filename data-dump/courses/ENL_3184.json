@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the history of the British drama and its current representation on the London stage. Students read and attend performances of plays from the major periods of British literary and dramatic history, from the Renaissance to the modern period.", 
+        "number": "3184", 
+        "subject": "ENL", 
+        "title": "British Drama: History, Text, and Criticism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

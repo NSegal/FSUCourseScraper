@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers understanding and utilizing multimedia information systems in career development. Basic understanding of career development in the life cycle.", 
+        "number": "5310", 
+        "subject": "MHS", 
+        "title": "Counseling Technology and Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

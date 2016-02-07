@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the biological specializations of crustaceans, mollusks, and echinoderms, including life history, behavior, ecology, biomechanics, and environmental adaptations.", 
+        "number": "4204C", 
+        "subject": "ZOO", 
+        "title": "Biology of Higher Marine Invertebrates"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L; and BSC 3312, PCB 3043, ZOO 3205 or ZOO 3205L.", 
+        "grading_basis": "Graded", 
+        "units": "5.00"
+    }
+}

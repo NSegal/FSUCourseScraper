@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is built around a systematic reading of Foucault's provocative historical and philosophical reflections on the \"all-too human\" history of the human and social sciences. Readings include recently-published lectures from Michael Foucault's tenure at the College de France, as well as texts that have become classics, such as Order of Things and Discipline and Punish.", 
+        "number": "5345", 
+        "subject": "HPS", 
+        "title": "Power, Knowledge and Control: Foucault and the History of the Human\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

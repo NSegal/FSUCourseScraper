@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course encourages students to critically examine the cultural politics and pedagogies of the active, sporting body. It offers a theoretical and empirical survey of body cultures and their related movements, politics, types of modification, and moral panic surrounding issues of in/activity.", 
+        "number": "5055", 
+        "subject": "SPM", 
+        "title": "Sport, Culture, and the Body"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

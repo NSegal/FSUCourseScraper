@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (3111)", 
+    "basic": {
+        "class_num": "3111", 
+        "course": "4936", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EIN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "Michael Devine"
+            ], 
+            "location": "CE2 B0136", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

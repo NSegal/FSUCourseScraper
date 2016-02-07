@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the study and evaluation of the built environment, with particular reference to those aspects of the development process that result in \"better\" physical forms. Students should gain an appreciation for the architectural and design elements of land use development, be in a position to evaluate alternative site designs for impacts on use and functioning, and relate the design and uses of land to planning and growth control mechanisms in a critical way.", 
+        "number": "5873", 
+        "subject": "URP", 
+        "title": "Site Design and Land-Use Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5272.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

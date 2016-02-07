@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers a brief introduction to computers, C++ basics, procedural abstraction and functions, an introduction to the object-oriented paradigm, namespaces, arrays, strings and vectors, pointers, and recursion. Emphasis is on program problem-solving. May not be applied toward a computer science major.", 
+        "number": "3406", 
+        "subject": "CGS", 
+        "title": "Object-Oriented Programming in C++"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

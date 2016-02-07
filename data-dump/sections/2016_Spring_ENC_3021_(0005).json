@@ -1,0 +1,37 @@
+{
+    "_unique": "0005-DSC (3394)", 
+    "basic": {
+        "class_num": "3394", 
+        "course": "3021", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "ENC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Bruce Bowles"
+            ], 
+            "location": "BEL 0002", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Bruce Bowles"
+            ], 
+            "location": "BEL 0002", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

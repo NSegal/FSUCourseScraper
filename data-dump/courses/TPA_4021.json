@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an overview of the lighting design process for a variety of spaces from concept to finished product. Emphasis is on script analysis. Content includes instruction in the creation and use of paperwork, as well as practical aspects of lighting for both proscenium and non-proscenium venues.", 
+        "number": "4021", 
+        "subject": "TPA", 
+        "title": "Lighting Design II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 3208 and TPA 4020.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

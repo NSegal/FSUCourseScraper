@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines e-business models. Topics include the application of business strategy, consumer behavior, and customer relationship theories in e-business environments; business-to-business and business-to-consumer arrangements; and supply chain and other e-business infrastructure issues.", 
+        "number": "5507", 
+        "subject": "ISM", 
+        "title": "E-Business"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

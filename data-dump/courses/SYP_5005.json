@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the three major sociological perspectives on social interaction--symbolic interactionism, dramaturgy, and ethnomethodology--focusing on how these approaches address epistemology, time, interaction rules , intersubjectivity, identity, emotions, language, social organization, micropolitics, inequality reproduction, and politics and social change.", 
+        "number": "5005", 
+        "subject": "SYP", 
+        "title": "Social Interaction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

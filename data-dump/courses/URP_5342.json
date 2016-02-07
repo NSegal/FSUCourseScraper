@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves team study of specialized planning problems. The course also requires students to select problems to which the planning process can be applied and which require the use of methods and techniques learned in the core program and in a student's specialization. The course, along with the thesis (URP 5971r) or research paper (URP 5910) options, serves as the terminal requirement of the program.", 
+        "number": "5342", 
+        "subject": "URP", 
+        "title": "Advanced Planning Problems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisites: URP 5222, URP 5261, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the set of organizations variously referred to as the independent, non-profit, voluntary, charitable, or the non-governmental sector, and combines them with the skills, knowledge, and abilities that are involved in managing them.", 
+        "number": "5142", 
+        "subject": "PAD", 
+        "title": "Managing the Non-Profit Organization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares prospective teachers for activities related to assessing students including establishing validity evidence, enhancing generalization of observations, using traditional and alternative assessment strategies, interpreting and using data to improve achievement, and utilizing assessment in the process of learning.", 
+        "number": "5431", 
+        "subject": "EDF", 
+        "title": "Classroom Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

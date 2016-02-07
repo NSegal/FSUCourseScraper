@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course endeavors to provide competency in conducting original research that adds to sociological knowledge.", 
+        "number": "6980", 
+        "subject": "SYA", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to Doctoral Candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

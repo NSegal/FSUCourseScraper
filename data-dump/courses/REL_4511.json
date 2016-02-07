@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies Christian thought, institutions, lifestyles, and literature in their social, cultural, and historical contexts from the time of Jesus to the early Middle Ages.", 
+        "number": "4511", 
+        "subject": "REL", 
+        "title": "Christianity in Late Antiquity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

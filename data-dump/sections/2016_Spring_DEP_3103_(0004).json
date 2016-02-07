@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (13295)", 
+    "basic": {
+        "class_num": "13295", 
+        "course": "3103", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "DEP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Emily Dickens"
+            ], 
+            "location": "HOL B0202", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

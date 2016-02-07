@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves a workshop production of a major dramatic work together with extensive study of the social, literary, and cultural contexts. The course also includes dramaturgical research and written assignments. May be repeated to a maximum of six semester hours.", 
+        "number": "4923", 
+        "subject": "THE", 
+        "title": "Theatre Encounters Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

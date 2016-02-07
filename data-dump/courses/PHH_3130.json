@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on Ancient Greek philosophy from its beginnings to the work of one of its greatest practitioners. Questions posed include: What is there? What can I know about it? What should I do?", 
+        "number": "3130", 
+        "subject": "PHH", 
+        "title": "Plato and His Predecessors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to measure the knowledge base and clinical competency of the nurse anesthesia student.", 
+        "number": "6496", 
+        "subject": "NGR", 
+        "title": "Nurse Anesthesia Practice Comprehensive III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Successful standing in the nurse anesthesia program at the end of semester six.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

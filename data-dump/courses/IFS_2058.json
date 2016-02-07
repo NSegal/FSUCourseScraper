@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar course is structured as a lecture and discussion of current topics in medicine. The course is interactive in which students are expected to prepare for and participate actively with guests, faculty, and fellow students.", 
+        "number": "2058", 
+        "subject": "IFS", 
+        "title": "An Apple a Day: Natural Science Honors Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

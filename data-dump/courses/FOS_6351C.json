@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an experimental approach to food and nutrition research may involve the study of foods, humans, or animal models and a variety of specialized instruments.", 
+        "number": "6351C", 
+        "subject": "FOS", 
+        "title": "Physical and Chemical Techniques in Food and Nutrition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

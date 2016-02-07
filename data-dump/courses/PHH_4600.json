@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the main recent philosophical movements through selected central representatives. Those considered may include Frege and his background, Russell and Moore, early Wittgenstein, logical positivists and their successors, Husserl and his phenomenology, Heidegger, Sartre, later Wittgenstein and his successors. May be repeated with instructor permission to a maximum of nine semester hours.", 
+        "number": "4600", 
+        "subject": "PHH", 
+        "title": "Contemporary Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

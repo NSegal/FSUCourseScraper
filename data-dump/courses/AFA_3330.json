@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the social, economic, and cultural forces that have shaped the development of African-American families. In examining historical and contemporary transitions in the structure and functioning of African-American families, special emphasis is given to the bifurcation in the distribution of wealth and power in American society, as well as the role of racial stratification. The course also seeks to empirically examine contemporary policy and political debates on crucial issues confronting African-American families.", 
+        "number": "3330", 
+        "subject": "AFA", 
+        "title": "Black Families in America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

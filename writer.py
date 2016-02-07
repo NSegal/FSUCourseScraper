@@ -40,7 +40,9 @@ def write_course(course):
 
     filename = '{subject}_{number}.json'.format(**merged_course)
 
+    print('hi')
     write_json_file(course, filename, 'courses')
+
 
 
 def write_subject(subject):

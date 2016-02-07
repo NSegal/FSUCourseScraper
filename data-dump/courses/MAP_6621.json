@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a quantitative treatment of core problems in the investment industry.\u00a0 Topics include techniques and analysis of active portfolio management including risk factor models and mean-variance optimization, the Martingale approach to derivative pricing for both discrete and continuous models, applied stochastic calculus, and stochastic interest rate models.", 
+        "number": "6621", 
+        "subject": "MAP", 
+        "title": "Financial Engineering I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIN 5515, MAP 5601, and MAP 5611. Recommended prerequisite: STA 5807.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

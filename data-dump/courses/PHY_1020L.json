@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to accompany the PHY 1020 lecture course. Although the lab material generally follows the lecture, some topics may be treated earlier or later in the lab syllabus.", 
+        "number": "1020L", 
+        "subject": "PHY", 
+        "title": "Physics and Technology for Future Presidents Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: PHY 1020.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

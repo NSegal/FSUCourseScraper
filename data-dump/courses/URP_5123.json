@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to effectively build censuses and to resolve conflicts involving building permits, locally unwanted land uses, environmental regulations, community visions, projects, programs, allocation of public funds and services, intergovernmental battles, and controversial agency rules. The course also explores constructive alternatives to unilateral or adversarial methods of decision-making that often drain public and private resources unnecessarily, damage important relationships, and either result in less than ideal solutions or fail to resolve the disputes at all.", 
+        "number": "5123", 
+        "subject": "URP", 
+        "title": "Collaborative Goverance: Consensus Building for Planners"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

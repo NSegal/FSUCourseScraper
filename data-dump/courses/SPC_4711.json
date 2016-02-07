@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to help students gain knowledge of the theory and process of gender communication (about and between genders) from an interpersonal context perspective.", 
+        "number": "4711", 
+        "subject": "SPC", 
+        "title": "Gender and Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This is a course about adaptation, medievalism, and the Middle Ages. Students examine a body of medieval texts in their literary and cultural contexts, analyzing their reception and re-interpretation through the contemporary medium of film. Students also learn about the theory and practice of film adaptation in general, and the transformation of medieval texts to film in particular.", 
+        "number": "3123", 
+        "subject": "IFS", 
+        "title": "The Reel Middle Ages: Medieval Literature and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

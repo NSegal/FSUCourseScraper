@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an overview of the food and beverage industry with regard to history, production theories, and types of food and beverage retail outlets. Concentration on layout of a variety of production kitchens, storage (refrigeration, dry, frozen, and chemical), workflow, and basic production techniques is integral to the course. Lab time depends on the topic and activity planned for the week.", 
+        "number": "3806", 
+        "subject": "HFT", 
+        "title": "Introduction to Food and Beverage Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "HFT1000,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

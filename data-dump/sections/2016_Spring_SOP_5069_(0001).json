@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (11397)", 
+    "basic": {
+        "class_num": "11397", 
+        "course": "5069", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SOP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:15:00", 
+            "instructors": [
+                "Elizabeth Plant"
+            ], 
+            "location": "PDB A0206", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

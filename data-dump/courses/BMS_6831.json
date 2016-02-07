@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a component of a three-year longitudinal curriculum aimed to provide the basic knowledge and skills needed to evaluate patients, while, at the same time, emphasizing the importance and integration of behavioral medicine, ethics, information technology, professionalism, clinical reasoning, and systematic physiology.", 
+        "number": "6831", 
+        "subject": "BMS", 
+        "title": "Doctoring 201"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "7.00"
+    }
+}

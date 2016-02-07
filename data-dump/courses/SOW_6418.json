@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course represents the Statistics II requirement for the Social Work Doctoral curriculum. The course is an extension of Statistics I and is designed to help students progress from knowledge and application of univariate, bivariate, and introductory multivariate analyses to more complex multivariate techniques commonly used in the social sciences to assess relationships among data derived from a variety of research designs. Specifically, this course builds on students' knowledge of multiple regression and ANOVA from Statistics I to address more advanced topics such as mediation and moderation in multiple regression, logistic regression, and the multivariate ANOVA-based family of analyses including factorial ANOVA, ANCOVA, MANOVA, and repeated measures ANOVA. Students learn how to use SPSS to clean and manage data, and how to analyze existing Social Work data sets.", 
+        "number": "6418", 
+        "subject": "SOW", 
+        "title": "Introduction to Linear Modeling for Applied Social Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: An introductory statistics course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

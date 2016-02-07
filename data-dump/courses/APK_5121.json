@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the theoretical and practical knowledge needed in coaching various sports, emphasizing critical thinking and application of scientific findings.", 
+        "number": "5121", 
+        "subject": "APK", 
+        "title": "Sport and Exercise Psychology for Coaches"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

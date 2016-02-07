@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed as the final required class for students completing their Global Citizenship Certificate program. The course is a capstone reflection class where students develop final projects for their Certificate requirements and increasing their global competencies through theory-practice-research course content.", 
+        "number": "3125", 
+        "subject": "IFS", 
+        "title": "Developing Global Citizens: Global Issues in Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

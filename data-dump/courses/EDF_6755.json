@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed as a synthesis for some of the most important themes relevant to learning, cognition, and instruction, including theoretical and practical issues in education related to lifespan development, human cognition, theories of learning and instruction, motivation and emotion, and family support for children. The goal of this course is to consider the implications of these issues for instructional practices across the lifespan.", 
+        "number": "6755", 
+        "subject": "EDF", 
+        "title": "Theory and Practical Issues in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

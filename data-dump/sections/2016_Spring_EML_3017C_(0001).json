@@ -1,0 +1,55 @@
+{
+    "_unique": "0001-LEC (3255)", 
+    "basic": {
+        "class_num": "3255", 
+        "course": "3017C", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "EML", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Carl Moore"
+            ], 
+            "location": "CE2 B0136", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Carl Moore"
+            ], 
+            "location": "CE2 B0136", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "CE2 B0114", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "10:45:00", 
+            "instructors": [], 
+            "location": "CE2 B0210", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

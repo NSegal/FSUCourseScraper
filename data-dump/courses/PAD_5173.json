@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers nongovernmental organizing in international and transnational contexts, explores the dynamics in which NGOs are embedded, examines their historical trends, and illuminates the challenges and opportunities that NGOs face.", 
+        "number": "5173", 
+        "subject": "PAD", 
+        "title": "Nongovernmental Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

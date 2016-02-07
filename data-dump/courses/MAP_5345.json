@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the separation of variables; Fourier series; Sturm-Liouville problems; multidimensional initial boundary value problems; nonhomogeneous problems; Bessel functions and Legendre polynomials.", 
+        "number": "5345", 
+        "subject": "MAP", 
+        "title": "Elementary Partial Differential Equations I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313; and MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

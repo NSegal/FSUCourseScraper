@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students learn to apply theatrical drafting standards to AutoCAD. The course also covers basic DOS commands and structure, drafting in 2D AutoCAD, and drafting in 3D AutoCAD (including basic modeling commands).", 
+        "number": "4250", 
+        "subject": "TPA", 
+        "title": "AutoCAD for the Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

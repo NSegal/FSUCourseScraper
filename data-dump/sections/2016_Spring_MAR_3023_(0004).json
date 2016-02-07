@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (5231)", 
+    "basic": {
+        "class_num": "5231", 
+        "course": "3023", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "MAR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Derek Hillison"
+            ], 
+            "location": "HOL B0209", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

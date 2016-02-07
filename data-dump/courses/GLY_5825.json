@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores introductory treatment of the physical processes and geological constraints that govern the occurrence and movement of subsurface waters. Emphasis is placed on how water movement is conditioned by fluid, soil and rock properties; and by topographic, stratigraphic, and stuctural boundaries.", 
+        "number": "5825", 
+        "subject": "GLY", 
+        "title": "Physical Hydrology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 5827, MAC 2312, and PHY 2048.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

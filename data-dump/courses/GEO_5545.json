@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth examination of several themes in the analysis ofeconomic landscapes, including input-output analysis, historical materialism, post-Fordism, services and telecommunications, and the global economy.", 
+        "number": "5545", 
+        "subject": "GEO", 
+        "title": "Advanced Economic Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course builds on the fundamental elements of fiction writing and helps students gain an overview of, and cultivate their own, aesthetically unique style that informs their fiction. Through workshops and revisions, students complete three written works set in Florida, either novel chapters or short stories.", 
+        "number": "3753", 
+        "subject": "CRW", 
+        "title": "Writing Florida"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

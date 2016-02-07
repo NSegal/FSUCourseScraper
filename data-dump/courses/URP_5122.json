@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on how complex regulatory disputes frequently slow public sector decision making and cripple major private sector investments. Parties to disputes such as location of locally unwanted land uses, setting of air and water quality standards, and evaluation of urban and transportation plans frequently fail to cooperate to achieve the best possible outcome. The course examines why this is so and tries to develop the skills necessary for individuals to improve the outcome in contentious decision making.", 
+        "number": "5122", 
+        "subject": "URP", 
+        "title": "Planning Dispute Resolution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

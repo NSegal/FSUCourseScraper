@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the structures and processes of decision-making at the individual, group, and organizational levels. Students also gain an appreciation for the impact of information technologies on these decision-making structures and processes.", 
+        "number": "6405", 
+        "subject": "ISM", 
+        "title": "Doctoral Seminar in Decision Processes and Structures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course instructs students in the fundamentals of upright and grand piano regulation, minor repairs, and practical tuning skills.", 
+        "number": "5226", 
+        "subject": "MUM", 
+        "title": "Theory of Piano Technology II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUM 5225 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the works of 20th-century Spanish women writers and the critical attention they have received.", 
+        "number": "4481", 
+        "subject": "SPW", 
+        "title": "Contemporary Spanish Women Writers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

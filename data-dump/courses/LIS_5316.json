@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the theory and use of graphical presentation of sound and text in both paper and electronically-displayed information. Includes critical evaluation, semiotics, and cognitive theory.", 
+        "number": "5316", 
+        "subject": "LIS", 
+        "title": "Information Graphics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

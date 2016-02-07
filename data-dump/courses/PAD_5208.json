@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores budgeting and financial management in non-profits. The course identifies appropriate financial decisions, explains financial and budgeting tools and techniques, and explores the influence of public policy on financial resources.", 
+        "number": "5208", 
+        "subject": "PAD", 
+        "title": "Budget and Finance in Non-Profit Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

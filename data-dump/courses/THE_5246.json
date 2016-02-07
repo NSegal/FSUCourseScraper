@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the development of the musical from its European origins to 1943. Students establish familiarity with a wide range of the repertoire of the earlier musical theatre.", 
+        "number": "5246", 
+        "subject": "THE", 
+        "title": "Musical Theatre History I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

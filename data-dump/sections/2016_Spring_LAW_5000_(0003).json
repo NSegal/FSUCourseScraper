@@ -1,0 +1,48 @@
+{
+    "_unique": "0003-LEC (4764)", 
+    "basic": {
+        "class_num": "4764", 
+        "course": "5000", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:55:00", 
+            "instructors": [
+                "Jake Linford"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "13:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:55:00", 
+            "instructors": [
+                "Jake Linford"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "13:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:55:00", 
+            "instructors": [
+                "Jake Linford"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "13:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

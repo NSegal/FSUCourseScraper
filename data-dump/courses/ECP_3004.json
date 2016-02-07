@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course aims to familiarize students with tools and institutions economists use to form educated and insightful opionions on important current and future issues.", 
+        "number": "3004", 
+        "subject": "ECP", 
+        "title": "Current Economic Issues of the US"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

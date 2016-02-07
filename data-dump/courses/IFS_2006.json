@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores current controversial issues in American society through their counterparts in ancient Greece and Rome. Students extract selections of debates from great works of Classical literature, explore the strengths and weaknesses of opposing arguments, and engage with the parallels that have ensnared political culture in their own day. Throughout, students are concerned with the question of whether political conflict is integral, or an obstacle, to the embodiment of democratic principles.", 
+        "number": "2006", 
+        "subject": "IFS", 
+        "title": "Citizenship and Debate: Models from the Ancient World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

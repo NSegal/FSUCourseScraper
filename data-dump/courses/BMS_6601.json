@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction about basic functions of the immune system and the general mechanisms of human diseases, including immune diseases. Emphasis is placed on the clinical, histopathological, and molecular aspects of diseases. The course also covers specific diseases involving the cardiovascular and respiratory organ systems.", 
+        "number": "6601", 
+        "subject": "BMS", 
+        "title": "Pathology 201"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "6.00"
+    }
+}

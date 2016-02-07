@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of selected music cultures of Indonesia. The primary focus is on gamelan music, especially that of Java and Bali. Popular and experimental Indonesian musical forms, as well as Indonesian-inspired music by Western composers, are also investigated.", 
+        "number": "5576", 
+        "subject": "MUH", 
+        "title": "Music of Indonesia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

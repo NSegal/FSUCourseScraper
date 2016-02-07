@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of how social and historical issues influenced the arts during the first great cultural flowering of the Renaissance in Florence, Rome, and Venice. Discussion centers on how the requirements of the patron, the vitality of local traditions, and the interaction among the arts all contributed to the creation of the new Renaissance vocabulary.", 
+        "number": "5321", 
+        "subject": "ARH", 
+        "title": "Early Italian Renaissance Art: 15th Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

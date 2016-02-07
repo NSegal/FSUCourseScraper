@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course presents a holistic approach to Earth's history with a view toward using that history to explore the planets future. The course explains how interactions of the biosphere, geosphere, hydrosphere, and exosphere are expressed in Earth's ever changing environment.", 
+        "number": "1001", 
+        "subject": "GLY", 
+        "title": "Earth As A System"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

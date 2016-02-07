@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as monopoly, oligopoly monopolistic competition, derived demand and theory of factor markets, general equilibrium analysis, welfare economics, interdependencies, income distribution, and public choice theory.", 
+        "number": "5116", 
+        "subject": "ECO", 
+        "title": "Imperfect Competition, Factor Markets, and Income Distribution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5115 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

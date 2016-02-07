@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to transportation economics and financial aspects of transportation policy and planning, stressing the demand, supply and other economic issues. Microeconomics concepts that are critical for transportation systems will be extensively studied with a focus on the transportation demand and supply models, discrete choice analysis, cost models, traffic congestion and pricing.", 
+        "number": "5501", 
+        "subject": "TTE", 
+        "title": "Transportation Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

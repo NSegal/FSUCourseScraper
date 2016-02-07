@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to school social work practice and related issues, such as biased educational practices, behavior, economic constraints, physical and emotional problems, and community and family adversity.", 
+        "number": "4633", 
+        "subject": "SOW", 
+        "title": "The Social Worker in the Public School System"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

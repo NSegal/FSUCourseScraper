@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the analysis, interpretation and reporting of qualitative data collected during interpretive research.", 
+        "number": "6479", 
+        "subject": "EDF", 
+        "title": "Qualitative Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5464 or EDF 6475.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

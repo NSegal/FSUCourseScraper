@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the theories of the cause, magnitude, and patterns of real trade among nations, ranging from comparative cost explanations to Heckscher-Ohlin theories and recent approaches. Policy issues regarding contemporary international trade problems, the role of tariffs, and quotas also are covered.", 
+        "number": "5706", 
+        "subject": "ECO", 
+        "title": "Seminar in International Trade Theory and Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

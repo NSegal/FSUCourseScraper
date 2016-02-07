@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course samples prominent cultural representations of adoption and surrogacy in recent literature and film and explores forms of public debates about these headline-grabbing issues.", 
+        "number": "2025", 
+        "subject": "IFS", 
+        "title": "Making Babies, Making Families: Adoption and Surrogacy in Literature, Film, and Public Debate"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

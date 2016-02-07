@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory offers an introduction to quantitative techniques and to the chemical laboratory. Topics include intermolecular forces, solutions, kinetics, equilibria, acids and bases, buffers, solubility, thermodynamics and electrochemistry.", 
+        "number": "1046L", 
+        "subject": "CHM", 
+        "title": "General Chemistry II Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045 and CHM 1045L or CHM 1050 and CHM 1050L. Corequisite: CHM 1046.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

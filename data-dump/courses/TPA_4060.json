@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores beginning design techniques including ground plan, perspective, and model building.", 
+        "number": "4060", 
+        "subject": "TPA", 
+        "title": "Principles of Scenic Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 3208.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

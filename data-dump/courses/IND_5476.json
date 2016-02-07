@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches computer-aided design and drafting using AutoCAD software. Students develop an understanding of how designers and architects use computers and how AutoCAD can be applied to other types of software.", 
+        "number": "5476", 
+        "subject": "IND", 
+        "title": "Computer-Aided Design I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

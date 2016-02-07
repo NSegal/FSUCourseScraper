@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for students interested in Chinese culture and literature in translation. Students learn the skills of interpreting literary works and understand the development of Chinese literature. May be repeated to a maximum of six semester hours. May be repeated within the same semester.", 
+        "number": "3930", 
+        "subject": "CHT", 
+        "title": "Topics in Chinese Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

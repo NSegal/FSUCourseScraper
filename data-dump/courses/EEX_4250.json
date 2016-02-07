@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews methods for teaching reading to individuals with disabilities.", 
+        "number": "4250", 
+        "subject": "EEX", 
+        "title": "Individualized Reading Instruction for Students with Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

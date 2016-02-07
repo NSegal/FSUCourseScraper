@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the concepts, technologies, and skills needed to produce and interpret actionable intelligence for enhanced managerial decision making.", 
+        "number": "5404", 
+        "subject": "ISM", 
+        "title": "Business Intelligence"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

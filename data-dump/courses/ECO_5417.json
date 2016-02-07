@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses the SAS programming language to manipulate data and to estimate econometric models. Topics that are covered include: database construction using the output and retain statements; conducting multivariate regressions; and the use of the SAS macro facility.", 
+        "number": "5417", 
+        "subject": "ECO", 
+        "title": "SAS for Economists"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: One semester of graduate level econometrics or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

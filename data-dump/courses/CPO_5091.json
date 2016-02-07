@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This core seminar offers a broad survey of the comparative field to familiarize the student with the scope and variety of approaches, theories, methods, and findings associated with comparative politics, including both the classics in the field and the most recent new research directions.", 
+        "number": "5091", 
+        "subject": "CPO", 
+        "title": "Core Seminar in Comparative Government and Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

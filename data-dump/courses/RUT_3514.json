@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers a range of critical approaches and provides a general introduction to the study of folk belief, folklore and fairy tales, and their continuing influence in Russian and world culture. The course focuses primarily on Russian folk and fairy tales, but also includes cross cultural comparisons. Taught in English.", 
+        "number": "3514", 
+        "subject": "RUT", 
+        "title": "Russian Folklore and Fairy Tales"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

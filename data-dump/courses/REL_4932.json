@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students completing this program are awarded their diploma\u00a0 \"With Honors in Religion.\" Interested students should consult with the advisor of the program.", 
+        "number": "4932", 
+        "subject": "REL", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

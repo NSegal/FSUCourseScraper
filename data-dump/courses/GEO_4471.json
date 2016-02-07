@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the spatial dimensions of political processes from the local to the global level, including elections and geopolitics of the world system.", 
+        "number": "4471", 
+        "subject": "GEO", 
+        "title": "Political Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

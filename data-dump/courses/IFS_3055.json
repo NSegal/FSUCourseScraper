@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the concepts of fate, providence, and the problem of evil in religion and popular culture through the critical study of several highly successful science fiction and dystopian novels authored during the twentieth and twenty-first centuries. It situates these novels in the context of philosophical and theological developments from ancient times to the present.", 
+        "number": "3055", 
+        "subject": "IFS", 
+        "title": "Science Fiction, Dystopia, Fate, and the Problem of Evil"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This defense course accompanies an applied or creative project (comparable in scope to a thesis) that serves to demonstrate skills or knowledge students have developed throughout their master's program resulting in a non-traditional deliverable, e.g., a performance, implementation of campaign, film/video, or other.", 
+        "number": "8975", 
+        "subject": "COM", 
+        "title": "Capstone Creative Project Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

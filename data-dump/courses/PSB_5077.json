@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to survival skills and ethics in scientific research. The focus is on basic principles of scientific conduct and practice for graduate students pursuing careers in biomedical research.", 
+        "number": "5077", 
+        "subject": "PSB", 
+        "title": "Responsible Conduct of Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

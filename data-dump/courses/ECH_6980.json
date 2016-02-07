@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for research on the dissertation topic. May be repeated as often as approved by the supervisory committee. A maximum of twenty-four hours can be applied to the doctoral degree.", 
+        "number": "6980", 
+        "subject": "ECH", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Doctoral candidate status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 24.00"
+    }
+}

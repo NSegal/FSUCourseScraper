@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide the student with an opportunity to gain practical experience by working in an organized recreation, parks, tourism or special event agency. May be repeated to a maximum of six semester hours.", 
+        "number": "4921", 
+        "subject": "LEI", 
+        "title": "Fieldwork in Recreation, Tourism and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LEI 3004 and LEI 3420.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

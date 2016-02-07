@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course traces the rise of Napoleon and his political, social, economic, and military impact on France and Europe, culminating in his defeat at Waterloo.", 
+        "number": "5458", 
+        "subject": "EUH", 
+        "title": "Napoleonic Europe, 1795-1815"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

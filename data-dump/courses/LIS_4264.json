@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the systems approach for problem solving in an information seeker's environment. The theories and concepts of information science are integrated with a variety of practical tools for the structured design and analysis of information systems.", 
+        "number": "4264", 
+        "subject": "LIS", 
+        "title": "Systems Approach in the Information Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

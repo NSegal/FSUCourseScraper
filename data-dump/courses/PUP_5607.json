@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the processes and institutions that make health policy in the United States. Policy analysis is emphasized, with a focus on the current health policy agenda, solution options, and their politics and prospects.", 
+        "number": "5607", 
+        "subject": "PUP", 
+        "title": "Politics of Health Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

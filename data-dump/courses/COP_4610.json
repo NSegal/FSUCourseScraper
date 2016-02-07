@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores design principles of batch, multiprogramming, and time sharing operating\u00a0 systems; linking; loading; input-output systems, inter acting processes, storage management, process and resource control, file systems.", 
+        "number": "4610", 
+        "subject": "COP", 
+        "title": "Introduction to Operating Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530. Corequisite: CDA 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

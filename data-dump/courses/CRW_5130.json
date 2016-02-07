@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This workshop emphasizes the development of the craft of fiction writing. Students are expected to work toward publication. May be repeated with permission of instructor.", 
+        "number": "5130", 
+        "subject": "CRW", 
+        "title": "Fiction Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

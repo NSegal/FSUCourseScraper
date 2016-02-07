@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to a range of cancer related topics from the cancer related mutations and signaling pathways to the cutting-edge research that offers attractive development for new anti-cancer drugs and therapeutic strategies. From tumor inducing viruses\u00a0 to multi-steps of tumorigensis, students learn the history of cancer and how it has shaped contemporary research.", 
+        "number": "4109", 
+        "subject": "PCB", 
+        "title": "The Genetic Basis of Cancer"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010 and PCB 3063.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

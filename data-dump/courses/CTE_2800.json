@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the textile, apparel, retail, and support services industries and the career opportunities available within theses industries. The nature, scope, and structure of each segment of each industry in the domestic and international marketplace is analyzed.", 
+        "number": "2800", 
+        "subject": "CTE", 
+        "title": "Textiles, Apparel and Retail Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

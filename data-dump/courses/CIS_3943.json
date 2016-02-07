@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves field placement in an approved industry or government entity having a significant information technology or computer science component by approval only. May be taken for variable credit and repeated (with departmental approval) but only three semester hours may count towards graduation. Successful completion requires satisfactory job evaluation and demonstration of educational value of placement, usually via a paper and/or presentation. May be repeated toe a maximum of twelve semester hours.", 
+        "number": "3943", 
+        "subject": "CIS", 
+        "title": "Internship in Computer Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: COP 4530; successful completion of sixty hours of coursework with a minimum overall GPA of 3.0, including fifteen hours in computer science courses with a minimum GPA of 3.2; and internship coordinator permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of 15th- and 16th-century architecture in Italy with emphasis on works by Brunelleschi, Alberti, Bramante, Michelangelo, and Palladio. Discussion centers on how the major architectural types developed and why, including: churches, city palaces, public piazzas, and country villas. Particular attention is paid to the impact of antiquity and the emergence of urban planning.", 
+        "number": "4304", 
+        "subject": "ARH", 
+        "title": "History of Renaissance Architecture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

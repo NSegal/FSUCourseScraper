@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a review of current theories in family studies.", 
+        "number": "6436", 
+        "subject": "FAD", 
+        "title": "Theories of Family Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing, background in child and family studies, as well as instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

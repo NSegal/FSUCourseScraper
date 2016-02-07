@@ -1,0 +1,37 @@
+{
+    "_unique": "0007-LAB (11879)", 
+    "basic": {
+        "class_num": "11879", 
+        "course": "4929C", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "ART", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "John Mann"
+            ], 
+            "location": "FAB 0310", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "John Mann"
+            ], 
+            "location": "FAB 0310", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

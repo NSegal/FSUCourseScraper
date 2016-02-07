@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the relationship between the respective views of moral significance, fundamental moral notions, and the resulting moral principles of several prominent ethical theories. The course discusses the relevance of these theories to the two primary ethical guidelines for clinicians: respect for autonomy and beneficence. Particular topics of ethical significance relevant to physicians in clinical practice, including the nature of the physician-patient relationship, shared decision making and informed consent, decision-making capacity, decisions by proxy/surrogate, advanced directives and DNARs, and end-of-life medical care are discussed.", 
+        "number": "5081", 
+        "subject": "BMS", 
+        "title": "Introduction to Clinical Ethics"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "2.00"
+    }
+}

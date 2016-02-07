@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on observation, instruction, and evaluation of oral and written language in the elementary language arts classroom.", 
+        "number": "5319", 
+        "subject": "LAE", 
+        "title": "Teaching Oral and Written Expression in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

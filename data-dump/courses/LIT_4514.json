@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses upon literature and criticism about the status of women in former colonies.", 
+        "number": "4514", 
+        "subject": "LIT", 
+        "title": "Postcolonial Literatures and Feminisms"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

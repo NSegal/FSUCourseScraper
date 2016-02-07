@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-INT (13245)", 
+    "basic": {
+        "class_num": "13245", 
+        "course": "4941", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Darin Rokyta"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

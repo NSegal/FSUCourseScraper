@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes critical consideration of recent philosophical work from a variety of points of view on the question of what exists, for example: matter, mind, time, space, universal properties, causes, and essences.", 
+        "number": "4500", 
+        "subject": "PHI", 
+        "title": "Metaphysics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

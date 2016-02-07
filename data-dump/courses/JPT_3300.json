@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to augment the skills students acquire in 1000- and 2000-level Japanese courses by stressing reading and writing skills at the intermediate level.", 
+        "number": "3300", 
+        "subject": "JPT", 
+        "title": "Writing and Reading Japanese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: JPN 2220; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

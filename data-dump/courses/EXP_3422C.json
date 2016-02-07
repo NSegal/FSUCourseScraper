@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores how experience affects the behavior and physiological functioning. It provides an overview of learning from a behavioral (classical and operant conditioning) and neuroscientific perspective.", 
+        "number": "3422C", 
+        "subject": "EXP", 
+        "title": "Conditioning and Learning with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSB 2000 and PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

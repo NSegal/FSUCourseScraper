@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-PRF (7809)", 
+    "basic": {
+        "class_num": "7809", 
+        "course": "2321", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:20:00", 
+            "instructors": [
+                "Marcia Porter"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to different types of polymers and their physical properties. Topics include major synthetic paths and reaction kinetics, properties of macromolecules in solution, methods of molecular weight determination, and the role of phase transitions in amorphous and crystalline polymers.", 
+        "number": "4823", 
+        "subject": "ECH", 
+        "title": "Polymer Science and Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisites: ECH 4404L, ECH 4504, and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

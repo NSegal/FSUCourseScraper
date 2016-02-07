@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory analysis of techniques and meanings. Typically includes Whitman, Dickinson, Yeats, Frost, Stevens, Eliot, Auden, Thomas, and Plath.", 
+        "number": "4033", 
+        "subject": "LIT", 
+        "title": "Modern Poetry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

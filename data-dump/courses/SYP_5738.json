@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines issues faced by older people and the current federal and state policies designed to address these issues. These policies and iss ues are explored in the context of both political economy and the long-term care continuum from independence to dependence.", 
+        "number": "5738", 
+        "subject": "SYP", 
+        "title": "Aging Policies and Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

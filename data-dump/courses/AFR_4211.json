@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role of the professional military leader in a democratic society; societal attitudes toward the armed forces; the requisites for maintaining adequate national defense structure; the impact of technological and international developments on strategic preparedness and the overall policy-making process; and military law. In addition, students study topics that prepare them for their first active-duty assignment as an officer in the Air Force.", 
+        "number": "4211", 
+        "subject": "AFR", 
+        "title": "National Security Studies and Preparation for Active Duty I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AFR 3202.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

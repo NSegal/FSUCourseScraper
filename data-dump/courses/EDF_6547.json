@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a historical and philosophical survey of educational research emphasizing the epistemological and ontological assumptions underlying different theories of and approaches to contemporary educational inquiry.", 
+        "number": "6547", 
+        "subject": "EDF", 
+        "title": "Philosophical Foundations of Education Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course approaches sport through a variety of global perspectives and\u00a0 cultural lenses. Students are exposed to different national contexts, histories, leagues, and governing bodies, as well as the social, cultural, political, and economic imperatives organizing sport and its management, including global mega-events (e.g., Olympics, World Cup) and national structures\u00a0 (e.g., Barclay's Premier League).", 
+        "number": "4013", 
+        "subject": "SPM", 
+        "title": "Cross-Cultural Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

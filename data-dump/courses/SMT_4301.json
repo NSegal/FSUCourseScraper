@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores the role of content, pedagogy, curriculum, and technology in promoting learning and impacting equity. Topics cover discourse in the classroom, diversity, equity, and classroom learning opportunities as well as assessment\u00a0 methods for understanding student learning. FSU-Teach students teach a multi-day lesson with a peer, in a secondary-school setting.", 
+        "number": "4301", 
+        "subject": "SMT", 
+        "title": "Classroom Interactions (FSU-Teach)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043, SMT 1053, and SMT 3100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

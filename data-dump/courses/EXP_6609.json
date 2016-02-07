@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on current scientific knowledge in areas of human intellectual functioning: perception, attention, memory, language, and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 reasoning.", 
+        "number": "6609", 
+        "subject": "EXP", 
+        "title": "Seminar in Higher Mental Processes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to assist students in integrating theoretical concepts with actual social work practice. The course also examines professional issues faced by practitioners. Majors only.", 
+        "number": "4522", 
+        "subject": "SOW", 
+        "title": "Integrative Field Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SOW 4510.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

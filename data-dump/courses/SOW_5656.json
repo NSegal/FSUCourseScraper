@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide a framework of values, knowledge, and skills necessary to practice with vulnerable children and their families. The major focus is on social work in public child welfare agencies and children's mental health agencies. The course utilizes an ecosystem perspective for understanding and assessing the special needs of at-risk children and families. Specific attention is on assessing families and children using the State of Florida's risk and safety assessment protocols and other family assessment instruments.", 
+        "number": "5656", 
+        "subject": "SOW", 
+        "title": "Child Welfare Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

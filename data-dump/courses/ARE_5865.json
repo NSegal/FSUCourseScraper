@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course conditions students to evaluate and proactively respond to the political environment and public policy issues that affect arts and culture at the city, county, state, national, and international levels.", 
+        "number": "5865", 
+        "subject": "ARE", 
+        "title": "Cultural Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

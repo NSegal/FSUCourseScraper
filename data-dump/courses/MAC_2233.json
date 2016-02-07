@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers limits, continuity, first and higher derivatives, and the differential, with applications to graphing, rates of change, and optimization methods; techniques of integration and applications; introduction to multivariate calculus. Not open to students who have credit in MAC 2311 with a grade of \"C-\" or better.", 
+        "number": "2233", 
+        "subject": "MAC", 
+        "title": "Calculus for Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

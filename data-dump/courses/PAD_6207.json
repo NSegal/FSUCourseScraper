@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a seminar in public financial administration with emphasis on current issues in theory and practice.", 
+        "number": "6207", 
+        "subject": "PAD", 
+        "title": "Financial Resources Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5227 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

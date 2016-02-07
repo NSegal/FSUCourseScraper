@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers extensive development of figurative imagery, concepts, and presentation strategies in support of personal aesthetic development.", 
+        "number": "4334C", 
+        "subject": "ART", 
+        "title": "Figure Drawing III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 3333C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

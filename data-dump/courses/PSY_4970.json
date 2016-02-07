@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides exposure to state-of-the-art research of psychology faculty to increase breadth in the discipline and to help select a thesis topic and research mentor. May be repeated to a maximum of four semester hours.", 
+        "number": "4970", 
+        "subject": "PSY", 
+        "title": "Honors Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: 3.2 overall GPA and 3.5 Psychology GPA.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

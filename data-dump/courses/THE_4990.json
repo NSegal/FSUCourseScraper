@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required each semester for undergraduate and graduate majors. Attendance may also be required at designated activities scheduled at other times.", 
+        "number": "4990", 
+        "subject": "THE", 
+        "title": "Theatre Forum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

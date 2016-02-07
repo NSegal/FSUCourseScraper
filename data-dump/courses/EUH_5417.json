@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the history of Rome from its foundation (traditionally 753 B.C.) to the fall of the Roman Republic (31 B.C., the Battle of Actium).", 
+        "number": "5417", 
+        "subject": "EUH", 
+        "title": "The Roman Republic"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

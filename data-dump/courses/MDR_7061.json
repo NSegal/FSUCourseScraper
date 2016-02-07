@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "The goal of this individualized learning experience is to provide the\u00a0\u00a0\u00a0\u00a0\u00a0 student the opportunity for an in-depth, philosophically-oriented ex-\u00a0\u00a0\u00a0\u00a0\u00a0 ploration of concepts and principles relevant to medical ethics and public health policy. In particular, a major aim of this elective is for the student to appreciate the role that philosophical concepts(e.g. rights, justice,personhood, etc) play in analysis of cases and policies in medical ethics.", 
+        "number": "7061", 
+        "subject": "MDR", 
+        "title": "Ethics in Medicine: Philosophical Foundations and Clinical Applications"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

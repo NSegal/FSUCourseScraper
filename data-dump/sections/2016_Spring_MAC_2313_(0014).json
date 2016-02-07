@@ -1,0 +1,48 @@
+{
+    "_unique": "0014-LEC (14009)", 
+    "basic": {
+        "class_num": "14009", 
+        "course": "2313", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Closed", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:20:00", 
+            "instructors": [
+                "Eric Taieb"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:20:00", 
+            "instructors": [
+                "Eric Taieb"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Eric Taieb"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

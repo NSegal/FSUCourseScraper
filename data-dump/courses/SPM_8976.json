@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Students enroll for thesis defense in the semester in which they plan to graduate.", 
+        "number": "8976", 
+        "subject": "SPM", 
+        "title": "Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

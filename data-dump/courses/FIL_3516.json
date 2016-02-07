@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a theoretical and practical knowledge of all aspects of cinematography: cameras and lenses, filmstocks, exposure, lights, lighting, and composition.", 
+        "number": "3516", 
+        "subject": "FIL", 
+        "title": "Film Camera and Lighting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

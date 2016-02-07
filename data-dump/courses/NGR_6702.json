@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines implementing change in quality and safety in a challenging healthcare environment. Course content includes change theory, quality management models and tools, benchmarking and quality databases, safety in the healthcare environment, use of evidence in quality and safety, interprofessional relationships in improving organizational outcomes, descriptive statistics and relationship statistics and risk management. Emphasis is placed on the student\u2019s development of a change project in quality or safety.", 
+        "number": "6702", 
+        "subject": "NGR", 
+        "title": "Effecting Change in Healthcare Quality and Safety"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 5770.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

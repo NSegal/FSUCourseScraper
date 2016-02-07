@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for advanced undergraduates who desire to supplement regular course offerings by independent reading or research under guidance. May be repeated to a maximum of three semester hours.", 
+        "number": "4904", 
+        "subject": "WST", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission from the program director.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

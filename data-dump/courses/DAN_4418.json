@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides training and aesthetic guidance for dance artists through the generation of computer-assisted imagery. It sets a foundation for future work in the areas of dance documentation, preservation, creation, promotion, and multimedia performance. May be repeated to a maximum of six semester hours.", 
+        "number": "4418", 
+        "subject": "DAN", 
+        "title": "Survey of Dance Technologies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

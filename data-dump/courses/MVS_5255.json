@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of private instruction for students whose curriculum requires study of a secondary instrument. May be repeated to a maximum of four semester hours. Credit may be modified by electing MVO 5250r (1), All Instruments. All MVH courses may be taken for one to two credit hours.", 
+        "number": "5255", 
+        "subject": "MVS", 
+        "title": "Applied Music Secondary, Harp"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

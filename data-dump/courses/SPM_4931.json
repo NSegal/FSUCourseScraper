@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an analysis of selected topics in the sport-management field. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4931", 
+        "subject": "SPM", 
+        "title": "Special Topics in Sport Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

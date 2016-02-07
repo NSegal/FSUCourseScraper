@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the application component of NUR 3056. Under the guidance of lab instructors, the student is given opportunities to integrate theoretical knowledge from NUR 3056 in practice sessions using demonstration; low, medium, and high fidelity simulation scenarios; deliberate practice; debriefing; and reflective instructional approaches.", 
+        "number": "3065L", 
+        "subject": "NUR", 
+        "title": "Health Assessment, Wellness and Prevention Across the Lifespan Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Nursing major. Corequisite: Semester I Nursing courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

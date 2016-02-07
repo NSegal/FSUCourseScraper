@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores applications of mathematical tools, in particular, probabilistic, algebraic, and linguistic tools, to problems in pattern recognition and classification. Feature selection procedures, syntactic pattern recognition. Applications of fuzzy set theory to pattern recognition and classification.", 
+        "number": "5638", 
+        "subject": "CAP", 
+        "title": "Pattern Recognition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Knowledge of probability and at least one programming language.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

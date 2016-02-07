@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers assessment and education procedures for developing communication skills of preschool and school-age hearing impaired students.", 
+        "number": "5646", 
+        "subject": "SPA", 
+        "title": "Communication for Persons Deaf and Hard of Hearing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the role and value of the arts for the child, while exploring developmental trends, appropriate practices, methods, media and curricula of music, art, movement, dance, and drama.", 
+        "number": "4303", 
+        "subject": "EEC", 
+        "title": "Expressive Arts for the Young Child"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admittance to the ECE program. Corequisite: Block I undergraduate courses of ECE program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

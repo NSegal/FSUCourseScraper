@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This laboratory includes an emphasis on student time management, a variety of products and processes, and computer-aided problem solving. Product/process involves sketching and drawing pertinent diagrams by hand, and learning the history and engineering concepts involved.", 
+        "number": "1004L", 
+        "subject": "EGN", 
+        "title": "First Year Engineering Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

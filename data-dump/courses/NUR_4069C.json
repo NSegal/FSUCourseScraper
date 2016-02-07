@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to develop students knowledge of skills for advanced health assessment, including health history and physical examination.", 
+        "number": "4069C", 
+        "subject": "NUR", 
+        "title": "Advanced Health Assessment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: NUR 3805.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

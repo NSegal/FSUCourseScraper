@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the quality of public service; as such, it is core to the field of public administration. A professional is a professional not simply because of expertise, but also because of adherence to ethical standards. This course provides maps and tools to make moral experiences more explicit and consistent so students can chart their own way. Individual decision-making strategies and organizational programs to address challenges are explored. Case studies of managers who confront ethical dilemmas as well as management issues such as workforce diversity and quality improvement complement this material.", 
+        "number": "5041", 
+        "subject": "PAD", 
+        "title": "Public Service Ethics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides current and expanded pedagogy concepts and materials and techniques for teaching advanced or adult students.", 
+        "number": "4642", 
+        "subject": "MVK", 
+        "title": "Advanced Piano Pedagogy II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVK 4641.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

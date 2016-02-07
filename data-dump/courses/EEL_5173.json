@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on continuous and discrete dynamic models with an emphasis on state variable models; Laplace transform, z-transform, and the time domain solutions. Includes real-time digital simulation and sampling theory.", 
+        "number": "5173", 
+        "subject": "EEL", 
+        "title": "Signal and System Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3135 or EEL 4652.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of organizational concepts and theories to enable the advanced graduate student to develop alternative bases for utilizing organizational theory in future study and practice within educational settings.", 
+        "number": "6101", 
+        "subject": "EDA", 
+        "title": "Organizational Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

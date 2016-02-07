@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course reviews procedures for students to assume academic and non-academic employment arising from the attainment of a PhD in Geography.", 
+        "number": "6093", 
+        "subject": "GEO", 
+        "title": "Professional Development Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

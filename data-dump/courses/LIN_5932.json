@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, different topics are selected to suit the needs and interests of students. A special effort is made to select topics related to current theoretical and practical issues.", 
+        "number": "5932", 
+        "subject": "LIN", 
+        "title": "Topics in Linguistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

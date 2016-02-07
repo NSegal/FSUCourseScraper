@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics such as distributions of random variables, conditional probability and independence, multivariate distributions, sampling distributions, Bayes' rule, counting problems, expectations.", 
+        "number": "5323", 
+        "subject": "STA", 
+        "title": "Introduction to Mathematical Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

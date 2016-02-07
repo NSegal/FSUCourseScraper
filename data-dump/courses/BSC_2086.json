@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of a two-semester human anatomy/physiology\u00a0\u00a0 sequence beginning with the second half of the nervous system, then continuing with endocrine, cardiovascular, respiratory, digestive, excretory, and reproductive systems. Also included are fluid-electrolyte balance and immunity.", 
+        "number": "2086", 
+        "subject": "BSC", 
+        "title": "Anatomy and Physiology II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2085 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

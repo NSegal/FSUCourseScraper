@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the biological, psychological, sociological, and familial aspects of human sexuality during the life span. Emphasis on examining socio-cultural values and norms regarding human sexuality, understanding sexual health and its treatment, and providing sex education and support through helping professions.", 
+        "number": "6450", 
+        "subject": "FAD", 
+        "title": "Human Sexuality"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Advanced graduate standing, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

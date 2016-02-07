@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of readings in Latin of selected religious texts. Topics vary. A basic knowledge of Latin grammar is presumed. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4914", 
+        "subject": "REL", 
+        "title": "Tutorial in Latin Religious Texts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

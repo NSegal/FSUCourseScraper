@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the microscopic anatomy and functions of the cells,\u00a0\u00a0 tissues, and glands comprising the organs and systems of humans.", 
+        "number": "6110C", 
+        "subject": "BMS", 
+        "title": "Histology and Cell Biology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

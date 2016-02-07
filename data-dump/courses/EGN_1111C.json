@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "USE OF MICROCOMPUTER CAD SOFTWARE INTEGRATED INTO COURSE\u00a0\u00a0\u00a0\u00a0 ORTHOGRAPHICS AND PICTORIALS. INTRODUCTION TO PROJECTION\u00a0\u00a0\u00a0\u00a0 TECHNIQUES. DIMENSIONING, TOLERANCING AND ENGINEERING STANDARDS.ETC...", 
+        "number": "1111C", 
+        "subject": "EGN", 
+        "title": "GRAPHICS FOR ENGINEERS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the social significance of music, vernacular, and serious art in the lives and development of Americans and its effect on public education.", 
+        "number": "5045", 
+        "subject": "MUE", 
+        "title": "Social and Historical Foundations of American Music Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the art of the avant-garde in France from 1800 through the middle of the twentieth century. The course focuses on select themes related to the urban culture and intellectual currents that shaped contemporary art and its public reception in the modern era. All classes are taught in museums and at historical sites.", 
+        "number": "4416", 
+        "subject": "ARH", 
+        "title": "Paris Avant-Garde"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the major areas of linguistics including phonology, morphology, syntax, semantics, acquisition, language socialization and variation. Students are expected to relate these to cross-linguistic issues in classrooms and provide ways to assist L2 learners in reading and language arts.", 
+        "number": "5250", 
+        "subject": "TSL", 
+        "title": "Applied Linguistics in Foreign/Second Language Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

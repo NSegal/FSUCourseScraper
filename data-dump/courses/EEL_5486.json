@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses advanced concepts and theorems in electromagnetic fields; plane, cylindrical, and spherical wave functions; perturbation and variational techniques; microwave networks.", 
+        "number": "5486", 
+        "subject": "EEL", 
+        "title": "Advanced Electromagnetic Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3473.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

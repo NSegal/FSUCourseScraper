@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental principles and algorithms underlying computer graphics, and also provides a brief introduction to openGL. The course is intended for computer-science graduate students who are interested in computer-graphics related careers or in learning and applying computer-graphics techniques.", 
+        "number": "5726", 
+        "subject": "CAP", 
+        "title": "Introduction to Computer Graphics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

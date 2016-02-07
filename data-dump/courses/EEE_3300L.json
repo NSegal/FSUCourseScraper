@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory supports EEE 3300, Electronics.", 
+        "number": "3300L", 
+        "subject": "EEE", 
+        "title": "Electronics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3112 and EEL 3112L. Corequisite: EEE 3300.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

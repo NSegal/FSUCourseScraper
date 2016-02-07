@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores univariate and multivariate time series methods including: univariate ARIMA, transfer function models, state space models, vector auto-regression models, vector error correction models, spectral analysis,\u00a0 causality tests, and unit root tests. Data analysis and model building are emphasized.", 
+        "number": "5428", 
+        "subject": "ECO", 
+        "title": "Time Series Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5423.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

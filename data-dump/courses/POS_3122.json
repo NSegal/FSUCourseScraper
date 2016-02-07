@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on government and politics in the American states. It looks at the governor, the legislature, and the courts; the history of federalism; and policies, practices, and social institutions that affect state government. Includes a study of state policies in such areas as welfare, education, crime, and the environment.", 
+        "number": "3122", 
+        "subject": "POS", 
+        "title": "State Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

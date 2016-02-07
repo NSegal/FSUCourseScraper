@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a systems approach to complex water resources problems as well as a systems analysis of water resources operations, design, and planning.", 
+        "number": "4540", 
+        "subject": "CWR", 
+        "title": "Water Resources Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CWR 3201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

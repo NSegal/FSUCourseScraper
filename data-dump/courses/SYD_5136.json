@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates classic social epidemiology and life course sociology to account for historical contingencies and individual biographical experience, in addition to current circumstances, to explain social inequalities in the distribution of chronic illnesses and noncommunicable diseases.", 
+        "number": "5136", 
+        "subject": "SYD", 
+        "title": "Life Course Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

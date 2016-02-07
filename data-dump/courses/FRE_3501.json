@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course, taught entirely in French, provides the student with an under standing of French culture and society from WWII through the present day. Topics include high vs. popular culture, political life, Franco-American relations, economics, media, France and the European Union, social interactions of the French, family life, education systems, religion, cuisine, and immigration and multiculturalism. Activities and assignments emphasize French writing and speaking skills.", 
+        "number": "3501", 
+        "subject": "FRE", 
+        "title": "Contemporary France"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 3420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

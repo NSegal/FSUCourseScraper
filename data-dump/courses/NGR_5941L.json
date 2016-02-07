@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students the opportunity to put into practice theories, concepts and principles of the teaching-learning process while functioning as a teaching assistant. Under supervision, students design,implement and\u00a0 evaluate teaching episodes for delivery to individuals and groups of nursi ng students, health care personnel, clients and their families.", 
+        "number": "5941L", 
+        "subject": "NGR", 
+        "title": "Supervised Teaching Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce advanced Japanese syntax and to expose students to graded materials in the humanities and social sciences. The primary objective is to help students to gain a good insight into the intricacies of the Japanese language and culture and to develop adequate translation skills.", 
+        "number": "5900", 
+        "subject": "JPN", 
+        "title": "Studies in Japanese Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 3230 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an advanced comprehensive overview of the foundations of policing in modern American society. Emphasis is on the functions of law enforcement and its interaction with a democratic society.", 
+        "number": "3065", 
+        "subject": "CJE", 
+        "title": "Police and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

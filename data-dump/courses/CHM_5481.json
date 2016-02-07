@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers mathematical and conceptual foundation; statistical nature of quantum theory; time dependent formulations.", 
+        "number": "5481", 
+        "subject": "CHM", 
+        "title": "Advanced Quantum Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

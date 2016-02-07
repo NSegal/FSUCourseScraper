@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "0028", 
+        "subject": "MAT", 
+        "title": "Developmental Mathematics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Crse below Trans Lvl - Non FSU", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (1287)", 
+    "basic": {
+        "class_num": "1287", 
+        "course": "3100", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "CES", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Ahmet Pamuk"
+            ], 
+            "location": "HOL B0101", 
+            "start_time": "13:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

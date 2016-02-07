@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers selection criteria, aids in selection and evaluation of materials relative to adult needs, publishing and production trends. Emphasis is on contemporary print and non-print materials for public library\u00a0\u00a0\u00a0\u00a0 collections.", 
+        "number": "5576", 
+        "subject": "LIS", 
+        "title": "Information Needs of Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

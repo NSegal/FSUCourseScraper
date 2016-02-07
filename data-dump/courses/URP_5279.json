@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an \"enterprise course,\" reflecting the organization of most urban planning geographic information systems departments within public agencies. Students work with various clients on a variety of requests, and serve as urban geographic information systems technicians to these clients.", 
+        "number": "5279", 
+        "subject": "URP", 
+        "title": "Urban and Regional Information Systems Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5272.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

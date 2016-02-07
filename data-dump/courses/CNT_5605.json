@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers UNIX user commands and shell programming. Also covered are problem solving and diagnostic methods, system startup and shutdown, device files and installing devices, disk drives and file systems, NFS, NIS, DNS, and sendmail. Students also learn how to manage a WWW site, manage UNIX software applications, system security, and performance tuning. Legal and professional issues, ethics, and policies are covered.", 
+        "number": "5605", 
+        "subject": "CNT", 
+        "title": "Computer and Network Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "COP4610,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

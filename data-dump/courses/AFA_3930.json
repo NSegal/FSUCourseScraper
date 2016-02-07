@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course varies with instructor and semester. May be repeated to a maximum of nine semester hours.", 
+        "number": "3930", 
+        "subject": "AFA", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

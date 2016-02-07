@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of major job placement approaches, including selective, consultative, and job seeking skills models. While application to the employment of disabled persons is emphasized, these methods have implications for other hard-to-employ persons.", 
+        "number": "5320", 
+        "subject": "RCS", 
+        "title": "Placement Methods and Techniques"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

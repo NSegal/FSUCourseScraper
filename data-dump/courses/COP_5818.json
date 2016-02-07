@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course annalyzes programming of distributed Web applications using Java database connectivity, servlets, Java server pages, remote method invocation, and enterprise Java beans (both session and entity beans); use of the Sun Microsystems Java2 Enterprise Edition development platform either directly or through an integrated development environment such as IBM's Websphere.", 
+        "number": "5818", 
+        "subject": "COP", 
+        "title": "Distributed Applications Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3252.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

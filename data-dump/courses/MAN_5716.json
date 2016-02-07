@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers problems of managing the firm in relation to the changing economic environment. Analysis of major business fluctuations and development of forecasting techniques.", 
+        "number": "5716", 
+        "subject": "MAN", 
+        "title": "Business Conditions Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

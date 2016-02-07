@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the role of language and representation in our understanding of the natural world. The course also examines news media coverage of environmental issues, environmental images in popular culture, as well as the communication strategies of environmental organizations.", 
+        "number": "5426", 
+        "subject": "COM", 
+        "title": "Media, Culture and the Environment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

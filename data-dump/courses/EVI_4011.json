@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an overview of the population of people who have visual impairments and the role of specialized service providers. Special attention is given to the effects of visual impairment on development and learning.", 
+        "number": "4011", 
+        "subject": "EVI", 
+        "title": "Introduction to Visual Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

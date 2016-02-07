@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of selected works from the Roman historians or Cicero's historical speeches and letters. May be repeated to a maximum of six semester hours.", 
+        "number": "4380", 
+        "subject": "LNW", 
+        "title": "The Roman Historians and Cicero"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

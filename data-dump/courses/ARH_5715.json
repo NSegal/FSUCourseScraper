@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the history of photography from its invention in the 1830s to the present. Topics covered include historical debates about photography's status as an art form, commercial and scientific applications, photojournalism and propaganda, the rise of amateur photography, as well as contemporary trends and practices. Focus is placed on recent scholarship in the field.", 
+        "number": "5715", 
+        "subject": "ARH", 
+        "title": "History of Photography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

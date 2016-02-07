@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides completion of formal and informal evaluation procedures with children who have speech and/or language disorders. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5526L", 
+        "subject": "SPA", 
+        "title": "Laboratory in Child Speech/Language Pathology Diagnostics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

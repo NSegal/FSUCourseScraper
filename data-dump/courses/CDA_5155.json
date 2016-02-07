@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on computer system components; microprocessor and minicomputer architecture; stack computers; parallel computers; overlap and pipeline processing; networks and protocols; performance evaluation; architecture studies of selected systems.", 
+        "number": "5155", 
+        "subject": "CDA", 
+        "title": "Computer Architecture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

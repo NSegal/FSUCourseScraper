@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the characteristics of participatory culture and the ways people can utilize these characteristics in education to enhance literacy and learning. Additionally, the course examines the cultural and social practices of collaboration, appropriation, and recirculation utilized in new media environments.", 
+        "number": "5696", 
+        "subject": "LAE", 
+        "title": "Participatory Culture in Literacy and Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

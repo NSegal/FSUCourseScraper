@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers microbiology for students planning careers in the health services, with emphasis on infectious disease, food microbiology, and public\u00a0 health.", 
+        "number": "2004", 
+        "subject": "MCB", 
+        "title": "Microbiology for Health Services"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MCB 2004L.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

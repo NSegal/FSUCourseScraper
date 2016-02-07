@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the development of art from 1880-1940. Topics of discussion include abstraction, symbolism, surrealism, as well as the relationship between the techniques and forms of abstract representation and contemporary philosophical, social, scientific and political events. The writing of artists and critics provide the basis for this inquiry.", 
+        "number": "5445", 
+        "subject": "ARH", 
+        "title": "Modern European Art: Post-Impressionism through Surrealism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

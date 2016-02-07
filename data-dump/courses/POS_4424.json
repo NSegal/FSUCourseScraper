@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies Congress and the behavior of its members. Includes the recruitment and election of members of Congress, the functioning of party leaders and congressional committees, the influences on congressional policy-making, and the sources of stability and change in Congress.", 
+        "number": "4424", 
+        "subject": "POS", 
+        "title": "Legislative Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

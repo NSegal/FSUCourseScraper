@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces intermediate students to the translation and interpretation of standard Latin prose authors. May be repeated to a maximum of six semester hours.", 
+        "number": "3211", 
+        "subject": "LNW", 
+        "title": "Readings in Latin Prose"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAT 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

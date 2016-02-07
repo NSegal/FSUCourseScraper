@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the roles and responsibilities of science teachers. There is a thirty hour field component to this course.", 
+        "number": "4320", 
+        "subject": "SCE", 
+        "title": "Introduction to Middle School Science Teaching"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the discipline for people taking only one economics course. Historical perspective and major principles of theory are presented. Not to be taken by students who have had or who must take ECO 2013 and 2023. Not applicable to the economics major nor the economics minor.", 
+        "number": "2000", 
+        "subject": "ECO", 
+        "title": "Introduction to Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

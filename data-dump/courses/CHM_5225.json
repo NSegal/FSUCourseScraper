@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced description of structural stereochemistry, stereochemical aspects of reactions, theoretical aspects of structure.", 
+        "number": "5225", 
+        "subject": "CHM", 
+        "title": "Advanced Organic Chemistry-Structure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate organic chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

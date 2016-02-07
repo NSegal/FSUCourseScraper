@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course discusses the challenges of making the global energy system independent of finite fossil-energy sourses and, instead, dependent on environmentally sustainable energy sources. The course emphasizes strategies for producing energy that is free of greenhouse-gas emissions, including renewable energy sources such as solar, wind, and biomass. The course focuses on direct energy conversion and covers topics such as photovoltaic cells, fuel cells, and thermoelectric systems.", 
+        "number": "5451", 
+        "subject": "EML", 
+        "title": "Energy Conversion Systems for Sustainability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

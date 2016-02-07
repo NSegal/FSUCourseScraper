@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (10441)", 
+    "basic": {
+        "class_num": "10441", 
+        "course": "3313", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "INP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Amy Polick"
+            ], 
+            "location": "HOL B0212", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

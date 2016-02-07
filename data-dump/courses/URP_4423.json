@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a general introduction to the problems of resource management and environmental planning, with an overview of problems and potential solutions and their relation to other public policy areas such as land-use control and regional development.", 
+        "number": "4423", 
+        "subject": "URP", 
+        "title": "Introduction to Environmental Planning and Resource Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

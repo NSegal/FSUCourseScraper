@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the main issues in political philosophy: the justification of political authority, role of law, political obligation, neocolonialism, disobedience, revolution, rights, the appropriate ends of government, patterns of distribution and justice.", 
+        "number": "2300", 
+        "subject": "PHM", 
+        "title": "Introduction to Political Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

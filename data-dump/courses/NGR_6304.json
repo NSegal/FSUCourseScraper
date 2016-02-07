@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of pediatric practice in the context of Family Nurse Practitioner Competencies. Emphasis is on the following areas: pediatric review, growth and development, pediatric theorists, role of the nurse practitioner, pediatric health assessment and physical exam, and diagnosis and management of common illnesses in children and adolescents.", 
+        "number": "6304", 
+        "subject": "NGR", 
+        "title": "Issues in Pediatrics for Advanced Practice Nursing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP-FNP Program.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

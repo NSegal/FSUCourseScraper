@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the acoustical and physiological aspects of speech-sound production. An orientation to the international phonetic alphabet and its use for the broad transcription of General American English.", 
+        "number": "3200", 
+        "subject": "LIN", 
+        "title": "Fundamentals of Phonetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

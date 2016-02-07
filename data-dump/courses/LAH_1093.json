@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a cross-cultural history of Latin America focusing on women, Native Americans, African-Americans, mestizos, and mulattoes in historical context. The course does not count as credit toward the history major.", 
+        "number": "1093", 
+        "subject": "LAH", 
+        "title": "Latin America: A Cross-Cultural History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

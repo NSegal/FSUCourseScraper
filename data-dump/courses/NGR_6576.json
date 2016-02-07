@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar explores treatment modalities that may be appropriate for clients who present in primary care settings, with mental health concerns.", 
+        "number": "6576", 
+        "subject": "NGR", 
+        "title": "Mental Health Care in Primary Care Settings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to DNP program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

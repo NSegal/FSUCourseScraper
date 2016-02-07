@@ -1,0 +1,59 @@
+{
+    "_unique": "0007-LEC (11317)", 
+    "basic": {
+        "class_num": "11317", 
+        "course": "1120", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "ITA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Costanza Menchi"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Costanza Menchi"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Costanza Menchi"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Costanza Menchi"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

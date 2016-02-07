@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers nature, characteristics, and theories of traffic problems. Topics include traffic survey procedures, origin-destination studies, as well as an introduction to theory and design of automatic control of traffic systems.", 
+        "number": "4201", 
+        "subject": "TTE", 
+        "title": "Traffic Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

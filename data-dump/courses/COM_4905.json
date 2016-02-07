@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students select a topic of interest to pursue under supervision of a faculty member. Could be research/creative, pedagogy, service, or applied. Results in final project, scope and type to be defined by student and faculty supervisor. May be repeated to a maximum of nine semester hours.", 
+        "number": "4905", 
+        "subject": "COM", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to a Communication major.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

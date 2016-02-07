@@ -1,12 +1,16 @@
+import base64
 import logging
 import ssl
-import requests
-from requests.adapters import HTTPAdapter
-from requests.packages.urllib3.poolmanager import PoolManager
-from requests.exceptions import ConnectionError
 from time import sleep
 
-from parser import SolusParser
+import requests
+from requests.adapters import HTTPAdapter
+from requests.exceptions import ConnectionError
+from requests.packages.urllib3.poolmanager import PoolManager
+
+from parser1 import SolusParser
+from random import randint
+
 
 try:
     from config import MAX_RETRIES, RETRY_SLEEP_SECONDS
@@ -33,9 +37,9 @@ class SSLAdapter(HTTPAdapter):
 class SolusSession(object):
     """Represents a solus browsing session"""
 
-    login_url = "https://my.queensu.ca"
-    continue_url = "SAML2/Redirect/SSO"
-    course_catalog_url = "https://saself.ps.queensu.ca/psc/saself/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL"
+    login_url = "http://cas.fsu.edu/cas/login?service=https://my.fsu.edu" #changed to fsu page
+    continue_url = "https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL?Page=SSS_BROWSE_CATLG&Action=U" #not sure if this is the right redirect page
+    course_catalog_url = "https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL?Page=SSS_BROWSE_CATLG&Action=U"
 
     def __init__(self, user=None, password=None):
         self.session = requests.session()
@@ -44,8 +48,8 @@ class SolusSession(object):
         self.session.mount('https://', SSLAdapter(ssl_version=ssl.PROTOCOL_TLSv1))
 
         # Parser
-        self._parser = SolusParser()
-        self._update_parser = False
+        self._parser1 = SolusParser()
+        self._update_parser1 = False
 
         # Response data
         self.latest_response = None
@@ -62,44 +66,75 @@ class SolusSession(object):
         logging.info("Navigating to course catalog...")
         self.go_to_course_catalog()
 
+        
+        print(self.parser1.print_title())
+
+        #Showint the HTTP Status Code
+        self.status_code = requests.get(self.login_url).status_code
+
+
         # Should now be on the course catalog page. If not, something went wrong
         if self.latest_response.url != self.course_catalog_url:
             # SOLUS Doesn't like requests v2.1.0 (getting error 999, unsupported OS)
             # Seems to be a quirk of it. The headers don't matter (even user-agent)
             # Sticking with v2.0.1 until the issue is resolved
-            raise EnvironmentError("Authenticated, but couldn't access the SOLUS course catalog.")
+            raise EnvironmentError("Authenticated, but couldn't access the FSU course catalog.")
+
+
 
     @property
-    def parser(self):
-        """Updates the parser with new HTML (if needed) and returns it"""
-        if self._update_parser:
-            self._parser.update_html(self.latest_text)
-            self._update_parser = False
-        return self._parser
+    def parser1(self):
+        """Updates the parser1 with new HTML (if needed) and returns it"""
+        if self._update_parser1:
+            self._parser1.update_html(self.latest_text)
+            self._update_parser1 = False
+        return self._parser1
 
     def login(self, user, password):
         """Logs into the site"""
 
+        # Decode base64'd password
+        password = base64.b64decode(password)
+
         # Load the access page to set all the cookies and get redirected
         self._get(self.login_url)
 
+        vars_list = self.parser1.get_input_vars()
+        lt_value = vars_list[0]
+        execution_value = vars_list[1]
+
+        x = randint(0,9)
+        y = randint(0,9)
+
         # Login procedure is different when JS is disabled
         payload = {
-           'j_username': user,
-           'j_password': password,
-           'IDButton': '%C2%A0Log+In%C2%A0',
+           'username': user,
+           'password': password,
+           'lt': lt_value,
+           'execution': execution_value,
+           '_eventId': 'submit',
+           'submit.x': x,
+           'submit.y': y
         }
+
+        print('Logging in...')
+
         self._post(self.latest_response.url, data=payload)
 
+
+
+
         # Check for the continue page
-        if self.continue_url in self.latest_response.url:
-            self.do_continue_page()
+        #if self.continue_url in self.latest_response.url:
+        #    self.do_continue_page()
+
 
         # Should now be authenticated and on the my.queensu.ca page, submit a request for the URL in the 'SOLUS' button
-        link = self.parser.login_solus_link()
+
+        link = self.parser1.login_solus_link()
         if not link:
             # Not on the right page
-            raise EnvironmentError("Could not authenticate with the Queen's SSO system. The login credentials provided may have been incorrect.")
+            raise EnvironmentError("Could not authenticate with the FSU's Student Central system. The login credentials provided may have been incorrect.")
 
         logging.info("Sucessfully authenticated.")
         # Have to actually use this link to access SOLUS initially otherwise it asks for login again
@@ -116,7 +151,7 @@ class SolusSession(object):
         The SSO system returns a specific page only if JS is disabled
         It has you click a Continue button which submits a form with some hidden values
         """
-        data = self.parser.login_continue_page()
+        data = self.parser1.login_continue_page()
         if not data:
             return
         self._post(data["url"], data=data["payload"])
@@ -141,7 +176,7 @@ class SolusSession(object):
         """Opens the dropdown menu for a subject"""
         logging.debug(u"Dropping down subject with unique '{0}'".format(subject_unique))
 
-        action = self.parser.subject_action(subject_unique)
+        action = self.parser1.subject_action(subject_unique)
         if not action:
             raise Exception(u"Tried to drop down an invalid subject unique '{0}'".format(subject_unique))
 
@@ -154,7 +189,7 @@ class SolusSession(object):
         """Closes the dropdown menu for a subject"""
         logging.debug(u"Rolling up subject with a unique '{0}'".format(subject_unique))
 
-        action = self.parser.subject_action(subject_unique)
+        action = self.parser1.subject_action(subject_unique)
         if not action:
             raise Exception(u"Tried to roll up an invalid subject unique '{0}'".format(subject_unique))
 
@@ -169,14 +204,14 @@ class SolusSession(object):
         """Opens a course page"""
         logging.debug(u"Opening course with unique '{0}'".format(course_unique))
 
-        action = self.parser.course_action(course_unique)
+        action = self.parser1.course_action(course_unique)
         if not action:
             raise Exception(u"Tried to open a course with an invalid unique '{0}'".format(course_unique))
         
         self._catalog_post(action)
         
         #attempt to go one level deeper to deal with courses which have multiple 'careers'
-        secondaryAction = self.parser.disambiguation_action()
+        secondaryAction = self.parser1.disambiguation_action()
         
         if secondaryAction:
             logging.error(u"POSTING: {0}".format(secondaryAction))
@@ -200,7 +235,7 @@ class SolusSession(object):
 
     def show_sections(self):
         """Clicks on the 'View class sections' button on the course page if it exists"""
-        action = self.parser.show_sections_action()
+        action = self.parser1.show_sections_action()
 
         if action:
             logging.debug("Pressing the 'View class sections' button")
@@ -209,7 +244,7 @@ class SolusSession(object):
     def switch_to_term(self, term_unique):
         """Shows the sections for the term"""
         logging.debug(u"Switching to term with unique '{0}'".format(term_unique))
-        value = self.parser.term_value(term_unique)
+        value = self.parser1.term_value(term_unique)
 
         self._catalog_post(action='DERIVED_SAA_CRS_SSR_PB_GO$98$', extras={'DERIVED_SAA_CRS_TERM_ALT': value})
 
@@ -218,7 +253,7 @@ class SolusSession(object):
 
     def view_all_sections(self):
         """Presses the "view all sections" link on the course page if needed"""
-        action = self.parser.view_all_action()
+        action = self.parser1.view_all_action()
 
         if action:
             logging.debug("Pressing the 'View all' button for sections")
@@ -231,7 +266,7 @@ class SolusSession(object):
         """
         logging.debug(u"Visiting section page for section with unique '{0}'".format(section_unique))
 
-        action = self.parser.section_action(section_unique)
+        action = self.parser1.section_action(section_unique)
         if not action:
             raise Exception(u"Tried to open a section with an invalid unique '{0}'".format(section_unique))
 
@@ -261,6 +296,27 @@ class SolusSession(object):
         self.latest_response = self._request_with_retries(getattr(self.session, 'post'), url, **kwargs)
         self._update_attrs()
 
+    '''def _bs4_login(self):
+
+        br = mechanize.Browser()
+
+        #br.open(login_url)
+
+        login_data = urllib.urlencode(self.login.payload)
+
+        binary_data = login_data.encode('ascii')
+
+        cj = cookielib.CookieJar()
+        opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+
+        print(self.login_url)
+        print(self.login.payload)
+
+        resp = opener.open(self.login_url, binary_data)
+
+        print resp.read()
+        print ('DONE!!!, will redirect...')'''
+
 
     def _request_with_retries(self, method, *args, **kwargs):
         result = None
@@ -283,8 +339,8 @@ class SolusSession(object):
     def _update_attrs(self):
         self.latest_text = self.latest_response.text
 
-        # The parser requires an update
-        self._update_parser = True
+        # The parser1 requires an update
+        self._update_parser1 = True
 
     def _catalog_post(self, action, extras=None):
         """Submits a post request to the site"""

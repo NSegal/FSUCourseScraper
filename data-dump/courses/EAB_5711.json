@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers two content areas: applications of behavior principles in mental health settings and applications with our aging population. Emphasis is placed on the use of behavioral techniques to teach new skills and maintain existing repertoires. Replacing existing aversive methods of control with positive reinforcement strategies is stressed.", 
+        "number": "5711", 
+        "subject": "EAB", 
+        "title": "Behavioral Analysis in Mental Health and Aging"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

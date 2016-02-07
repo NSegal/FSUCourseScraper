@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with an introduction to the learning problems and needs of special education, early intervention, at-risk, and ESL children and those from diverse cultures, with applicable teaching methodology specific to music education curricula and goals.", 
+        "number": "2390", 
+        "subject": "MUE", 
+        "title": "Teaching Music to Diverse Populations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops knowledge and skills in qualitative inquirey and identifies resulting strengths and weaknesses. Students identify the usefulness of qualitative methods in developing a knowledge base; the depth and detailed orientation to the field of inquiry; and the usefulness of understandingsensitive topics that are often the focus of social work research.", 
+        "number": "6496", 
+        "subject": "SOW", 
+        "title": "Qualitative Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

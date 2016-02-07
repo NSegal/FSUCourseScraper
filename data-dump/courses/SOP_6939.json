@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of topical seminars in social psychology that vary according to offering faculty.", 
+        "number": "6939", 
+        "subject": "SOP", 
+        "title": "Seminar in Social Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

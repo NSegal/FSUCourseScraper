@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to the concepts of information literacy and what it means to be information literate in 21st century society. Students address the issue of information literacy by learning searching skills, gathering information from primary and derivative sources, and conducting information quality analyses. Students also work with information in real-world content domains to analyze and represent information effectively.", 
+        "number": "2014", 
+        "subject": "IFS", 
+        "title": "Information Literacy and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

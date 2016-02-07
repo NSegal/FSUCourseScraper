@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced exploration and analysis of the skills needed in rendering, with a specific focus on costume rendering techniques. The course also discusses the figure, fabric textures, drapery of clothing, garment characteristics, and period styles.", 
+        "number": "5047", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Rendering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 4040 and TPA 4071.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

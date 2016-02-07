@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (10545)", 
+    "basic": {
+        "class_num": "10545", 
+        "course": "4930", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "ANT", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Kristin Dowell"
+            ], 
+            "location": "L52 0122", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

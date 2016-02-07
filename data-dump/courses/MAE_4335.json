@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a foundation in the pedagogy of mathematics, focusing on the use of problem solving, cooperative learning, and appropriate tools for teaching algebra, geometry, trigonometry, calculus, statistics and probability, measurement, and number concepts and operations.", 
+        "number": "4335", 
+        "subject": "MAE", 
+        "title": "Teaching High School Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

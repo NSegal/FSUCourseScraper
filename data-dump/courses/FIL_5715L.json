@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course instructs students in pre-visualization techniques by using industry-standard, 3D tools to model simple structures and objects, animate basic character rigs for staging, and work with virtual cameras to block out shots and narrative sequences. Students apply course concepts in a variety of practical exercises. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5715L", 
+        "subject": "FIL", 
+        "title": "Pre-Visualization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review and application of media business practices and legal requirements involved in the conception and production of media content for radio and television.", 
+        "number": "4200", 
+        "subject": "MMC", 
+        "title": "Media Legalities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

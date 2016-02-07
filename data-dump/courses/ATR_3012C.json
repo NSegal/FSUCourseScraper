@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, athletic training students examine the following topics included in this course: clinical orthopedic anatomy; evaluation; and assessment and special test protocols for the shoulder, elbow, forearm, wrist, hand, finger, eye,\u00a0 face, nose, throat, mouth, teeth, cervical spine, head, and neck.", 
+        "number": "3012C", 
+        "subject": "ATR", 
+        "title": "Orthopedic Assessment--Upper Extremity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 2820.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

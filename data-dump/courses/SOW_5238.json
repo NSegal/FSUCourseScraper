@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the procedures and processes of social policy analysis and evaluation. Attention is given to policy originating within all levels and branches of government, as well as within organizational settings. The course examines how issues are brought to the attention of decision-makers and the methods used in policy formulation. Students learn skills central to policy work, including problem definition, development and examination of policy alternatives, planning for implementation, and evaluation. The course prepares individuals to participate in the creation and assessment of social welfare policies that impact populations at risk.", 
+        "number": "5238", 
+        "subject": "SOW", 
+        "title": "Advanced Policy Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5235.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

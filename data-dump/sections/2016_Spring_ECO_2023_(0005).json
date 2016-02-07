@@ -1,0 +1,37 @@
+{
+    "_unique": "0005-LEC (2513)", 
+    "basic": {
+        "class_num": "2513", 
+        "course": "2023", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "ECO", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Shi Qi"
+            ], 
+            "location": "BEL 0203", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Shi Qi"
+            ], 
+            "location": "BEL 0203", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

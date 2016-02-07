@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary. May be repeated to a maximum of six semester hours.", 
+        "number": "4308", 
+        "subject": "RMI", 
+        "title": "Seminar in Risk and Its Control"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Term Varies", 
+        "units": "3.00"
+    }
+}

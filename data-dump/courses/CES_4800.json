@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the design of basic timber structures, including beams, columns, walls, and diaphragms \u2013 all using NDS specifications.", 
+        "number": "4800", 
+        "subject": "CES", 
+        "title": "Timber Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

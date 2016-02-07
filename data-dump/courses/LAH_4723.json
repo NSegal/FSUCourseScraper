@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive examination of Latin America from 1492 to 1830, with emphasis on native and African reactions to colonial rule and the creation and growth of multi-ethnic groups and their solidification into classes.", 
+        "number": "4723", 
+        "subject": "LAH", 
+        "title": "Race and Class in Colonial Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

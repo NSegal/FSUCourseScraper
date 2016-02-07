@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive review of the contemporary theory and research in parenting. The course is organized developmentally, focusing on the emerging needs, responsibilities, and skills required by parents at progressive stages of their children's development.", 
+        "number": "4537", 
+        "subject": "CHD", 
+        "title": "Parenting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

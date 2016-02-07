@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the human nervous system, special sensory organ systems, the central nervous system, the muscle and skeletal systems, the heart and circulatory system, the respiratory system, the urinary and digestive systems, the endocrine system, and reproduction. Cellular mechanisms underlying the homeostatic regulation of each organ system are studied in the context of clinical impacts based upon diseases. For example, Muscular Dystrophy, diabetes mellitus, cardiac arrythymias, cardiovascular disease, renal failure, pulmonary disease,\u00a0 Alzheimer's, Parkinson's, metabolic disorders, or infertility.", 
+        "number": "4701", 
+        "subject": "PCB", 
+        "title": "Human Physiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisites: PCB 3063 and PCB 3134.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

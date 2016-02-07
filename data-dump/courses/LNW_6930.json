@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This doctoral-level seminar is devoted to a specific text or issue in Latin studies. May be repeated when topics vary to a maximum of twenty-four semester hours.", 
+        "number": "6930", 
+        "subject": "LNW", 
+        "title": "Seminar in Latin"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CLA 5939.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on studies in specific aspects of Greek and Roman art and archaeology. May be repeated to a maximum of six semester hours.", 
+        "number": "5174", 
+        "subject": "ARH", 
+        "title": "Studies in Classical Art and Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the fundamental elements and principles of design, design process, problem solving, space planning and specifications.", 
+        "number": "3217", 
+        "subject": "IND", 
+        "title": "Interior Design Studio I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

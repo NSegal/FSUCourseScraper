@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course instructs education faculty in the crafts of acting and directing through a variety of practical exercises.\u00a0 At completion, students should be able to demonstrate the skills and abilities to guide their own students in the basics of acting and directing.", 
+        "number": "5765", 
+        "subject": "THE", 
+        "title": "Performance I for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

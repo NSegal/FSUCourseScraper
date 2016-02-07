@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines selected works by major African-American writers.", 
+        "number": "4604", 
+        "subject": "AML", 
+        "title": "The African-American Literary Tradition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

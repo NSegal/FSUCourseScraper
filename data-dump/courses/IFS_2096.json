@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course aims to address the question of how female friendship alliances affect the psychological well-being of women. More importantly, how is this presented in Shakespeare's plays? Students analyze relationships between friendship groups and the psychology of women in the plays of William Shakespeare through the lens of various psychologists, literary historians, and actors and directors of Shakespeare plays through class discussions, writing assignments and oral presentations.", 
+        "number": "2096", 
+        "subject": "IFS", 
+        "title": "Female Friendship Alliances in Shakespeare"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENC 1101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

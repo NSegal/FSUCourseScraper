@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course exposes senior students to concepts in design, project management, engineering team organization, and professionalism. Students are grouped into design teams where these principles are put into practice in organizing, proposing, and developing an engineering project. Periodic written reports and oral presentations and a final written proposal are required. The lecture material and texts provide instructions on project management, ethics, and design skills.", 
+        "number": "4911C", 
+        "subject": "EEL", 
+        "title": "Senior Design Project I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Department permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

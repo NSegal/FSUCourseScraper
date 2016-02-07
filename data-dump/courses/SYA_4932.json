@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a reading and analysis of primary literature on selected topics in contemporary sociology. May be repeated to a maximum of three semester hours.", 
+        "number": "4932", 
+        "subject": "SYA", 
+        "title": "Tutorial in Sociology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Upper-division sociology major or minor status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course solidifies knowledge of basic grammar and expands the students' vocabulary. It emphasizes reading and writing in formal Arabic, as well as listening and speaking in Colloquial. Students participate in cultural activities, write compositions, and give oral presentations in class. May not be taken concurrently with ARA 1120 and/or 1121. Students in this course should have taken two semesters of Arabic in college or the equivalent.", 
+        "number": "2220", 
+        "subject": "ARA", 
+        "title": "Intermediate Arabic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARA 1121.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

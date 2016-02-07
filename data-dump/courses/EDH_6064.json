@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar course explores the role and activities of women in American higher education, beginning in the 1800's. It begins with an exploration of women's exclusion from higher education and the gradual inclusion of women over time. Viewing the role of women in higher education from a historical perspective brings to light new ways of thinking about colleges and universities as well as new ways to think about women.", 
+        "number": "6064", 
+        "subject": "EDH", 
+        "title": "Women in Higher Education: A Historical Perspective"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

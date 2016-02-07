@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers graphs and digraphs, trees and connectivity, Euler and Hamilton tours, colorings, matchings, planarity and Ramseys theorem, applications. A proof-oriented course that assumes no previous exposure to graph theory but assumes a certain level of mathematical maturity.", 
+        "number": "5305", 
+        "subject": "MAD", 
+        "title": "Graph Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing (for majors) or department approval (for non-majors).", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

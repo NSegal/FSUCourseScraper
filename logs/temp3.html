@@ -1,0 +1,3254 @@
+<!DOCTYPE html>
+<html class="pc win psc_dir-ltr psc_form-xlarge" dir="ltr" lang="en">
+ <!-- Copyright (c) 2000, 2014, Oracle and/or its affiliates. All rights reserved. -->
+ <!-- OTHERS/0/WIN; ToolsRel=8.54.16; User=NAS11H; DB=SPRDCS/ORACLE; AppServ=//sprdap6-app.its.fsu.edu:11050; -->
+ <head>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script language="JavaScript">
+   var  totalTimeoutMilliseconds = 3600000; 
+var  warningTimeoutMilliseconds = 3240000; 
+var timeOutURL = 'https://campus.omni.fsu.edu/psp/sprdcs/EMPLOYEE/HRMS/?cmd=expire';
+var timeoutWarningPageURL = 'https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/s/WEBLIB_TIMEOUT.PT_TIMEOUTWARNING.FieldFormula.IScript_TIMEOUTWARNING';
+var sRCRequestURL = 'https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/s/WEBLIB_PTRC.ISCRIPT1.FieldFormula.IScript_RC_REQUEST';
+  </script>
+  <link href="/cs/sprdcs/cache/PSSTYLEREQ_2.css" id="PSSTYLEREQ_2_css" rel="stylesheet" type="text/css"/>
+  <link href="/cs/sprdcs/cache/SSS_STYLESHEET_1.css" id="SSS_STYLESHEET_1_css" rel="stylesheet" type="text/css"/>
+  <title>
+   Course Offer Details
+  </title>
+  <script language="JavaScript">
+   try {
+document.domain = "omni.fsu.edu";
+}
+catch(err) {;}
+  </script>
+  <script language="JavaScript">
+   var winName='win0';
+var winParent = null;
+var modalID = null;
+var modalZoomName = null;
+var baseKey_win0 = "";
+var altKey_win0 = "05678\xbc\xbe\xbf\xde";
+var ctrlKey_win0 = "JKM";
+var saveWarningKeys_win0 = "";
+var isNewSaveWarn = true;
+var bAccessibility_win0 =false;
+var bFMode =false;
+var bDoModal_win0 = false;
+var bJSModal_win0 = false;
+var bPromptPage_win0 = false;
+var bTabOverTB_win0 = false;
+var bTabOverPg_win0 = false;
+var bTabOverNonPS_win0 = false;
+var strCurrUrl='https://campus.omni.fsu.edu/psp/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL?EMPLID=100258291&PAGE=SSS_CRSE_OFFER_DTL';
+var bIncInNavigation='T';
+var szCrefID='HC_SSS_BROWSE_CATLG_P_GBL';
+var szCrefReged='T';
+var szCrefVisible='T';
+var szCrefLabel='Browse Course Catalog';
+bGenDomInfo = false;
+var szCalendarType = 'G';
+var bMenuSrchPage = false;
+var bWSRP=0;var szMenuSrchText = "-999999-";
+var disablePNSubscriptions=1;var modalCloseUrl = '/cs/sprdcs/cache/PT_TRANS_16PIX_1.png';
+var modalCloseAlt = 'Close';
+var modalResizeUrl= '/cs/sprdcs/cache/PT_RESIZE_IMG_1.gif';
+var modalResizeAlt = 'Drag to resize';
+var modalMoveAlt = 'Drag to move';
+  </script>
+  <script language="JavaScript">
+   var gridRowSelRgbColor_win0 ='rgb(212,219,217)';
+  </script>
+  <script language="JavaScript">
+   try {
+document.domain = "omni.fsu.edu";
+}
+catch(err) {;}
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_COMMON_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_AJAX_NET_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_SAVEWARNINGSCRIPT_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_PAGESCRIPT_win0_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_EDITSCRIPT_win0_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_RC_JS_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_POPUPSCRIPT_win0_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript" src="/cs/sprdcs/cache/PT_GRIDSCRIPT_win0_MIN_1.js" type="text/javascript">
+  </script>
+  <link href="/cs/sprdcs/cache/FSU_BRANDING_CSS_1.css" id="FSU_BRANDING_CSS_1_css" rel="stylesheet" type="text/css"/>
+  <script language="JavaScript" src="/cs/sprdcs/cache/FSU_GA_JS_MIN_1.js" type="text/javascript">
+  </script>
+  <script language="JavaScript">
+   var nResubmit=0;
+var nLastAction=0;
+var loader=null;
+if (typeof(bCleanHtml) == 'undefined')
+	var bCleanHtml = false;
+setupTimeout2();
+var postUrl_win0='https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL';
+function aAction_win0(form, id, params, bAjax, bPrompt)
+{
+setupTimeout2();
+if ((id != '#ICSave'))
+processing_win0(1,3000);
+aAction0_win0(form, id, params, bAjax, bPrompt);
+}
+function submitAction_win0(form, id, event)
+{
+setupTimeout2();
+if (!ptCommonObj2.isICQryDownload(form, id))
+ { processing_win0(1,3000); }
+preSubmitProcess_win0(form, id);
+var spellcheckpos = id.indexOf('$spellcheck');
+if ((spellcheckpos != -1) && (id.indexOf('#KEYA5') != -1))
+	form.ICAction.value = id.substring(0,spellcheckpos);
+else 
+	form.ICAction.value=id;
+var actionName = form.ICAction.value;
+form.ICXPos.value=ptCommonObj2.getScrollX();
+form.ICYPos.value=ptCommonObj2.getScrollY();
+bcUpdater.storeBcDomData();
+if ((typeof(bAutoSave) != 'undefined') && bAutoSave)
+	form.ICAutoSave.value = '1';
+if (!ptCommonObj2.isAJAXReq(form, id) && !ptCommonObj2.isPromptReq(id)){
+if (nLastAction == 1 && nResubmit > 0) return;
+form.ICResubmit.value=nResubmit;
+form.submit();
+if (!ptCommonObj2.isICQryDownload(form, id))
+	nResubmit++;
+}
+else if (ptCommonObj2.isPromptReq(id))
+	pAction_win0(form, id, arguments[2]);
+else
+	aAction_win0(form, actionName);
+cancelBubble(event);
+}
+  </script>
+  <script language="javascript">
+   var pt_calHeadstyle=" class='PTCALHEAD' "
+var pt_calWeekHeadstyle=" class='PTCALWEEKHEAD' "
+function dateitemrefs()
+{
+this.pt_dateheader = "/cs/sprdcs/cache/PT_PORTAL_IC_CLOSE_SD_1.gif";
+this.pt_datering = "/cs/sprdcs/cache/PT_CURRENT_DATE_SD_1.gif";
+this.pt_datesel = "/cs/sprdcs/cache/PT_SELECTED_DATE_SD_1.gif";
+this.pt_nextmonth = "/cs/sprdcs/cache/PT_RIGHT_SCROLL_SD_1.gif";
+this.pt_prevmonth= "/cs/sprdcs/cache/PT_LEFT_SCROLL_SD_1.gif";
+this.pt_daystitle_hijri = "/cs/sprdcs/cache/PT_DATE_TITLE_S6_1.GIF";
+this.pt_daystitle_thai = "/cs/sprdcs/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_s0 = "/cs/sprdcs/cache/PT_DATE_TITLE_S0_1.GIF";
+this.pt_daystitle_m1 = "/cs/sprdcs/cache/PT_DATE_TITLE_M1_1.GIF";
+this.pt_daystitle_t2 = "/cs/sprdcs/cache/PT_DATE_TITLE_T2_1.GIF";
+this.pt_daystitle_w3 = "/cs/sprdcs/cache/PT_DATE_TITLE_W3_1.GIF";
+this.pt_daystitle_t4 = "/cs/sprdcs/cache/PT_DATE_TITLE_T4_1.GIF";
+this.pt_daystitle_f5 = "/cs/sprdcs/cache/PT_DATE_TITLE_F5_1.gif";
+this.pt_daystitle_s6 = "/cs/sprdcs/cache/PT_DATE_TITLE_S6_1.GIF";
+}
+ 
+function LoadCalendar()
+{
+var dateitems = new dateitemrefs();
+loadImages(dateitems);
+}
+function DatePrompt_win0(dtfield,promptfield,yrfmt,bsubmit)
+{
+setupTimeout2();
+openDate_win0(dtfield, promptfield, "MDY/"+yrfmt,bsubmit,"G",0);
+}
+  </script>
+  <script language="JavaScript" ptdefer="defer">
+   if (typeof ptStyleSheet == "undefined") {
+ptStyleSheet = 'SSS_STYLESHEET';
+}
+function onLoadExt_win0() {
+modalZoomName = null;
+g_bAccessibilityMode=false;
+var actn='';
+setKeyEventHandler_win0();ptEvent.add(window,'scroll',positionWAIT_win0);
+ptCommonObj2.generateABNSearchResults(document.win0);
+getGblSrchPageNum(actn);
+if (gSrchRsltPageNum <= 5) getAllRelatedActions();
+
+ptCommonObj2.moveUnivSrchDiv();
+if (typeof(ptLongEditCounter) != 'undefined' && ptLongEditCounter != null)
+   ptLongEditCounter.onLoadLongEditCounter();
+
+doModalOnLoad_win0(false, false, true);
+ResetGlyph_win0();
+objToBeFocus = null;
+if (typeof oWin == 'undefined') setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+ else
+ oWin.setEventHandlers_win0('ICFirstAnchor_win0', 'ICLastAnchor_win0', false);
+setFocus_win0('CLASS_TBL_VW5$fviewall$0',-1);
+ptLoadingStatus_empty(0);
+setupTimeout2();
+processing_win0(0,3000);
+ptConsole2.enable();
+
+UpdateBreadCrumbs();
+GenerateABN();
+GenerateFakeBC();
+bcUpdateForPTF();if (typeof(myAppsWindowOpenJS) != 'undefined' && myAppsWindowOpenJS != null && myAppsWindowOpenJS != '')
+ {
+try {eval(myAppsWindowOpenJS);} catch(e) {}
+  myAppsWindowOpenJS=null;
+}
+ResetGlyph_win0();setPageletInfoInCtxmenu_win0("false");
+GetDomData(win0, "TargetContent", "#GetDomInfo");
+}
+try{ptEvent.load(onLoadExt_win0);}catch(e){}
+  </script>
+ </head>
+ <body class="PSPAGE" tabindex="-1">
+  <div appserv="//sprdap6-app.its.fsu.edu:11050" browser="OTHERS/0/WIN" db="SPRDCS/ORACLE" id="pt_envinfo_win0" toolsrel="8.54.16" user="NAS11H">
+  </div>
+  <div component="SSS_CRSE_OFFER_DTL" id="pt_pageinfo_win0" menu="SA_LEARNER_SERVICES" mode="%Mode" page="SSS_CRSE_OFFER_DTL">
+  </div>
+  <form action="https://campus.omni.fsu.edu/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL" autocomplete="off" class="PSForm" id="SSS_BROWSE_CATLG_P" method="post" name="win0">
+   <div class="ps_box-toolshiddens" id="win0divPSTOOLSHIDDENS">
+    <div class="ps_modalmask_cover psc_hidden" id="pt_modalMaskCover">
+    </div>
+    <div class="ps_modalmask psc_hidden" id="pt_modalMask">
+    </div>
+    <div class="PSMODAL" id="pt_modals">
+     <div class="popupDragFrame" id="ptModalShadow" style="cursor:nw-resize">
+     </div>
+    </div>
+    <div class="ps_ajax_console psc_hidden" id="pt_console">
+    </div>
+    <div class="ps_typeahead psc_hidden" id="pt_typeahead0">
+     <span class="spanTextDropdown" id="pt_typeahead">
+     </span>
+    </div>
+    <div id="WAIT_win0" style="display:none;position:absolute;right:0;">
+     <img align="left" alt="Processing... please wait" id="processing" src="/cs/sprdcs/cache/PT_PROCESSING_1.gif" title="Processing... please wait"/>
+    </div>
+    <div id="SAVED_win0" style="display:none;position:absolute;right:0;">
+     <table border="0" cellpadding="0" cellspacing="0">
+      <tr>
+       <td>
+        <img alt="" border="0" height="39" src="/cs/sprdcs/cache/PTPORTAL_POPBOX_LEFT_1.gif" width="7"/>
+       </td>
+       <td align="center" background="/cs/sprdcs/cache/PTPORTAL_POPBOX_CENTER_1.gif" id="saveWait_win0" valign="middle" width="35">
+        <img alt="" height="24" src="/cs/sprdcs/cache/PT_LOADER_1.gif" width="24"/>
+       </td>
+       <td background="/cs/sprdcs/cache/PTPORTAL_POPBOX_CENTER_1.gif" nowrap="nowrap">
+        <span class="PSPROCESSING" dir="ltr" id="ptStatusText_win0">
+        </span>
+       </td>
+       <td>
+        <img alt="" height="39" src="/cs/sprdcs/cache/PTPORTAL_POPBOX_RIGHT_1.gif" width="6"/>
+       </td>
+       <td>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="x" id="win0divPSHIDDENFIELDS" style="display:none">
+     <input id="ICType" name="ICType" type="hidden" value="Panel"/>
+     <input id="ICElementNum" name="ICElementNum" type="hidden" value="0"/>
+     <input id="ICStateNum" name="ICStateNum" type="hidden" value="13"/>
+     <input id="ICAction" name="ICAction" type="hidden" value="None"/>
+     <input id="ICXPos" name="ICXPos" type="hidden" value="0"/>
+     <input id="ICYPos" name="ICYPos" type="hidden" value="0"/>
+     <input id="ResponsetoDiffFrame" name="ResponsetoDiffFrame" type="hidden" value="-1"/>
+     <input id="TargetFrameName" name="TargetFrameName" type="hidden" value="None"/>
+     <input id="FacetPath" name="FacetPath" type="hidden" value="None"/>
+     <input id="ICFocus" name="ICFocus" type="hidden" value=""/>
+     <input id="ICSaveWarningFilter" name="ICSaveWarningFilter" type="hidden" value="0"/>
+     <input id="ICChanged" name="ICChanged" type="hidden" value="-1"/>
+     <input id="ICAutoSave" name="ICAutoSave" type="hidden" value="0"/>
+     <input id="ICResubmit" name="ICResubmit" type="hidden" value="0"/>
+     <input id="ICSID" name="ICSID" type="hidden" value="tuf6CPoJYVC01iwVDYhryHM1yrgNFjyBPUN2zKlZUfs="/>
+     <input id="ICActionPrompt" name="ICActionPrompt" type="hidden" value="false"/>
+     <input id="ICBcDomData" name="ICBcDomData" type="hidden" value=""/>
+     <input id="ICFind" name="ICFind" type="hidden" value=""/>
+     <input id="ICAddCount" name="ICAddCount" type="hidden" value=""/>
+     <input id="ICAPPCLSDATA" name="ICAPPCLSDATA" type="hidden" value=""/>
+    </div>
+   </div>
+   <a id="ICFirstAnchor_win0" name="ICFirstAnchor_win0">
+   </a>
+   <div class="ps_header_panel" id="PT_HEADER_PANEL">
+   </div>
+   <div class="" id="win0divPAGEBAR">
+   </div>
+   <div class="ps_box-pagetabs" id="win0divPSPANELTABS">
+   </div>
+   <div class="ps_pagecontainer" id="win0divPAGECONTAINER">
+    <table aria-labelledby="app_label" class="PSPAGECONTAINER" role="main">
+     <tr>
+      <td>
+       <div class="ps_pspagecontainer" id="win0divPSPAGECONTAINER">
+        <table border="0" cellpadding="0" cellspacing="0" class="PSPAGECONTAINER" cols="13" id="ACE_width" role="presentation" width="663">
+         <tr>
+          <td height="3" width="0">
+          </td>
+          <td width="4">
+          </td>
+          <td width="4">
+          </td>
+          <td width="4">
+          </td>
+          <td width="1">
+          </td>
+          <td width="183">
+          </td>
+          <td width="4">
+          </td>
+          <td width="136">
+          </td>
+          <td width="268">
+          </td>
+          <td width="12">
+          </td>
+          <td width="20">
+          </td>
+          <td width="20">
+          </td>
+          <td width="7">
+          </td>
+         </tr>
+         <tr>
+          <td height="129">
+          </td>
+          <td align="left" colspan="10" valign="top">
+           <div id="win0divDERIVED_REGFRM1_GROUP_BOX">
+            <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="635">
+             <tr>
+              <td width="633">
+               <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="5" id="ACE_DERIVED_REGFRM1_GROUP_BOX" role="presentation" style="border-style:none" width="633">
+                <tr>
+                 <td height="0" width="3">
+                 </td>
+                 <td width="9">
+                 </td>
+                 <td width="1">
+                 </td>
+                 <td width="610">
+                 </td>
+                 <td width="10">
+                 </td>
+                </tr>
+                <tr>
+                 <td height="93">
+                 </td>
+                 <td align="left" colspan="3" valign="top">
+                  <div id="win0divDERIVED_SSTSNAV_GROUP_BOX">
+                   <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="619">
+                    <tr>
+                     <td width="617">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="7" id="ACE_DERIVED_SSTSNAV_GROUP_BOX" role="presentation" style="border-style:none" width="617">
+                       <tr>
+                        <td height="0" width="7">
+                        </td>
+                        <td width="1">
+                        </td>
+                        <td width="1">
+                        </td>
+                        <td width="422">
+                        </td>
+                        <td width="180">
+                        </td>
+                        <td width="1">
+                        </td>
+                        <td width="5">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="4" height="3">
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_SSTS_MAIN_GOTO">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="179">
+                           <tr>
+                            <td width="177">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="3" id="ACE_DERIVED_SSTSNAV_SSTS_MAIN_GOTO" role="presentation" style="border-style:none" width="177">
+                              <tr>
+                               <td height="0" width="7">
+                               </td>
+                               <td width="148">
+                               </td>
+                               <td width="22">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="1">
+                               </td>
+                               <td align="left" nowrap="nowrap" rowspan="2" valign="top">
+                                <div id="win0divDERIVED_SSTSNAV_GO">
+                                 <a href="javascript:submitAction_win0(document.win0,'DERIVED_SSTSNAV_GO');" id="DERIVED_SSTSNAV_GO" name="DERIVED_SSTSNAV_GO" onclick="javascript:cancelBubble(event);" role="button" tabindex="25">
+                                  <img alt="GO!" border="0" name="DERIVED_SSTSNAV_GO$IMG" src="/cs/sprdcs/cache/PT_NAV_GO_1.gif" title="GO!"/>
+                                 </a>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="22">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_SSTSNAV_SSTS_MAIN_GOTO$7$">
+                                 <select class="PSDROPDOWNLIST" id="DERIVED_SSTSNAV_SSTS_MAIN_GOTO$7$" name="DERIVED_SSTSNAV_SSTS_MAIN_GOTO$7$" psnchg="0" size="1" style="width:148px; " tabindex="24">
+                                  <option value="0300">
+                                   Account Inquiry
+                                  </option>
+                                  <option value="0200">
+                                   My Academics
+                                  </option>
+                                  <option value="0100">
+                                   Student Center
+                                  </option>
+                                  <option selected="selected" value="9999">
+                                   go to ...
+                                  </option>
+                                 </select>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="25">
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_PERSON_NAME">
+                          <span class="PALEVEL0PRIMARY" id="DERIVED_SSTSNAV_PERSON_NAME">
+                           Nicholas Segal
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="5">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="28">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_SSTS_NAV_TABS_DIS">
+                          <div style="width:1px; ">
+                           <!-- Begin HTML Area Name Undisclosed -->
+                           <!-- End HTML Area -->
+                          </div>
+                         </div>
+                        </td>
+                        <td align="left" colspan="4" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_SSTS_NAV_TABS">
+                          <div style="width:604px; ">
+                           <!-- Begin HTML Area Name Undisclosed -->
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="6" src="/cs/sprdcs/cache/PS_CS_TAB_A_CENTERTOP_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERTOP_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERTOP_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERTOP_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="6" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_TOP_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                            <tr>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABACTIVE" width="25%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&amp;Action=U">
+                               Search
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" width="25%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_MY_PLANNER.GBL?Page=SSS_MY_PLANNER&amp;Action=A">
+                               Plan
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" width="25%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&amp;Action=A">
+                               Enroll
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" width="25%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_MY_ACAD.GBL?Page=SSS_MY_ACAD&amp;Action=U">
+                               My Academics
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                            <tr>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="2" src="/cs/sprdcs/cache/PS_CS_TAB_A_CENTERBOTTOM_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERBOTTOM_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERBOTTOM_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img class="SSSTABWIDTH" height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_CENTERBOTTOM_IMG_1.gif" style="display:block;"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_BOTTOM_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                           </table>
+                           <!-- End HTML Area -->
+                          </div>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="23">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_SSTS_NAV_STABS_DIS">
+                          <div style="width:1px; ">
+                           <!-- Begin HTML Area Name Undisclosed -->
+                           <!-- End HTML Area -->
+                          </div>
+                         </div>
+                        </td>
+                        <td align="left" colspan="4" valign="top">
+                         <div id="win0divDERIVED_SSTSNAV_SSTS_NAV_SUBTABS">
+                          <div style="width:604px; ">
+                           <!-- Begin HTML Area Name Undisclosed -->
+                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" height="2">
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABACTIVE" height="2">
+                             </td>
+                             <td>
+                              <img height="2" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                            <tr>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" width="50%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&amp;Action=U">
+                               search for classes
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABACTIVE" width="50%">
+                              <a class="SSSTABMAINTEXT" href="/psc/sprdcs/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSS_BROWSE_CATLG_P.GBL?Page=SSS_BROWSE_CATLG&amp;Action=U">
+                               browse course catalog
+                              </a>
+                             </td>
+                             <td>
+                              <img height="15" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                            <tr>
+                             <td>
+                              <img height="1" src="/cs/sprdcs/cache/PS_CS_TAB_IA_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABINACTIVE" height="1">
+                             </td>
+                             <td>
+                              <img height="1" src="/cs/sprdcs/cache/PS_CS_TAB_IA_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td>
+                              <img height="1" src="/cs/sprdcs/cache/PS_CS_TAB_A_LEFT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                             <td class="SSSTABACTIVE" height="1">
+                             </td>
+                             <td>
+                              <img height="1" src="/cs/sprdcs/cache/PS_CS_TAB_A_RIGHT_CENTER_IMG_1.gif" style="display:block;" width="8"/>
+                             </td>
+                            </tr>
+                           </table>
+                           <!-- End HTML Area -->
+                          </div>
+                         </div>
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="5" height="1">
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="3" height="14">
+                 </td>
+                 <td align="left" colspan="2" valign="top">
+                  <div id="win0divDERIVED_REGFRM1_SS_TRANSACT_TITLE">
+                   <span aria-level="1" class="PATRANSACTIONTITLE" id="DERIVED_REGFRM1_SS_TRANSACT_TITLE" role="heading">
+                    Browse Course Catalog
+                   </span>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="2" height="20">
+                 </td>
+                 <td align="left" colspan="3" valign="top">
+                  <div id="win0divDERIVED_REGFRM1_TITLE1">
+                   <span class="PAPAGETITLE" id="DERIVED_REGFRM1_TITLE1">
+                    Course Detail
+                   </span>
+                  </div>
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="13" height="10">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="3" height="8">
+          </td>
+          <td align="left" colspan="4" valign="top">
+           <div id="win0div$ICField161">
+            <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="192">
+             <tr>
+              <td height="6" width="190">
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="13" height="10">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="4" height="14">
+          </td>
+          <td align="left" colspan="9" nowrap="nowrap" valign="top">
+           <div id="win0divDERIVED_SAA_CRS_RETURN_PB">
+            <span class="PSHYPERLINK" id="DERIVED_SAA_CRS_RETURN_PB$span" title="Return">
+             <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'DERIVED_SAA_CRS_RETURN_PB');" id="DERIVED_SAA_CRS_RETURN_PB" name="DERIVED_SAA_CRS_RETURN_PB" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="123">
+              Return to Course List
+             </a>
+            </span>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="3" height="8">
+          </td>
+          <td align="left" colspan="4" valign="top">
+           <div id="win0div$ICField160">
+            <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="192">
+             <tr>
+              <td height="6" width="190">
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="13" height="10">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="5" height="23">
+          </td>
+          <td align="left" colspan="8" valign="top">
+           <div id="win0divDERIVED_CRSECAT_DESCR200">
+            <span class="PALEVEL0SECONDARY" id="DERIVED_CRSECAT_DESCR200">
+             ACG 2021 - Introduction to Financial Accounting
+            </span>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="3" height="8">
+          </td>
+          <td align="left" colspan="4" valign="top">
+           <div id="win0div$ICField54">
+            <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="192">
+             <tr>
+              <td height="6" width="190">
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="13" height="4">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" height="271">
+          </td>
+          <td align="left" colspan="8" valign="top">
+           <div id="win0divDERIVED_SAA_CRS_GROUP1">
+            <table cellpadding="2" cellspacing="0" class="SSSGROUPBOXLTBLUEWBO" cols="1" width="611">
+             <tr>
+              <td width="609">
+               <table border="0" cellpadding="0" cellspacing="0" class="SSSGROUPBOXLTBLUE" cols="7" id="ACE_DERIVED_SAA_CRS_GROUP1" role="presentation" style="border-style:none" width="609">
+                <tr>
+                 <td height="0" width="15">
+                 </td>
+                 <td width="12">
+                 </td>
+                 <td width="56">
+                 </td>
+                 <td width="336">
+                 </td>
+                 <td width="4">
+                 </td>
+                 <td width="184">
+                 </td>
+                 <td width="2">
+                 </td>
+                </tr>
+                <tr>
+                 <td height="19">
+                 </td>
+                 <td align="left" colspan="3" rowspan="3" valign="top">
+                  <div id="win0divDERIVED_CRSECAT_SSR_GROUP1$0">
+                   <table cellpadding="0" cellspacing="0" class="PSGROUPBOXNBO" cols="1" width="403">
+                    <tr>
+                     <td align="left" class="SSSGROUPBOXLTBLUE">
+                      Course Detail
+                     </td>
+                    </tr>
+                    <tr>
+                     <td width="403">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PSGROUPBOX" cols="7" id="ACE_DERIVED_CRSECAT_SSR_GROUP1$0" role="presentation" style="border-style:none" width="403">
+                       <tr>
+                        <td height="13" width="1">
+                        </td>
+                        <td width="11">
+                        </td>
+                        <td width="133">
+                        </td>
+                        <td width="35">
+                        </td>
+                        <td width="9">
+                        </td>
+                        <td width="191">
+                        </td>
+                        <td width="23">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="2">
+                        </td>
+                        <td align="left" colspan="3" rowspan="2" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_ACAD_CAREERlbl$0">
+                          <span class="PSDROPDOWNLABEL">
+                           Career
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="20">
+                        </td>
+                        <td align="left" colspan="2" rowspan="2" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_ACAD_CAREER$0">
+                          <span class="PSDROPDOWNLIST_DISPONLY" id="SSR_CRSE_OFF_VW_ACAD_CAREER$0">
+                           Undergraduate
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="1">
+                        </td>
+                        <td align="left" colspan="3" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_CRSECAT_UNITS_RANGElbl$0">
+                          <span class="PSEDITBOXLABEL">
+                           Units
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="21">
+                        </td>
+                        <td align="left" colspan="2" valign="top">
+                         <div id="win0divDERIVED_CRSECAT_UNITS_RANGE$0">
+                          <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_UNITS_RANGE$0">
+                           3.00
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="17">
+                        </td>
+                        <td align="left" colspan="3" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_GRADING_BASISlbl$0">
+                          <span class="PSDROPDOWNLABEL">
+                           Grading Basis
+                          </span>
+                         </div>
+                        </td>
+                        <td align="left" colspan="2" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_GRADING_BASIS$0">
+                          <span class="PSDROPDOWNLIST_DISPONLY" id="SSR_CRSE_OFF_VW_GRADING_BASIS$0">
+                           Graded
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="4" height="5">
+                        </td>
+                        <td align="left" colspan="2" rowspan="2" valign="top">
+                         <div id="win0divSSR_DUMMY_RECVW$0">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" id="SSR_DUMMY_RECVW$scroll$0" onclick="getScrollTableId('SSR_DUMMY_RECVW$scroll$0')" width="199">
+                           <tr>
+                            <td width="197">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="3" id="ACE_SSR_DUMMY_RECVW$0" role="presentation" style="border-style:none" width="197">
+                              <tr>
+                               <td height="5" width="10">
+                               </td>
+                               <td width="102">
+                               </td>
+                               <td width="85">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="16">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_CRSECAT_DESCR$0">
+                                 <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCR$0">
+                                  Laboratory
+                                 </span>
+                                </div>
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_CRSECAT_DESCRSHORT$0">
+                                 <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCRSHORT$0">
+                                  Required
+                                 </span>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="9">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_CRSECAT_DESCR$1">
+                                 <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCR$1">
+                                  Class Lecture
+                                 </span>
+                                </div>
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_CRSECAT_DESCRSHORT$1">
+                                 <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_DESCRSHORT$1">
+                                  Required
+                                 </span>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="27">
+                        </td>
+                        <td align="left" colspan="2" rowspan="2" valign="top">
+                         <div id="win0divSR_LBL_WRK_CRSE_COMPONENT_LBLlbl$0">
+                          <span class="PSEDITBOXLABEL">
+                           Course Components
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="9">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="1">
+                        </td>
+                        <td align="left" colspan="3" rowspan="2" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_ACAD_GROUPlbl$0">
+                          <span class="PSEDITBOXLABEL">
+                           Academic Group
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="20">
+                        </td>
+                        <td align="left" colspan="2" valign="top">
+                         <div id="win0divACAD_GROUP_TBL_DESCR$0">
+                          <span class="PSEDITBOX_DISPONLY" id="ACAD_GROUP_TBL_DESCR$0">
+                           Traditional
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="23">
+                        </td>
+                        <td align="right" colspan="2" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_ACAD_ORGlbl$0">
+                          <span class="PSEDITBOXLABEL">
+                           Academic Organization
+                          </span>
+                         </div>
+                        </td>
+                        <td colspan="2">
+                        </td>
+                        <td align="left" colspan="2" valign="top">
+                         <div id="win0divACAD_ORG_TBL_DESCR$0">
+                          <span class="PSEDITBOX_DISPONLY" id="ACAD_ORG_TBL_DESCR$0">
+                           Accounting
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td height="88">
+                 </td>
+                 <td rowspan="6">
+                 </td>
+                 <td align="left" valign="top">
+                  <div id="win0divDERIVED_SAA_CRS_GROUP2">
+                   <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="183">
+                    <tr>
+                     <td width="181">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="3" id="ACE_DERIVED_SAA_CRS_GROUP2" role="presentation" style="border-style:none" width="181">
+                       <tr>
+                        <td height="0" width="7">
+                        </td>
+                        <td width="128">
+                        </td>
+                        <td width="46">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="16">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0div$ICField122">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="127">
+                           <tr>
+                            <td width="125">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="2" id="ACE_$ICField122" role="presentation" style="border-style:none" width="125">
+                              <tr>
+                               <td height="5" width="0">
+                               </td>
+                               <td width="126">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="9">
+                               </td>
+                               <td align="left" nowrap="nowrap" valign="top">
+                                <div id="win0divDERIVED_SAA_CRS_SSR_PB_GO">
+                                 <span class="SSSBUTTON_ACTIONLINK" id="DERIVED_SAA_CRS_SSR_PB_GO$span">
+                                  <a class="SSSBUTTON_ACTIONLINK" href="javascript:submitAction_win0(document.win0,'DERIVED_SAA_CRS_SSR_PB_GO');" id="DERIVED_SAA_CRS_SSR_PB_GO" name="DERIVED_SAA_CRS_SSR_PB_GO" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="270">
+                                   View Class Sections
+                                  </a>
+                                 </span>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="4">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="16">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0div$ICField128">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="127">
+                           <tr>
+                            <td width="125">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="2" id="ACE_$ICField128" role="presentation" style="border-style:none" width="125">
+                              <tr>
+                               <td height="5" width="0">
+                               </td>
+                               <td width="126">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="9">
+                               </td>
+                               <td align="left" nowrap="nowrap" valign="top">
+                                <div id="win0divDERIVED_SAA_CRS_SSS_ADD_TO_PLANNER">
+                                 <span class="SSSBUTTON_ACTIONLINK" id="DERIVED_SAA_CRS_SSS_ADD_TO_PLANNER$span" title="Save Course to Planner">
+                                  <a class="SSSBUTTON_ACTIONLINK" href="javascript:submitAction_win0(document.win0,'DERIVED_SAA_CRS_SSS_ADD_TO_PLANNER');" id="DERIVED_SAA_CRS_SSS_ADD_TO_PLANNER" name="DERIVED_SAA_CRS_SSS_ADD_TO_PLANNER" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="271">
+                                   Add to Planner
+                                  </a>
+                                 </span>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="3">
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td height="10">
+                 </td>
+                </tr>
+                <tr>
+                 <td height="44">
+                 </td>
+                 <td align="left" colspan="3" valign="top">
+                  <div id="win0divDERIVED_CRSECAT_SSR_GROUP2$0">
+                   <table cellpadding="0" cellspacing="0" class="PSGROUPBOXNBO" cols="1" width="403">
+                    <tr>
+                     <td align="left" class="SSSGROUPBOXLTBLUE">
+                      Enrollment Information
+                     </td>
+                    </tr>
+                    <tr>
+                     <td width="403">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PSGROUPBOX" cols="3" id="ACE_DERIVED_CRSECAT_SSR_GROUP2$0" role="presentation" style="border-style:none" width="403">
+                       <tr>
+                        <td height="11" width="12">
+                        </td>
+                        <td width="177">
+                        </td>
+                        <td width="214">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="1">
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_CRSECAT_SSR_TYP_OFFEREDlbl$0">
+                          <span class="PSEDITBOXLABEL">
+                           Typically Offered
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="19">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0divDERIVED_CRSECAT_SSR_TYP_OFFERED$0">
+                          <span class="PSEDITBOX_DISPONLY" id="DERIVED_CRSECAT_SSR_TYP_OFFERED$0">
+                           Fall, Spring, Summer
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td height="88">
+                 </td>
+                 <td align="left" colspan="3" valign="top">
+                  <div id="win0divDERIVED_CRSECAT_SSR_GROUP3$0">
+                   <table cellpadding="0" cellspacing="0" class="PSGROUPBOXNBO" cols="1" width="403">
+                    <tr>
+                     <td align="left" class="SSSGROUPBOXLTBLUE">
+                      Description
+                     </td>
+                    </tr>
+                    <tr>
+                     <td width="403">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PSGROUPBOX" cols="2" id="ACE_DERIVED_CRSECAT_SSR_GROUP3$0" role="presentation" style="border-style:none" width="403">
+                       <tr>
+                        <td height="11" width="15">
+                        </td>
+                        <td width="388">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="64">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0divSSR_CRSE_OFF_VW_DESCRLONG$0">
+                          <span class="PSLONGEDITBOX" id="SSR_CRSE_OFF_VW_DESCRLONG$0">
+                           This course offers an introduction to financial accounting concepts, placing emphasis on financial statements and how they reflect business transactions. Please note, Accounting Majors must earn at least a "B" in this course to proceed to required 3000 level accounting courses.
+                          </span>
+                         </div>
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="2" height="7">
+                 </td>
+                 <td align="left" valign="top">
+                  <div id="win0div$ICField156$0">
+                   <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="56">
+                    <tr>
+                     <td height="5" width="54">
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="4" height="9">
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+         <tr>
+          <td colspan="13" height="10">
+          </td>
+         </tr>
+         <tr>
+          <td colspan="2" height="1704">
+          </td>
+          <td align="left" colspan="7" valign="top">
+           <div id="win0divDERIVED_SAA_CRS_GROUP_BOX_1">
+            <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="599">
+             <tr>
+              <td width="597">
+               <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="7" id="ACE_DERIVED_SAA_CRS_GROUP_BOX_1" role="presentation" style="border-style:none" width="597">
+                <tr>
+                 <td height="0" width="3">
+                 </td>
+                 <td width="4">
+                 </td>
+                 <td width="4">
+                 </td>
+                 <td width="2">
+                 </td>
+                 <td width="554">
+                 </td>
+                 <td width="12">
+                 </td>
+                 <td width="18">
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="4" height="21">
+                 </td>
+                 <td align="left" colspan="3" valign="top">
+                  <div id="win0divDERIVED_SAA_CRS_DESCR200">
+                   <span class="PATRANSACTIONTITLE" id="DERIVED_SAA_CRS_DESCR200">
+                    Course Schedule
+                   </span>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="2" height="30">
+                 </td>
+                 <td align="left" colspan="5" valign="top">
+                  <div id="win0div$ICField4">
+                   <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="595">
+                    <tr>
+                     <td width="593">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="5" id="ACE_$ICField4" role="presentation" style="border-style:none" width="593">
+                       <tr>
+                        <td height="2" width="7">
+                        </td>
+                        <td width="102">
+                        </td>
+                        <td width="186">
+                        </td>
+                        <td width="108">
+                        </td>
+                        <td width="190">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="6">
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0div$ICField1">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="107">
+                           <tr>
+                            <td width="105">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="2" id="ACE_$ICField1" role="presentation" style="border-style:none" width="105">
+                              <tr>
+                               <td height="7" width="3">
+                               </td>
+                               <td width="102">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="9">
+                               </td>
+                               <td align="left" nowrap="nowrap" valign="top">
+                                <div id="win0divDERIVED_SAA_CRS_SSR_PB_GO$3$">
+                                 <span class="SSSBUTTON_ACTIONLINK" id="DERIVED_SAA_CRS_SSR_PB_GO$3$$span" title="View Class Sections">
+                                  <a class="SSSBUTTON_ACTIONLINK" href="javascript:submitAction_win0(document.win0,'DERIVED_SAA_CRS_SSR_PB_GO$3$');" id="DERIVED_SAA_CRS_SSR_PB_GO$3$" name="DERIVED_SAA_CRS_SSR_PB_GO$3$" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="274">
+                                   Show Sections
+                                  </a>
+                                 </span>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="12">
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_SAA_CRS_TERM_ALTlbl">
+                          <label class="SSSTEXTTURQBOLD" for="DERIVED_SAA_CRS_TERM_ALT" id="DERIVED_SAA_CRS_TERM_ALT_LBL">
+                           Terms Offered
+                          </label>
+                         </div>
+                        </td>
+                        <td align="left" rowspan="2" valign="top">
+                         <div id="win0divDERIVED_SAA_CRS_TERM_ALT">
+                          <select class="PSDROPDOWNLIST" id="DERIVED_SAA_CRS_TERM_ALT" name="DERIVED_SAA_CRS_TERM_ALT" psnchg="0" size="1" style="width:180px; " tabindex="272">
+                           <option selected="selected" value="2161">
+                            2016 Spring
+                           </option>
+                          </select>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="8">
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="7" height="5">
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="3" height="63">
+                 </td>
+                 <td align="left" colspan="2" valign="top">
+                  <div id="win0divDERIVED_SSS_ENR_GROUP_BOX_1">
+                   <table cellpadding="2" cellspacing="0" class="SSSMSGINFOFRAMEWBO" cols="1" width="555">
+                    <tr>
+                     <td width="551">
+                      <table border="0" cellpadding="0" cellspacing="0" class="SSSMSGINFOFRAME" cols="5" id="ACE_DERIVED_SSS_ENR_GROUP_BOX_1" role="presentation" style="border-style:none" width="551">
+                       <tr>
+                        <td height="0" width="14">
+                        </td>
+                        <td width="25">
+                        </td>
+                        <td width="3">
+                        </td>
+                        <td width="504">
+                        </td>
+                        <td width="5">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="12">
+                        </td>
+                        <td align="left" rowspan="3" valign="top">
+                         <div id="win0div$ICField33">
+                          <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="2" id="ACE_$ICField33" role="presentation" style="border-style:none" width="503">
+                           <tr>
+                            <td height="12" width="5">
+                            </td>
+                            <td width="498">
+                            </td>
+                           </tr>
+                           <tr>
+                            <td height="28">
+                            </td>
+                            <td align="left" valign="top">
+                             <div id="win0divDERIVED_SSS_ENR_SSR_MSG_TEXT">
+                              <span class="SSSMSGINFOTEXT" id="DERIVED_SSS_ENR_SSR_MSG_TEXT">
+                               You are not eligible to enroll in term 2016 Spring at this time.
+                              </span>
+                             </div>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="25">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0div$ICField34">
+                          <img alt="Information" class="PSSTATICIMAGE" height="23" src="/cs/sprdcs/cache/PS_CS_MESSAGE_INFO_ICN_1.gif" title="Information" width="23"/>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="3" height="3">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="5" height="6">
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="7" height="10">
+                 </td>
+                </tr>
+                <tr>
+                 <td height="1550">
+                 </td>
+                 <td align="left" colspan="5" valign="top">
+                  <div id="win0divDERIVED_SAA_CRS_GROUP_BOX_2">
+                   <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="575">
+                    <tr>
+                     <td width="573">
+                      <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="6" id="ACE_DERIVED_SAA_CRS_GROUP_BOX_2" role="presentation" style="border-style:none" width="573">
+                       <tr>
+                        <td height="0" width="0">
+                        </td>
+                        <td width="4">
+                        </td>
+                        <td width="556">
+                        </td>
+                        <td width="4">
+                        </td>
+                        <td width="4">
+                        </td>
+                        <td width="6">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="32">
+                        </td>
+                        <td align="left" valign="top">
+                         <div id="win0divDERIVED_REGFRM1_">
+                          <table cellpadding="2" cellspacing="0" class="SSSKEYFRAMEWBO" cols="1" width="555">
+                           <tr>
+                            <td width="551">
+                             <table border="0" cellpadding="0" cellspacing="0" class="SSSKEYFRAME" cols="3" id="ACE_DERIVED_REGFRM1_" role="presentation" style="border-style:none" width="551">
+                              <tr>
+                               <td height="0" width="258">
+                               </td>
+                               <td width="282">
+                               </td>
+                               <td width="11">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="18">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divDERIVED_REGFRM1_SSR_WAIT_LIST_OFF">
+                                 <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" width="281">
+                                  <tr>
+                                   <td width="279">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="9" id="ACE_DERIVED_REGFRM1_SSR_WAIT_LIST_OFF" role="presentation" style="border-style:none" width="279">
+                                     <tr>
+                                      <td height="0" width="107">
+                                      </td>
+                                      <td width="18">
+                                      </td>
+                                      <td width="2">
+                                      </td>
+                                      <td width="44">
+                                      </td>
+                                      <td width="24">
+                                      </td>
+                                      <td width="18">
+                                      </td>
+                                      <td width="2">
+                                      </td>
+                                      <td width="52">
+                                      </td>
+                                      <td width="12">
+                                      </td>
+                                     </tr>
+                                     <tr>
+                                      <td colspan="3" height="2">
+                                      </td>
+                                      <td align="left" rowspan="2" valign="top">
+                                       <div id="win0div$ICField10">
+                                        <span class="SSSKEYTEXT">
+                                         Open
+                                        </span>
+                                       </div>
+                                      </td>
+                                      <td colspan="3">
+                                      </td>
+                                      <td align="left" rowspan="2" valign="top">
+                                       <div id="win0div$ICField11">
+                                        <span class="SSSKEYTEXT">
+                                         Closed
+                                        </span>
+                                       </div>
+                                      </td>
+                                     </tr>
+                                     <tr>
+                                      <td height="15">
+                                      </td>
+                                      <td align="left" valign="top">
+                                       <div id="win0div$ICField$14$">
+                                        <img alt="Open" class="PSSTATICIMAGE" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" title="Open" width="16"/>
+                                       </div>
+                                      </td>
+                                      <td>
+                                      </td>
+                                      <td>
+                                      </td>
+                                      <td align="left" valign="top">
+                                       <div id="win0div$ICField14">
+                                        <img alt="Closed" class="PSSTATICIMAGE" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" title="Closed" width="16"/>
+                                       </div>
+                                      </td>
+                                     </tr>
+                                    </table>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="3" height="4">
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="6" height="8">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td height="12">
+                        </td>
+                        <td align="left" colspan="3" valign="top">
+                         <div id="win0divDERIVED_SAA_CRS_GROUP3">
+                          <table cellpadding="0" cellspacing="0" class="PSGROUPBOXNBO" cols="1" width="564">
+                           <tr>
+                            <td align="left" class="PSLEVEL1GRIDLABEL">
+                             ACG 2021 sections for 2016 Spring
+                            </td>
+                           </tr>
+                           <tr>
+                            <td height="-2" width="564">
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="6" height="3">
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2" height="1481">
+                        </td>
+                        <td align="left" colspan="3" valign="top">
+                         <div id="win0divCLASS_TBL_VW5$0">
+                          <table cellpadding="2" cellspacing="0" class="PABACKGROUNDINVISIBLEWBO" cols="1" id="CLASS_TBL_VW5$scroll$0" onclick="getScrollTableId('CLASS_TBL_VW5$scroll$0')" width="563">
+                           <tr>
+                            <td width="561">
+                             <table border="0" cellpadding="0" cellspacing="0" class="PABACKGROUNDINVISIBLE" cols="4" id="ACE_CLASS_TBL_VW5$0" role="presentation" style="border-style:none" width="561">
+                              <tr>
+                               <td height="4" width="3">
+                               </td>
+                               <td width="48">
+                               </td>
+                               <td width="504">
+                               </td>
+                               <td width="6">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$0">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$0" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$0');" id="CLASS$srt1$0" name="CLASS$srt1$0" tabindex="652" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$0');" id="CLASS$srt3$0" name="CLASS$srt3$0" tabindex="654" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$0');" id="CLASS$srt5$0" name="CLASS$srt5$0" tabindex="656" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$0_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$0_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$0_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$0_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$0">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$0" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$0');" id="CLASS_SECTION$0" name="CLASS_SECTION$0" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="658">
+                                       0001-LEC (12007)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$0">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$0">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$0">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$0" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$0_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$0_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$0_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$0_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$0">
+                                      MoWe
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$0">
+                                      8:00AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$0">
+                                      8:50AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$0">
+                                      HCB 0101
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$0">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$0">
+                                      Ronald Pierno
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$0">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$0">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$1">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$1" width="552">
+                                  <tr>
+                                   <th abbr="0002-LAB (12008)" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$1');" id="CLASS$srt1$1" name="CLASS$srt1$1" tabindex="1118" title="Click column heading to sort ascending">
+                                     0002-LAB (12008)
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$1');" id="CLASS$srt3$1" name="CLASS$srt3$1" tabindex="1120" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$1');" id="CLASS$srt5$1" name="CLASS$srt5$1" tabindex="1122" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$1_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$1_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$1_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$1_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$1">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$1" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$1');" id="CLASS_SECTION$1" name="CLASS_SECTION$1" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="1124">
+                                       0002-LAB (12008)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$1">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$1">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Closed" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$1">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$1" width="504">
+                                  <tr>
+                                   <th abbr="Section Details" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Section Details
+                                   </th>
+                                   <th abbr="Short Desc" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short Desc
+                                   </th>
+                                   <th abbr="Short 2" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short 2
+                                   </th>
+                                   <th abbr="Description" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Description
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Description - Part 1" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Description - Part 1
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$1_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$1_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$1_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$1_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$1">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$1">
+                                      9:05AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$1">
+                                      9:55AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$1">
+                                      RBA 0103
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$1">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$1">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$1">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$1">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$2">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$2" width="552">
+                                  <tr>
+                                   <th abbr="0003-LAB (12009)" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$2');" id="CLASS$srt1$2" name="CLASS$srt1$2" tabindex="1584" title="Click column heading to sort ascending">
+                                     0003-LAB (12009)
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$2');" id="CLASS$srt3$2" name="CLASS$srt3$2" tabindex="1586" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$2');" id="CLASS$srt5$2" name="CLASS$srt5$2" tabindex="1588" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$2_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$2_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$2_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$2_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$2">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$2" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$2');" id="CLASS_SECTION$2" name="CLASS_SECTION$2" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="1590">
+                                       0003-LAB (12009)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$2">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$2">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$2">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$2" width="504">
+                                  <tr>
+                                   <th abbr="Section Details" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Section Details
+                                   </th>
+                                   <th abbr="Short Desc" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short Desc
+                                   </th>
+                                   <th abbr="Short 2" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short 2
+                                   </th>
+                                   <th abbr="Description" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Description
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Description - Part 1" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Description - Part 1
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$2_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$2_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$2_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$2_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$2">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$2">
+                                      9:05AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$2">
+                                      9:55AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$2">
+                                      RBA 0104
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$2">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$2">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$2">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$2">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$3">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$3" width="552">
+                                  <tr>
+                                   <th abbr="0007-LAB (12013)" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$3');" id="CLASS$srt1$3" name="CLASS$srt1$3" tabindex="2050" title="Click column heading to sort ascending">
+                                     0007-LAB (12013)
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$3');" id="CLASS$srt3$3" name="CLASS$srt3$3" tabindex="2052" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$3');" id="CLASS$srt5$3" name="CLASS$srt5$3" tabindex="2054" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$3_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$3_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$3_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$3_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$3">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$3" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$3');" id="CLASS_SECTION$3" name="CLASS_SECTION$3" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="2056">
+                                       0007-LAB (12013)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$3">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$3">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$3">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$3" width="504">
+                                  <tr>
+                                   <th abbr="Section Details" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Section Details
+                                   </th>
+                                   <th abbr="Short Desc" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short Desc
+                                   </th>
+                                   <th abbr="Short 2" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short 2
+                                   </th>
+                                   <th abbr="Description" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Description
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Description - Part 1" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Description - Part 1
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$3_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$3_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$3_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$3_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$3">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$3">
+                                      10:10AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$3">
+                                      11:00AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$3">
+                                      RBA 0103
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$3">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$3">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$3">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$3">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$4">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$4" width="552">
+                                  <tr>
+                                   <th abbr="0008-LAB (12014)" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$4');" id="CLASS$srt1$4" name="CLASS$srt1$4" tabindex="2516" title="Click column heading to sort ascending">
+                                     0008-LAB (12014)
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$4');" id="CLASS$srt3$4" name="CLASS$srt3$4" tabindex="2518" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$4');" id="CLASS$srt5$4" name="CLASS$srt5$4" tabindex="2520" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$4_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$4_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$4_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$4_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$4">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$4" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$4');" id="CLASS_SECTION$4" name="CLASS_SECTION$4" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="2522">
+                                       0008-LAB (12014)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$4">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$4">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$4">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$4" width="504">
+                                  <tr>
+                                   <th abbr="Section Details" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Section Details
+                                   </th>
+                                   <th abbr="Short Desc" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short Desc
+                                   </th>
+                                   <th abbr="Short 2" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Short 2
+                                   </th>
+                                   <th abbr="Description" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Description
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Description - Part 1" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Description - Part 1
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$4_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$4_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$4_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$4_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$4">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$4">
+                                      10:10AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$4">
+                                      11:00AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$4">
+                                      RBA 0104
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$4">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$4">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$4">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$4">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$5">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$5" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$5');" id="CLASS$srt1$5" name="CLASS$srt1$5" tabindex="2982" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$5');" id="CLASS$srt3$5" name="CLASS$srt3$5" tabindex="2984" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$5');" id="CLASS$srt5$5" name="CLASS$srt5$5" tabindex="2986" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$5_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$5_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$5_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$5_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$5">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$5" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$5');" id="CLASS_SECTION$5" name="CLASS_SECTION$5" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="2988">
+                                       0012-LEC (12018)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$5">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$5">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$5">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$5" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$5_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$5_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$5_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$5_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$5">
+                                      MoWe
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$5">
+                                      9:05AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$5">
+                                      9:55AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$5">
+                                      HCB 0101
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$5">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$5">
+                                      Ronald Pierno
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$5">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$5">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$6">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$6" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$6');" id="CLASS$srt1$6" name="CLASS$srt1$6" tabindex="3448" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$6');" id="CLASS$srt3$6" name="CLASS$srt3$6" tabindex="3450" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$6');" id="CLASS$srt5$6" name="CLASS$srt5$6" tabindex="3452" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$6_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$6_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$6_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$6_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$6">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$6" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$6');" id="CLASS_SECTION$6" name="CLASS_SECTION$6" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="3454">
+                                       0013-LAB (12019)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$6">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$6">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Closed" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$6">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$6" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$6_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$6_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$6_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$6_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$6">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$6">
+                                      11:15AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$6">
+                                      12:05PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$6">
+                                      RBA 0103
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$6">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$6">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$6">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$6">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$7">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$7" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$7');" id="CLASS$srt1$7" name="CLASS$srt1$7" tabindex="3914" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$7');" id="CLASS$srt3$7" name="CLASS$srt3$7" tabindex="3916" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$7');" id="CLASS$srt5$7" name="CLASS$srt5$7" tabindex="3918" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$7_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$7_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$7_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$7_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$7">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$7" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$7');" id="CLASS_SECTION$7" name="CLASS_SECTION$7" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="3920">
+                                       0014-LAB (12020)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$7">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$7">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Closed" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$7">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$7" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$7_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$7_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$7_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$7_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$7">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$7">
+                                      11:15AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$7">
+                                      12:05PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$7">
+                                      RBA 0104
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$7">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$7">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$7">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$7">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$8">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$8" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$8');" id="CLASS$srt1$8" name="CLASS$srt1$8" tabindex="4380" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$8');" id="CLASS$srt3$8" name="CLASS$srt3$8" tabindex="4382" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$8');" id="CLASS$srt5$8" name="CLASS$srt5$8" tabindex="4384" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$8_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$8_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$8_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$8_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$8">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$8" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$8');" id="CLASS_SECTION$8" name="CLASS_SECTION$8" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="4386">
+                                       0015-LAB (12021)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$8">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$8">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Closed" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$8">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$8" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$8_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$8_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$8_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$8_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$8">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$8">
+                                      11:15AM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$8">
+                                      12:05PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$8">
+                                      RBA 0203
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$8">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$8">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$8">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$8">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$9">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$9" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$9');" id="CLASS$srt1$9" name="CLASS$srt1$9" tabindex="4846" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$9');" id="CLASS$srt3$9" name="CLASS$srt3$9" tabindex="4848" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$9');" id="CLASS$srt5$9" name="CLASS$srt5$9" tabindex="4850" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$9_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$9_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$9_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$9_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$9">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$9" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$9');" id="CLASS_SECTION$9" name="CLASS_SECTION$9" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="4852">
+                                       0018-LAB (12024)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$9">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$9">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Closed" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_CLOSED_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$9">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$9" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$9_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$9_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$9_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$9_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$9">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$9">
+                                      12:20PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$9">
+                                      1:10PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$9">
+                                      RBA 0103
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$9">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$9">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$9">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$9">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$10">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$10" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$10');" id="CLASS$srt1$10" name="CLASS$srt1$10" tabindex="5312" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$10');" id="CLASS$srt3$10" name="CLASS$srt3$10" tabindex="5314" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$10');" id="CLASS$srt5$10" name="CLASS$srt5$10" tabindex="5316" title="Click column heading to sort ascending">
+                                     Status
+                                    </a>
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS$10_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS$10_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS$10_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS$10_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="14">
+                                    <div id="win0divCLASS_SECTION$10">
+                                     <span class="PSHYPERLINK" id="CLASS_SECTION$span$10" title="Class Details">
+                                      <a class="PSHYPERLINK" href="javascript:submitAction_win0(document.win0,'CLASS_SECTION$10');" id="CLASS_SECTION$10" name="CLASS_SECTION$10" onclick="javascript:cancelBubble(event);" ptlinktgt="pt_peoplecode" tabindex="5318">
+                                       0019-LAB (12025)
+                                      </a>
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_SESSION$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="CLASS_SESSION$10">
+                                      1
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divCLASS_STATUS$10">
+                                     <div style="min-width:41px; ">
+                                      <!-- Begin HTML Area Name Undisclosed -->
+                                      <img alt="Open" class="SSSIMAGECENTER" height="16" src="/cs/sprdcs/cache/PS_CS_STATUS_OPEN_ICN_1.gif" width="16"/>
+                                      <!-- End HTML Area -->
+                                     </div>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="8">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="2" height="34">
+                               </td>
+                               <td align="left" valign="top">
+                                <div id="win0divCLASS_MTGPAT$10">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="6" dir="ltr" id="CLASS_MTGPAT$scroll$10" width="504">
+                                  <tr>
+                                   <th abbr="Days" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    Days
+                                   </th>
+                                   <th abbr="Start" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    Start
+                                   </th>
+                                   <th abbr="End" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="40">
+                                    End
+                                   </th>
+                                   <th abbr="Room" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="79">
+                                    Room
+                                   </th>
+                                   <th abbr="Instructor" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="98">
+                                    Instructor
+                                   </th>
+                                   <th abbr="Dates" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="83">
+                                    Dates
+                                   </th>
+                                  </tr>
+                                  <tr id="trCLASS_MTGPAT$10_row1" onclick="HighLightTR('rgb(212,219,217)','','trCLASS_MTGPAT$10_row1');" onmouseout="hoverLightTR('rgb(249,254,203)','',1,'trCLASS_MTGPAT$10_row1');" onmouseover="hoverLightTR('rgb(249,254,203)','',0,'trCLASS_MTGPAT$10_row1');" valign="center">
+                                   <td align="left" class="PSLEVEL2GRIDROW" height="15">
+                                    <div id="win0divMTGPAT_DAYS$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DAYS$10">
+                                      Fr
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_START$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_START$10">
+                                      12:20PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_END$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_END$10">
+                                      1:10PM
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_ROOM$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_ROOM$10">
+                                      RBA 0104
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_INSTR$10">
+                                     <span class="PSLONGEDITBOX" id="MTGPAT_INSTR$10">
+                                      Staff
+                                     </span>
+                                    </div>
+                                   </td>
+                                   <td align="left" class="PSLEVEL2GRIDROW">
+                                    <div id="win0divMTGPAT_DATES$10">
+                                     <span class="PSEDITBOX_DISPONLY" id="MTGPAT_DATES$10">
+                                      01/06/2016 - 04/29/2016
+                                     </span>
+                                    </div>
+                                   </td>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td colspan="4" height="3">
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="21">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <hr align="left" class="PAHORIZONTALRULELEVEL2" width="100%"/>
+                               </td>
+                              </tr>
+                              <tr>
+                               <td height="33">
+                               </td>
+                               <td align="left" colspan="2" valign="top">
+                                <div id="win0divCLASS$11">
+                                 <table cellpadding="2" cellspacing="0" class="PSLEVEL1GRIDNBO" cols="3" dir="ltr" id="CLASS$scroll$11" width="552">
+                                  <tr>
+                                   <th abbr="Section" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="100">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt1$11');" id="CLASS$srt1$11" name="CLASS$srt1$11" tabindex="5778" title="Click column heading to sort ascending">
+                                     Section
+                                    </a>
+                                   </th>
+                                   <th abbr="Session" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="36">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt3$11');" id="CLASS$srt3$11" name="CLASS$srt3$11" tabindex="5780" title="Click column heading to sort ascending">
+                                     Session
+                                    </a>
+                                   </th>
+                                   <th abbr="Status" align="left" class="SSSGRIDCOLUMNHDRTXTWBO" scope="col" width="41">
+                                    <a class="SSSGRIDCOLUMNHDRTXTWBO" href="javascript:submitAction_win0(document.win0,'CLASS$srt5$11');" id="CLASS$srt5$11" name="CLASS$srt5$11" tabindex="5782" title="Click column heading to ">
+                                    </a>
+                                   </th>
+                                  </tr>
+                                 </table>
+                                </div>
+                               </td>
+                              </tr>
+                             </table>
+                            </td>
+                           </tr>
+                          </table>
+                         </div>
+                        </td>
+                       </tr>
+                      </table>
+                     </td>
+                    </tr>
+                   </table>
+                  </div>
+                 </td>
+                </tr>
+               </table>
+              </td>
+             </tr>
+            </table>
+           </div>
+          </td>
+         </tr>
+        </table>
+       </div>
+      </td>
+     </tr>
+    </table>
+   </div>
+  </form>
+ </body>
+</html>

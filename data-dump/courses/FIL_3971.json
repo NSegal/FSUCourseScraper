@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the principles and responsibilities of grips, gaffers, assistant directors, assistant camera persons, and production managers, as well as the performance of these responsibilities on the set of BFA thesis films. May be repeated to a maximum of twelve semester hours.", 
+        "number": "3971", 
+        "subject": "FIL", 
+        "title": "Thesis Film Support"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00 - 12.00"
+    }
+}

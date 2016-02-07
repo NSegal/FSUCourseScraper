@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on advanced movement techniques and exploration of\u00a0\u00a0\u00a0\u00a0 repertory and choreography. May be repeated to a maximum of six semester hours.", 
+        "number": "4512", 
+        "subject": "TPP", 
+        "title": "Advanced Movement for the Theatre"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 3510r, TPP 3511r, and/or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

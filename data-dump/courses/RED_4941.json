@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This capstone reading course provides students the opportunity to assess and tutor children who are struggling readers.", 
+        "number": "4941", 
+        "subject": "RED", 
+        "title": "Elementary Education Reading Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 4314, RED 4310 , RED 4510 and TSL 4080.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

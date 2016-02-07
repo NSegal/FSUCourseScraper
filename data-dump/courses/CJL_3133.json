@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the structures and functions of state and federal court systems with emphasis on the specific roles and duties of the participants in criminal trials. Special emphasis is placed on the rules of evidence applicable in criminal cases and the consequences of not having or not following those rules. Examination and analysis of actual appellate court cases utilizing the law school technique of case briefing will be used as a basis for applying the concepts studied.", 
+        "number": "3133", 
+        "subject": "CJL", 
+        "title": "Evidence and Criminal Procedure"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

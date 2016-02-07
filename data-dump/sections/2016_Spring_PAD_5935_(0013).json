@@ -1,0 +1,26 @@
+{
+    "_unique": "0013-DSC (14474)", 
+    "basic": {
+        "class_num": "14474", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Closed", 
+        "subject": "PAD", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "20:15:00", 
+            "instructors": [
+                "Jarrett Broder"
+            ], 
+            "location": "TBA", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

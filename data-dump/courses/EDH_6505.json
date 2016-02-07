@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar examines major issues in the financing of higher education in the United States, including major policy issues in higher education finance; the roles of the federal government and states; and institutional budgeting and financial management.", 
+        "number": "6505", 
+        "subject": "EDH", 
+        "title": "Finance in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDH 5051.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

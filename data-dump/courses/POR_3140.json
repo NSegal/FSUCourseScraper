@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intensive course in Brazilian Portuguese for advanced students of Spanish, other Romance languages, and/or heritage speakers of Portuguese. It is based on positive transfer of applicable linguistic structures of Spanish, avoidance of negative transfer, and concentration on structures unique to Portuguese. Understanding, speaking, reading, and writing skills are practiced.", 
+        "number": "3140", 
+        "subject": "POR", 
+        "title": "Portuguese for Advanced Students of Spanish I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A 3000-level course in Spanish (completed or concurrent enrollment) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

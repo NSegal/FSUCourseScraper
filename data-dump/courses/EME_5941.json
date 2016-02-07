@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses systematic procedures for the design of staff development programs for educational, noneducational institutions.", 
+        "number": "5941", 
+        "subject": "EME", 
+        "title": "Designs for In-Service Personnel Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

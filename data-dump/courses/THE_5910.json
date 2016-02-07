@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This basic graduate course introduces students to library resources, methods, and the reporting of research in theatre.", 
+        "number": "5910", 
+        "subject": "THE", 
+        "title": "Theatre Bibliography and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

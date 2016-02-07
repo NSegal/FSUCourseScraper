@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is intended for students who wish to pursue a career in stage management. Advanced study of stage management and development of skills are needed to practice in a LORT theatre.", 
+        "number": "4602", 
+        "subject": "TPA", 
+        "title": "Advanced Stage Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "enrollment_requirement": "TPA4601,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

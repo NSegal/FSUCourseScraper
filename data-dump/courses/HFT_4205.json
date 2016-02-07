@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course emphasizes Spanish international culture and conversation and was designed primarily for Hospitality leaders. The course allows students to apply their Spanish-language skills to increase fluency in everyday hospitality-related situations. The course also focuses on the customs and cultural characteristics of the people from Spain as well as from Central and South America. This course is not recommended for fluent Spanish speakers.", 
+        "number": "4205", 
+        "subject": "HFT", 
+        "title": "Conversational Spanish for Hospitality Managers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

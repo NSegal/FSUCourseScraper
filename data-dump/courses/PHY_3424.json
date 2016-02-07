@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: geometrical optics, wave optics, optical instrumentation, properties of light, lasers, fiber optics.", 
+        "number": "3424", 
+        "subject": "PHY", 
+        "title": "Optics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

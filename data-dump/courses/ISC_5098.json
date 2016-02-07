@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a forum for discussion of contemporary science teaching issues and concerns associated with the corequisite full-time internship.", 
+        "number": "5098", 
+        "subject": "ISC", 
+        "title": "Reflective Science Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5525, ISC 5535, ISC 5944, and ISC 5946. Corequisites: ISC 5945 and ISC 8938.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

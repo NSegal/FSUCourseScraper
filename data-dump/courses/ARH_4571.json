@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys the art and architecure of the Islamic world from its early days in the mid-seventh century to the present day. While the concept \"Islamic world\" is both vague and vast, stretching from Spain to Indonesia and beyond, the course focuses on several geographic areas to explore the visual culture produced by Muslims.", 
+        "number": "4571", 
+        "subject": "ARH", 
+        "title": "Islamic Art and Architecture, 7th-21st Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

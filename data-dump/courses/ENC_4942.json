@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides practical experience in editing, public relations, and other forms of written communications. May be repeated to a maximum of six semester hours; only three hours apply to majors.", 
+        "number": "4942", 
+        "subject": "ENC", 
+        "title": "Internship in Editing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: ENC 4212.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

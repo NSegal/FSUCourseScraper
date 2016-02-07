@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This diagnostic examination is taken after a doctoral student has completed or is in the process of completing eighteen credit hours of coursework. The exam is an assessment used to appraise the student's research aptitude and readiness to continue pursuing a doctoral degree.", 
+        "number": "6964", 
+        "subject": "EDG", 
+        "title": "Doctoral Diagnostic Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

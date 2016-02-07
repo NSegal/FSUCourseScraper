@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the developmental process related to cognitive, physical, and psychosocial growth from pre- to late adolescence and the reciprocal influences of various contexts in which these youth are embedded, such as families, peer groups, schools, and communities.", 
+        "number": "3243", 
+        "subject": "CHD", 
+        "title": "Contexts in Adolescent Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHD 2220.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers normal neuroanatomy, neurophysiology, and neuropathologies affecting communication. Prior anatomy and physiology of speech mechanisms needed.", 
+        "number": "4104", 
+        "subject": "SPA", 
+        "title": "Neurological Bases of Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPA 4101C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

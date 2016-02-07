@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a critical philosophical examination of representations of girls and women in fantasy and science fiction. Throughout the semester, students make use of traditional philosophical texts as well as non-traditional materials, such as film, literature, television, and comics to examine questions of womens' nature, girlhood, beauty, violence, oppression, and sexual agency.", 
+        "number": "2079", 
+        "subject": "IFS", 
+        "title": "Fantasy Girls: Philosophical Examinations of Women and Girls in Fantasy and Science Fiction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

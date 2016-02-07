@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-LEC (11327)", 
+    "basic": {
+        "class_num": "11327", 
+        "course": "1106", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Open", 
+        "subject": "MGF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Sergio Hoyas"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

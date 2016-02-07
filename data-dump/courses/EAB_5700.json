@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the fundamentals of behavior analysis including selecting and defining target behaviors, determining measurement and recording methods, analyzing graphic displays of data, completing a functional analysis and the use of positive reinforcement methods of changing behavior.", 
+        "number": "5700", 
+        "subject": "EAB", 
+        "title": "Basic Principles of Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

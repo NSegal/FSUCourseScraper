@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the concept and application of homeland security policies and their influence on U.S. domestic policy.", 
+        "number": "5895", 
+        "subject": "PAD", 
+        "title": "Homeland Security; Policy and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

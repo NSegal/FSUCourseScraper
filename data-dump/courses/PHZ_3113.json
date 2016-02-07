@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on: mathematical methods applied to physical systems; vectors, specialized techniques of integration, integral transforms, special functions, boundary-value problems, numerical methods.", 
+        "number": "3113", 
+        "subject": "PHZ", 
+        "title": "Mathematical Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3042 and PHY 3101. Corequisite: MAP 2302 or MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

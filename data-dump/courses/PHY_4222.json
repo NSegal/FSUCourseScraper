@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on Lagrangian dynamics, Hamiltonian dynamics, dynamics of rigid bodies, coupled oscillations, waves in one-dimensional continuous systems, and special relativity.", 
+        "number": "4222", 
+        "subject": "PHY", 
+        "title": "Mechanics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3221, PHZ 3113, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to the exciting work currently being done by physicists. Topics include the physics and the day-to-day work done to answer questions in astrophysics, elementary particle physics, nuclear physics, and condensed matter physics. May be repeated to a maximum of two semester hours.", 
+        "number": "1090", 
+        "subject": "PHY", 
+        "title": "Discovering Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

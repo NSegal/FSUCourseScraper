@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of selected aspects of cultural forms (books, film, music, etc.) associated with one or more French-speaking region located outside France, including North Africa, West Africa, the Antilles, Quebec, Indo-china, and French-speaking islands in the Indian and Pacific oceans. May be repeated to a maximum of six semester hours.", 
+        "number": "4761", 
+        "subject": "FRW", 
+        "title": "Studies in Francophone Literatures and Cultures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRW 3100 or FRW 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

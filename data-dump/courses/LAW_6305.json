@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of legal and equitable remedies and procedures available including compensation, restitution, exemplary damages, injunctive forms of relief, specific relief under various legal circumstances, such as reformation, recision, and restitution.", 
+        "number": "6305", 
+        "subject": "LAW", 
+        "title": "Remedies"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5000 and LAW 5400.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Open to candidates for master's and doctoral degrees in performance or by instructor permission.", 
+        "number": "5413", 
+        "subject": "MUL", 
+        "title": "Solo Piano Literature: Classical"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

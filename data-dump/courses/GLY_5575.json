@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics include sedimentologic processes operating along modern coasts, erosion and deposition, shoreline evolution, effects of sea-level and climate change on shorelines, coastal morphpodynamics, responses to critical erosion, and sediment transport.", 
+        "number": "5575", 
+        "subject": "GLY", 
+        "title": "Coastal Geology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

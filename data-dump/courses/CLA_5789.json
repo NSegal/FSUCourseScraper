@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This fieldwork affords students the experience of excavation through an approved archaeological field school or project. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5789", 
+        "subject": "CLA", 
+        "title": "Classical Archaeology: Fieldwork"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

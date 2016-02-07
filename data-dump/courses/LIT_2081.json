@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers poetry, fiction, drama from WWI to the present. For beginning students.", 
+        "number": "2081", 
+        "subject": "LIT", 
+        "title": "Contemporary Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

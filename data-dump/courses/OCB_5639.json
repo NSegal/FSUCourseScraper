@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is open to advanced undergraduates with consent of instructor. The physical setting and community organization of these habitats are presented through lectures and substantial readings: rocky intertidal, sand beach, subtidal soft bottom, coral reef, deep-sea habitats.", 
+        "number": "5639", 
+        "subject": "OCB", 
+        "title": "Marine Benthic Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ZOO 4203C. College level statistics recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

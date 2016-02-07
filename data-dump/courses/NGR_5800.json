@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds upon the knowledge of the research process learned at the baccalaureate level and focuses on the importance of empirical investigation in the development of nursing theory and the formulation of testable hypotheses in nursing practice. Emphasis is directed to the nurse as consumer and practitioner in the area of research and evidence-based practice.", 
+        "number": "5800", 
+        "subject": "NGR", 
+        "title": "Methods in Nursing Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program of the College of Nursing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

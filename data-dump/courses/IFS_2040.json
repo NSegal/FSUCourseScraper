@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses scientific research design and field data collection, drawing on principles in biogeography and ecology. Students focus on sampling design and survey methods for plants on three scales: populations, communities, and ecosystems. Students also gain insight into field-based inquiry and techniques to monitor and assess plant populations, communities, and ecosystems.", 
+        "number": "2040", 
+        "subject": "IFS", 
+        "title": "Putting Science into Action: Field Methods in Plant Ecology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

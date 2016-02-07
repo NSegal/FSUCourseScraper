@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with topics and issues involved in the promotions and marketing of sporting events. The course is an examination of the evolution of large scale corporate marketing strategies.", 
+        "number": "4304", 
+        "subject": "SPM", 
+        "title": "Event and Special Projects"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

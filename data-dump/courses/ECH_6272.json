@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the theory of transport phenomena from a molecular viewpoint. Classical concepts from statistical mechanics and derivation of the Boltzmann equation. The transport theory and properties of dilute gases are developed from the Boltzmann equation, with a more general treatment given for the case of liquids. A brief introduction to time correlation functions is presented.", 
+        "number": "6272", 
+        "subject": "ECH", 
+        "title": "Molecular Transport Phenomena"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

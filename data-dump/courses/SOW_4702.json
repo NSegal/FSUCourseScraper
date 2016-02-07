@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the etiology and epidemiology of drug abuse, physiological and behavioral consequences of drug abuse, treatment approaches, and major policies and programs. Special attention is directed toward drug use in special populations, such as women, racial and ethnic minorities, gays and lesbians, persons with disabilities, and the elderly.", 
+        "number": "4702", 
+        "subject": "SOW", 
+        "title": "Chemical Dependency Problems and Programs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

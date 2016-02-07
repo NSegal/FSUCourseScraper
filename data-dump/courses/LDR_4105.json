@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This final course in the Certificate in Leadership Studies builds upon the leadership literature, theory and experience foundation created in the previous certificate courses. This course provides opportunities for analysis of student's experiential opportunity, advanced theory to practice work, and development of personal leadership theory and integrated learning plan.", 
+        "number": "4105", 
+        "subject": "LDR", 
+        "title": "Leadership and Complexity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

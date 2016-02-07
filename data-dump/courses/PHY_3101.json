@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on special relativity, quantum properties of light and matter, and origins of the universe.", 
+        "number": "3101", 
+        "subject": "PHY", 
+        "title": "Intermediate Modern Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

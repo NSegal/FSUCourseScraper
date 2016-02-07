@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides in-depth coverage of the cognitive-behavioral model of social work practice. The empirical bases of the theory and model are examined, along with applications to direct social work practice. Through participation in this course, students learn how to move from an assessment to intervention using the CBT model.", 
+        "number": "5128", 
+        "subject": "SOW", 
+        "title": "Cognitive-Behavioral Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5308.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

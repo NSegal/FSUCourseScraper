@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the major trends in the documentary film tradition, beginning with the first efforts in the early part of the 20th century and moving up to the present while providing students the opportunity to learn the basics of documentary practice.", 
+        "number": "2103", 
+        "subject": "IFS", 
+        "title": "Documentary Film: History, Theory, and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

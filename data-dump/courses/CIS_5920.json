@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a series of lectures given by faculty and visiting computer scientists. May be repeated to a maximum of ten semester hours.", 
+        "number": "5920", 
+        "subject": "CIS", 
+        "title": "Colloquium"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

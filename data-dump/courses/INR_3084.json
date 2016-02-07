@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on terrorist organizations and government responses to them.", 
+        "number": "3084", 
+        "subject": "INR", 
+        "title": "Terror and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

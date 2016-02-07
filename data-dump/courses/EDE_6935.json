@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar was developed to explore a variety of topics related to childhood education, curriculum, teacher education, and other areas relevant to professional preparation and thought. May be repeated to a maximum of nine semester hours.", 
+        "number": "6935", 
+        "subject": "EDE", 
+        "title": "Doctoral Seminar in Elementary Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

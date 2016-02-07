@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This studio course introduces jazz dance as an art form while developing the basic skills and vocabulary of jazz dance. Includes some theoretical study of the history of jazz dance and development of critical-response skills to dance performance. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "1500", 
+        "subject": "DAA", 
+        "title": "Jazz Dance I-Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

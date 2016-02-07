@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a survey of European history from c. 750 to c. 1200, from the origins of the medieval world in the Roman, Christian, and Germanic past through the gradual emergence of a distinctively European civilization to its first major period of expansion and accomplishment.", 
+        "number": "5127", 
+        "subject": "EUH", 
+        "title": "Earlier Middle Ages"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

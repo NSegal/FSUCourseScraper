@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the role of process planning and computer-aided process planning (CAPP), development of CAPP, configuration of CAPP systems, input approaches of CAPP systems, process routing planning, machining operations design, variant CAPP systems, generative CAPP systems and artificial intelligence in CAPP.", 
+        "number": "5623", 
+        "subject": "EIN", 
+        "title": "Computer Aided Process Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 3408, EGN 2123, EIN 3390C, and EIN 4312.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

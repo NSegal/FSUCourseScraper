@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course analyzes the European struggle toward democracy and nationalism from the collapse of Napoleonic Europe to the establishment of the German\u00a0 Empire, emphasizing the development of liberalism, socialism, communism, etc.", 
+        "number": "5238", 
+        "subject": "EUH", 
+        "title": "Rise of Nationalism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines basic concepts of radar systems including radar range equation, radar cross-section calculcations, random processes and noise, array antennas, beamsteering, doppler and range processing, FM and CW systems, pulse compression, synthetic aperture radar, and clutter.", 
+        "number": "4550", 
+        "subject": "EEE", 
+        "title": "Radar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3473 and EEL 3135. Corequisite: EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

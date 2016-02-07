@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Open to candidates for master's and doctoral degrees in performance or by instructor permission.", 
+        "number": "5412", 
+        "subject": "MUL", 
+        "title": "Solo Music Literature Seminar-Piano: Baroque to Classic"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

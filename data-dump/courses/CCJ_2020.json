@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide freshman and sophomore students with knowledge of terminology, classification systems, trends, and theories of criminal justice.", 
+        "number": "2020", 
+        "subject": "CCJ", 
+        "title": "Introduction to Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

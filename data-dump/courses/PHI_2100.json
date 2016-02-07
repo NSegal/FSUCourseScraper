@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with an understanding of the logical foundation of arguments and decisions. The course emphasizes acquisition of the skills necessary to construct clear, persuasive arguments. Students practice using reasoning to support conclusions and decisions. Students also evaluate reasons, data, arguments and conclusions presented in a variety of everyday circumstances.", 
+        "number": "2100", 
+        "subject": "PHI", 
+        "title": "Reasoning and Critical Thinking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers Lebesgue measure and integration; Banach spaces of integrable functions; abstract measure and integration.", 
+        "number": "5616", 
+        "subject": "MAA", 
+        "title": "Measure and Integration I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAA 4227 or MAA 5307.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

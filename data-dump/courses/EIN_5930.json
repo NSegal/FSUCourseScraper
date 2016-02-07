@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics in industrial engineering with particular emphasis on recent developments. May be repeated to a maximum of six semester hours.", 
+        "number": "5930", 
+        "subject": "EIN", 
+        "title": "Special Topics in Industrial Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

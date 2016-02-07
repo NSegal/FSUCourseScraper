@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab is comprised of experiments designed to illustrate and apply control theory, measurement techniques, calibration, tuning of controls, characterization of sensors, and control circuits.", 
+        "number": "4323L", 
+        "subject": "ECH", 
+        "title": "Process Control Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 4404L, ECH 4504, and ECH 4604. Corequisite: ECH 4615.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

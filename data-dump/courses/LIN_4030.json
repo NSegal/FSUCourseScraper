@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to familiarize students with the world language families, notion of relatedness, sound correspondence, comparative method, internal reconstruction, and the reconstruction of the Proto-Indo-European languages. Several theories of sound change are also discussed.", 
+        "number": "4030", 
+        "subject": "LIN", 
+        "title": "Introduction to Historical Linguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

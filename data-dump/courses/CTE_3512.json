@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the development of Western dress from the 15th century to the present as a reflection of socio-cultural factors including cultural values, ethnicity, gender, class, art, customs, economy, politics, religion, geography, and technology.", 
+        "number": "3512", 
+        "subject": "CTE", 
+        "title": "History of Dress"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

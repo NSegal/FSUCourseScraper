@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This internship enables students to pursue experience with design firm or other related field under the direction of a faculty member. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4947", 
+        "subject": "IND", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

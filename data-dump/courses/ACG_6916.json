@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of five semester hours.", 
+        "number": "6916", 
+        "subject": "ACG", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of associate dean for graduate programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers recent musical techniques and aesthetics as revealed in\u00a0 selected works.", 
+        "number": "4572", 
+        "subject": "MUT", 
+        "title": "Music Since World War II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

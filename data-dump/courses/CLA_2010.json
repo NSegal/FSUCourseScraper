@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This introductory level course engages with the Roman world from the point of view of the people who lived there. Students study the different kinds of people who inhabited the Roman Empire, focusing on its multiethnic and diverse populaces, and on the ways in which, as in a modern city, rather different groups may have come into contact with one another.", 
+        "number": "2010", 
+        "subject": "CLA", 
+        "title": "Peoples of the Roman World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

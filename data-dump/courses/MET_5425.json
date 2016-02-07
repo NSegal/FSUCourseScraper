@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers classical equilibrium thermodynamics; First and second law, entropy, phase changes, and potentials; Physics of moist air; Physics of aerosols; Condensation of water vapor on aerosols.", 
+        "number": "5425", 
+        "subject": "MET", 
+        "title": "Advanced Atmosphere Physics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 or equivalent, MET 2700, PHY 2048C, and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

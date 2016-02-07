@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a thematic examination of issues in intellectual access. Possible topics include (but are not limited to) the relationship between the structure of knowledge and access to electronic information; knowledge structures for digital libraries; the social construction of information; and the impact of economic classification structures on access to information.", 
+        "number": "6759", 
+        "subject": "LIS", 
+        "title": "Seminar in Intellectual Access"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

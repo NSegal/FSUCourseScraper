@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course parallels in breadth, but not in depth, the reading and other assigned outside work of the undergraduate course involving sound change, possible causes of sound change, several different theories of sound change, and other controversial problems.", 
+        "number": "5035", 
+        "subject": "LIN", 
+        "title": "Historical/Comparative Linguistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

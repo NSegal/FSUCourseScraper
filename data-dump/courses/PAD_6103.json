@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Both theoretical and methodological in purpose, the course explores the cultural approach to analyzing organizational settings and the institutions in which they are embedded. Introductory skills in ethnographic research will be acquired by those students who successfully complete the course.", 
+        "number": "6103", 
+        "subject": "PAD", 
+        "title": "Cultural Analysis and Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5106.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

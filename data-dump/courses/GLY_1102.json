@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history of the earth and its organisms as recorded in the fossil and rock record; principles of geological and paleontological research; evolution of the dinosaurs, mass extinctions, and effects of past continental movements on the diversity of life. Course credit may not be received for this course and also GLY 2100. GLY 2100L recommended.", 
+        "number": "1102", 
+        "subject": "GLY", 
+        "title": "Dinosaurs and Disasters on an Evolving Earth"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

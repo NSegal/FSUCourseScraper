@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the works of major social theorists in the nineteenth and early twentieth centuries, concentrating mostly on Marx, Durkheim, and Weber. How did they prefigure the development of sociology as a social science? How do their perspectives relate to such early American theorists as W.E.B. DuBois and Charlotte Perkins Gilman?", 
+        "number": "5018", 
+        "subject": "SYA", 
+        "title": "Classical Social Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the the study, development, and direction of multicameratelevision productions. May be repeated to a maximum of nine semester hours.", 
+        "number": "5594", 
+        "subject": "FIL", 
+        "title": "Directing: Multicamera Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 9.00"
+    }
+}

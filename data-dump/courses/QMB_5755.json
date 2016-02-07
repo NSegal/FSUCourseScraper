@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory treatment of operations research methodology, with emphasis on applications of network, inventory, scheduling, and queuing decision models to business and management.", 
+        "number": "5755", 
+        "subject": "QMB", 
+        "title": "Studies in Operations Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the research literature on political participation, voting behavior, and the impact of elections on government and policy. Primary emphasis is on recent American politics, but comparative and historical dimensions of electoral politics are explored as well.", 
+        "number": "5277", 
+        "subject": "POS", 
+        "title": "Electoral Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

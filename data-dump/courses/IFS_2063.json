@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course delves into themed and immersive entertainment and other experiences, providing students an opportunity to see the creative possibilities through different forms of expression. Students explore experiential design, from large-scale highly themed experiences, such as a museum visit or theme park trip, to everyday interactions, such as a stop to a coffee shop or gym.", 
+        "number": "2063", 
+        "subject": "IFS", 
+        "title": "Creating Experiences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

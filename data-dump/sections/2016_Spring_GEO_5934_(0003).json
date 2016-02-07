@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (3927)", 
+    "basic": {
+        "class_num": "3927", 
+        "course": "5934", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "GEO", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "L E S Molina"
+            ], 
+            "location": "BEL 0317", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "L E S Molina"
+            ], 
+            "location": "BEL 0317", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

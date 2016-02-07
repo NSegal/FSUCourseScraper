@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a multi-genre introduction to literary analysis. It seeks to further develop basic language and critical thinking skills, understanding of Hispanic cultures, and interpretation of Hispanic literature.", 
+        "number": "3030", 
+        "subject": "SPW", 
+        "title": "Approaching Hispanic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300, SPN 3350, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

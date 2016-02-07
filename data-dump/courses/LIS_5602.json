@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers concepts, techniques, and illustrations needed to develop first-rate nonprofit marketing skills for libraries and information services. These skills facilitate cost-effective and customer-centered strategic planning.", 
+        "number": "5602", 
+        "subject": "LIS", 
+        "title": "Marketing of Library and Information Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

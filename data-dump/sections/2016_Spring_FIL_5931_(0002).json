@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (11365)", 
+    "basic": {
+        "class_num": "11365", 
+        "course": "5931", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "FIL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Mark Wheatley"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of works suitable for chamber orchestra. Open to selected undergraduate students. May be repeated to a maximum of four semester hours.", 
+        "number": "2220", 
+        "subject": "MUN", 
+        "title": "Chamber Orchestra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Audition.", 
+        "grading_basis": "Graded", 
+        "units": "0.00 - 1.00"
+    }
+}

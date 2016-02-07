@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides experience in developing, implementing and evaluating individualized educational programs for learners identified as having severe mental disability.", 
+        "number": "5803", 
+        "subject": "EMR", 
+        "title": "Advanced Practicum in Mental Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

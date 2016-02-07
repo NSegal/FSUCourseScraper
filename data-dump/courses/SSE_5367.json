@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the rationale for social science instruction and examines traditional social science instructional methods.", 
+        "number": "5367", 
+        "subject": "SSE", 
+        "title": "Fundamentals in Teaching Social Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: EDG 5208.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

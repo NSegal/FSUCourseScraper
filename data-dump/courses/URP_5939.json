@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a selected topics seminar for the examination of topical issues not fully covered in other courses of the program. Content varies. May be repeated to a maximum of nine semester hours.", 
+        "number": "5939", 
+        "subject": "URP", 
+        "title": "Special Topics in Urban and Regional Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 3.00"
+    }
+}

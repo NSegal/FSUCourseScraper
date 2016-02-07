@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This advanced course in event management focuses on issues and considerations in event planning ethics, risk management, and safety.", 
+        "number": "5317", 
+        "subject": "LEI", 
+        "title": "Event Management Issues in Ethics and Risk Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

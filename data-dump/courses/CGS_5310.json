@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers opportunities for modern educational leaders and those interested in reforming K-12 education to enhance learning, teaching, and assessment with technology, and promote and model effective communication and collaboration among stakeholders using digital age tools.", 
+        "number": "5310", 
+        "subject": "CGS", 
+        "title": "Technology in Schools for Educational Leaders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

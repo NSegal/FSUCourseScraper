@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an advanced course in event management focusing on managerial aspects of event operations such as economic impact, assessment, infrastructure, safe operations, staging and production, food and beverage operations, vendors, and volunteers.", 
+        "number": "5316", 
+        "subject": "LEI", 
+        "title": "Event Planning Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

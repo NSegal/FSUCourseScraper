@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the cultural conceptions of supernatural reality, with emphasis on comparative understanding of myth and ritual, the religious experience, and religious evolution and revitalization movements.", 
+        "number": "5240", 
+        "subject": "ANG", 
+        "title": "Anthropology of Religion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

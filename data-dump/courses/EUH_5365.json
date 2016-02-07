@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course on Balkan history emphasizes the penetration of the Hapsburg and Russian empires, the decay of the Ottomans, and the emergence of the Balkan states after the wars of liberation, with stress on the cultural peculiarities of the various ethnic groups.", 
+        "number": "5365", 
+        "subject": "EUH", 
+        "title": "The Balkans Since 1700"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

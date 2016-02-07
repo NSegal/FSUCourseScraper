@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (2007)", 
+    "basic": {
+        "class_num": "2007", 
+        "course": "2123", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "CLA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Kevin Oliver"
+            ], 
+            "location": "MON 0005", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Kevin Oliver"
+            ], 
+            "location": "MON 0005", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

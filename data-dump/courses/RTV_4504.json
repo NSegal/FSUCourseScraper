@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an understanding of past and current methods of measuring radio, TV and cable audiences; terms and formulas used by the ratings services; the local market radio (Arbitron) and TV (Nielsen) reports; how ratings and other audience estimates are utilized in radio/TV/cable programming and sales; the newest developments in audience measurement; customized and qualitative approaches to audience measurement; and computer applications widely used in the broadcasting and advertising industries.", 
+        "number": "4504", 
+        "subject": "RTV", 
+        "title": "Electronic Media Audience Measurement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ADV 3008.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

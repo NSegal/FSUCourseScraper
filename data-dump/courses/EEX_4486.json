@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide future special education teachers with\u00a0 the knowledge and skills needed to meet the diverse learning needs of students found in today's general education classrooms.", 
+        "number": "4486", 
+        "subject": "EEX", 
+        "title": "Differentiated Instruction for Students with Exceptionalities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

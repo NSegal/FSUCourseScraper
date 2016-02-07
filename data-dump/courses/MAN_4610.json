@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the economics and politics of world energy. Examines OPEC, the world oil industry, consuming countries, and alternative energy sources.", 
+        "number": "4610", 
+        "subject": "MAN", 
+        "title": "Resources and World Enterprises"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

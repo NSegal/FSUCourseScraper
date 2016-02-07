@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students communicate the results of their research in writing or through an oral presentation.", 
+        "number": "4910", 
+        "subject": "BSC", 
+        "title": "Directed Independent Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L. Pre- or corequisite: BSC 4900.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00"
+    }
+}

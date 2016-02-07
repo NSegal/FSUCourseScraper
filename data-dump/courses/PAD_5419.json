@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines on contemporary and enduring issues in field, and techniques on how to deal with them. Illustrative topics include AIDS, dissent, workforce quality, drug testing, child/elder care, video display terminals, smoking, self-managing teams, white collar crime, wellness programs, compensation, sexual harassment at the workplace.", 
+        "number": "5419", 
+        "subject": "PAD", 
+        "title": "Issues in Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5417 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

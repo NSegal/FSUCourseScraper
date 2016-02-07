@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the design of water and wastewater treatment plants, wastewater collection systems, air and water pollution control, as well as solid waste management and contemporary environmental issues.", 
+        "number": "4001", 
+        "subject": "ENV", 
+        "title": "Environmental Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3201, CWR 3200L, and EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

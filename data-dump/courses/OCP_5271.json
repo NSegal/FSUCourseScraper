@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: turbulent transport of momentum and heat; dynamics of turbulence; homogenous isotropic turbulence; wall bounded shear flows; statistical description of turbulence; spectra. Also offered in the Department of Oceanography.", 
+        "number": "5271", 
+        "subject": "OCP", 
+        "title": "Turbulence"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4301, MET 5311, or OCP 5253.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

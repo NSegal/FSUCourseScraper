@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated up to four semester hours.", 
+        "number": "4670", 
+        "subject": "MVK", 
+        "title": "Practicum in Piano Pedagogy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

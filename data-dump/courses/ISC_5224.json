@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course on bioinformatics provides a quantitative framework for understanding how the genomic sequence and its variations affect the phenotype. The course is designed for biologists and biochemists seeking to improve quantitative data interpretation skills, and for mathematicians, computer scientists and other quantitative scientists seeking to learn more about computational biology. Laboratory exercises are designed to reinforce the classroom learning.", 
+        "number": "5224", 
+        "subject": "ISC", 
+        "title": "Introduction to Bioinformatics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

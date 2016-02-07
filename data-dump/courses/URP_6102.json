@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, planning is viewed as the attempt to apply the methods and findings of the sciences to practical questions of public policy. Philosophy of science, ethical theory, and political philosophy are examined for the implications each has for this view.", 
+        "number": "6102", 
+        "subject": "URP", 
+        "title": "Seminar in Planning Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

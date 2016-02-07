@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is an in-depth study of current topics in finance.", 
+        "number": "5935", 
+        "subject": "FIN", 
+        "title": "Seminar on Current Topics in Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

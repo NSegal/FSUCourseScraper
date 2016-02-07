@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a supervised internship individually assigned to accommodate the student's professional development in an area of application (e.g., actuarial science; industrial applications). May be repeated to a maximum of three semester hours.", 
+        "number": "4945", 
+        "subject": "MAT", 
+        "title": "Undergraduate Professional Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

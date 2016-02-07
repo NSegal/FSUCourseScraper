@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to computer functions. Emphasis is on visual literacy through practice and adaptation of computer processes to educational and art puproses.", 
+        "number": "4931", 
+        "subject": "ARE", 
+        "title": "Computer Graphic Design in Education and Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a broad introduction to environmental engineering topics. Includes fundamental concepts in mass balance, water quality, water and wastewater treatment, air quality, and solid/hazardous waste management, with considerations to environmental and societal impacts, as well as technical limitations. This course serves as the foundation for all other environmental engineering courses.", 
+        "number": "3040", 
+        "subject": "EES", 
+        "title": "Introduction to Environmental Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045, CHM 1045L, MAC 2311 and PHY 2048C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

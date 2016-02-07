@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course develops communicative proficiency and accuracy in both reading and writing Spanish. Can be taken concurrently with SPN 3300. Not open to native or heritage speakers of Spanish.", 
+        "number": "3400", 
+        "subject": "SPN", 
+        "title": "Spanish Reading and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: A grade of \"C\u2013\" or higher in SPN 2240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a lecture-laboratory on planetary and synoptic-scale systems of the tropics including hurricanes.", 
+        "number": "5533", 
+        "subject": "MET", 
+        "title": "Tropical Meteorology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4501C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

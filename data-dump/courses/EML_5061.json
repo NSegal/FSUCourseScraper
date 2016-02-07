@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with applications of vector calculus and partial differential equations in mechanical engineering.", 
+        "number": "5061", 
+        "subject": "EML", 
+        "title": "Analysis in Mechanical Engineering II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 5060 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

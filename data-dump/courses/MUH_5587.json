@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of contrasting music cultures from around the world, emphasizing both music as sound, and music as culture.", 
+        "number": "5587", 
+        "subject": "MUH", 
+        "title": "Seminar in World Music Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

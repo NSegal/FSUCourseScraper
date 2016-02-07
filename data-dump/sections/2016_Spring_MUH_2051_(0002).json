@@ -1,0 +1,48 @@
+{
+    "_unique": "0002-LEC (6047)", 
+    "basic": {
+        "class_num": "6047", 
+        "course": "2051", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MUH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Haiqiong Deng"
+            ], 
+            "location": "LON 0201", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Haiqiong Deng"
+            ], 
+            "location": "LON 0201", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Haiqiong Deng"
+            ], 
+            "location": "LON 0201", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

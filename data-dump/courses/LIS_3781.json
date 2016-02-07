@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores various topics in database management systems (DBMS) using a typical commercial DBMS, such as Oracle or MySQL. Topics include security, stored procedures, and triggers.", 
+        "number": "3781", 
+        "subject": "LIS", 
+        "title": "Advanced Database Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 2780, LIS 3784.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

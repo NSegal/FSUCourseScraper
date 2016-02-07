@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course applies economic analysis to current economic policy issues. Topics may include financial markets, Social Security, debt finance, health care, immigration, global climate change and environmental policy, regulation, welfare reform, labor market discrimination, drug policy, and topics selected by students.", 
+        "number": "3004", 
+        "subject": "ECO", 
+        "title": "Debating Economic Issues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

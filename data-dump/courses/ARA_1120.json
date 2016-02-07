@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for students who have no previous knowledge of Modern Standard Arabic. The aim is basic proficiency in the four language skills: reading, writing, speaking, and listening. Basic vocabulary, sentence structure, grammar, and pronunciation in Modern Standard Arabic are introduced as well as one Arabic dialect. This course follows a communicative approach. It enables students to put the language they are learning into actual use. May not be taken concurrently with ARA 1121 and/or 2220 or by native speakers.", 
+        "number": "1120", 
+        "subject": "ARA", 
+        "title": "Elementary Arabic I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

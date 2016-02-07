@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the balance of payments; disequilibrium and adjustments; birth, evolution, and demise of the Bretton Woods System; the managed float; international monetary reform; multinational corporations.", 
+        "number": "4713", 
+        "subject": "ECO", 
+        "title": "International Finance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023; ECO 3203 or ECO 3223 recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

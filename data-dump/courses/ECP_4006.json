@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents an economic analysis of sports and entertainment. Focus is on industrial organization of the sports market, public finance and sports, sports labor market, and college and non-profit sports. Similar issues related to entertainment and artistic industries may also be covered.", 
+        "number": "4006", 
+        "subject": "ECP", 
+        "title": "Economics of Sports"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

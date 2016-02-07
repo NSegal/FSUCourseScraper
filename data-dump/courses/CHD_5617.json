@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce graduate students in Family and Child Sciences to professional development topics in the field of family and child sciences.", 
+        "number": "5617", 
+        "subject": "CHD", 
+        "title": "Professional Development in Family and Child Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

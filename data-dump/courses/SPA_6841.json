@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated from term to term to a maximum of nine semester hours.", 
+        "number": "6841", 
+        "subject": "SPA", 
+        "title": "Seminar in Language"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

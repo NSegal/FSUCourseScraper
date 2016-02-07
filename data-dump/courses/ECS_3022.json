@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar incorporates the practical realities of economic development program implementation into the classroom, using a discussion format and case studies of real world applications. The readings are used to provide a broader context for the discussion of specific cases and more general theories. An emphasis is placed on \"lessons learned\"\u009d and discussion of the constraints and potential for implementing effective economic development programs in low-income areas of the United States and world, with a special focus on cities.", 
+        "number": "3022", 
+        "subject": "ECS", 
+        "title": "Social Entrepreneurship and Economic Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

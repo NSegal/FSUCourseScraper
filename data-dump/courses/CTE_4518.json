@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the preservation, curatorial choices, display techniques, and the educational significance of historic clothing and textiles in European museums. Discussion of the importance of historic clothing and textiles in European museums as a reflection of the art, customs, religion, technological development, and economy of the periods represented.", 
+        "number": "4518", 
+        "subject": "CTE", 
+        "title": "Historic Clothing and Textiles in European Museums"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

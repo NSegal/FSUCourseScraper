@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores issues surrounding various social identities, examines epistemologies that attempt to explain the role these identities play in higher education settings, and critically analyzes previous and existing higher education policy and practice to greater understand the influence of social justice, diversity, and multiculturalism on higher education.", 
+        "number": "6085", 
+        "subject": "EDH", 
+        "title": "Social Justice in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

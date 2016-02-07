@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is intended for pre-professional students who are not majoring in biochemistry; it covers the main concepts of biochemistry at same level as BCH 4053/4 but presents them at an accelerated pace. Topics include molecular structure, bioenergetics, enzymology and enzyme regulation, metabolism, as well as gene expression and regulation. This lecture-based course meets four hours a week.", 
+        "number": "4624", 
+        "subject": "BCH", 
+        "title": "Human Biochemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 2211 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

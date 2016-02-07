@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the first of a two-semester human anatomy/physiology sequence emphasizing the cell, stimulus-response concept, and the skeletal-muscular and first half of the nervous systems.", 
+        "number": "2085", 
+        "subject": "BSC", 
+        "title": "Anatomy and Physiology I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines selected works of major American writers.", 
+        "number": "3311", 
+        "subject": "AML", 
+        "title": "Major Figures in American Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

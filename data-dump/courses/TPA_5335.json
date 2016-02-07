@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced exploration into the costume design process as it relates to different dance venues, including modern, ballet and music theatre. Rendering techniques and dance apparel are examined.", 
+        "number": "5335", 
+        "subject": "TPA", 
+        "title": "Costume Design for Dance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

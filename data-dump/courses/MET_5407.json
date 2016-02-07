@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides the fundamentals of objective analysis and data assimilation with an emphasis on the physical aspects of objective analysis.\u00a0 Students learn how the general mathematical concepts and methods are applied to solve many practical data analysis and assimilation problems in atmospheric science.", 
+        "number": "5407", 
+        "subject": "MET", 
+        "title": "Fundamentals of Atmospheric Data Assimilation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 3305 or equivalent computer programming.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

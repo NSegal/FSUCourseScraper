@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers a managerial perspective of labor and manpower concepts and issues in industrial and postindustrial society and work organizations.", 
+        "number": "4401", 
+        "subject": "MAN", 
+        "title": "Management of Labor and Industrial Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

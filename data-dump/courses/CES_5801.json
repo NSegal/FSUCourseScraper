@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes analysis and design of beams, columns, connections, diaphragm and shear walls using sawn timber, laminated timber, and structural panels such as plywood and sheathing panels.", 
+        "number": "5801", 
+        "subject": "CES", 
+        "title": "Structural Design of Wood Structures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CES 3100 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

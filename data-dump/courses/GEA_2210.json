@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the physical diversity and the cultural and political patterns of North America.", 
+        "number": "2210", 
+        "subject": "GEA", 
+        "title": "United States and Canada"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

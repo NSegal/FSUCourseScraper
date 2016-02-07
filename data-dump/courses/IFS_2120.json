@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies how the end of the world is represented in the arts from the Early Christian and medieval periods to the present. Students analyze book and manuscript illustrations, films, paintings, plays, religious texts, and visionary poems to determine why and how people think the world will end and how they express those expectations in powerful works of art.", 
+        "number": "2120", 
+        "subject": "IFS", 
+        "title": "Apocalypse: The End of the World in the Arts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

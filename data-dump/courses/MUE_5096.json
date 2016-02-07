@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course orients, teaches, and coordinates students who wish to volunteer for Arts in Medicine practica at Tallahassee Memorial HealthCare. The purpose of the course is to allow each student to use his/her particular talents to benefit Tallahassee Memorial patients, families and staff. For each hour of academic credit, students are required to complete two hours per week of volunteer service throughout the semester. May be repeated to a maximum of three semester hours.", 
+        "number": "5096", 
+        "subject": "MUE", 
+        "title": "Arts in Medicine Service"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

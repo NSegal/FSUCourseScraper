@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intermediate treatment of real estate finance, investment, and tax analysis. Coverage includes mortgage markets, financing devices, and quantitative evaluation of real estate projects.", 
+        "number": "4204", 
+        "subject": "REE", 
+        "title": "Real Estate Finance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: REE 3043 and FIN 3403.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

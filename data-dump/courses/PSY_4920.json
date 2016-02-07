@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of participation in a group research project on a selected topic as designated by the directing professor. May be repeated to a maximum of fifteen semester hours.", 
+        "number": "4920", 
+        "subject": "PSY", 
+        "title": "Research Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

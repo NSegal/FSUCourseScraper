@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the identification, preservation, and maintenance of historic sites; the historic preservation movement. The course does not count as credit toward the history major.", 
+        "number": "4086", 
+        "subject": "HIS", 
+        "title": "Preserving Historic Sites and Spaces"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

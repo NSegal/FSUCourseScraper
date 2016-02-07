@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the field and practice of audiology as a prerequisite to graduate studies in Communication Sciences and Disorders or as a supplement to studies in related fields. Topics include the nature, measurement, and perception of sound; basic anatomy and physiology of the human auditory system; the nature, causes, and effects of hearing impairment; basic hearing assessment; treatment options for hearing impairment; as well as information regarding assessment and treatment of special populations.", 
+        "number": "5033", 
+        "subject": "SPA", 
+        "title": "Introduction to Clinical Audiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an examination of a particular theoretical or critical approach to film and television.", 
+        "number": "5805", 
+        "subject": "FIL", 
+        "title": "Critical Studies in Film and Television"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers developments in France and in the wider Francophone (French-speaking) world since the Second World War. The course explores the institutions of the Fifth Republic, the evolution of ideas since May 1968, and the emergence of new artistic movements in France. The course also examines the rise of Francophone cultures in the former colonies in Africa, the Caribbean, and elsewhere. May be repeated to a maximum of six semester hours.", 
+        "number": "5505", 
+        "subject": "FRE", 
+        "title": "French and Francophone Cultures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

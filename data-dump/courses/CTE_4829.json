@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers global trade, trade practice and theories, as well as the global sourcing related to the textile, apparel, and retail industries.", 
+        "number": "4829", 
+        "subject": "CTE", 
+        "title": "Global Sourcing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 3806, ECO 2013, and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

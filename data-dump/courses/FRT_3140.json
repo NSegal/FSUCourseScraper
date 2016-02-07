@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of selected masterpieces of French literature, ranging from the Middle Ages to the present. The readings and instruction are in English. Can be used for minor credit in French with permission of the coordinatior.", 
+        "number": "3140", 
+        "subject": "FRT", 
+        "title": "Masterworks of French Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

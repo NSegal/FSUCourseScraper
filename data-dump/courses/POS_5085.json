@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the activities employed by corporations pertaining to public affairs or governmental relations. The objective of the course is to provide students with a practical understanding of this component of business and how this function is developed, managed, and evaluated.", 
+        "number": "5085", 
+        "subject": "POS", 
+        "title": "Governmental Relations for Business"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

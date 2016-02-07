@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews various aspects of forensic accounting including procedural and substantive legal issues, professional ethics, investigation techniques, management of evidence, and special topics in forensic accounting. Students apply concepts and tools previously learned in prior program courses. This course emphasizes the practical application of those concepts and tools.", 
+        "number": "4931", 
+        "subject": "ACG", 
+        "title": "Forensic Accounting and Criminology Capstone"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 4683.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

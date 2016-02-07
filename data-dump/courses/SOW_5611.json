@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to various theoretical models of family counseling and presents assessment and intervention strategies and techniques.", 
+        "number": "5611", 
+        "subject": "SOW", 
+        "title": "Family Counseling in Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

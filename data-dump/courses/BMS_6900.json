@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves supervised individual study on selected topics. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "6900", 
+        "subject": "BMS", 
+        "title": "Directed Individual Study in Biomedical and Clinical Sciences"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 9.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys artists and processes in western printmaking from woodcut to silk screen.", 
+        "number": "5725", 
+        "subject": "ARH", 
+        "title": "History of Graphics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

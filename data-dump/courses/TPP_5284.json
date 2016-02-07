@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves conservatory study in professional actor training in conjunction with the Asolo State Theatre in Sarasota. May be repeated to a maximum of sixty semester hours.", 
+        "number": "5284", 
+        "subject": "TPP", 
+        "title": "MFA Practicum in Acting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 15.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of sedimentary rock types, principles of description and classification, sediment genesis and transport, distribution and origin of sedimentary deposits.", 
+        "number": "3340C", 
+        "subject": "GLY", 
+        "title": "Sedimentary Petrography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: 3220C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

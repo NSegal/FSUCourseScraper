@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced topics pertaining to complex reinforced concrete elements and structures. Topics include analysis and design for torsion, biaxial columns, slender columns, two-way slabs, retaining walls, shear walls, deep beams, and the strut-and-tie method.", 
+        "number": "5706", 
+        "subject": "CES", 
+        "title": "Advanced Concrete Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and CES 4702.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

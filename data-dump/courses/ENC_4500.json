@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of topics in the teaching of composition, including theories of the composing process, invention, revision, assigning, and evaluating student writing, and the relationship between writing and reading.", 
+        "number": "4500", 
+        "subject": "ENC", 
+        "title": "Theories of Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 3310 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the roles and responsibilities of executive merchandising managers in retail culture; critical competitive challenges in the global, quality, social, and technological environment of various retail settings. This course is part of the intern block for merchandising majors.", 
+        "number": "4890", 
+        "subject": "CTE", 
+        "title": "Executive Merchandising Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: A 2.50 GPA as well as a grade of \"C\" or better in CTE 3806, CTE 3835, CTE 4822, and MAR 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the study and development of two- and three-dimensional design projects using the elements and principles of design.", 
+        "number": "1203", 
+        "subject": "IND", 
+        "title": "Design Fundamentals I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

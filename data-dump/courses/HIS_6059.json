@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of the basic skills essential to the study and practice of history. Emphasis is placed on developing writing techniques, organizing papers, research methods, and quantitative methodology.", 
+        "number": "6059", 
+        "subject": "HIS", 
+        "title": "Historical Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

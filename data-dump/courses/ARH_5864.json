@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the primary methodological and theoretical foundations for the study of World Arts. Students question how World Arts are defined, study relevant methodologies (e.g., anthropology, post-colonial studies, and cultural studies), consider traditional-art historical methodologies from a World-Arts perspective, and examine critical issues pertaining to the study of art and architecture of particular world areas.", 
+        "number": "5864", 
+        "subject": "ARH", 
+        "title": "Methods and Theory for the Study of World Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 5813.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

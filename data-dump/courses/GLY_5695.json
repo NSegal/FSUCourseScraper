@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of special topics on demand in paleontology. May be repeated to a maximum of six semester hours.", 
+        "number": "5695", 
+        "subject": "GLY", 
+        "title": "Advanced Topics in Paleontology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies and analyzes significant issues of policy or management related to a student's current or future interest. In the first semester, in collaboration with the instructor, the student identifies an appropriate topic and designs the research. In the second semester, the research iscarried out and analysis is done.", 
+        "number": "5951", 
+        "subject": "ISS", 
+        "title": "Problem Analysis Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

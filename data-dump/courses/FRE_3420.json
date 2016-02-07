@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of French grammar emphasizing subtleties of written expression.", 
+        "number": "3420", 
+        "subject": "FRE", 
+        "title": "French Grammar and Composition I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 2211 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

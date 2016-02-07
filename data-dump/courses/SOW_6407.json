@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This class equips students to design, conduct, and critique survey re-\u00a0\u00a0\u00a0\u00a0 search. Particular attention is paid to surveying hard-to-reach or disenfranchised populations (methods and ethics involved) and reducing sources of error (i.e., sampling, coverage, measurement, non-response). Topics include: types of survey designs; survey sampling strategies and data collection; questionnaire construction (i.e., writing and ordering questions and response categories, pre-testing items); interviewing techniques; coding and analyzing data; and report/manuscript writing. Students gain practical experience by examining existing surveys and data.", 
+        "number": "6407", 
+        "subject": "SOW", 
+        "title": "Survey Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

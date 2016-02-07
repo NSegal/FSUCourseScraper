@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students participate in all aspects in the hospital management of complicated pregnancies. The rotation is designed to acquaint the learner with care provided by Obstetrical Hospitalists and or Laborists.", 
+        "number": "7167", 
+        "subject": "MDE", 
+        "title": "Hospital Based OB/GYN in an At-Risk Population"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "4.00"
+    }
+}

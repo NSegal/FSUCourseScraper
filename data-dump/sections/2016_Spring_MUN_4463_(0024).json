@@ -1,0 +1,26 @@
+{
+    "_unique": "0024-LEC (6297)", 
+    "basic": {
+        "class_num": "6297", 
+        "course": "4463", 
+        "season": "Spring", 
+        "solus_id": "0024", 
+        "status": "Closed", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jeffrey Keesecker"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

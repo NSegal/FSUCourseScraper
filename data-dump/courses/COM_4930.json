@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores advanced communication issues with an emphasis on research. May be repeated to a maximum of six semester hours; duplicate registration allowed.", 
+        "number": "4930", 
+        "subject": "COM", 
+        "title": "Undergraduate Seminar in Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

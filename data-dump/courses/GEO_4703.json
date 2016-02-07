@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the geopolitics and space-shrinking effects of telecommunications as well as economic and social impacts of several technologies, including the Internet and cyberspace.", 
+        "number": "4703", 
+        "subject": "GEO", 
+        "title": "Communications Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the structure and functions of U.S. and other mass-communication systems as well as their relationship to the political and economic systems.", 
+        "number": "4641", 
+        "subject": "MMC", 
+        "title": "Political Economy of Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000 or RTV 3001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

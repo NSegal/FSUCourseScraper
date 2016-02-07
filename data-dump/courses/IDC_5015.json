@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers teaching assistants and future educators techniques for the effective teaching of computing concepts and skills. Focus is placed on general colege-level teaching skills and on the unique challenges of teaching computer skills to students from multiple disciplines, who are not necessarely technically inclined.", 
+        "number": "5015", 
+        "subject": "IDC", 
+        "title": "Teaching Interdisciplinary Computing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00 - 3.00"
+    }
+}

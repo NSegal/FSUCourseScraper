@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course compares, analyzes, and synthesizes the different philosophical and psychological theories that form the foundation of early childhood education programs and practices. It also studies the historical events that influenced the direction and nature of the care and education of young children.", 
+        "number": "5665", 
+        "subject": "EEC", 
+        "title": "Historical and Theoretical Bases of Early Childhood Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

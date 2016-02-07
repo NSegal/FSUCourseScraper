@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the study of planet Earth, its internal dynamics, and surficial weathering, erosion, sedimentary processes, the composition and motion of its oceans and atmosphere, and its origin as part of the solar system. Course credit may not be received for this course and also GLY 1000, GLY 1030 or GLY 2010C.", 
+        "number": "1000", 
+        "subject": "ESC", 
+        "title": "Introductory Earth Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course will teach the principles and skills of strategically managing agencies and communities. Strategic planning, community visioning, and organizational assessments will be covered. Managerial leadership roles and responsibilities in organizing community planning and change also will be covered.", 
+        "number": "5335", 
+        "subject": "PAD", 
+        "title": "Strategic Leadership for Communities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

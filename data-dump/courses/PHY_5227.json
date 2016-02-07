@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on kinematics and dynamics of rigid bodies and introduces Lagrangian and Hamiltonian mechanics as well as the dynamics of oscillating systems.", 
+        "number": "5227", 
+        "subject": "PHY", 
+        "title": "Advanced Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3221 or PHY 5226 or its equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

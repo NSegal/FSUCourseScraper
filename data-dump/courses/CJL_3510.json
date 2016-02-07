@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the jurisdiction, policies, and procedures of courts in the administration of criminal justice.", 
+        "number": "3510", 
+        "subject": "CJL", 
+        "title": "The Courts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

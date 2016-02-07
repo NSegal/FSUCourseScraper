@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course allows students to develop basic emergency medical skills and knowledge that enables them to assist people who sustain accidental injury or who suffer a sudden illness. This course covers all the information from the United States Department of Transportation (DOT) First Responder National Standard Curriculum.", 
+        "number": "3112", 
+        "subject": "ATR", 
+        "title": "First Responder"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

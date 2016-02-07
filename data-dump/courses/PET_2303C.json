@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies anatomical and physiological functions of the human body to movement and physical fitness. Lecture and laboratory activities relate information to teaching physical education in schools.", 
+        "number": "2303C", 
+        "subject": "PET", 
+        "title": "Applied Anatomical and Physiology Concepts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHD 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

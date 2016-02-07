@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (5434)", 
+    "basic": {
+        "class_num": "5434", 
+        "course": "6042", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MDE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Carmen Sualdea"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-06", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

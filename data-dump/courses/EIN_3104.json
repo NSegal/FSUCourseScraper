@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as the evolution, history, emergence, and ethics of engineering and industrial engineering. Emphasis is placed on the management of technology and on the engineering method for product conceptualization, design, development, and production. Fundamental sciences, engineering methods, information systems, economics, and behavior theory contained in engineering management principles and practices.", 
+        "number": "3104", 
+        "subject": "EIN", 
+        "title": "Introduction to Engineering Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 2123 and EGN 3613.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

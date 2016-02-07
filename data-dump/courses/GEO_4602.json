@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the historical growth of cities; spatial structure of commercial, industrial, and public facilities within cities; residential segregation; urban poverty and fiscal distress, and urbanization in the third world.", 
+        "number": "4602", 
+        "subject": "GEO", 
+        "title": "Urban Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

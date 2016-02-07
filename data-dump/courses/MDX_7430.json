@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7430", 
+        "subject": "MDX", 
+        "title": "Medical Externship in Medical Genetics"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 9.00"
+    }
+}

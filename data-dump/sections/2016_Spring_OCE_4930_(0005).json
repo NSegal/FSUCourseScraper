@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (13543)", 
+    "basic": {
+        "class_num": "13543", 
+        "course": "4930", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "OCE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Robert Spencer"
+            ], 
+            "location": "OSB 0327", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

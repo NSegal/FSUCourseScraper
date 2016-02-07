@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of issues of immediate interest and consequence to the area of mass communication. May be repeated to a maximum of nine semester horus. Duplicate registration is allowed.", 
+        "number": "6920", 
+        "subject": "MMC", 
+        "title": "Colloquium in Mass Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

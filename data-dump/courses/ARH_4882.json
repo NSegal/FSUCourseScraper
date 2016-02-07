@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course engages the visual cultures of the African Diaspora with geographic attention to the contemporary nations of Cuba, Haiti, Brazil, Puerto Rico, the Bahamas, and Jamaica. After background on the visual cultures of West Africa, particularly those of Yoruba origin, we discuss the transformative impact of Atlantic World slavery and colonial institutions on African traditions. We consider the material and visual landscapes of new African ethnic formations in the Americas in relation to slavery, religious institutions, such as confraternities, ritual life, and the formation of symbolic economies. We then investigate how various religious traditions and their attendant visual cultures were remade in the post-slavery era.", 
+        "number": "4882", 
+        "subject": "ARH", 
+        "title": "Visual Cultures of the African Diaspora"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

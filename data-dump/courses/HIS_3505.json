@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the interrelationship between science, mathematics, and society from the time of the Babylonians to the present day, and how these lessons related to placing the secondary math and science curriculum into historical context.", 
+        "number": "3505", 
+        "subject": "HIS", 
+        "title": "Perspectives on Science and Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

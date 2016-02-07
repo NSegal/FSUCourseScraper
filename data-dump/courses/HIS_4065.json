@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the different specialties of public history, the historic preservation movement in the US, archives, history museums, oral history, commemoration, and the use of new media for public presentations of history.", 
+        "number": "4065", 
+        "subject": "HIS", 
+        "title": "Public History Theory and Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

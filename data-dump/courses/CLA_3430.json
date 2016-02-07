@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the history of ancient Greece from the Bronze Age through the Hellenistic period, with a focus on political, social, and economic developments.", 
+        "number": "3430", 
+        "subject": "CLA", 
+        "title": "History of Ancient Greece"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

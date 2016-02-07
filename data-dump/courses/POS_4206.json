@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the psychological origins of citizens' political beliefs and actions, while providing an overview of the theories and methods used in the field of political psychology. Topics cover information processing, emotion, attribution, tolerance, stereotyping, prejudice, and political communication.", 
+        "number": "4206", 
+        "subject": "POS", 
+        "title": "Political Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

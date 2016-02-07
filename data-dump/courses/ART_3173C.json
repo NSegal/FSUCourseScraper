@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an initiation into the fundamental techniques, processes and materials used in producing handmade books. In addition to hand skills, students are introduced to the history, theory and context concerning the field of book arts.", 
+        "number": "3173C", 
+        "subject": "ART", 
+        "title": "Book Structures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

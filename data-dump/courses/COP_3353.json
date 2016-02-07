@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course for majors and non-majors offers an introduction to the UNIX operating system. Topics include: UNIX history, requesting UNIX accounts, logging into a UNIX system, basic operating system concepts and file structure, basic commands, text editor(s) (to include emacs, vi, and pico), printing, mail, and online help. The goals of this course are to enable students to log in to their UNIX accounts from any type of computer and to have a basic understanding of the commands and utilities.", 
+        "number": "3353", 
+        "subject": "COP", 
+        "title": "Introduction to UNIX"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

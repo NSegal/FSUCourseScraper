@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course uses movies as a vehicle for discussing philosophical issues, such as, the nature of existence, the problem of knowledge, the existence of God, and the rules for proper conduct.", 
+        "number": "2047", 
+        "subject": "IFS", 
+        "title": "Philosophy and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

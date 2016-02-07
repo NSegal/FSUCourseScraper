@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares speech-language pathologists to evaluate and manage developmental communication disorders in conjunction with families, educators, and other service providers. Focus is on applications to the selection of functional treatment goals and to the development of effective treatment programs.", 
+        "number": "5462", 
+        "subject": "SPA", 
+        "title": "Developmental Communication Disorders: School-Age Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPA 5460.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

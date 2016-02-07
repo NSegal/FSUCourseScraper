@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics in civil and environmental engineering, with an emphasis on recent developments. Topics and credit may vary. May be repeated to a maximum of twelve semester hours. May be repeated within the same term.", 
+        "number": "4930", 
+        "subject": "CGN", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites vary.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

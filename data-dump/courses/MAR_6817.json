@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the conceptual foundations and research traditions of marketing research. Emphasis is placed upon reviewing the totality of research contexts and subject matters examined within the marketing discipline. The class format revolves around the critical review of appropriate journal articles. Doctoral standing and consent of instructor are required for admission.", 
+        "number": "6817", 
+        "subject": "MAR", 
+        "title": "Seminar in Marketing Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

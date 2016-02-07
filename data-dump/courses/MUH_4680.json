@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history, scope, and sources of musicological research.", 
+        "number": "4680", 
+        "subject": "MUH", 
+        "title": "Introduction to Historical Musicology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

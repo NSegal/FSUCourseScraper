@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to analyze film with regard to three basic questions: 1) What is film? 2) How do we perceive film? 3) How is an aesthetic developed?", 
+        "number": "4872", 
+        "subject": "FIL", 
+        "title": "Film Aesthetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

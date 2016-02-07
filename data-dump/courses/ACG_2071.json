@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to managerial accounting concepts. Please note, Accounting majors must earn at least a \"B\" in this course to proceed to required 3000 level accounting courses.", 
+        "number": "2071", 
+        "subject": "ACG", 
+        "title": "Introduction to Managerial Accounting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 2021 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

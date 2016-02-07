@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review of invertebrate biology, with emphasis on hard-part nomenclature; the occurrence, distribution, evolution, and ecology of fossil invertebrates.", 
+        "number": "3610C", 
+        "subject": "GLY", 
+        "title": "Paleontology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

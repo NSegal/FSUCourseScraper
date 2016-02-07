@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on Newtonian mechanics of a single particle, oscillations, nonlinear oscillations and chaos, gravitation, central force motion, systems of particles, and motion in nonintertial reference frames.", 
+        "number": "3221", 
+        "subject": "PHY", 
+        "title": "Mechanics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3101 and MAP 2302. Corequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

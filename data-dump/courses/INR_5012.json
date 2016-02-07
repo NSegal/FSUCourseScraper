@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a core course for all international affairs graduate students, providing background for a theoretical and practical understanding of globalization and the international organizations that are significant actors in this process.", 
+        "number": "5012", 
+        "subject": "INR", 
+        "title": "Problems of Globalism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

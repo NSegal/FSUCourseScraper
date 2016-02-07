@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a survey and application of communication theory, including interpersonal communication, small group communication, and public speaking.", 
+        "number": "1017", 
+        "subject": "SPC", 
+        "title": "Fundamentals of Speech"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

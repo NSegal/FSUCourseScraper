@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses public budgeting and related financial management processes at the federal, state, and local levels with some emphasis upon those in Florida. It also studies the evolution of budgeting in the U.S. and major financial functions including an introduction to governmental accounting.", 
+        "number": "5227", 
+        "subject": "PAD", 
+        "title": "Managing Public Financial Resources"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

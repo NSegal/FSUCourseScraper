@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on tensile instability, crystallography, theory of dislocations, plasticity, hardening mechanisms, creep and fracture, electron microscopy, composite materials.", 
+        "number": "4225", 
+        "subject": "EMA", 
+        "title": "Mechanical Metallurgy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3012C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

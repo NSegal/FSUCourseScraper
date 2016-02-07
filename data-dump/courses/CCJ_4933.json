@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces varying topics of selected interest and contemporary significance, discussed in a seminar format. May be repeated to a maximum of six semester hours.", 
+        "number": "4933", 
+        "subject": "CCJ", 
+        "title": "Seminar in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

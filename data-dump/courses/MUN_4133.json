@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers concert experience in a wide variety of literature. May be repeated to a maximum of four semester hours.", 
+        "number": "4133", 
+        "subject": "MUN", 
+        "title": "Symphonic Band"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 1.00"
+    }
+}

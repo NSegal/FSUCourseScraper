@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship offers practical experience working on women's issues or with women as a focus group in governmental and private agencies, women's organizations, or business. Internships may be arranged for junior and senior minors and majors in women's studies with the women's studies office. May be repeated to a maximum of six semester hours.", 
+        "number": "4940", 
+        "subject": "WST", 
+        "title": "Women's Studies Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Two core courses in women's studies. Corequisite: Permission from the program director.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

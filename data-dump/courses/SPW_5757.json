@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course analyzes the novels, stories, and essays of the outstanding writers of twentieth century Mexico.", 
+        "number": "5757", 
+        "subject": "SPW", 
+        "title": "20th-Century Mexican Prose"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

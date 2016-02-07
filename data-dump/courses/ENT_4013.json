@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course exposes non-business students to basic entrepreneurial finance and the principles of business planning. Students have the opportunity to\u00a0 complete a business plan for the creation of a new venture. In the process of development, students identify new or emerging opportunities for providing goods or services, demonstrate the need for such goods or services through market research, and develop financial statements for the proposed venture.", 
+        "number": "4013", 
+        "subject": "ENT", 
+        "title": "Planning New Ventures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 and MAN 3025.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

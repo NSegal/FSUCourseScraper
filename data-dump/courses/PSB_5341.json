@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers integrated neural systems that ultimately lead to the behavior of organisms. Topics include fluid and energy balance, reproduction, sleep, emotions, cognition and neurological disorders.", 
+        "number": "5341", 
+        "subject": "PSB", 
+        "title": "Systems and Behavioral Neuroscience"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews various innovative remediation technologies used for cleanup of contaminated soil and groundwater at a site such as air sparging, soil vapor extraction, reactive walls, reactive zones, stabilization technologies, as well as hydraulic and pneumatic fracturing pump-and-treat systems.", 
+        "number": "4022", 
+        "subject": "ENV", 
+        "title": "Remediation Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

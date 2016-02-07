@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students planning to be teachers of students with visual impairments with the techniques and instructional tools to safely teach independent living skills, including the skills associated with food preparation, household management, personal grooming, clothing care, and health management.", 
+        "number": "4254", 
+        "subject": "EVI", 
+        "title": "Teaching Independent Living Skills to Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on building and managing relationships with business customers. It covers business-to-business management issues with an emphasis on topics at the mid-to-upper management level. Specific strategic marketing issues include problems and opportunities that leverage an understanding of the entire supply chain. Sales deals primarily with complex, large/key account management and customer relations. Sales management issues concentrate on managing a sales force focused on complex accounts.", 
+        "number": "5409", 
+        "subject": "MAR", 
+        "title": "Business-to-Business Sales and Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

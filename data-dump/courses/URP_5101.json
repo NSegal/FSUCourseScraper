@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a general introduction to the field of planning, examining the intellectual heritage and procedural approaches shared by practitioners working in all areas of contemporary planning practice. The course also introduces students to the general area of planning theory and some of the fundamental political and ethical issues they face in planning practice.", 
+        "number": "5101", 
+        "subject": "URP", 
+        "title": "Planning Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

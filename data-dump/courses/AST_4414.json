@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the evolution of the universe from the \"Hot Big Bang\" to the current epoch. Topics include cosmological expansion, the Hubble constant and other cosmological parameters, the microwave background radiation, early universe nucleosynthesis, the growth of large-scale structure, the \"dark ages\" and the re-ionization of the universe, the horizon and other fine-tuning problems, distance determinations, redshift surveys, inflation, cosmological acceleration, as well as dark matter and dark energy.", 
+        "number": "4414", 
+        "subject": "AST", 
+        "title": "Cosmology and Structure Formation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: AST 4211 and PHY 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

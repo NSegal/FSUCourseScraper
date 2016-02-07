@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the multiple roles and opportunities for the professional registered nurse. Topics related to practice issues are addressed. Strategies for transition from academia to practice environments are analyzed and include the development of a personal career plan.", 
+        "number": "4828", 
+        "subject": "NUR", 
+        "title": "Transition to Nursing Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NUR 4445, NUR 4555L, NUR 4766, and NUR 4766L. Corequisites: NUR 4888, NUR 4888L, and NUR 4945.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

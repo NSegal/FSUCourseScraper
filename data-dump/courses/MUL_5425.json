@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies chamber music literature for strings alone, strings with keyboards, and strings with other instruments.", 
+        "number": "5425", 
+        "subject": "MUL", 
+        "title": "Chamber Music Literature for Strings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

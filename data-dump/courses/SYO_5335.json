@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a broad overview on the macro-sociology of political and economic institutions and historical dynamics governing their interplay.\u00a0 Issues include perspectives in political economy, economic organization in the historical development of U.S. capitalism, economic cycles, waves, and periodization in capit; theories of the state; institutionalized and non-instittalist development, theories of the state, institutionalized and non-institutionalized political processes, politics of class and the labor movement,and macro-distributional processes (market and nonmarket) that foster\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 structured inequalities.", 
+        "number": "5335", 
+        "subject": "SYO", 
+        "title": "Sociology of Political Economy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

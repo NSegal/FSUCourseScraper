@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the archaeology and art of Ancient Egypt from the Pre-dynastic to the Ptolemaic and Roman periods. Emphasis is placed upon the art, architecture, and culture of the Old and New Kingdoms.", 
+        "number": "5119", 
+        "subject": "ARH", 
+        "title": "Archaeology of Ancient Egypt"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

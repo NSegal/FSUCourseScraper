@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is open to course option master's degree students who are near completion of their course requirements. Permission of major professor\u00a0\u00a0\u00a0\u00a0 required.", 
+        "number": "5970", 
+        "subject": "FAD", 
+        "title": "Special Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Master's degree student.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

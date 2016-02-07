@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides practical experience through working as an intern at selected industry or research laboratories supervised both by the on-the-job mentors and by the Department of Mechanical Engineering.\u00a0 The course is designed to provide the student with professional internship experience in preparation for his/her future career development.", 
+        "number": "5946", 
+        "subject": "EML", 
+        "title": "Professional Internship Experience in Mechanical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "4.00"
+    }
+}

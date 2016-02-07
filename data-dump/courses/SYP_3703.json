@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is about childhood and youth in everyday life. The course explores central themes and features of children's peer cultures and also considers the importance of family and peer experience for children's social development.", 
+        "number": "3703", 
+        "subject": "SYP", 
+        "title": "Childhood in Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course concentrates on the modern history of North Africa including: Maghrib, Morocco, Algeria, Tunisia, Libya, Egypt, Sudan, Ethiopia and Somalia. It is intended to provide an understanding of the background and problems of North African states today.", 
+        "number": "4302", 
+        "subject": "AFH", 
+        "title": "North African History: A Survey"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

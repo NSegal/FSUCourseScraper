@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the statistical methods used in studying the prevention of disease in human populations.", 
+        "number": "5172", 
+        "subject": "STA", 
+        "title": "Fundamentals of Biostatistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A previous course in statistics or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

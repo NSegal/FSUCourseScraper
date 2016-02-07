@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the behavior of legislators and the influences that shape that behavior in the legislative process.", 
+        "number": "5427", 
+        "subject": "POS", 
+        "title": "Legislative Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

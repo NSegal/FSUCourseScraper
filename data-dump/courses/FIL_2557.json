@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches introductory principles, aesthetics, and theory of motion picture editing and their application in editing narrative shorts. May be repeated to a maximum of twelve semester hours.", 
+        "number": "2557", 
+        "subject": "FIL", 
+        "title": "Motion Picture Editing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

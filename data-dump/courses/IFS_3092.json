@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the impact of changing technology on circadian rhythms and sleep patterns and the consequences to human health. The course is suitable for all majors.", 
+        "number": "3092", 
+        "subject": "IFS", 
+        "title": "Broken Clocks and Disrupted Sleep: Impacts of Technology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of representative choral works for women's voices. Open to all women enrolled in the University. May be repeated to a maximum of four semester hours.", 
+        "number": "5325", 
+        "subject": "MUN", 
+        "title": "Women's Glee Club"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

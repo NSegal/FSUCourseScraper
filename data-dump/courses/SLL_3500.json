@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the Slavic peoples, their cultures and traditions, from prehistory to present day. Novels and film give students a perspective from the \"inside.\" Taught in English.", 
+        "number": "3500", 
+        "subject": "SLL", 
+        "title": "Slavic Culture and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

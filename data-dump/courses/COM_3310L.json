@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This lab examines applications and simulations of communication research methods. Lecture material covering research design, measurement, sampling, data collection, analysis, interpretation and reporting practiced using computer technology.", 
+        "number": "3310L", 
+        "subject": "COM", 
+        "title": "Communication Research Methods Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COM 3310.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

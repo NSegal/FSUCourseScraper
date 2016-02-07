@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers Zermelo-Fraenkel axioms for set theory. Finite and infinite sets. Ordinal numbers, cardinal numbers. The axiom of choice and some of its equivalents.", 
+        "number": "5206", 
+        "subject": "MHF", 
+        "title": "Foundations of Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

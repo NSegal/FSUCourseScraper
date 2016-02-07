@@ -1,0 +1,37 @@
+{
+    "_unique": "0013-LEC (11325)", 
+    "basic": {
+        "class_num": "11325", 
+        "course": "1106", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Open", 
+        "subject": "MGF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Tancred De Grazia"
+            ], 
+            "location": "TBA", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Tancred De Grazia"
+            ], 
+            "location": "TBA", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

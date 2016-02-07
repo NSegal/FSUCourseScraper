@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the fundamentals of modern symbolic logic (propositional and predicate calculi), with special attention to the evaluation of symbolized arguments using the techniques of natural deduction. Topics include validity, soundness, proof, symbolization, truth-tables, truth-trees, and truth-functional and quantificational inference.", 
+        "number": "3130", 
+        "subject": "PHI", 
+        "title": "Introduction to Symbolic Logic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

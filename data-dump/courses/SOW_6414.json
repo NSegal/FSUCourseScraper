@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a firm foundation in descriptive statistics, univariate and bivariate inferential statistics, and multiple regression analyses. The course is designed as an applied statistics course and presented in three major sections: analysis of group differences, analysis of bivariate associations, and analysis of prediction models. Students learn how to use SPSS to clean and manage data, and how to analyze existing Social Work data sets. The course also introduces students to reporting data analysis plans and statistical results consistent with the expectations of peer-reviewed social work journals as well.", 
+        "number": "6414", 
+        "subject": "SOW", 
+        "title": "Introduction to Statistics in Applied Social Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

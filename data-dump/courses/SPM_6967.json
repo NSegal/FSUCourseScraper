@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the qualifying examination to be taken after a doctoral student has completed eighteen to twenty-four hours of course work. The exam is an assessment of a student's ability to continue in the program.", 
+        "number": "6967", 
+        "subject": "SPM", 
+        "title": "Qualifying Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "0.00"
+    }
+}

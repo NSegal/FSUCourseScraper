@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This is an advanced graduate application of the design process in the form of a large-scale project involving comprehensive research and execution in metric. Emphases are on technological presentation techniques and systematic design development from concept to construction documents.", 
+        "number": "5258", 
+        "subject": "IND", 
+        "title": "Graduate Studio IV"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5257.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

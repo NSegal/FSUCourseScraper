@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The minimum number of thesis hours for completion of a master's degree is six.", 
+        "number": "5971", 
+        "subject": "CTE", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This practicum allows students to work individually with a faculty member throughout the semester and meet with the instructor periodically to make progress reports. Written and oral presentations of work are required. May be repeated to a maximum of six semester hours, with a maximum of only three semester hours credit allowed to be applied to the Computational Science degree.", 
+        "number": "4943", 
+        "subject": "ISC", 
+        "title": "Practicum in Scientific Computing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing (ninety plus hours).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

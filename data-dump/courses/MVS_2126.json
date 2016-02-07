@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on intermediate folk guitar styles and techniques.", 
+        "number": "2126", 
+        "subject": "MVS", 
+        "title": "Intermediate Class Guitar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVS 1116 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

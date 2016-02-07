@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours.", 
+        "number": "4934", 
+        "subject": "MAT", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

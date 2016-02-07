@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates, experientially and academically, New York City's resources. Using performances and exhibitions as the center point, the relationships among the various elements that compose an urban art event are explored. May be repeated within the same semester. May be repeated to a maximum of six semester hours.", 
+        "number": "4951", 
+        "subject": "DAN", 
+        "title": "New York City: Arts and Resources"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

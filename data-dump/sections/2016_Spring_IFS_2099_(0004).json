@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (11375)", 
+    "basic": {
+        "class_num": "11375", 
+        "course": "2099", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "IFS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "William Biringer"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

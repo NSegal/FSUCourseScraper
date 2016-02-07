@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores various approaches to the study of Old English literature. May emphasize developing a reading knowledge of Old English with an understanding of its phonology, morphology and syntax. May focus upon literary texts. Literature course requires a working knowledge of Old English\u00a0\u00a0\u00a0\u00a0 language.", 
+        "number": "5206", 
+        "subject": "ENL", 
+        "title": "Studies in Old English Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the major thinkers and texts in the critique of religion as it developed in the 19th and 20th centuries in the west. Beginning with Schleiermacher, the course moves on to consider the so-called \"masters of suspicion\"--Feuerbach, Marx, Nietzsche, and Freud. By means of a close examination of central texts, students explore the meaning of a critique of religion, the structure of religious consciousness, the place of religion with respect to other forms of culture, the problem of religion and alienation, and the possibility of a critical faith.", 
+        "number": "3431", 
+        "subject": "REL", 
+        "title": "Critics of Religion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on fundamental considerations in the preservation of foods by freezing, canning, dehydration, ionizing radiations, etc.", 
+        "number": "5424", 
+        "subject": "FOS", 
+        "title": "Food Preservation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Biochemistry and microbiology.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

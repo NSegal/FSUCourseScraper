@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies basic economic theory and methods to policy issues arising in schools and universities, including both domestic and international settings. Examples of specific issues include the supply and demand for education, the external benefits of education, the labor market for educators, and the effect of market competition on the performance of educational institutions.", 
+        "number": "5624", 
+        "subject": "EDF", 
+        "title": "Economics of Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

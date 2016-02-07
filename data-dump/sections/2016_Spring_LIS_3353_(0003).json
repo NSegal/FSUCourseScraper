@@ -1,0 +1,48 @@
+{
+    "_unique": "0003-LEC (11808)", 
+    "basic": {
+        "class_num": "11808", 
+        "course": "3353", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "LIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "John Marks"
+            ], 
+            "location": "LSB 0006", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "16:25:00", 
+            "instructors": [
+                "John Marks"
+            ], 
+            "location": "LSB 0214", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:25:00", 
+            "instructors": [
+                "John Marks"
+            ], 
+            "location": "LSB 0214", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

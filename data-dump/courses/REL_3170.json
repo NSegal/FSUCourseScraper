@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses contemporary moral problems such as deception, sexual activities and relations, and capital punishment from the standpoints of major religious traditions.", 
+        "number": "3170", 
+        "subject": "REL", 
+        "title": "Religious Ethics and Moral Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

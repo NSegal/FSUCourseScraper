@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of current methods and theory in human biology research, with emphasis on adaptation, variation, and biocultural interactions in living human populations. The course also trains students in field methods for assessment of nutrition, growth and development, stress, and health, providing training in systematic ethnographic methods and modeling biocultural interactions.", 
+        "number": "5581", 
+        "subject": "ANG", 
+        "title": "Method and Theory in Human Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

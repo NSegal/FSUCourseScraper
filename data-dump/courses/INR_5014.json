@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the impact geographic and historic factors exert on the events and phenomena related to international relations. It looks at themany ways that such contextual forces may influence national and internati onal processes.", 
+        "number": "5014", 
+        "subject": "INR", 
+        "title": "Contexts and International Relations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

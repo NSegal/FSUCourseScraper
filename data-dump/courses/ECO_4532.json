@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses economic models to analyze political decision making. A theory of constitutions is developed and applied to the U.S. Constitution. Models of majority rule decision making and bureauractic supply are used to develop an understanding of supply and demand in the public sector.", 
+        "number": "4532", 
+        "subject": "ECO", 
+        "title": "Economic Analysis of Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

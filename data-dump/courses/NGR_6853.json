@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides tools for locating, evaluating, refining, synthesizing, channeling, applying, and explaining appropriate research findings, in order to improve the efficiency and effectiveness of nursing care in interprofessional settings. Quality-improvement methods and grant writing are discussed.", 
+        "number": "6853", 
+        "subject": "NGR", 
+        "title": "Translation and Synthesis of Evidence"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5800 and NGR 5846.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

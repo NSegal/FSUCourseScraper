@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the principles of literary study through reading and discussion of short pieces of fiction, primarily from the twentieth century.", 
+        "number": "3370", 
+        "subject": "GEW", 
+        "title": "German Short Fiction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission. GER 3400, GER 3310, or GER 3500 are recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

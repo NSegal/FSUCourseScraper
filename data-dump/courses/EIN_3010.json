@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches, from an engineering viewpoint, fundamental topics that are important for the practicing industrial engineer, including technical writing, oral communication and presentation of technical topics, managerial and cost accounting for production organizations and databases and management information systems.", 
+        "number": "3010", 
+        "subject": "EIN", 
+        "title": "Industrial and Manufacturing Engineering Tools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

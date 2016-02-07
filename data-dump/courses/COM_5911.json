@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of five semester hours; duplicate registration allowed. A maximum of three semester hours may apply to the master's degree.", 
+        "number": "5911", 
+        "subject": "COM", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: School approval.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

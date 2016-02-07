@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course advances students' knowledge of research methods used to study clinical problems and to evaluate intervention techniques used in speech-language pathology and other educational endeavors. Current research literature is examined to critique the research methods used to address specific issues selected by students. May be repeated to a maximum of nine semester hours.", 
+        "number": "6805", 
+        "subject": "SPA", 
+        "title": "Seminar in Clinical Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

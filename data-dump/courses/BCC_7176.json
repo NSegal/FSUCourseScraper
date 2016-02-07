@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "Through this clerkship, students are exposed to an intense clinical experience in a family practice setting. The clerkship exposes students to patientpopulations located in rural areas and patients who are medically underserved. Students select either a Residency Rotation or Rural Medicine Rotation for the clerkship in 2004-2005.", 
+        "number": "7176", 
+        "subject": "BCC", 
+        "title": "Family Medicine Sub-Internship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Completion of all required third-year clerkships.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

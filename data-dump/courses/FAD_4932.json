@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to expose students to career opportunities in FCS and professional/ethical behavior and to prepare them for placement in agencies/organizations serving individuals and families. Course must be taken in the semester prior to FAD 4805.", 
+        "number": "4932", 
+        "subject": "FAD", 
+        "title": "Pre-Professional Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status and senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_unique": "0006-LAB (8789)", 
+    "basic": {
+        "class_num": "8789", 
+        "course": "2053L", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "PHY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [], 
+            "location": "UPL 0107", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

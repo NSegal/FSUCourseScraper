@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes faculty visits and observation of student teaching in theatre. May be repeated to a maximum of five semester hours. A maximum of three semester hours may apply to the master's degree.", 
+        "number": "5943", 
+        "subject": "THE", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course trains students to utilize appropriate expressions in various business-related situations in Japan.", 
+        "number": "3440", 
+        "subject": "JPN", 
+        "title": "Business Japanese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

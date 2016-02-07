@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the alphabet, basic vocabulary, grammar and syntax of modern Hebrew. Oral comprehension, speaking, and writing are emphasized through a communicative approach. Students are also introduced to modern Israeli culture. No previous knowledge required. May not be taken by native speakers. May not be taken concurrently with HBR 1121 and/or 2220.", 
+        "number": "1120", 
+        "subject": "HBR", 
+        "title": "Elementary Modern Hebrew I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

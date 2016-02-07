@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches a hands-on approach for the elucidation/quantification of environmental parameters and microbial processes and provides students with a tool kit of relevant field and lab techniqes which may be used in a variety of environmnental settings.", 
+        "number": "5419C", 
+        "subject": "OCC", 
+        "title": "Advanced Biogeochemistry: Field Methods and Concepts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010 and CHM 1046.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

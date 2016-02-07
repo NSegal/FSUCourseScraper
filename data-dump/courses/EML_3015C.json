@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first of a two-part sequence presenting an integrated treatment of traditional topics on thermodynamics, fluid mechanics, and heat transfer. The essential role of each of these related elements and their connections is examined in the context of real-world systems. Materials covered include: first and second laws of thermodynamics; power and refrigeration cycles; heat transfer modes including steady and time dependent conduction,\u00a0\u00a0 convection, and radiation; fluid statics; mass momentum and energy conservation; Bernoulli's equation; internal and external flows.", 
+        "number": "3015C", 
+        "subject": "EML", 
+        "title": "Thermal-Fluids I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3011C, EML 3013C, and MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes topics such as techniques of real estate market analysis, survey research, and applications of computers to real estate problems.(Note: REE 4103 and 4143 cannot be taken concurrently.)", 
+        "number": "4143", 
+        "subject": "REE", 
+        "title": "Real Estate Market Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: REE 3043 and REE 4103.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

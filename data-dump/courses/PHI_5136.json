@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores one or more non-classical logics, such as intuitionistic, many-valued, modal, provability, quantum, relevance, and tense. A mastery of the syntax and semantics of, and a natural deduction system for, first order logic is presumed.", 
+        "number": "5136", 
+        "subject": "PHI", 
+        "title": "Modern Logic II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHI 3130 or equivalent, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

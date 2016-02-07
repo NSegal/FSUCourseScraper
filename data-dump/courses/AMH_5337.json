@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an interdisciplinary study of the impact on American thought of social Darwinism, industrialism, naturalism, the culture of consumption, radicalism, anticommunism, post-industrialism, and affluence. Examines the growth of cultural criticism as a task required of the twentieth-century intellectual.", 
+        "number": "5337", 
+        "subject": "AMH", 
+        "title": "US Intellectual History II: 1880 to the Present"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

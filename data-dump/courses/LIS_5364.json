@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course follows a step-by-step introduction to the topics concerning programming with XHTML, CSS, PHP and MySQL. Topics include acquiring domain names and Web hosting agencies, introduction to Web development and PHP, working with data types and operators, building functions and control structures, manipulating strings, accessing files and directories, manipulating data in arrays and strings, working with databases and MySQL, manipulating MySQL databases with PHP, managing state information, developing object-oriented PHP, and debugging and error handling. In addition, more advanced topics like templates and jQuery are introduced as well.", 
+        "number": "5364", 
+        "subject": "LIS", 
+        "title": "Web Site Development and Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5362.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

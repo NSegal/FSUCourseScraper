@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the user experience design process, and is intended to familiarize students with the methods, concepts, and techniques necessary to make user experience design an integral part of developing information interfaces. The course provides students with an opportunity to acquire the resources, skills, and hands-on experience they need to design, develop, and evaluate information interfaces from a user-centered design perspective.", 
+        "number": "4351", 
+        "subject": "LIS", 
+        "title": "User Experience Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 2360.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

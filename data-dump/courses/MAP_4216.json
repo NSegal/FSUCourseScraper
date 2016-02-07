@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers fundamental problems, weak and strong extrema, necessary and sufficient conditions, Hamilton-Jacobi theory, dynamic programming, control theory and Pontryagins maximum principle.", 
+        "number": "4216", 
+        "subject": "MAP", 
+        "title": "Calculus of Variations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302 and MAA 4226 or MAA 4224 or MAP 4341.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

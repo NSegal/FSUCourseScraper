@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the thought, literature, and arts of Western culture from the Renaissance to the Enlightenment.", 
+        "number": "2235", 
+        "subject": "HUM", 
+        "title": "Humanities: From the Renaissance to the Enlightenment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

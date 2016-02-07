@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-MED (5538)", 
+    "basic": {
+        "class_num": "5538", 
+        "course": "7341", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "MDE", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Michael Muszynski"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

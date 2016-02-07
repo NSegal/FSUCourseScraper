@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students the opportunity to study a recurring theme in German literature and culture (e.g., the Faust theme). The course may be structured around a specific interest of the teacher on topical issues and concerns. May be taken by students not majoring in German who read assigned materials in translation. May be repeated to a maximum of six semester hours.", 
+        "number": "5588", 
+        "subject": "GET", 
+        "title": "Studies in a Theme"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

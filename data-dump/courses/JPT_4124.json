@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to contemporary literature in Japan. It approaches principal developments in literary production since the 1980s from multiple perspectives. Focus is placed on how these texts resonate with both sociocultural contexts in Japan and global issues in literary and media studies. May be repeated to a maximum of nine semester hours.", 
+        "number": "4124", 
+        "subject": "JPT", 
+        "title": "Contemporary Japanese Literature in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

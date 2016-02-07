@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the biopsychosocial implications of HIV/AIDS. Topics include the origins of the illness, its prevalence and spread throughout world cultures, and its impact on the individual and society. Medical issues are discussed from perspectives of viral acquisition and transmission, treatment trials, intervention in opportunistic infections, medication adherence, and the search for vaccination and cure. Psychological issues are addressed through examinations of the impact of the illness on the individual. Attention is given to variations associated with gender, race, age, and sexual orientation of affected and infected persons, and to the impact of HIV/AIDS on the varying communities of which they are a part.", 
+        "number": "5688", 
+        "subject": "SOW", 
+        "title": "Living with HIV/AIDS: Prevention, Intervention, and Care"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

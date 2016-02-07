@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces extended vocabulary and grammar, and basic conversation is emphasized. Students start conversing in spoken Arabic as well as reading and writing in Modern Standard Arabic. This course also develops the students' knowledge of Arab culture. May not be taken concurrently with ARA 1120 and/or 2220 or by native speakers.", 
+        "number": "1121", 
+        "subject": "ARA", 
+        "title": "Elementary Arabic II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARA 1120.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

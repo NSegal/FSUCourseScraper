@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on sightreading, harmonizing, transposing, improvising, intermediate keyboard techniques, repertoire, and musicianship. For music majors other than keyboard principals and performance majors. May be repeated to a maximum of two semester hours.", 
+        "number": "2121", 
+        "subject": "MVK", 
+        "title": "Class Piano"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVK 1111 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

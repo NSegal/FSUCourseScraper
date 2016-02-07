@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course in thermal fluids covers the axiomatic formulations of the first and second laws of thermodynamics; general thermodynamic relationships and properties of real substances; energy, exergy, and second-law analysis of energy-conversion processes; reactive systems and multiphase equilibrium; entropy generation minimization and thermodynamic optimization; as well as applications to low-temperature refrigeration and power-generation systems.", 
+        "number": "5103", 
+        "subject": "EML", 
+        "title": "Advanced Engineering Thermodynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in mechanical engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

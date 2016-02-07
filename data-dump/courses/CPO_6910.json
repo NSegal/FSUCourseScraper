@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students discuss strategies for research in comparative politics and design and implement a research project relating to the specific topic of the course. Specific topic varies.", 
+        "number": "6910", 
+        "subject": "CPO", 
+        "title": "Advanced Research in Comparative Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5746.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

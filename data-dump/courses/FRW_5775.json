@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the literature of Africa and the Caribbean written in French with an emphasis on Negritude and/or Creolite. May be repeated to a maximum of six semester hours.", 
+        "number": "5775", 
+        "subject": "FRW", 
+        "title": "Francophone Caribbean/African Cultures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

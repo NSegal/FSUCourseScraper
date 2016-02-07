@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the issues and literature of economic anthropology. The course explores exchange theory, gift and commodity distinctions, and the anthropological use of world-systems theory.", 
+        "number": "5266", 
+        "subject": "ANG", 
+        "title": "Economic and Ecological Approaches in Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

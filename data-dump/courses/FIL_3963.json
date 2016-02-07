@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course evaluates the progress of the student and recommends continuance in the film school or directs the student toward other areas of study.", 
+        "number": "3963", 
+        "subject": "FIL", 
+        "title": "BFA Qualifying Exam"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00"
+    }
+}

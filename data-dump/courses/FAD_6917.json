@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Overview of research methods currently in use in studying individuals, fam ilies, and children.", 
+        "number": "6917", 
+        "subject": "FAD", 
+        "title": "Research Methods in Family and Child Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: At least one graduate-level research course, doctoral students only, statistics, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

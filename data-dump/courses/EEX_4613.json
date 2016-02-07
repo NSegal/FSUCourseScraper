@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with the knowledge and skills necessary to develop, implement, and evaluate the impact of positive behavior supports. Emphasis is placed on understanding the communicative function of challenging behaviors, the teachings of new skills that make the challenging behavior unnecessary, and the prevention of the reoccurrence of\u00a0 challenging behaviors.", 
+        "number": "4613", 
+        "subject": "EEX", 
+        "title": "Positive Behavior Support"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

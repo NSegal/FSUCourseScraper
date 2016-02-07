@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies current marching band techniques, methods, and styles and their application to secondary public school music education programs.", 
+        "number": "4480", 
+        "subject": "MUE", 
+        "title": "Marching Band Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

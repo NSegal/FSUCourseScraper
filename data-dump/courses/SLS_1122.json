@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a positive intervention to facilitate academic success and to promote retention for first-time-in-college students who are in academic difficulty after their first term of full-time enrollment at Florida State University. Focus is on the development of study skills required for college-level work as well as on the identification and minimization of barriers that impede individual student achievement.", 
+        "number": "1122", 
+        "subject": "SLS", 
+        "title": "Strategies for Academic Success"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

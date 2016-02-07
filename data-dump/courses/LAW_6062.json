@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the basic principles of agency and partnership law, including limited partnerships, limited liability partnerships, and limited liability companies.", 
+        "number": "6062", 
+        "subject": "LAW", 
+        "title": "Closely Held Business Organization"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

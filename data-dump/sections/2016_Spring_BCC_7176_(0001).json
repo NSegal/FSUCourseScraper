@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-MED (418)", 
+    "basic": {
+        "class_num": "418", 
+        "course": "7176", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "BCC", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Suzanne Harrison"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

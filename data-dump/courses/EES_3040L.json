@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the use of field and laboratory instruments for measuring air and water quality indicators. Includes site visits.", 
+        "number": "3040L", 
+        "subject": "EES", 
+        "title": "Introduction to Environmental Engineering Science Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045 and CHM 1045L. Corequisite: EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of a written report and an oral presentation discussing research work done under GLY 4915r. The grade is assigned by a committee of three faculty members.", 
+        "number": "4917", 
+        "subject": "GLY", 
+        "title": "Senior Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 4915r.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is one of a three-course series designed to provide theory/research bases for the development of appropriate curriculum and practices for educating children age 3 years to grade 3. The course focuses on active learning through play.", 
+        "number": "5269", 
+        "subject": "EEC", 
+        "title": "Curriculum and Play for Young Children"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students at the upper-intermediate to advanced level in Japanese. It aims to improve students' communicative fluency and accuracy in Japanese through emphasis on speaking, listening, reading, and writing.", 
+        "number": "4413", 
+        "subject": "JPN", 
+        "title": "Advanced Japanese B"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 3202.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

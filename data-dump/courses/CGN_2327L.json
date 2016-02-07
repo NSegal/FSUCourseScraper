@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the lab section of the Computer Graphics for Engineers general course. This lab provides hands-on experience in utilizing the latest version of AutoCAD and MicroStation for technical drawing typical of the design projects in civil and environmental engineering.", 
+        "number": "2327L", 
+        "subject": "CGN", 
+        "title": "Civil Engineering Graphic Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGN 2123.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

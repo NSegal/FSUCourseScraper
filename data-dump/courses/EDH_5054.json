@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the philosophy and historical evolution of the American Community College. The focus is on the social, economic, political, and educational forces that influence the community college, as well as the programs, services, and current issues.", 
+        "number": "5054", 
+        "subject": "EDH", 
+        "title": "The American Community College: History and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

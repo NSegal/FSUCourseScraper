@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on theoretical concepts underlying significant curricular developments past and present; model development in curricular theory.", 
+        "number": "6221", 
+        "subject": "EDG", 
+        "title": "Curricular Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

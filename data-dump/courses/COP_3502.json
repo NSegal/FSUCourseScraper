@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers basic computer organization; computer languages and software; language translation and interpretation; object oriented design; object oriented programming, classes, objects, and inheritance; file systems; and I/O. May not be applied toward a major in computer science.", 
+        "number": "3502", 
+        "subject": "COP", 
+        "title": "Introduction to Computer Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1105 and previous computer experience.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

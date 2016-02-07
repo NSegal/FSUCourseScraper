@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically examines various factors that impact the mental health of diverse populations. Students critically review/analyze recent mental health literature concerning the cultural context in which the mental health needs of diverse populations have evolved; the major services required to meet the mental health needs of diverse populations and the availability and accessibility of these services; and the strategies and skills (both micro and macro) necessary to improve the delivery of mental health and mental health related services to diverse populations.", 
+        "number": "4627", 
+        "subject": "SOW", 
+        "title": "Mental Health of Diverse Populations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

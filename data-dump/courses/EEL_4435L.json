@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the applications of electromagnetic field theory. Experiments include field mapping, transmission lines, spectrum analysis, impedance matching, waveguides, antennas, radar, and fiber optics.", 
+        "number": "4435L", 
+        "subject": "EEL", 
+        "title": "Electromagnetics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3473.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

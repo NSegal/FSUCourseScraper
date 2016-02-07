@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an examination of the U.S. health care system and its development within a historical context. Current issues in health systems leadership and organizational change are explored. Focus is on analysis and evaluation of concepts such as economic and societal/cultural forces in thehealth care industry, health disparities, political and governmental issuesrelated to health care change, trends in reimbursement, regulatory changes,and advanced practice nursing roles related to system evolution.", 
+        "number": "6896", 
+        "subject": "NGR", 
+        "title": "Health Care and Organizational Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

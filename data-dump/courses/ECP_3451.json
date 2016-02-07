@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is focused on the impact of the legal system on economic activity and the role of economic analysis in assessing the relative efficiency of alternative legal rules and institutions.", 
+        "number": "3451", 
+        "subject": "ECP", 
+        "title": "Economics and the Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

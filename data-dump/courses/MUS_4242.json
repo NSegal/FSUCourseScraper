@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the study of Italian diction and continuation of grammar studies from ITA 1120. The focus is on proper pronunciation of the Italian language and on grammar and vocabulary necessary for translating texts of Italian songs and operas.", 
+        "number": "4242", 
+        "subject": "MUS", 
+        "title": "Italian Language and Diction for Singers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 1120.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

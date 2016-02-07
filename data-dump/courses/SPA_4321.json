@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines diagnostic-evaluation and (re)habilitation techniques.", 
+        "number": "4321", 
+        "subject": "SPA", 
+        "title": "Aural (Re)habilitation I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPA 4302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

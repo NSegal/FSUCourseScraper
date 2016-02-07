@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers special topics in classical culture presented around a seminar format. May be repeated to a maximum of six semester hours.", 
+        "number": "4935", 
+        "subject": "CLA", 
+        "title": "Seminar in Classical Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Nine semester hours of study in classical civilization or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

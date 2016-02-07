@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines Internet communication, direct sales through electronic commerce, as well as Internet-based promotional communications.", 
+        "number": "4721", 
+        "subject": "MAR", 
+        "title": "Electronic Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

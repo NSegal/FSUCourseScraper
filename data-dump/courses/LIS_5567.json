@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides graduate students an opportunity to read and evaluate literature for children and young adults from an international perspective, that is, literature originating in a nation other than the United States.", 
+        "number": "5567", 
+        "subject": "LIS", 
+        "title": "International Literature for Children and Young Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

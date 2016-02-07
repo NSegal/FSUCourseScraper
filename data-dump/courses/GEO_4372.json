@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the assessment and analysis of policies concerning natural resources and environmental management in the U.S. and internationally.", 
+        "number": "4372", 
+        "subject": "GEO", 
+        "title": "Natural Resource Assessment and Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

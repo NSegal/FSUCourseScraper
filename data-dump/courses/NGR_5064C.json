@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This advanced skill course enables learners to develop skills for use in primary clinical practice. Students explore both the theoretical and practica aspects of a variety of procedures and diagnostic modalities including miroscopy, suturing, EKG (basic and advanced), radiology, casting and splintng and dermatological procedures.", 
+        "number": "5064C", 
+        "subject": "NGR", 
+        "title": "Advanced Skills for the Advanced Practice Nurse"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 5003C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

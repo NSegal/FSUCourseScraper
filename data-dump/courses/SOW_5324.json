@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of the generalist group practice skills of engagement, assessment, intervention, and evaluation with social work clients, community groups, and organizations. The course covers practice skills that contribute to group effectiveness, including composition, structure, dynamics, goal setting, and evaluation. Students learn to respond to contexts that shape practice by recognizing social, political, economic, and environmental influences and applying them to social work practice. Content also includes examining the empirical base of a range of theories and models of group facilitation with clients, community groups, and organizations.", 
+        "number": "5324", 
+        "subject": "SOW", 
+        "title": "Social Work Practice with Groups and Communities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

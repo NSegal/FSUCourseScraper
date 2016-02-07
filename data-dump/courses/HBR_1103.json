@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the basic grammar, syntax, and phonology of modern and classical Hebrew. Meets the foreign language requirement for the BA degree. No language laboratory required.", 
+        "number": "1103", 
+        "subject": "HBR", 
+        "title": "Beginning Hebrew II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

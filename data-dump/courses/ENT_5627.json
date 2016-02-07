@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides training in the leadership of innovation in patient care delivery. The course allows students to develop and deploy patient-centered solutions that create value by improving both quality and efficiency in their systems and communities.", 
+        "number": "5627", 
+        "subject": "ENT", 
+        "title": "Healthcare Innovation and Medical Entrepreneurship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

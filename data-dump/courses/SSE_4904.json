@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to study individually, under the direction of a faculty member. Topics vary and are usually selected on an individual basis. Hours may vary.", 
+        "number": "4904", 
+        "subject": "SSE", 
+        "title": "Directed Independent Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

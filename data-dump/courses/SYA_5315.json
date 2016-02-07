@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar in qualitative research methods that allows for the systematic collection and analysis of (non-numeric) observational and interview data obtained from individuals, social groups and organizations.", 
+        "number": "5315", 
+        "subject": "SYA", 
+        "title": "Qualitative Research Methods in Sociology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers instrumentation and techniques in electrochemistry, including such topics as electrode processes, potentiometry, voltammetry, and coulometry.", 
+        "number": "5153", 
+        "subject": "CHM", 
+        "title": "Electrochemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

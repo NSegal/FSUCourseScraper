@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (190)", 
+    "basic": {
+        "class_num": "190", 
+        "course": "5838", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ARH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "11:45:00", 
+            "instructors": [
+                "Allys Palladino-Craig"
+            ], 
+            "location": "FAB 0250", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

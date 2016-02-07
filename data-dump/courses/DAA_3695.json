@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes preparation and public performance of selected roles in dance repertory. Official casting and faculty approval required. Majors only. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "3695", 
+        "subject": "DAA", 
+        "title": "Dance Performance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

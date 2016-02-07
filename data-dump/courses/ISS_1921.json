@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a venue for discussing key issues and controversies that students are likely to encounter as they pursue a major in one of the social sciences. Students learn critical skills in debating public policy issues while also gaining an appreciation for topics that shape everyday life. Designed for students enrolled in the Social Science and Public Policy Living-Learning Community (SSPPLC). May be repeated to a maximum of two semester hours.", 
+        "number": "1921", 
+        "subject": "ISS", 
+        "title": "Colloquium in Social Science and Public Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisite: Students must enroll in the Social Sciences/Public Policy LLC Program.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course familiarizes the student with the role of war and military history in shaping the history of Eurasia since 1200.", 
+        "number": "2202", 
+        "subject": "WOH", 
+        "title": "Mortal Combat: Eurasian Worlds of War Since 1200"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the principles of programming languages, including language constructs, syntactic and semantic specification methods, runtime structures, implementation techniques, and alternative programming paradigms. The course involves programming assignments in a variety of languages and individual investigations accompanied by a required written report and oral\u00a0\u00a0 presentation.", 
+        "number": "4020", 
+        "subject": "COP", 
+        "title": "Programming Languages"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

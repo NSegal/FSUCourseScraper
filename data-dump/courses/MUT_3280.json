@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses upon aural skills for training for the performance and understanding of post-tonal music.", 
+        "number": "3280", 
+        "subject": "MUT", 
+        "title": "Post-Tonal Aural Skills"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

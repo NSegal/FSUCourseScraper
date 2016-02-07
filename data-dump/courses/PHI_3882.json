@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores how metaphysical and moral ideas function within the structure of selected novels and plays.", 
+        "number": "3882", 
+        "subject": "PHI", 
+        "title": "Philosophy in Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

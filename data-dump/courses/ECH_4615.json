@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second in a two-semester sequence on the analysis, synthesis, and design of chemical processes, and prepares students for engineering practice. Students integrate knowledge from prior courses with process economics, computer-aided design, engineering standards, and realistic constraints to the design of chemical-process facilities.", 
+        "number": "4615", 
+        "subject": "ECH", 
+        "title": "Chemical Engineering Process Design II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 4404L, ECH 4504, and ECH 4604. Corequisites: ECH 4323 and ECH 4323L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

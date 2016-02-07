@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth examination of topics related to early childhood. May be repeated to a maximum of nine semester hours.", 
+        "number": "5935", 
+        "subject": "EEC", 
+        "title": "Special Topics in Early Childhood Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

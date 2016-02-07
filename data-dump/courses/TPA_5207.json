@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar addresses the technical management techniques and graphic presentation skills required of the technical director in a variety of situations.", 
+        "number": "5207", 
+        "subject": "TPA", 
+        "title": "Technical Direction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies the grammar, vocabulary and style of the Pali canon to better understand both the Buddhist philosopical concepts and the culture nof ancient Buddhist India.", 
+        "number": "5910", 
+        "subject": "RLG", 
+        "title": "Tutorial in Pali"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

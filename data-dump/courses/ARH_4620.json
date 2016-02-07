@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys painting, sculpture, architecture, photography, and material culture from 1876 to the 1950s, reflecting regional and multicultural responses to questions of subjectivity and modernity such as \"What is 'American' about our country and its art?\" The course also explores how developing a national identity in this culture was a central concern during this period.", 
+        "number": "4620", 
+        "subject": "ARH", 
+        "title": "US Art: Centennial through Late Modernism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

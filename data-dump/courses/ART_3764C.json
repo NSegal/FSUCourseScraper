@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers handbuilding processes and fundamental glazing techniques. Emphasis is on the development of a high degree of technical proficiency and a keen sense of form in ceramic mediums.", 
+        "number": "3764C", 
+        "subject": "ART", 
+        "title": "Beginning Ceramics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 1203.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

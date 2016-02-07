@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers topics such as fluvial hydrology, sediment movement, and channel evolution.", 
+        "number": "5573", 
+        "subject": "GLY", 
+        "title": "Fluvial Processes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides theory and practice in developing digital characters and figures including concept art, modeling sheets, digital sculpture, texture and preparation for rigging and animation.", 
+        "number": "4713", 
+        "subject": "FIL", 
+        "title": "Character Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2730 and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

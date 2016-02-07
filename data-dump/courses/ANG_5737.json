@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines health and healing in a cross-cultural and evolutionary perspective and investigates the biocultural basis of nutrition, reproduction, and health; biomedicine and other healing systems; and the role of anthropology in global public health.", 
+        "number": "5737", 
+        "subject": "ANG", 
+        "title": "Medical Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

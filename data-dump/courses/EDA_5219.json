@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines public education as an economic institution, emphasizing the relationship between the purposes of schooling and the human and fiscal-resource allocation role of the principal. The principal's role in selected strategies and techniques in critical thinking and problem solving as applied to school improvement are presented. Procedures involved in school funding are examined, as well as the role of the principal in implementing statutes, audits, procedures, and policies. Recruitment, selection, retention of school personnel, and collective bargaining are examined as they relate to state and federal law.", 
+        "number": "5219", 
+        "subject": "EDA", 
+        "title": "Resource Management for Educational Leaders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

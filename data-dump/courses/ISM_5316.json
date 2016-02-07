@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course extends the concepts of project management to the management of multiple projects across time and space, including the management of projects outside of the organization through outsourcing, strategic alliances, and off-shore arrangements.", 
+        "number": "5316", 
+        "subject": "ISM", 
+        "title": "Advanced Project Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 5315.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

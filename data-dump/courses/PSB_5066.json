@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of human biological development and its influence on learning and behavior with an emphasis on disorders of learning and development.", 
+        "number": "5066", 
+        "subject": "PSB", 
+        "title": "Biological Bases of Learning and Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

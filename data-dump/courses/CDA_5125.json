@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces various systems aspects of parallel and distributed computing. Topics include parallel computer architectures, interconnects, parallel programming paradigms, compilation techniques, runtime libraries, performance evaluation, performance monitoring and tuning, as well as tools for parallel and distributed computing.", 
+        "number": "5125", 
+        "subject": "CDA", 
+        "title": "Parallel and Distributed Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

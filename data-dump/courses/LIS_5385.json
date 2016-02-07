@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on social media-specifically on the tools, information management and communication functions through hands-on work with designing and managing social media sites. Students participating in this class actively design, implement and coordinate numerous projects that build a foundation in social media while allowing students to gain valuable leadership, communication, and organizational skills.", 
+        "number": "5385", 
+        "subject": "LIS", 
+        "title": "Social Media Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

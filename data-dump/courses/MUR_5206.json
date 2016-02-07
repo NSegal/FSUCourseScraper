@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a practical and historical study of songs of the Church.", 
+        "number": "5206", 
+        "subject": "MUR", 
+        "title": "Hymnology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history of English as a school subject; current developments, issues, and research in the teaching of English.", 
+        "number": "5637", 
+        "subject": "LAE", 
+        "title": "Problems and Trends in English Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

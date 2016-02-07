@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course the emphasis is on positive lifestyle practices to reduce one's risk for disease and for the maintenance of health and vitality. Topics include health behavior, stress, psychological health, chronic diseases, sexually-transmitted infections, immunology, and psychoactive substance use and abuse.", 
+        "number": "4711", 
+        "subject": "HSC", 
+        "title": "Wellness/Health Risk Reduction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

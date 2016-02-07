@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the fundamental concepts, theories, principles, and practices of emergency management.", 
+        "number": "4391", 
+        "subject": "PAD", 
+        "title": "Foundations in Emergency Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the second of a two-semester sequence on project-system development and focuses on software design and implementation. Topics include\u00a0 software design, architectures, testing, deployment, metrics, configuration management, reusability, portability, and interoperability.", 
+        "number": "4021", 
+        "subject": "CEN", 
+        "title": "Software Engineering II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEN 4020.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

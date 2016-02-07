@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a review of current policies and practices of selected areas of student personnel and selected administration.", 
+        "number": "5040", 
+        "subject": "SDS", 
+        "title": "Student Personnel Work in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

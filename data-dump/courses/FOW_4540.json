@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines a major shift in the cultural balance of power between the United States and France. Topics range from the transition from the nineteenth century American awe at French achievements in fiction and painting to the ever increasing American influence on France's literary and visual art.", 
+        "number": "4540", 
+        "subject": "FOW", 
+        "title": "Franco-American Culture Wars"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

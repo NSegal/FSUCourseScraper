@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to scientific visualization for large-scale computational and experimental data that covers the visualization methods and techniques, visualization results analysis and evaluation, and visualization practice. It teaches students the techniques for creating effective visual representations of 2D and 3D scientific data sets. The basic concepts, data structures, and algorithms in scientific visualization are presented and applied using datasets from different disciplines. Classic visualization techniques for scalar, vector, and tensor data such as marching cubes, ray casting, splatting, streamline, and line integral convolution etc. are introduced and popular visualization software is used.", 
+        "number": "4302", 
+        "subject": "ISC", 
+        "title": "Scientific Visualization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1105 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

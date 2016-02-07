@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines teaching in alternative settings (e.g., alternative schools, juvenile justice facilities, therapeutic residential treatment centers). Students learn how to (a) overcome the barriers and capitalize on the facilitating factors to providing effective instruction in these settings, (b) identify and plan lessons incorporating evidence based instruction for high risk adolescents, and (c) collaborate with personnel in both the alternative and regular educational settings to support students.", 
+        "number": "5078", 
+        "subject": "EEX", 
+        "title": "Teaching High Risk Adolescents in Alternative Settings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

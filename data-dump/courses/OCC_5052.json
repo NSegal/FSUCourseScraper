@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on thermodynamics, acid-base and redox reactions in natural waters, solution-precipitation reactions, complex formation, case studies of composition of seawater, and controlling processes.", 
+        "number": "5052", 
+        "subject": "OCC", 
+        "title": "Aquatic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 3400 and OCC 5050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

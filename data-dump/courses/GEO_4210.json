@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is on the spatial distribution of geomorphic landforms across landscapes: how they form, how they change over time, how they are designated, and their nomenclature. Emphasis is given to how humans interact with these landscapes and how these landscapes can impact human habitation.", 
+        "number": "4210", 
+        "subject": "GEO", 
+        "title": "Landforms and Landscapes"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

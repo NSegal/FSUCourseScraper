@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers groups, permutations and symmetries, rings, integral domains, properties of the integers, fields and rational numbers. Mathematics majors other than FSU-Teach must take MAS 4302 instead.", 
+        "number": "3301", 
+        "subject": "MAS", 
+        "title": "Introduction to Modern Algebra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

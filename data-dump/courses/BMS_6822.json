@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the physiological and social basis of patient and physician behavior and the interrelationshio between these factors of health, illness, and the practice of medicine. Emphasis is on the application of behavioral principles introduced in BMS 6821 to major health concerns (e.g., obesity, substance abuse, and unhealthy life styles) and chronic illnesses (e.g., diabetes, CHF, cancer, and chronic pain syndromes). Ethical dilemmas and challenges in treating patients for the conditions listed above are discussed. Medical informatics and the use of evidence-based medicine are regularly incorporated in addressing patient-care topics in this course. Physicians' behavior is also addressed as it pertains to coping with uncertainty and dealing with the personal reactions to medical errors.", 
+        "number": "6822", 
+        "subject": "BMS", 
+        "title": "MEDICINE AND BEHAVIOR II"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

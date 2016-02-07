@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as design of spread footings, pole and caisson foundations, retaining structures and waterfront structures. Investigation of slope stability.", 
+        "number": "5115", 
+        "subject": "CEG", 
+        "title": "Foundation Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

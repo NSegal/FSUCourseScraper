@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies topics including major repairs and advanced and cutting edge action geometry.", 
+        "number": "4254", 
+        "subject": "MUM", 
+        "title": "Piano Technology IV"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4253.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

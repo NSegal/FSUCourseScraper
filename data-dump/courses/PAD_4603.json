@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the constitutions, statutes, executive orders, and procedures that control the administrative authorities of government. (Also offered by the Department of Political Science.)", 
+        "number": "4603", 
+        "subject": "PAD", 
+        "title": "Administrative Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

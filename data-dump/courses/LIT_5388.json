@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various approaches to the study of womens writing and women writers. May be repeated to a maximum of twelve semester hours when\u00a0\u00a0\u00a0 topics vary.", 
+        "number": "5388", 
+        "subject": "LIT", 
+        "title": "Studies in Women's Writing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

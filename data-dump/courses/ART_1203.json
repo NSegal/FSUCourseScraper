@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides experience in designing and constructing expressive three-dimensional forms using a variety of materials and methods.", 
+        "number": "1203", 
+        "subject": "ART", 
+        "title": "Three-Dimensional Foundations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

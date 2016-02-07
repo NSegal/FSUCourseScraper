@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on two key issues related to the Internet and research: (1) Conducting research on online settings and (2) Using Internet-based tools to support data collection and analysis.", 
+        "number": "6476", 
+        "subject": "EME", 
+        "title": "Internet Based Inquiry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as federal corporate income taxation; techniques for distributing wealth from corporations without paying tax at two levels; special problems of corporate liquidations, mergers, and reorganizations.", 
+        "number": "6610", 
+        "subject": "LAW", 
+        "title": "Corporate Tax"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 6600.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 4.00"
+    }
+}

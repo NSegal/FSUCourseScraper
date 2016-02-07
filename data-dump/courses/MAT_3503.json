@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes group and individual activities designed to strengthen knowledge of, and connections among, topics in secondary and college mathematics. Problem-solving; gathering and analyzing data; and modeling using linear, polynomial, and trigonometric functions, and parametric and polar equations are also explored. Students discuss and present work in class, and make use of various technologies.", 
+        "number": "3503", 
+        "subject": "MAT", 
+        "title": "Functions and Modeling"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

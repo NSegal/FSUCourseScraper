@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines public education as an economic institution. The sources and methods of distribution of public school revenue at the various levels of government. The social-economic-political context in which public finance decisions are evolved and their relationship to current educational issues.", 
+        "number": "5242", 
+        "subject": "EDA", 
+        "title": "School Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DSS (9065)", 
+    "basic": {
+        "class_num": "9065", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Richard Hyson"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

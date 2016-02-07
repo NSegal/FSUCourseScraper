@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to give students an applicable knowledge of the sport/activity of canoeing and kayaking, as well as develop students' physical and mental ability to learn and execute canoeing and kayaking skills. This a beginner flat water and Class 1 level canoe course.", 
+        "number": "1267", 
+        "subject": "LEI", 
+        "title": "Canoeing/Kayaking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

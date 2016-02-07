@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second part of an integrated sequence in dynamics, vibrations, and controls. Material in this second course includes the development of the equations of motion for translational and rotational mechanical systems, electrical systems, and electromechanical systems; system response using standard differential equation solution techniques and Laplace transforms; frequency response and impedances; linearization of nonlinear system models, and block diagrams and feedback control strategies.", 
+        "number": "3014C", 
+        "subject": "EML", 
+        "title": "Dynamic Systems II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3013C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

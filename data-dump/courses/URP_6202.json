@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the process and design of empirical research used in the analysis of policy and planning problems. Strengths and weaknesses of alternative research designs are considered from an epistemological viewpoint. Strategies for overcoming design limitations imposed by policy contexts are emphasized.", 
+        "number": "6202", 
+        "subject": "URP", 
+        "title": "Design of Policy-Oriented Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: URP 5201 and URP 5211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

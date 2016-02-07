@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Topics vary. For senior majors and qualified students. May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "4932", 
+        "subject": "ENG", 
+        "title": "Studies in English"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

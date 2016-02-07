@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive study of the major trends, figures, and schools of Spanish American poetry since Modernismo.", 
+        "number": "5357", 
+        "subject": "SPW", 
+        "title": "Contemporary Spanish American Poetry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

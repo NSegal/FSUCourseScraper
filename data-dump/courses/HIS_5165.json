@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the theory and practice of the ways in which history is collected, preserved and interpreted using digital mediums.", 
+        "number": "5165", 
+        "subject": "HIS", 
+        "title": "Digital History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

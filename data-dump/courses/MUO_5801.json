@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the preparation and the direction of an approved chamber opera or opera scenes.", 
+        "number": "5801", 
+        "subject": "MUO", 
+        "title": "Opera Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

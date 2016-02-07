@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various approaches to the study of traditional lore, including myth, legend, tale, song, ballad, beliefs, and customs. May be repeated to a maximum of twelve semester hours when topics vary.", 
+        "number": "5327", 
+        "subject": "LIT", 
+        "title": "Studies in Folklore"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

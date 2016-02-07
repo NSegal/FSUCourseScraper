@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a review of the literature and techniques for the spatial impacts of transportation systems, including functionality, and their role on society, the economy, energy, the environment, and sustainability.", 
+        "number": "4700", 
+        "subject": "GEO", 
+        "title": "Transport Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

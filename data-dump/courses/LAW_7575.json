@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the law pertaining to the entertainment industry, with special emphasis on transactional planning.", 
+        "number": "7575", 
+        "subject": "LAW", 
+        "title": "Entertainment Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

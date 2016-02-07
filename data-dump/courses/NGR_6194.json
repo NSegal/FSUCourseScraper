@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the diagnosis and management of musculoskeletal disorders for patients across the lifespan. The integration of physical examination techniques specific to selected problems, the ordering and interpretation of radiologic tests, and the initiation of advanced treatments specific to musculoskeletal conditions are discussed.", 
+        "number": "6194", 
+        "subject": "NGR", 
+        "title": "Orthopedics for Advance Practice Nursing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP-FNP program.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

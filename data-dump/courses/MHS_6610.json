@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the development of skills in clinical and managerial supervision. Understanding a variety of supervisory models.", 
+        "number": "6610", 
+        "subject": "MHS", 
+        "title": "Supervision"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

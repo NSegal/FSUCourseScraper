@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course describes and analyzes the formerly centrally planned soviet economy and its transformation. Case studies include Russia, members of the Commonwealth of Independent States, and Eastern European countries. Analyzes the successes and failures of the transition process, particularly privatization and marketization.", 
+        "number": "4333", 
+        "subject": "ECS", 
+        "title": "Transition of Soviet and Eastern European Economies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

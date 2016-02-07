@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of variable topics chosen from Spanish language movements, periods, figures, and problems. May be repeated to a maximum of six semester hours.", 
+        "number": "4190", 
+        "subject": "SPW", 
+        "title": "Special Topics in Hispanic Languages and Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

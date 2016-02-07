@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines theoretical and empirical treatment of the determinants of demographic behavior in less and more developed nations, the economic consequences of the behavior, and implications of both sets of findings for population and economics policy.", 
+        "number": "5115", 
+        "subject": "ECP", 
+        "title": "Seminar in the Economics of Population"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

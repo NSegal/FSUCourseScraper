@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers classical and modern principles and practice of software engineering, including classical and object-oriented approaches to architecture, design, life cycle, and project management; software metrics; change management; teams and teaming tools; reusability, portability, and interoperability; requirements and specification.", 
+        "number": "4010", 
+        "subject": "CEN", 
+        "title": "Software Engineering Principles and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: COP 4530, as well as experience creating or changing a large software system and putting principles of software engineering to practice.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides participants with the knowledge and skills necessary to successfully integrate students who are visually impaired in the core education environment. Students learn to adapt classroom materials, collaborate with general education personnel, and develop direct teaching stragegies that enhance the optimum functioning of a learner with a visual impairment.", 
+        "number": "4312", 
+        "subject": "EVI", 
+        "title": "Classroom Accommodations for Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4011 and EVI 4212. Corequisite: EVI 4314.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

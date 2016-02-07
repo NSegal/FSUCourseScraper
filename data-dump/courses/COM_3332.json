@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course relates the design, development, and the use of new communication technologies to social, economic, and policy implications. Lecture, labs,and discussion groups.", 
+        "number": "3332", 
+        "subject": "COM", 
+        "title": "New Communication Technology and Contemporary Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

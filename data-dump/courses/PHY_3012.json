@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on apprentice teaching in an inquiry-based physics learning environment under the direction of a faculty member. In addition, the course provides an examination of theoretical issues such as conceptual development, conceptual change, collaborative learning, technology in education, and students conceptions of various topics in physics, as well as practical issues encountered in facilitating learning, managing the classroom, formative and summative assessment, and differentiating instruction in a collaborative environment.", 
+        "number": "3012", 
+        "subject": "PHY", 
+        "title": "Learning Assistantship in Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 2048C and PHY 2049C. Corequisite: PHY 3101.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

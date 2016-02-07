@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the special theory of relativity, tensor analysis and curvature, general theory of relativity, experimental tests, black holes, gravitational radiation, and cosmology.", 
+        "number": "4601", 
+        "subject": "PHZ", 
+        "title": "Special and General Relativity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3221.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

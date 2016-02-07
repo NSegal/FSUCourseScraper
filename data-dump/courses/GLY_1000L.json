@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a laboratory introduction to geology as the study of planet Earth, specifically a study of minerals, rocks, and maps.", 
+        "number": "1000L", 
+        "subject": "GLY", 
+        "title": "Dynamic Earth Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: GLY 1000 and GLY 1030.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

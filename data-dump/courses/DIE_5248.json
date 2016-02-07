@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers a presentation and discussion of current topics in the field of dietetics and health care, including discussion of novel concepts and applications in dietetics. Methods in nutritional assessment are reviewed. Also, core competencies expected of entry-level dieticians are reviewed and completed.", 
+        "number": "5248", 
+        "subject": "DIE", 
+        "title": "Advanced Medical Nutrition Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

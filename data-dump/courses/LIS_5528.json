@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides instruction for the practice and application of the oral tradition of storytelling. The overall intent of the course is to facilitate the oral tradition of storytelling within library and information studies (LIS).", 
+        "number": "5528", 
+        "subject": "LIS", 
+        "title": "Storytelling for Information Professionals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

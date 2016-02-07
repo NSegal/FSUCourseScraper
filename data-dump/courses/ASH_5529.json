@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the history of India from antiquity to the seventeenth century. Places special emphasis not only on the study of Indian religions such as Hinduism, Buddhism, Jainism, and Sikhism, but also on the roles played by various important ancient and medieval kings.", 
+        "number": "5529", 
+        "subject": "ASH", 
+        "title": "Traditional India"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

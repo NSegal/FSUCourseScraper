@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course assists teachers in updating and improving content knowledge, pedagogical knowledge, and pedagogical content knowledge with structured guidance by faculty. May be repeated to a maximum of nine semester hours.", 
+        "number": "5949", 
+        "subject": "SCE", 
+        "title": "Field Lab Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

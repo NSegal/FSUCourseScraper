@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores estimation of regression and density functions and their derivatives where no parametric model is assumed. Kernel, local polynomial, spline and wavelet methods are used. Emphasis is on analysis and applications of the smoothing techniques and data-based smoothing parameter selectors.", 
+        "number": "6555", 
+        "subject": "STA", 
+        "title": "Nonparametric Curve Estimation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5327 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

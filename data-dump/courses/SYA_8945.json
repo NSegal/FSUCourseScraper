@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive review of empirical/theoretical literature in a topical are a selected by a student in consultation with the student's major professor and supervisory committee.", 
+        "number": "8945", 
+        "subject": "SYA", 
+        "title": "Doctoral Review Paper"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

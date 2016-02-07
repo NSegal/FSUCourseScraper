@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For this course, dissertation credits are to be arranged in consultation with major professor. All doctoral students must complete twenty-four semester hours of dissertation as part of the program of study.", 
+        "number": "6980", 
+        "subject": "LIS", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to Doctoral Candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

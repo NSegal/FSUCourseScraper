@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as analysis of various measures of environmental quality, impact of human activity on water, land, and air resources, and benefit-cost analysis in environmental-impact assessment.", 
+        "number": "4611", 
+        "subject": "ENV", 
+        "title": "Environmental Impact Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3200L and EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

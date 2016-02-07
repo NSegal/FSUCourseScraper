@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This advanced undergraduate leadership course examines the change process and prepares leaders who are effective in working with individuals, groups, and organizations in leading and managing change. This is an interactive theory-to-practice course, focused on leadership as a change process.", 
+        "number": "3215", 
+        "subject": "LDR", 
+        "title": "Leadership and Change"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

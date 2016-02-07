@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on clinical neuroscience, which is the exploration of the neurobiological foundations of brain dysfunction and major diseases affecting the central nervous system, including mental health and mental illness.", 
+        "number": "4240", 
+        "subject": "PSB", 
+        "title": "Neurobiology of Brain Dysfunction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and PSB 2000, or PSB 3004C, or three semester hours of biology.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

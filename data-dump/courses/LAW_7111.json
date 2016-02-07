@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of selected federal constitutional constraints on the law enforcement evidence-gathering and investigative process.", 
+        "number": "7111", 
+        "subject": "LAW", 
+        "title": "Criminal Procedure - Police"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

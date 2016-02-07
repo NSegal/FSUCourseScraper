@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This introductory costume sewing class instructs students in the craft of sewing costumes for theatre, focusing on sewing practices used in costume shops throughout the U.S. Students gain hands-on experience and become familiar with a sewing vocabulary through assigned sewing projects. Students also learn to identify commonly used fabrics by both weave and fiber content.", 
+        "number": "3230", 
+        "subject": "TPA", 
+        "title": "Costuming I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 2322 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

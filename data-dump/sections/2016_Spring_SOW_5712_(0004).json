@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (13248)", 
+    "basic": {
+        "class_num": "13248", 
+        "course": "5712", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "SOW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Machelle D Thompson"
+            ], 
+            "location": "UCC C1702", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

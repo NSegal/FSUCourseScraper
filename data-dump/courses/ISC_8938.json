@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is required to assess students' individual portfolios based on the Florida Educator Accomplished Practices. These portfolios are the summation of work accomplished during the Master in Science Teaching program and students must receive a satisfactory grade in this course for program completion.", 
+        "number": "8938", 
+        "subject": "ISC", 
+        "title": "Portfolio Review"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 5525.\nCorequisites: ISC 5098 and ISC 5945.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

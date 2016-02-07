@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an overview of the user's perspective in the analysis of information needs and preferences. Provides the fundamentals to a broad approach, emphasizing an unifying structure, to understand human information seeking behaviors.", 
+        "number": "5203", 
+        "subject": "LIS", 
+        "title": "Assessing Information Needs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

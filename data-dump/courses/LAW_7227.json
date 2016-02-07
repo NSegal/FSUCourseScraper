@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of early American legal history (circa 1600-1800), including the British background, the first state constitutions, the Articles of Confederation, the Constitutional Convention and ratification debates, and the adoption of the Bill of Rights. May also cover the development of the American judicial system and sources of early American law.", 
+        "number": "7227", 
+        "subject": "LAW", 
+        "title": "American Legal History I"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

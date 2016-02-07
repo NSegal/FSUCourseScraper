@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces selected materials in modern Japanese literature, humanities, and social sciences. The objectives of this course are to train students to be able to read some annotated works in original Japanese and to bring to students' awareness various cross-cultural differences. May not be taken by native speakers.", 
+        "number": "3202", 
+        "subject": "JPN", 
+        "title": "Readings in Short Stories and Essays"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 2300.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar-structured class designed to provide a set of experiences that introduce the student to the academic culture at FSU. Taught Fall term only. Topics vary.", 
+        "number": "1920", 
+        "subject": "HUM", 
+        "title": "Freshman Interest Group Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

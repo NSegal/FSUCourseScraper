@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the organization, policies, and practice of American public education and its mutual interactions with other aspects of society.", 
+        "number": "4604", 
+        "subject": "EDF", 
+        "title": "Schooling in American Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

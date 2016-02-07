@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents practical methods for collecting and analyzing quantitative data. Topics include hypothesis testing, analysis of variance, contingency tables, correlation, and experimental design.", 
+        "number": "4276", 
+        "subject": "LIS", 
+        "title": "Quantitative Methods in Information Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 3201 and senior standing, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

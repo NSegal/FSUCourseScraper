@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on procedures for the systematic design and production of computer-based instruction. Includes practice in computer-based course\u00a0 development.", 
+        "number": "6415", 
+        "subject": "EME", 
+        "title": "Development of Computer Courseware"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

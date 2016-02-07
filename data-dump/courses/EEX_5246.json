@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course equips teachers to address the needs of learners with high incidence disabilities in grades K-12 when teaching mathematics skills. Methods and techniques learned are appropriate for a variety of classroom settings.", 
+        "number": "5246", 
+        "subject": "EEX", 
+        "title": "Mathematics for Students with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

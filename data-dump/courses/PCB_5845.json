@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to basic principles of neurophysiology, including intracellular signaling, membrane potentials, synaptic communication, sensory and motor systems, and neural development and plasticity.", 
+        "number": "5845", 
+        "subject": "PCB", 
+        "title": "Cell and Molecular Neuroscience"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

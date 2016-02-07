@@ -1,0 +1,26 @@
+{
+    "_unique": "0018-DSS (6664)", 
+    "basic": {
+        "class_num": "6664", 
+        "course": "6979", 
+        "season": "Spring", 
+        "solus_id": "0018", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Benjamin Sung"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

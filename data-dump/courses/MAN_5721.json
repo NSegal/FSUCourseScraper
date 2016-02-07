@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the relation between theories and practices of management, and focuses on utilizing methodologies and theories for strategic decision making.", 
+        "number": "5721", 
+        "subject": "MAN", 
+        "title": "Strategy and Business Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

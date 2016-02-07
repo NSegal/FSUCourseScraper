@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to help teachers of mathematics make a more effective use of computer graphics in their teaching of mathematics. Topics in construction of three dimensional graphics and computer aided design are included. Particular attention is given to visualization.", 
+        "number": "5112", 
+        "subject": "CGS", 
+        "title": "Using Computer Graphics as an Instructional Tool"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2160 and MAS 2103. Corequisite: COP 3001 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

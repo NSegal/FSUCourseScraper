@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores fundamental concepts in processor design, including data path and control, pipelining, memory hierarchies, and I/O.", 
+        "number": "5268", 
+        "subject": "CGS", 
+        "title": "Principles of Computer Organization II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 3100 or CGS 5267.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

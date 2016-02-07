@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on skills in beginning jazz improvisation. May be repeated to a maximum of three semester hours.", 
+        "number": "5646", 
+        "subject": "MUT", 
+        "title": "Jazz Improvisation I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Music reading.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

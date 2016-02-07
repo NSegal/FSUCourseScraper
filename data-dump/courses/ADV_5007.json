@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the development of Integrated Marketing Communication that has now become part of business models in many corporations and service organizations, as well as universities.", 
+        "number": "5007", 
+        "subject": "ADV", 
+        "title": "Foundations of Integrated Marketing Communcations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

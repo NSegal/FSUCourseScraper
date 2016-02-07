@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (11846)", 
+    "basic": {
+        "class_num": "11846", 
+        "course": "4954", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "THE", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Michele Diamonti"
+            ], 
+            "location": "HCB 0312", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

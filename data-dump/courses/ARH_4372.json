@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the art, architecture, and visual culture of Spain's overseas colonies during the period of early exploration and Austrian Hapsburg rule in Spain (1506-1700). It examines a wide array of visual expressions, including painting, sculpture, architecture, urban space, prints, ephemera, ceramics, furniture, and clothing. In the course of this survey, the relationship between art and such issues as colonialism, race, gender, and social hierarchy are considered.", 
+        "number": "4372", 
+        "subject": "ARH", 
+        "title": "Spanish Colonial Art: The Hapsburg Period, 1492/1506-1700"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

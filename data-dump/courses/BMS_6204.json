@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops knowledge and understanding of the basic biochemistry and molecular genetics of normal life processes: biochemical causes, diagnosis and basis of treatment of human diseases; genetic defects and biochemical consequences causing inherited diseases; and advances in biochemistry and genetics that impact future medical practice.", 
+        "number": "6204", 
+        "subject": "BMS", 
+        "title": "Medical Biochemistry and Genetics"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "5.00"
+    }
+}

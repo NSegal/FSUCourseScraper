@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, taught primarily in German, serves as an introduction to German studies. The course provides the student with an understanding of the major cultural aspects (literature, visual arts, history, politics, etc.) of German-speaking countries from the twentieth century to the present; the emphasis is placed on Germany in the second half of the twentieth century.", 
+        "number": "3500", 
+        "subject": "GER", 
+        "title": "German Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines three main questions: (1) Can we explain the existence of our earth, and the universe as a while, without recourse to God? (2) Can there be an objective moral code that we all have good reason to follow even if there is no God? (3) Can we have a spiritual or religious attitude to the world in the absence of belief in God?", 
+        "number": "2048", 
+        "subject": "IFS", 
+        "title": "World Without God?"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

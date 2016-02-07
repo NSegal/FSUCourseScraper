@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the cultural developments and sociopolitical changes in modern Italy from the Risorgimento to the formation of a nation. Students examine Fascism's influence on the national culture, as well as consider the contemporary impact of immigration on diversity.\u00a0 Offered in English.", 
+        "number": "3501", 
+        "subject": "ITT", 
+        "title": "Modern Italian Culture: From the Unification to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

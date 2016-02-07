@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for faculty-directed independent research conducted by students in the honors program. Research is conducted on a topic agreed upon by the student and a faculty mentor and relevant to civil and/or environmental engineering. Variable credit is given consistent with the nature and scope of the research project to be conducted. May be repeated to a maximum of nine semester hours.", 
+        "number": "4906", 
+        "subject": "CGN", 
+        "title": "Honors Work in Civil and Environmental Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the honors program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

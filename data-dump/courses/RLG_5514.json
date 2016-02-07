@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies Christian thought, institutions, lifestyles, and literature in their social, cultural, and historical contexts from the time of Jesus to the early Middle Ages.", 
+        "number": "5514", 
+        "subject": "RLG", 
+        "title": "Christianity in Late Antiquity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

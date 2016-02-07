@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course critically examines the history, organization, strategies, ideology, opponents, culture, and future prospects of the global justice movement.", 
+        "number": "3454", 
+        "subject": "SYP", 
+        "title": "The Global Justice Movement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

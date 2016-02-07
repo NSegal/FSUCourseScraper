@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the major African-American social dance styles of the twentieth century. These dance styles are examined in a context that facilitates understanding their relationships to the cultures and events that produced and influenced them.", 
+        "number": "5193", 
+        "subject": "DAN", 
+        "title": "History of African American Social Dance of the Twentieth Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

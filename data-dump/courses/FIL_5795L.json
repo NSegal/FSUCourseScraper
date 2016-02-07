@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course instructs students in how to make effective choices with practical and digital visual effects. By means of classroom lecture and lab exercises, students practice techniques for creating visual effects that are common within the motion picture industry. Students also practice using industry workflows for planning, communicating, and executing visual effects. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5795L", 
+        "subject": "FIL", 
+        "title": "Visual Effects"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

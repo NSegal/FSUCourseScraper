@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Supervised teaching in lower-division college courses.", 
+        "number": "5946", 
+        "subject": "EDH", 
+        "title": "Internship in College and Community College Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Approval of area in which internship is to be completed.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

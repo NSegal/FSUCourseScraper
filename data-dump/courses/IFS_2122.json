@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to help students think critically about cultures with which they are familiar, to learn about cultures with which they are less familiar, and to navigate the complex ways they perceive and participate in and with multiple cultures. Through an exploration of travel writing, journalism, literature, film, and music,students explore, discuss, and respond to in writing questions about the good, the bad, and the ugly of tourism and tourists.", 
+        "number": "2122", 
+        "subject": "IFS", 
+        "title": "The Tourist Trap: The Good, the Bad, and the Ugly"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

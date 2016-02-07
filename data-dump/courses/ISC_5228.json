@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to probabilistic modeling and Monte Carlo methods (MCMs) suitable for graduate students in science, technology, and engineering. It provides an introduction to discrete event simulation, MCMs and their probabilistic foundations, and the application of MCMs to various fields. In particular, Markov chain MCMs are introduced, as are the application of MCMs to problems in linear algebra and the solution of partial differential equations.", 
+        "number": "5228", 
+        "subject": "ISC", 
+        "title": "Monte Carlo Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5305, MAC 2311, and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

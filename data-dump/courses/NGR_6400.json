@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates the concepts and principles of chemistry, biochemistry and physics that are fundamental to anesthesia practice, medical equipment and operating room safety.", 
+        "number": "6400", 
+        "subject": "NGR", 
+        "title": "Chemistry, Biochemistry, and Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the nurse anesthesia program and undergraduate coursework in chemistry, biochemistry, or physics.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

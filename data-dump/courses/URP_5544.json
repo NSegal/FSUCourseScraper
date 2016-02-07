@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the effects of planned and unplanned development on women. The course also allows students to analyze the strategies pursued to address productive roles of women, not reproductive roles.", 
+        "number": "5544", 
+        "subject": "URP", 
+        "title": "Gender and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

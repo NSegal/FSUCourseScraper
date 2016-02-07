@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides graduate students the opportunity to explore subjects of interest which are not offered within the existing list of courses.", 
+        "number": "5908", 
+        "subject": "HMG", 
+        "title": "Studies in Hospitality and Tourism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

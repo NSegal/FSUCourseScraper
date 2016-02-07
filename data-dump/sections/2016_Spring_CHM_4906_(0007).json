@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-DIS (1704)", 
+    "basic": {
+        "class_num": "1704", 
+        "course": "4906", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lei Zhu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

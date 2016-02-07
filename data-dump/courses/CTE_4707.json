@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an in-depth study of designers and of the design industry in international sites. Students gain a perspective on the influence of fashion on economic, social, artistic, and global culture.", 
+        "number": "4707", 
+        "subject": "CTE", 
+        "title": "International Topics in Design Industry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CTE 1401C, CTE 3201, and CTE 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the fundamentals of studio and field production including camera, audio, lighting, and production planning using the crew system.", 
+        "number": "3533", 
+        "subject": "RTV", 
+        "title": "Television Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Media Production major.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

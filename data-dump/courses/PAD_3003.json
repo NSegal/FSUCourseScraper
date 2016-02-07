@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course in public administration studies the management of large-scale government bureaucracies including organization, career systems, and financing. It also focuses on the role of bureaucracies in modern society in the forumalation and implementation of public policy.", 
+        "number": "3003", 
+        "subject": "PAD", 
+        "title": "Public Administration in American Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

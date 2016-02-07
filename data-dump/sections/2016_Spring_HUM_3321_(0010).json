@@ -1,0 +1,48 @@
+{
+    "_unique": "0010-DSC (4331)", 
+    "basic": {
+        "class_num": "4331", 
+        "course": "3321", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Closed", 
+        "subject": "HUM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Jenni Royce"
+            ], 
+            "location": "WMS 0214", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Jenni Royce"
+            ], 
+            "location": "WMS 0214", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Jenni Royce"
+            ], 
+            "location": "WMS 0214", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

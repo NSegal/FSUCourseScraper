@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship is designed for Dedman School of Hospitality students to gain real world experience in the business field though on-the-job practice. Students work under the direction of an approved industry professional and the internship director. May be repeated to a maximum of twelve semester hours.", 
+        "number": "3941", 
+        "subject": "HFT", 
+        "title": "Management Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission and HFT 1000.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

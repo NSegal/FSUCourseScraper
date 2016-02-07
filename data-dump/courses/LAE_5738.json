@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course overviews the contributions of multiple disciplines to the study of language, literacy, and schooling.", 
+        "number": "5738", 
+        "subject": "LAE", 
+        "title": "Linguistic Research in Language Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

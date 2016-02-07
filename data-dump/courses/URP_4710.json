@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to contemporary U.S. transportation problems, sources of funding, and legislation. Presents the theory and methods employed by planners in the process of resolving transportation problems.", 
+        "number": "4710", 
+        "subject": "URP", 
+        "title": "Introduction to Transportation Issues and Transportation Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of geological, physical, chemical, and biological oceanography. The major hypothesis in each subdiscipline is described. Cross-linkages between subdisciplines are used to show the interdisciplinary nature of modern oceanography.", 
+        "number": "5009", 
+        "subject": "OCE", 
+        "title": "Advanced General Oceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

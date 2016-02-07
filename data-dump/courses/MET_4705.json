@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces observational analysis products used in operational weather forecast offices. Topics include applications of radar and satellite data, the various applications of numerical weather prediction, and types of weather forecasts.", 
+        "number": "4705", 
+        "subject": "MET", 
+        "title": "Operational Meteorology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4500C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

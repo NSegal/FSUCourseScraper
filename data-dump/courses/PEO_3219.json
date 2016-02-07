@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies all phases of baseball technique, strategy, teaching, and coaching procedures.", 
+        "number": "3219", 
+        "subject": "PEO", 
+        "title": "Theory and Practice of Baseball"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of the development and writing of fictional scripts for television and film.", 
+        "number": "3103", 
+        "subject": "RTV", 
+        "title": "Narrative Writing for Television and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

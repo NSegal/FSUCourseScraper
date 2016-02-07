@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines environmental issues, the three 'E's of sustainability (ecology, equity, and equality), ways to integrate sustainability into infrastructure and social structures, and practical solutions and skills for making personal and professional decisions that support living a sustainable life.", 
+        "number": "3044", 
+        "subject": "IFS", 
+        "title": "Living Green, Theory to Action"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

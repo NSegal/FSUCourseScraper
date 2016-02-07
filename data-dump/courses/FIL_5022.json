@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course survey of theories and movements in motion picture history.", 
+        "number": "5022", 
+        "subject": "FIL", 
+        "title": "History and Criticism II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIL 5021.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

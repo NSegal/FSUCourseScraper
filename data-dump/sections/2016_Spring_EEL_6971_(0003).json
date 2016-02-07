@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-THE (2988)", 
+    "basic": {
+        "class_num": "2988", 
+        "course": "6971", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jianping Zheng"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

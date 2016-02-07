@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on various approaches to language study covering such topics as the evolution of the English language and questions of language acquisition, dialects, and grammar.", 
+        "number": "5068", 
+        "subject": "ENG", 
+        "title": "Studies in Language and Linguistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

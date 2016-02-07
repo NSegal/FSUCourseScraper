@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers human-computer interaction, design concepts, and usability research techniques. The course includes a series of papers and projects focusing on visual design, audience analysis, technology, and usability analysis in order to select displays, layout, typeface, color, and metaphor. The course helps students gain an understanding of how the above-mentioned techniques are used to help focus content and select the most appropriate interface for the needs of the target audience.", 
+        "number": "5338", 
+        "subject": "COM", 
+        "title": "Website Usability and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COM 4470 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

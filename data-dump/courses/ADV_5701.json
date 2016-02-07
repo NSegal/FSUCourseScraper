@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is directed to Communication graduate students who intend to pursue applied, non-academic careers upon completion of their degree. The course assists students in setting up job-search strategies, preparing documentation for seeking employment, developing job-related oral communication field skills, and understanding career opportunities in the communication field.", 
+        "number": "5701", 
+        "subject": "ADV", 
+        "title": "Communication Career Futures"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: At least one semester of the graduate program.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

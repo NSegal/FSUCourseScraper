@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the principles and methods of systems analysis and research in the context of library and information studies. The course discusses typical problems studied and considers problem identification and definition, as well as techniques of data collection and analysis, including statistical analysis.", 
+        "number": "5271", 
+        "subject": "LIS", 
+        "title": "Research in Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

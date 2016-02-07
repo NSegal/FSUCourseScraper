@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to experimental methodology, data analysis and interpretation, calibration techniques, scientific model validation, as well as data presentation and communication of results. The laboratory experiments have astrophysical relevance and include magnetic fields, optical interference and diffraction, wave polarization, line spectroscopy, photoelectric effect, and radioactive decay.", 
+        "number": "3721L", 
+        "subject": "AST", 
+        "title": "Astrophysics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3101.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to costume patternmaking including drafting, flat pattern, and draping methods. This is a project-oriented course where students gain practice in all three patterning methods on projects for men's and women's historically based costumes.", 
+        "number": "4239", 
+        "subject": "TPA", 
+        "title": "Costume Patterning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 4238 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

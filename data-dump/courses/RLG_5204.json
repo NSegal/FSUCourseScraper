@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of intensive work on specific religious texts in classical Hebrew (ancient or medieval). Choice of texts will vary by semester.", 
+        "number": "5204", 
+        "subject": "RLG", 
+        "title": "Readings in Classical Hebrew Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HEB 2230 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

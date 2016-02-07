@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with knowledge of research approaches that investigate the effectiveness, dissemination, implementation, and adaptation of clinical interventions to communities and populations. Emphasis is given to issues of effectiveness and translation research relevant to marriage and family therapy.", 
+        "number": "6608", 
+        "subject": "FAD", 
+        "title": "Effectiveness and Translation Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

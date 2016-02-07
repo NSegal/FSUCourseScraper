@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary. Required for senior English majors concentrating in literature.", 
+        "number": "4934", 
+        "subject": "ENG", 
+        "title": "Senior Seminar in Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Ninety semester hours of college work.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

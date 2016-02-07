@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of the social work profession's history, mission, values, ethics, and roles. Content on generalist social work practice with individuals, families, groups, and communities is covered, and attention is given to working with ethnic minorities, women, gays and lesbians, and disabled people.", 
+        "number": "5308", 
+        "subject": "SOW", 
+        "title": "Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

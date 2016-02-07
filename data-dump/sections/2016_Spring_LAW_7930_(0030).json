@@ -1,0 +1,37 @@
+{
+    "_unique": "0030-LEC (13573)", 
+    "basic": {
+        "class_num": "13573", 
+        "course": "7930", 
+        "season": "Spring", 
+        "solus_id": "0030", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Lawrence Krieger"
+            ], 
+            "location": "LAC A0025", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Lawrence Krieger"
+            ], 
+            "location": "LAC A0025", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

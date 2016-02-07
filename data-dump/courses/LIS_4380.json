@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the tools, information management, and communication function of social media through hands-on work with designing and managing\u00a0 social media sites. Students participating in this class will actively design, implement, and coordinate numerous projects that build a foundation in social media management while allowing students to gain valuable leadership, communication, and organizational skills. They also explore the different issues and concerns may influence the widespread adoption and implementation of social media at the individual and national levels.", 
+        "number": "4380", 
+        "subject": "LIS", 
+        "title": "Social Media Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

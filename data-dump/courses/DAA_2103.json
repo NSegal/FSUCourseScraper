@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed for the intermediate contemporary dancer that has had previous movement experience in contemporary dance technique, and includes some theoretical study of contemporary dance history. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "2103", 
+        "subject": "DAA", 
+        "title": "Intermediate Contemporary Dance-Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Faculty placement or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

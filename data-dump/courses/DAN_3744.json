@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a studio laboratory for concepts in movement theory and body alignment. May be repeated to a maximum of four semester hours.", 
+        "number": "3744", 
+        "subject": "DAN", 
+        "title": "Dance Conditioning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

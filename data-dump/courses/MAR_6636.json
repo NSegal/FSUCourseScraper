@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as psychographics, scaling, conjoint measurement, multidimensional scaling, brand switching models, as well as logit and probit regression. Students develop an understanding of these measurement techniques and apply these models with empirical data.", 
+        "number": "6636", 
+        "subject": "MAR", 
+        "title": "Quantitative methods I: Measurement, scaling, and choice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

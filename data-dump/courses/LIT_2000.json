@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to key terminology, concepts, and methodologies for the study of complex literature. The course provides a groundwork in literary types for non-majors and is also strongly recommended as preparation for upper-level (3000- or 4000-level) coursework in the field.", 
+        "number": "2000", 
+        "subject": "LIT", 
+        "title": "Introduction to Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

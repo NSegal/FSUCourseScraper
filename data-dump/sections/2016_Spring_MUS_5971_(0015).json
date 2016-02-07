@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-THE (6636)", 
+    "basic": {
+        "class_num": "6636", 
+        "course": "5971", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Paul Richards"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

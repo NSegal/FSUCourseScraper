@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course continues the introduction to modern Hebrew begun in HBR 1120. Cultural orientation and the practical use of Hebrew in meaningful situations. Oral comprehension, speaking, and writing are emphasized through a communicative approach. May not be taken by native speakers. May not be taken concurrently with HBR 1120 and/or 2220.", 
+        "number": "1121", 
+        "subject": "HBR", 
+        "title": "Elementary Modern Hebrew II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HBR 1120 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

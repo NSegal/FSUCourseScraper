@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines key manuscripts of the Qumran corpus and focuses on issues such as the history, beliefs, and praxis of the Jewish sectarian movement that is associated with the scrolls; the archaeology of the Qumran site; and the significance of the scrolls for understanding Second Temple Judaism.", 
+        "number": "3209", 
+        "subject": "REL", 
+        "title": "The Dead Sea Scrolls"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: REL 2210 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

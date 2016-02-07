@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with basic knowledge of both digital and analog sound distortion and synthesis and resynthesis techniques and allows them to explore the technology and art of digital music production.", 
+        "number": "3542", 
+        "subject": "MUS", 
+        "title": "Digital Music Synthesis II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUS 3541.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

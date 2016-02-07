@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This seminar introduces students to current research topics in astronomy and astrophysics through presentation and discussion of recently published research papers, their own research work, and occasional review publications.Topics cover observational and theoretical astrophysics alike. May be repeated to a maximum of two semester hours.", 
+        "number": "4218", 
+        "subject": "AST", 
+        "title": "Astrophysics Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AST 4211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

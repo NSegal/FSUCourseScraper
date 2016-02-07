@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops tuning skills up to the concert level, and prepares students for the Piano Technicians Guild tuning exam.", 
+        "number": "4213", 
+        "subject": "MUM", 
+        "title": "Applied Piano Tuning IV"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4212.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

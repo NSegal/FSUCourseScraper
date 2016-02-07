@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes presentations of contemporary and interesting issues in science, mathematics, or teaching methods. Content varies from semester to semester. May be repeated to a maximum of four semester hours.", 
+        "number": "4939", 
+        "subject": "SCE", 
+        "title": "Seminar in Contemporary Science, Mathematics and Science Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

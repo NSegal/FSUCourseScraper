@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed study through readings in the original texts of selected philosophical works. May be repeated to a maximum of six semester hours.", 
+        "number": "5505", 
+        "subject": "GRW", 
+        "title": "Greek Philosophical Writings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

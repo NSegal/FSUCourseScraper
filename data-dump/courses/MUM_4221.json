@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides introductory instruction in preparing a piano for concert performance including tuning, voicing, and regulation.", 
+        "number": "4221", 
+        "subject": "MUM", 
+        "title": "Theory of Piano Technology II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUM 4220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

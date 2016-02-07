@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys major works in the areas of theatre, philosophy, and prose fiction. Special attention is given to the possible meanings of concepts such as Classicism and Enlightenment.", 
+        "number": "4433", 
+        "subject": "FRW", 
+        "title": "17th- and 18th-Century Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRW 3100 or FRW 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

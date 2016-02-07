@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers basic concepts of law that apply to the hospitality industry. The course focuses on legal definitions, innkeeper-guest relationships, liability, and other legal issues.", 
+        "number": "3603", 
+        "subject": "HFT", 
+        "title": "Law for hospitality operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

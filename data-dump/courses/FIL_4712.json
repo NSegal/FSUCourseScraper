@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an advanced-level instruction in the visual development skills required for the preproduction and previsualization of narrative motion pictures.", 
+        "number": "4712", 
+        "subject": "FIL", 
+        "title": "Visualization III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

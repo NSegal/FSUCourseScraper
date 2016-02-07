@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LEC (5729)", 
+    "basic": {
+        "class_num": "5729", 
+        "course": "3300", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Jon Ahlquist"
+            ], 
+            "location": "HCB 0209", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Jon Ahlquist"
+            ], 
+            "location": "HCB 0209", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Jon Ahlquist"
+            ], 
+            "location": "HCB 0209", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

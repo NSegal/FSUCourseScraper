@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to expose students to the art of negotiation. The course instruction and activities prepare students for future negotiations in the small business environment. The class discusses both competitive and collaborative negotiation and how to prepare for a negotiation. Students are exposed to many successful negotiation strategies and taught how to determine which strategy meets the need of the current negotiation. The course also teaches students the importance of negotiating from a position of strength and how to determine and leverage the advantages they have.", 
+        "number": "4255", 
+        "subject": "ENT", 
+        "title": "Negotiation in Entrepreneurship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

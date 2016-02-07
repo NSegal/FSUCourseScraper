@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course deals with natural hazards such as hurricanes and earthquakes and human-made hazards such as nuclear power and air pollution. Students acquire perspectives, tools, and information to choose rationally among publicpolicy alternatives regarding responses to environmental hazards.", 
+        "number": "5345", 
+        "subject": "GEO", 
+        "title": "Disaster Preparedness and Hazards Mitigation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

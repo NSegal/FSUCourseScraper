@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores some of the issues related to information systems and their place in a global society. Topics include how global information systems are developed and managed, the role of national culture in the adoptionand use of information systems, as well as global IS strategy and workforc e issues.", 
+        "number": "5159", 
+        "subject": "ISM", 
+        "title": "Global Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

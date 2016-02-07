@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces contemporary issues in communication, including communication as an academic discipline, a major business and governmental policy sector, and a professional career. The course reviews some historical and predominantly current issues, policies and practices that are central to the field of communication.", 
+        "number": "2740", 
+        "subject": "COM", 
+        "title": "Contemporary Issues in Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

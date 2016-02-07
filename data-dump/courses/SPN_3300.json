@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the theory and practice of Spanish grammar and its applications to compositions. Can be taken concurrently with SPN 3400.", 
+        "number": "3300", 
+        "subject": "SPN", 
+        "title": "Spanish Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: A grade of \"C\u2013\" or higher in SPN 2240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

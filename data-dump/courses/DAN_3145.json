@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history of ballet through a comparative study of classical dance forms around the world. Exploring what constitutes 'classical' and reinventing classical, the course also focuses on larger cultural and historical movements as they influenced (or reflected) the codification of dance technique, gender theories of performance, and the role of dance in society. Students investigate these concepts through open, in-class conversations, the screening of classical dance works, and the reading and writing of critical essays and dance reviews.", 
+        "number": "3145", 
+        "subject": "DAN", 
+        "title": "Classical Perspectives on Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

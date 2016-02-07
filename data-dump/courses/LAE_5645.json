@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to address current trends and texts in digital popular culture, and how popular culture affects students, teachers, 21st century literacies, and lesson planning.", 
+        "number": "5645", 
+        "subject": "LAE", 
+        "title": "Pedagogy and Popular Culture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

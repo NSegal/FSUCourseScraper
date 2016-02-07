@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the principles of visual rhetoric, especially as it is enacted across diverse media, shaped by multiple genres, and designed to achieve different goals with different audiences. Students learn to analyze the rhetorical function of imagery, to use images to respond to and organize arguments, and to create images that operate rhetorically.", 
+        "number": "4218", 
+        "subject": "ENC", 
+        "title": "Visual Rhetoric"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

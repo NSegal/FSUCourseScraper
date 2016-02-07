@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course applies and demonstrates GIScience theory and techniques in a vocational environment.", 
+        "number": "5950", 
+        "subject": "GIS", 
+        "title": "GIScience Capstone"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GIS 5034, GIS 5101 and GIS 5106.", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }
+}

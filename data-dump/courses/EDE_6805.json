@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is for advanced graduate students preparing for leadership positions associated with professional development of teachers at pre-service, induction, and in-service levels. Model programs are viewed from historical, sociological, psychological, philosophical, and anthropological perspectives.", 
+        "number": "6805", 
+        "subject": "EDE", 
+        "title": "Perspectives of Teacher Professional Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

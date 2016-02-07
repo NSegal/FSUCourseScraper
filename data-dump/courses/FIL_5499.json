@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a survey of traditional acting techniques and contrasts and compares those techniques to more commonly used contemporary techniques of on-camera actors. Students learn to prepare and execute discussion with on-camera actors from various educational backgrounds.", 
+        "number": "5499", 
+        "subject": "FIL", 
+        "title": "Acting for the Camera"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

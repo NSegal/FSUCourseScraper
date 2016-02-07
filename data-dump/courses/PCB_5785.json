@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on muscle biophysics, biochemistry, and physiology. There is an emphasis on contractile function, experimental methods, and specialization of muscular systems in vertebrates and invertebrates.", 
+        "number": "5785", 
+        "subject": "PCB", 
+        "title": "Biology of Muscle"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BCH 4053 and PCB 3743.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

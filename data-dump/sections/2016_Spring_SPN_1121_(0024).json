@@ -1,0 +1,48 @@
+{
+    "_unique": "0024-LEC (10816)", 
+    "basic": {
+        "class_num": "10816", 
+        "course": "1121", 
+        "season": "Spring", 
+        "solus_id": "0024", 
+        "status": "Open", 
+        "subject": "SPN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Perla Garcia Frutis"
+            ], 
+            "location": "BEL 0118", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Perla Garcia Frutis"
+            ], 
+            "location": "BEL 0118", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Perla Garcia Frutis"
+            ], 
+            "location": "BEL 0118", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

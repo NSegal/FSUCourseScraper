@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the use of emerging technologies for health information seeking, health promotion and disease prevention, and for supporting the treatment and management of chronic illnesses. Students learn how to assess users' information needs, competencies, and health behaviors in order to develop accessible, useful, and effective solutions. They also study issues and concerns influencing adoption of these technologies at different levels.", 
+        "number": "3037", 
+        "subject": "IFS", 
+        "title": "Empowering Health Consumers in the eHealth Era"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

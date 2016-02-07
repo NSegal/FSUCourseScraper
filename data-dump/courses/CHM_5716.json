@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with microscopic and diffraction methods used for structural characterization of materials, as well as with transport and magnetic measurements. Recommended for students involved in materials research. May be repeated within the same term to a maximum of three semester hours.", 
+        "number": "5716", 
+        "subject": "CHM", 
+        "title": "Characterization of Materials I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

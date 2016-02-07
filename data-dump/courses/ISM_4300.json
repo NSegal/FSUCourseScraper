@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the strategy and theory of the creation, development, introduction, management, and marketing of new technologies and services. Management of the appropriate technological environment of an organization is emphasized. Concepts and approaches to e-commerce and e-business.", 
+        "number": "4300", 
+        "subject": "ISM", 
+        "title": "Technology Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISM 4241.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

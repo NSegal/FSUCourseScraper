@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the central analytical techniques of modern population study. Analysis including stable population theory and indirect estimation, continuous and discrete time formulations are considered; generalizations of the standard model with fixed mortality and fertility are also examined. Parametric models of fertility, mortality, stable populations, and the curve-fitting techniques underlying these approaches are reviewed.", 
+        "number": "5117", 
+        "subject": "ECP", 
+        "title": "Mathematical Demography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar examines the forces that create, maintain, and erode inequalities for racial minorities, women, and immigrants in organizations, with an emphasis on work organizations. Course material draws from theory and research from sociology, organizational behavior, social psychology, and legal studies.", 
+        "number": "5547", 
+        "subject": "SYO", 
+        "title": "Race and Gender in Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

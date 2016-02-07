@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a twenty hour per-week supervised practicum in the application of applied behavior analysis.", 
+        "number": "5942", 
+        "subject": "EAB", 
+        "title": "Applied Behavior Analysis Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 5700, EAB 5701, and EAB 5780.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

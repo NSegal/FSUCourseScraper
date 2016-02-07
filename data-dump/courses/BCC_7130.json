@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This clinical clerkship is designed to acquaint the student with the varied aspects of medical care for women, with emphasis on acquiring the basic skills of gynecologic and obstetrical history-taking and physical examination, participating and assuming responsibility in the evaluation and care of outpatients and inpatients, and acquiring practical experience in the operating and delivery room areas.", 
+        "number": "7130", 
+        "subject": "BCC", 
+        "title": "Obstetrics/Gynecology Clerkship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

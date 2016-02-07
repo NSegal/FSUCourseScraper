@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers selected topics such as stability problems, linear and nonlinear theories; regular and singular perturbation techniques. Also offered in the departments of Mathematics, Computer Science, and Meteorology. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "6434", 
+        "subject": "MAP", 
+        "title": "Advanced Topics in Hydrodynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

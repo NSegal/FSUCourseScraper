@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The course continues to develop students' Kanji skills in both writing and reading. Students learn and practice approximately 200-250 intermediate-level Kanji during the semester, in addition to building knowledge of Kanji radicals and origins.", 
+        "number": "3302", 
+        "subject": "JPN", 
+        "title": "Kanji Drill II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 3301, or JPN 2302, or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Varies with the instructor and semester. May be repeated to a maximum of nine semester hours.", 
+        "number": "3931", 
+        "subject": "POS", 
+        "title": "Special Topics in Government"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

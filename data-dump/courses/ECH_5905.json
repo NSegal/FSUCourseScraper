@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a detailed examination of some topic in chemical engineering. Conducted on a personal basis with the instructor. May be repeated with different topics. Only three semester hours may be used toward the MS degree.", 
+        "number": "5905", 
+        "subject": "ECH", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers microbiological techniques including the isolation, typing, and identification of bacteria, properties of pathogenic bacteria, and\u00a0 food microbiology.", 
+        "number": "2004L", 
+        "subject": "MCB", 
+        "title": "Microbiology for the Health Services Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MCB 2004.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

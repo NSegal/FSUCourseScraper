@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces statistical inference, estimation theory, model building, and forecasting methods. Emphasis is on model building and policy analysis. Extensive use is made of PC econometric software.", 
+        "number": "4421", 
+        "subject": "ECO", 
+        "title": "Introduction to Econometrics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 3431.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

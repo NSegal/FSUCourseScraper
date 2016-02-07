@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course covers root finding, interpolation and polynomial approximation, numerical differentiation and integration, direct and iterative methods for systems of linear equations.", 
+        "number": "3703", 
+        "subject": "MAD", 
+        "title": "Numerical Analysis I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 with a grade of \"B-\" or better or MAC 2313 with a grade of \"C-\" or better, MAS 3105, and competence in a programming language suitable for numeric computations, such as C, C++, Fortran, Java, or Python.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

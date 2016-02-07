@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of core repertoire of Western music. In addition to the works themselves, the course introduces the broad periods of Western music history, and develops a systematic approach to the analysis of musical style.", 
+        "number": "2110", 
+        "subject": "MUL", 
+        "title": "Survey of Music Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 1111 and MUT 1112 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

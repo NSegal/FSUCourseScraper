@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the comparative analysis of conceptions of teaching and learning in competing philosophies of education and their implications for education in a culturally diverse democratic society.", 
+        "number": "5548", 
+        "subject": "EDF", 
+        "title": "Philosophy of Teaching and Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

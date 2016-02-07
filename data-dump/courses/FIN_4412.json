@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the decisions impacting the short-term cash flows of organizations-public, private, governmental, and non-profit. Topics include: cash management, treasury management, and working capital management.", 
+        "number": "4412", 
+        "subject": "FIN", 
+        "title": "Short-Term Financial Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518, FIN 3244 and FIN 3403 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

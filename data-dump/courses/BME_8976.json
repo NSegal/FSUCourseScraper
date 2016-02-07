@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "All students must register for this course for the term during which they intend to defend their thesis.", 
+        "number": "8976", 
+        "subject": "BME", 
+        "title": "Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Instructor permission.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

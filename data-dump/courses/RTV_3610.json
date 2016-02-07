@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the design and production of computer-generated graphics and animation for video projects.", 
+        "number": "3610", 
+        "subject": "RTV", 
+        "title": "Computer Graphics and Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RTV 3531 and RTV 3571.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The course focuses on the use of methodology learned in seminars. May be repeated to a maximum of nine semester hours.", 
+        "number": "5824", 
+        "subject": "ANG", 
+        "title": "Anthropological Fieldwork: Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 9.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a thorough review of personal lines insurance principles and exposures.", 
+        "number": "2113", 
+        "subject": "RMI", 
+        "title": "Personal Lines Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "2.00"
+    }
+}

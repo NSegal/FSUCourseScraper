@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores basic principles of the layered painting techniques that developed and flourished in the 15th through the 20th centuries and examines how varying approaches to illusion, form, color, and content are intrinsic to the expressive aims of painting. May be repeated to a maximum of six semester hours.", 
+        "number": "3590", 
+        "subject": "ART", 
+        "title": "Painting Materials and Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 2500C and ART 3522.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

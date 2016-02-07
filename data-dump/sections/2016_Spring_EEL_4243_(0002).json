@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LEC (12411)", 
+    "basic": {
+        "class_num": "12411", 
+        "course": "4243", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:15:00", 
+            "instructors": [
+                "Hui Li"
+            ], 
+            "location": "HOL B0205", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:15:00", 
+            "instructors": [
+                "Hui Li"
+            ], 
+            "location": "HOL B0205", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

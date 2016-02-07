@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a general understanding of the sport management field. Through the course, students learn about the breadth of the sport industry, the different areas which comprise the industry, and the prospective employment opportunities in sport management.", 
+        "number": "3109", 
+        "subject": "IFS", 
+        "title": "Exploring the World of Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

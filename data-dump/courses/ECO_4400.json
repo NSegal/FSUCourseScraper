@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a non-technical introduction to strategic decision-making. Focus on situations involving conflict and cooperation and on decision-making under conditions of uncertainty and ignorance. Applies game theory and decision theory to such topics as bargaining and negotiations, contracting, auctions, and voting.", 
+        "number": "4400", 
+        "subject": "ECO", 
+        "title": "Games and Decisions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2023; ECO 3101 recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

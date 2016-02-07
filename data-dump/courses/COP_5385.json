@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the theory of hierarchical state machines (HSM) and the use of HSM to model and implement reactive systems (RS). Implementations of HSM in C, C++, and Java are explored. HSM are applied for modeling and implementing RS, including real-time, multi-threaded, and embedded systems. Selected articles from the rapidly expanding literature and an advanced project are included. Permission of instructor required for students with credit for CEN 4xxx.", 
+        "number": "5385", 
+        "subject": "COP", 
+        "title": "Reactive Systems and Hierarchical State Machines"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: COP 4530 and COP 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

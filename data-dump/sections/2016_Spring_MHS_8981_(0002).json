@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DDF (14103)", 
+    "basic": {
+        "class_num": "14103", 
+        "course": "8981", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MHS", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Steven Pfeiffer"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

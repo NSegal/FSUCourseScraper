@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8985", 
+        "subject": "MAT", 
+        "title": "Defense of Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Dissertation Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

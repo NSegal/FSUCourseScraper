@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course aims to provide instruction to the field of blended and online learning and teaching in K-12 environments through presenting a glossary of fundamental terms, key concepts, and best practices based on national standards for development of online teachers and teaching. Learners explore e-learning, theories, tools, advantages and disadvantages of blended and online learning, and critical success factors for effective implementation of the practices. They practice beginning to incorporate what they are learning and applying it to their own instruction.", 
+        "number": "5073", 
+        "subject": "EDG", 
+        "title": "Foundations of Blended and Online Learning and Teaching K-12"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

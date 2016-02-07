@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the application of materials predicated on material science and engineering case studies covering most engineering applications.", 
+        "number": "5543", 
+        "subject": "EML", 
+        "title": "Materials Selection in Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3234 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

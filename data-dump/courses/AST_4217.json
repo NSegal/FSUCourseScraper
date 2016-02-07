@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to star formation, evolution, and death through simple theoretical modeling and through a strong emphasis on the underlying physics concepts.", 
+        "number": "4217", 
+        "subject": "AST", 
+        "title": "The Physics of Stars"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 3101 and PHY 3221.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

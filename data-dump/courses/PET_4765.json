@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the study of vital sociopsychological aspects of coaching.", 
+        "number": "4765", 
+        "subject": "PET", 
+        "title": "Principles and Problems of Coaching"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey of the development of dance in human culture with emphasis on dance as an art form. The major periods of dance history, choreographic masterworks, and artists in choreography and performance are explored through readings, discussion, media presentation, live performances, and movement laboratories. No prior dance experience is required.", 
+        "number": "2100", 
+        "subject": "DAN", 
+        "title": "Dance Appreciation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

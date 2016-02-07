@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey for majors that reviews the development of the central ideas that have shaped the emergence of anthropology as a science. The approach is critical and objective, the presentation is chronological, and the emphasis is to evaluate the scope and limitations of modern theories.", 
+        "number": "4034", 
+        "subject": "ANT", 
+        "title": "History of Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ANT 2100, ANT 2410, and ANT 2511.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

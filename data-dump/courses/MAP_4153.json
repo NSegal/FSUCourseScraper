@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers vector calculus: gradient, divergence, curl; differential operators in orthogonal curvilinear coordinates; line, surface, and volume integrals; Stokes' and Green's theorems; subscript notation, Cartesian tensors; and applications.", 
+        "number": "4153", 
+        "subject": "MAP", 
+        "title": "Vector Calculus with Introduction to Tensors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

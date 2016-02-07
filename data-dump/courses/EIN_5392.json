@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on material forming, material removal and material joining processes. Shop floor layout topics. Material flow topics. Information system topics. System integration topics. Manufacturing system evaluation topics. Case studies and design exercises.", 
+        "number": "5392", 
+        "subject": "EIN", 
+        "title": "Manufacturing Processes and Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGN 4000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

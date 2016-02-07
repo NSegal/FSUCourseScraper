@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines modern power system operational and control problems and solution techniques, including state estimation, contingency analysis, load-frequency control, and automatic generation control. Additional subjects covered include load-flow analysis, unit commitment, and external equivalents for steady-state operations.", 
+        "number": "6266", 
+        "subject": "EEL", 
+        "title": "Power Systems Operation and Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 5250.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

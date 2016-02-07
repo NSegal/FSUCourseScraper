@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course has a threefold purpose. Students develop skills in reading, writing and teaching Braille to adults. Students learn adaptive techniques of communication in money management, handwriting, use of tape recorders, and management of print materials. The third area addressed in this course trains students to assess the communication needs of individuals with low vision, in order to work with them more effectively.", 
+        "number": "5315", 
+        "subject": "EVI", 
+        "title": "Teaching Communication Skills to Visually Impaired Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

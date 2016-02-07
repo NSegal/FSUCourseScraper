@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course traces the major shifts in architectural thinking and design from the nineteenth to the twenty-first centuries. While focused on European and American debates and movements, the course makes links to the architectural implications of Western territorial ambitions in colonies such as the Indian subcontinent, the Muslim heartland, and North Africa.", 
+        "number": "4067", 
+        "subject": "ARH", 
+        "title": "History of Modern Architecture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LAB (400)", 
+    "basic": {
+        "class_num": "400", 
+        "course": "3213C", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ATR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Nicholas Pappas"
+            ], 
+            "location": "UCD D2105", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Nicholas Pappas"
+            ], 
+            "location": "UCD D2105", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

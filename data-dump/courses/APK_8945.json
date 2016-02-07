@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised field experience in applied exercise physiology with emphasis on corporate and adult fitness, cardiac rehabilitation, or hospital based wellness programs.", 
+        "number": "8945", 
+        "subject": "APK", 
+        "title": "Exercise Physiology Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: APK 5111C, PET 5553, and instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 9.00"
+    }
+}

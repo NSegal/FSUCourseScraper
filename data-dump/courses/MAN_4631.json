@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the international dimensions of strategic management, including environmental and political issues affecting global competition. Special emphasis is given to the multinational enterprise and strategic options available for effective worldwide competitive advantage.", 
+        "number": "4631", 
+        "subject": "MAN", 
+        "title": "International Strategic Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013, ECO 2023, and MAN 3600.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

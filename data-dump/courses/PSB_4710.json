@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the biological and genetic factors that may increase susceptibility to develop an eating disorder or obesity. It also provides a survey of biological changes that arise in individuals with an eating disorder or obesity.", 
+        "number": "4710", 
+        "subject": "PSB", 
+        "title": "Biology of Eating Disorders and Obesity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

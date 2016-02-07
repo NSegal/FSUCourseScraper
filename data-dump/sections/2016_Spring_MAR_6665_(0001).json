@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (5258)", 
+    "basic": {
+        "class_num": "5258", 
+        "course": "6665", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MAR", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Daekwan Kim"
+            ], 
+            "location": "RBB 0347", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

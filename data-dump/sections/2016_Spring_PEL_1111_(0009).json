@@ -1,0 +1,37 @@
+{
+    "_unique": "0009-LAB (12126)", 
+    "basic": {
+        "class_num": "12126", 
+        "course": "1111", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "PEL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:50:00", 
+            "instructors": [
+                "Kyle McNevin"
+            ], 
+            "location": "CRB C0101", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:50:00", 
+            "instructors": [
+                "Kyle McNevin"
+            ], 
+            "location": "CRB C0101", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

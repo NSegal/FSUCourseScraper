@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers laboratory methods for growth, handling, and study of prokaryotes and other types of microorganisms. Topics include: aseptic technique and isolation of pure cultures; microscopic methods; effects of environment on growth; viruses; physiological characterization methods; and methods related to medical, environmental, and food microbiology.", 
+        "number": "4403L", 
+        "subject": "MCB", 
+        "title": "Prokaryotic Biology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, CHM 2210, and PCB 3063. Corequisite: MCB 4403.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

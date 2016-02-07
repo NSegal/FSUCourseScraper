@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course comprises a study of Roman art and archaeology from the second to the sixth century CE with emphasis on important sites and monuments.", 
+        "number": "4154", 
+        "subject": "ARH", 
+        "title": "Archaeology of the Late Roman Empire"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

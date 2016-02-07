@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on major political ideas of the modern world emphasized through a study of selected political theorists such as Machiavelli, Hobbes, Locke, Rousseau, Hume, Burke, Hegel, Marx, Engels, Bentham, Mill, Jefferson, Madison, Lenin, and Mussolini. May be repeated to a maximum of nine semester hours.", 
+        "number": "3331", 
+        "subject": "PHM", 
+        "title": "Modern Political Thought"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

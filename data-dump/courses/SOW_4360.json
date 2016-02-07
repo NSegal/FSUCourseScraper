@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is one of three courses in the practice foundation curriculum. The course is designed to introduce students to a range of theories and models of social work practice from an ecological framework.", 
+        "number": "4360", 
+        "subject": "SOW", 
+        "title": "Social Work Practice with Communities and Organizations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 3350 and SOW 4341.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course instructs secondary education faculty in advanced areas of technical theatre production. Students come away with the ability to train their own students in all aspects of technical theatre as well as the ability to support productions they oversee. In addition, persons taking this course learn to advise their students in the preparation of portfolios used to apply for BFA programs in theatre.", 
+        "number": "5386", 
+        "subject": "TPA", 
+        "title": "Advanced Technical Production for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

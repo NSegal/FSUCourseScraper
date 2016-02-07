@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-RSR (3008)", 
+    "basic": {
+        "class_num": "3008", 
+        "course": "5910", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "RSR", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jianping Zheng"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

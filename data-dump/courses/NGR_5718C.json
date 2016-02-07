@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on educational program evaluation and change. The emphasis is on application of testing and measurement relevant to the health professions. The student learns effective test design and test writing skills. Methods of evaluating student performance in the classroom and clinical settings are also explored, and evaluation tools for educational programs, courses and students are discussed. The course addresses the change process in relation to educational outcomes and course evaluations.", 
+        "number": "5718C", 
+        "subject": "NGR", 
+        "title": "Evaluation in Nursing Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5713C and NGR 5714C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "4.00"
+    }
+}

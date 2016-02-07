@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to acquire skill in use and interpretation of selected instruments and techniques for individual assessment. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6220", 
+        "subject": "MHS", 
+        "title": "Individual Appraisal in Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

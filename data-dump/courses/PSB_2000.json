@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course helps students understand basic nervous system mechanisms that underlie behavior and how systematic observation and experimentation are involved in constructing our understanding of these mechanisms. The course also conveys an appreciation for utilizing critical thinking and scientific knowledge when making important decisions. (Cannot be taken after PSB 3004C.)", 
+        "number": "2000", 
+        "subject": "PSB", 
+        "title": "Introduction to Brain and Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

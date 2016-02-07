@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an exploration of current and historical issues in art education. In that context, the goal of this course is to present a conceptual overview of significant concepts and issues in art education through examining primarily current and historical writings and writers in the field. In addition, methods of historical and contextual research as well as issues related to writing history are also examined. All course assignments and experiences are formulated to encourage reflection and explorations between personal interests and experiences, artistic practices, scholarly inquiry, and interdisciplinary thinking.", 
+        "number": "5246", 
+        "subject": "ARE", 
+        "title": "Contemporary and Historical Issues in Art Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Art Education Teacher Certification Program. Corequisite: ARE 5046.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

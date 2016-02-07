@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-PRF (7945)", 
+    "basic": {
+        "class_num": "7945", 
+        "course": "4242", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:50:00", 
+            "instructors": [
+                "Gayle Seaton"
+            ], 
+            "location": "TBA", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

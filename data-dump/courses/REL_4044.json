@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a survey of how theorists in the modern era have answered questions about the origin, essence, and function of religion, as well as an examination of the methods by which religion is studied in a scholarly environment.", 
+        "number": "4044", 
+        "subject": "REL", 
+        "title": "What Is Religion? What Is Religious Studies?"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Successful completion of at least twelve hours of coursework in the department of religion.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

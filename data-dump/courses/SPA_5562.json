@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on a variety of topics related to AAC assessment, intervention, and clinical research for people with severe communication disorders.\u00a0 Students are encouraged to participate in related research activities in various phases of ongoing projects.", 
+        "number": "5562", 
+        "subject": "SPA", 
+        "title": "Advanced Seminar in Augmentative and Alternative Communication Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

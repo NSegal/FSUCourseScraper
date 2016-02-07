@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide field-based experience in public setting in conjunction with an on-campus seminar. Core readings are discussed.", 
+        "number": "5947", 
+        "subject": "RED", 
+        "title": "Seminar and Practicum in Reading and Language Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

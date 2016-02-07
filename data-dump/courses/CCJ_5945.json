@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5945", 
+        "subject": "CCJ", 
+        "title": "Field Practice in Criminology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Successful completion of CCJ 5605, CCJ 5606, CCJ 5705, or CCJ 5706; or instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "9.00"
+    }
+}

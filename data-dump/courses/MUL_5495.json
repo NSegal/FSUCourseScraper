@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the major schools of organ composition, with particular emphasis on the contribution of organ music to the liturgy of the Western church.", 
+        "number": "5495", 
+        "subject": "MUL", 
+        "title": "Survey of Organ Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

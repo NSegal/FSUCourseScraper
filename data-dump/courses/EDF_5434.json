@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an advanced course in the theory, principles, and techniques of measurement.", 
+        "number": "5434", 
+        "subject": "EDF", 
+        "title": "Measurement Theory II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5432. Pre- or corequisite: EDF 5401 or EDF 5402.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

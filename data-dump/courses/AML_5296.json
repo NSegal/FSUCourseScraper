@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an intensive study of a particular ethnicity, period, ortopic in ethnic literature of the U.S. May be repeated within the same sem ester to a maximum of twelve semester hours.", 
+        "number": "5296", 
+        "subject": "AML", 
+        "title": "Studies in Multi-Ethnic Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar surveys regional studies' methodology by introducing a dozen examples of a domain of Middle Eastern studies (for example, cities, biographies, countries, sects, dialects), using a variety of lecturers and approaches. Students a) become familiar with the particular characters of dozen instances of a Middle Eastern domain, in this way learning something of the diversity of the region, b) encounter a variety of approaches to the study of the region, and c) develop deep knowledge of one instance, which they study over the course of the semester. May be repeated to a maximum of six semester hours.", 
+        "number": "3230", 
+        "subject": "ASH", 
+        "title": "Middle East Survey: An Interdisciplinary and Introductory Course"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of and foundation for teaching science and social studies to learners with disabilities (P-12). Students develop knowledge and skills in using a variety of instructional methods and materials appropriate for providing access to the general education science and social studies curriculum for learners with disabilities.", 
+        "number": "4487", 
+        "subject": "EEX", 
+        "title": "Social Studies and Science Curriculum for Special Educators"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

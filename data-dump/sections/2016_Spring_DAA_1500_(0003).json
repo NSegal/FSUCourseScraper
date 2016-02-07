@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-PRF (2362)", 
+    "basic": {
+        "class_num": "2362", 
+        "course": "1500", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "DAA", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Alayna Lee"
+            ], 
+            "location": "MON 0217", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Alayna Lee"
+            ], 
+            "location": "MON 0217", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

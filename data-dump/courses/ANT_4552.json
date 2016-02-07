@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the substantial scholarly literature on the behavior and ecology of free-ranging prosimians, monkeys, and apes. Anthropological applications of recent findings are emphasized.", 
+        "number": "4552", 
+        "subject": "ANT", 
+        "title": "Primate Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2511 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

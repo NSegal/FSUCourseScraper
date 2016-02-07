@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as food spoilage, food poisoning, food-bornepathogens, food laws and regulations, as well as HACCP and risk management.Emphasis is placed on current issues related to the safety and quality of food.", 
+        "number": "5205", 
+        "subject": "FOS", 
+        "title": "Food Safety and Quality"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: HUN 1201 and FOS 3026, or departmental approval.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

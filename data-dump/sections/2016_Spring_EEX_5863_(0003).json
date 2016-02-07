@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-TCH (14114)", 
+    "basic": {
+        "class_num": "14114", 
+        "course": "5863", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EEX", 
+        "type": "TCH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Gregory Taylor"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

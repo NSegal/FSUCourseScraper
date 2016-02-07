@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on ways in which planning can enable neighborhood residents to enhance the attractiveness of their neighborhood. The course is for planners who work with neighborhood groups or are employed by neighborhood organizations or community development corporations.", 
+        "number": "5743", 
+        "subject": "URP", 
+        "title": "Neighborhood Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

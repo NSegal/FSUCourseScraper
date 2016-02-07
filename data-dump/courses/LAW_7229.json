@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of modern American legal history (since 1890), including the erosion of private law, the rise of legal realism, and the development of judicial standards.", 
+        "number": "7229", 
+        "subject": "LAW", 
+        "title": "American Legal History III"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

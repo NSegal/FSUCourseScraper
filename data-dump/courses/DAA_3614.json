@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of choreographic forms and structures, musical forms, extended temporal and dynamic studies, components of dramatic and stylistic forms, use of dance technology compositionally.", 
+        "number": "3614", 
+        "subject": "DAA", 
+        "title": "Dance Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 2611.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

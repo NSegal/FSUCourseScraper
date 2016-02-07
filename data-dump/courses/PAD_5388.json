@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an overview of recovery and mitigation activities in the post-disaster environment. Focusing on the \"Recovery Phase\" initially, course materials examine the policy and planning mechanisms involved in short and long term rehabilitation of distressed communities. A similar examination from the \"Mitigation Phase\" is also made.", 
+        "number": "5388", 
+        "subject": "PAD", 
+        "title": "Disaster Recovery and Mitigation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

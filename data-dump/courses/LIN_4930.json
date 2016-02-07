@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students arrange with individual faculty members to undertake study in areas outside the regular curriculum. May be repeated to a maximum of twelve semester hours. May be repeated within the same semester.", 
+        "number": "4930", 
+        "subject": "LIN", 
+        "title": "Topics in Linguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

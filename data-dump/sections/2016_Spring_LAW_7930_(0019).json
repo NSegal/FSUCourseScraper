@@ -1,0 +1,26 @@
+{
+    "_unique": "0019-LEC (4734)", 
+    "basic": {
+        "class_num": "4734", 
+        "course": "7930", 
+        "season": "Spring", 
+        "solus_id": "0019", 
+        "status": "Closed", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:05:00", 
+            "instructors": [
+                "Avlana Eisenberg"
+            ], 
+            "location": "LAW 0326", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

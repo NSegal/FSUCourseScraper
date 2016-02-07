@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This elective allows students to experience the care of seniors in the following types of settings: primary-care clinic, specialty clinic, hospital, home, and nursing home. May be repeated within the same term to a maximum of eight semester hours. MD grade only.", 
+        "number": "7149", 
+        "subject": "MDE", 
+        "title": "Clinical Geriatrics"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

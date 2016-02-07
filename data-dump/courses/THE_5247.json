@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the the development of the American musical in its cultural, theatrical, and social context from 1943 to the present. The course also explores the elements of musical theatre and the various ways these elements are used in different types of musicals in different periods.", 
+        "number": "5247", 
+        "subject": "THE", 
+        "title": "Musical Theatre History II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

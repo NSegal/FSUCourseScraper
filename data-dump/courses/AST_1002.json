@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides general acquaintance with some of the facts, concepts and scientific methods of astronomy. As a liberal study course, the goal is to help students learn some basic facts of astronomy as well as gain an appreciation of astronomy as a science, the universe, and the current scientific ideas about its history and its future.", 
+        "number": "1002", 
+        "subject": "AST", 
+        "title": "Planets, Stars, and Galaxies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

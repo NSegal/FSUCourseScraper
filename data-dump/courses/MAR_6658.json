@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the study of confirmatory factor analysis, structural equation models, time-series models, and related topics and their application to marketing theory and practice.", 
+        "number": "6658", 
+        "subject": "MAR", 
+        "title": "Quantitative Methods II: Psychometric and Econometric Approaches to Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 6979, STA 5206, STA 5207, STA 5707, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

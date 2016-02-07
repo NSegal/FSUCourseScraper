@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum is designed to provide individualized practicum experiences in educational agencies for advanced graduate students in reading and language arts.", 
+        "number": "5865", 
+        "subject": "RED", 
+        "title": "Leadership Practicum in Reading and Language Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

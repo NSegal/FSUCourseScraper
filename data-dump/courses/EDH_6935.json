@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the capstone for the doctoral research sequence. The focus of the course is on issues related to the development and refinement of the doctoral dissertation prospectus, including problem statement, literature review, and research design and method. May be repeated to a maximum of six semester hours.", 
+        "number": "6935", 
+        "subject": "EDH", 
+        "title": "Seminar: Literature, Research, and Professional Writing in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

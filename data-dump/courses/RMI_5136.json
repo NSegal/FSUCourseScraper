@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies a managerial approach to employee benefit plans such as group insurance and pensions with in-depth consideration given to funding instruments and variety among plans.", 
+        "number": "5136", 
+        "subject": "RMI", 
+        "title": "Employee Benefit Plans"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

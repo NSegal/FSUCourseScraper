@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2955)", 
+    "basic": {
+        "class_num": "2955", 
+        "course": "5707", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Clayton Hughes"
+            ], 
+            "location": "HOL B0301", 
+            "start_time": "14:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

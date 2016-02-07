@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines and refines methods of diagnosis and management of health problems that affect the individual and family. Topics cover the prevention of illness, promotion of wellness, the management of complex acute and chronic health problems and their impact on communities, as well as the role of the advanced practice nurse as a vital force in contemporary health care.", 
+        "number": "6602", 
+        "subject": "NGR", 
+        "title": "Advanced Management of the Family II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 6601 and NGR 6601L. Corequisite: NGR 6602L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of the major works (novels, theatre, poetry) and movements of 20th-century French literature.", 
+        "number": "4480", 
+        "subject": "FRW", 
+        "title": "20th-Century Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRW 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to financial modeling and forecasting. Emphasis is on computer models and forecasting financial variables.", 
+        "number": "4453", 
+        "subject": "FIN", 
+        "title": "Financial Modeling and Forecasting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518 and FIN 3403 with a grade of \"B-\" or better and QMB 3200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

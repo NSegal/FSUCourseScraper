@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (10330)", 
+    "basic": {
+        "class_num": "10330", 
+        "course": "5369", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "SOW", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "20:15:00", 
+            "instructors": [
+                "Sharon Sykes"
+            ], 
+            "location": "UCC C2401", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

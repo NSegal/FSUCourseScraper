@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced studio in watercolor or other graphic techniquesused in interior delineation.", 
+        "number": "5316", 
+        "subject": "IND", 
+        "title": "Design Graphics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to basic concepts and practical experiences in digital and analog electronics for musicians.", 
+        "number": "3540", 
+        "subject": "MUS", 
+        "title": "Electronics for Musicians"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

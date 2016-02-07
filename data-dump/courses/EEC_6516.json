@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course updates research in first years of life to kinds of environment and learning experiences which promote and insure optimum development.", 
+        "number": "6516", 
+        "subject": "EEC", 
+        "title": "Educational Environments for Infants and Toddlers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

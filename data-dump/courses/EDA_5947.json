@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides interaction with experts in the field, reflection and evaluation of oneself as a leader, participating in on-going mentorship experiences, and studying contemporary topics in educational leadership.", 
+        "number": "5947", 
+        "subject": "EDA", 
+        "title": "Practicum in Educational Leadership III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDA 5945.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

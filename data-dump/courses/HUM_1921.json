@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This series includes presentations on resources and university-wide programs as well as frequent talks by faculty members describing their own research and/or creative work. The course provides opportunities to meet a variety of potential role models and to engage in thoughtful, substantive discussions in a large-classroom setting. May be repeated to a maximum of two semester hours.", 
+        "number": "1921", 
+        "subject": "HUM", 
+        "title": "Learning Community Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

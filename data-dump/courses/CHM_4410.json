@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers thermodynamics, kinetic theory of gases, reaction kinetics, as well as introductions to quantum mechanics and to statistical mechanics.", 
+        "number": "4410", 
+        "subject": "CHM", 
+        "title": "Physical Chemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045 and CHM 1045L with a grade of \"C-\" or better or instructor permission.\u00a0\u00a0 MAC 2312 with a grade of \"C-\" or better.\u00a0\u00a0 MAC 2313 with a grade of \"C-\" or better recommended. Corequisite: PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

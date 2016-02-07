@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of selected topics in strategic management. Frequently, one term examines strategy formulation and the next examines strategy implementation.", 
+        "number": "6795", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Strategic Management: Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

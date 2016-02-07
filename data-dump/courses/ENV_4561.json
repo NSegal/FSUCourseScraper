@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers analysis of operations, processes, and systems used in the design of facilities for maintaining water supply quality, wastewater control, and aquatic pollution control. Design of small and decentralized wastewater management systems.", 
+        "number": "4561", 
+        "subject": "ENV", 
+        "title": "Design of Water Quality Management Facilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers alternative modes of fulfilling MVK 6989 requirements such as: concerto recital program with large instrumental ensemble, performance with large chamber ensemble, informal reading, performance of a major operatic role with orchestral accompaniment, conducting performance, and approved off-campus performance. Required of all doctoral performance majors.", 
+        "number": "6989", 
+        "subject": "MVB", 
+        "title": "Doctoral Recital: Studio Recital/Lecture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

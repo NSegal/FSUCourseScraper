@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DSC (9413)", 
+    "basic": {
+        "class_num": "9413", 
+        "course": "1122", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "SLS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Dawn Matthews"
+            ], 
+            "location": "HCB 0209", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

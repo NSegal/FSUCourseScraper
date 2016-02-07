@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-LAB (14403)", 
+    "basic": {
+        "class_num": "14403", 
+        "course": "5928C", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Closed", 
+        "subject": "ART", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Paul Rutkovsky"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

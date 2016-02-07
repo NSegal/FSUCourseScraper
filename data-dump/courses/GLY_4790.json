@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a series of field problems based largely on exposures of strata and structures. Preparation of geologic maps, sections, and reports.", 
+        "number": "4790", 
+        "subject": "GLY", 
+        "title": "Field Course"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 3400C and GLY 4750.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "6.00"
+    }
+}

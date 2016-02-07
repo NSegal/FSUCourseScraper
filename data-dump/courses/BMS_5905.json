@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an individualized research course intended for students in the PhD Program in Biomedical Sciences prior to passing the Preliminary Doctoral Examination. May be repeated to a maximum of fifty-four semester hours.", 
+        "number": "5905", 
+        "subject": "BMS", 
+        "title": "Directed Independent Study in Biomedical Sciences"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Biomedical Sciences graduate program.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-DIS (3478)", 
+    "basic": {
+        "class_num": "3478", 
+        "course": "6907", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jerrilyn McGregory"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

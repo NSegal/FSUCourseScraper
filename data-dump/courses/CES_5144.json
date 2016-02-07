@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected fundamental techniques, including energy methods, for the formulation of the stiffness method for structural analysis. Topics include the formation of element matrices, transformed element matrices, structure stiffness matrices, and equations of equilibrium. Selected computer solution techniques are also covered.", 
+        "number": "5144", 
+        "subject": "CES", 
+        "title": "Matrix Methods for Structural Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

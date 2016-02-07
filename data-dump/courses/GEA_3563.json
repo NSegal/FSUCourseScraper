@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the Mediterranean region as a unified totality (southern Europe and North Africa), focusing on historical changes that underpin current geography.", 
+        "number": "3563", 
+        "subject": "GEA", 
+        "title": "The Mediterranean"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

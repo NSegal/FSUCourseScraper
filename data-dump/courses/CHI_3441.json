@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a continuation of \"Business Chinese I.\" It is designed to further improve students' language skills and cultural awareness for business purposes. For a Chinese major with business concentration, students can take this course to fulfill either the language or business requirements.", 
+        "number": "3441", 
+        "subject": "CHI", 
+        "title": "Business Chinese II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 2220 or equivalent learning experience.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

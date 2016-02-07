@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of analyses of theory, policy, and research which have implications for science and science education at the local, state, national, and international levels. May be repeated to a maximum of eight semester hours.", 
+        "number": "6922", 
+        "subject": "SCE", 
+        "title": "Colloquium in Science Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

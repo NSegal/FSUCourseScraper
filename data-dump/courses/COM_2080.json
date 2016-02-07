@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with theoretical background and practical experience in constructing messages for online communication, as well as managing self-presentation and professional relationships in the online environment. The course includes critical analysis of information sources and audiences and the development and delivery of online oral presentations.", 
+        "number": "2080", 
+        "subject": "COM", 
+        "title": "Online Communication and Presence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the contextual and stylistic features of German cinema from its classical period, in the 1920s, to the New German Cinema, through the present. The course focuses on methods of film analysis and on film criticism. Taught in English. May be repeated to a maximum of six semester hours.", 
+        "number": "3524", 
+        "subject": "GET", 
+        "title": "German Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

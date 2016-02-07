@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Synge, Yeats, Shaw, O'Casey, Joyce, Beckett, and others.", 
+        "number": "4184", 
+        "subject": "LIT", 
+        "title": "Irish Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

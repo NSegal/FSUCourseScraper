@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents, analyzes/evaluates anatomy, physiology/pathophysiology of the cardiovascular, neurological, and hepatic systems. The course also examines acid base status, abnormalities and management in the acute and chronically ill patient.", 
+        "number": "6406", 
+        "subject": "NGR", 
+        "title": "Anatomy, Physiology/Pathophysiology III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6405.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

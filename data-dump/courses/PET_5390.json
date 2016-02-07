@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers the application of measurement theory to the domains of sport and exercise psychology. Currently available instruments are reviewed and scale development emphasized.", 
+        "number": "5390", 
+        "subject": "PET", 
+        "title": "Measurement in Sport and Exercise Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 5400, EDF 5432, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

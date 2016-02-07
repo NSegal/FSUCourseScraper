@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers themes and problems in modern ethics. May be repeated to a maximum of nine semester hours. May be repeated within the same semester.", 
+        "number": "3171", 
+        "subject": "REL", 
+        "title": "Topics in Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

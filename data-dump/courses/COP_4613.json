@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of issues in the design and implementation of real-time computer systems. Topics include: the use of computers for controlling real-time processes, the use of Ada in embedded computer systems, and implementation of a real-time computer system.", 
+        "number": "4613", 
+        "subject": "COP", 
+        "title": "Real-Time Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4610 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course looks at various modeling techniques for simulating and understanding environmental change, and how such changes affect the human dimension. Familiarity of basic modeling packages, such as ArcGIS, is assumed.", 
+        "number": "5306", 
+        "subject": "GIS", 
+        "title": "Environmental Change Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GIS 4043 or GIS 5101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

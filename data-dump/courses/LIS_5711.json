@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of problems of entry, description, and subject analysis including the Library of\u00a0 Congress classification. Covers analysis and evaluation of problems relating to the organization, operation, and management of a cataloging department.", 
+        "number": "5711", 
+        "subject": "LIS", 
+        "title": "Cataloging and Classification"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5703.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

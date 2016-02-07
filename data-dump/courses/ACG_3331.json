@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies techniques of cost accounting and cost analysis for various business decisions. Credit is not allowed for accounting majors.", 
+        "number": "3331", 
+        "subject": "ACG", 
+        "title": "Cost Accounting and Analysis for Business Decisions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 2071 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

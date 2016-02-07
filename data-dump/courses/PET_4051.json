@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the developmental, biomechanical, and motor learning principles affecting human movement. Emphasis is on movement assessment in field-based settings.", 
+        "number": "4051", 
+        "subject": "PET", 
+        "title": "Human Movement Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

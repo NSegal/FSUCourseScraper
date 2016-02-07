@@ -1,0 +1,37 @@
+{
+    "_unique": "0008-LEC (13862)", 
+    "basic": {
+        "class_num": "13862", 
+        "course": "3023", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "MAR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "Donaldo Fong"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "Donaldo Fong"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

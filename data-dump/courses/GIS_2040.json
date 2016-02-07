@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction of the basic principles and techniques of geographic information systems (GIS) for students with no or rudimentary knowledge of geographic concepts and practices.", 
+        "number": "2040", 
+        "subject": "GIS", 
+        "title": "Essentials of GIS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

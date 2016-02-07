@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Students enroll in dissertation defense in the semester in which they plan to defend their dissertation.", 
+        "number": "8985", 
+        "subject": "SPM", 
+        "title": "Dissertation Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Dissertation Defense": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

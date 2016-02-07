@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on concurrent product and process design. Product life cycle attributes. Design for manufacturing. Quality function deployment. Concurrent engineering project management topics. Case studies and design\u00a0\u00a0\u00a0 exercises.", 
+        "number": "5459", 
+        "subject": "EIN", 
+        "title": "Concurrent Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate or senior standing with instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

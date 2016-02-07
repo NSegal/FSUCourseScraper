@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, subjects covered include any combination of the following: spatial cognition; geographical representation; spatial pattern analysis; linear modeling;spatial autocorrelation; spatial modeling and simulation; spatial interpolation; digital terrain modeling and visualization; spatial data mining and reasoning; data quality and uncertainty; mobile GIS; and Internet GIS.", 
+        "number": "5106", 
+        "subject": "GIS", 
+        "title": "Advanced Geographic Information Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: GIS 5101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

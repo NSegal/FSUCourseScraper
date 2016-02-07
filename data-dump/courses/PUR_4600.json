@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to focus on the management function of public relations. Focus is on significant cases and campaign strategies.", 
+        "number": "4600", 
+        "subject": "PUR", 
+        "title": "Public Relations Management: Cases and Campaign Strategies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PUR 3000, PUR 3002, and PUR 3100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

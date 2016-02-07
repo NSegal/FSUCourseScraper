@@ -1,0 +1,57 @@
+{
+    "_unique": "0005-LEC (5037)", 
+    "basic": {
+        "class_num": "5037", 
+        "course": "2233", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Angela Harris"
+            ], 
+            "location": "CAR 0101", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Angela Harris"
+            ], 
+            "location": "CAR 0101", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Angela Harris"
+            ], 
+            "location": "CAR 0101", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:50:00", 
+            "instructors": [], 
+            "location": "HCB 0319", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

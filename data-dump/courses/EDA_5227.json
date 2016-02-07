@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on basic understandings of the role of the woman administrator in education, with focus upon her preparation and performance as reflected in the literature.", 
+        "number": "5227", 
+        "subject": "EDA", 
+        "title": "The Role of the Woman Administrator in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

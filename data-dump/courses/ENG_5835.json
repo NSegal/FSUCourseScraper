@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers instruction in the specific phases of the history and methods of publishing.", 
+        "number": "5835", 
+        "subject": "ENG", 
+        "title": "Topics in Publishing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

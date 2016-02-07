@@ -1,0 +1,46 @@
+{
+    "_unique": "0035-LEC (10577)", 
+    "basic": {
+        "class_num": "10577", 
+        "course": "2233", 
+        "season": "Spring", 
+        "solus_id": "0035", 
+        "status": "Open", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Ishkhan Grigorian"
+            ], 
+            "location": "HWC 2100", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Ishkhan Grigorian"
+            ], 
+            "location": "HWC 2100", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:05:00", 
+            "instructors": [], 
+            "location": "HCB 0319", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

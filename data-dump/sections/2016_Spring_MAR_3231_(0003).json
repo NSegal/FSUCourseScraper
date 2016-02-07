@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (11036)", 
+    "basic": {
+        "class_num": "11036", 
+        "course": "3231", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "MAR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Lucas Hopkins"
+            ], 
+            "location": "HCB 0205", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Lucas Hopkins"
+            ], 
+            "location": "HCB 0205", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explains sources of marine pollutants, their effects on organisms, and ensuing consequences for marine ecosystems. Focal points are persistent anthropogenic pollutants that accumulate in the estuarine and marine environment. Pollutant amplification in the food web, physiological responses and degradation pathways are discussed.", 
+        "number": "5077", 
+        "subject": "OCE", 
+        "title": "Marine Environment Pollution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 2011, CHM 1046, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

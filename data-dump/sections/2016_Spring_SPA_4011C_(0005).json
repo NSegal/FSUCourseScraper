@@ -1,0 +1,48 @@
+{
+    "_unique": "0005-LEC (9456)", 
+    "basic": {
+        "class_num": "9456", 
+        "course": "4011C", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "SPA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Richard Morris"
+            ], 
+            "location": "HCB 0215", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Richard Morris"
+            ], 
+            "location": "HCB 0215", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "16:25:00", 
+            "instructors": [
+                "Richard Morris"
+            ], 
+            "location": "DIF 0018A", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

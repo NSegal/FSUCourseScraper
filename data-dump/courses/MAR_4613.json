@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines marketing research as an information-providing activity for the purpose of management decision making.", 
+        "number": "4613", 
+        "subject": "MAR", 
+        "title": "Marketing Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAT 3023 and QMB 3200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course cover topics such as random processes; analysis and processing of random signals; modeling of engineering systems by random processes; selected applications in detection; filtering; reliability analysis; and system performance modeling.", 
+        "number": "5542", 
+        "subject": "EEE", 
+        "title": "Random Processes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3135 and EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

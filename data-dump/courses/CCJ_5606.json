@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the major theories of criminal involvement, with attention to each theory's history, hypotheses, and empirical adequacy.", 
+        "number": "5606", 
+        "subject": "CCJ", 
+        "title": "Survey of Criminological Theories"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a first course in the fundamentals of computer network design and analysis. The course presents network architecture using a layered approach. Analysis and examples of network protocols and standards and techniques for evaluating network performance and selecting appropriate network protocols are covered.", 
+        "number": "5784", 
+        "subject": "EEL", 
+        "title": "Computer Network Design and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

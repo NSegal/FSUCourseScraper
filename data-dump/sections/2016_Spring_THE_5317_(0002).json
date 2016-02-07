@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (9977)", 
+    "basic": {
+        "class_num": "9977", 
+        "course": "5317", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "THE", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Mary Dahl"
+            ], 
+            "location": "FAB 0201", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

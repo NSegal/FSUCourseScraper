@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers linear programming, unconstrained optimization, searching strategies, equality and inequality constrained problems.", 
+        "number": "4202", 
+        "subject": "MAP", 
+        "title": "Optimization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAD 3703, and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

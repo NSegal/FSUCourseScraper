@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the theory and practice ofplanning in the context of development. Uses the theoretical foundation of planning as a generic framework for examining educational planning.", 
+        "number": "6653", 
+        "subject": "EDF", 
+        "title": "Planning Education for Socioeconomic Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

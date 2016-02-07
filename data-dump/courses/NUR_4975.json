@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours.", 
+        "number": "4975", 
+        "subject": "NUR", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

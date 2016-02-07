@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course more deeply explores research issues and theories in language processing and acquisition with special emphasis on second language phenomena. Special topics are provided for students to investigate individually and in small groups.", 
+        "number": "5706", 
+        "subject": "LIN", 
+        "title": "Psycholinguistic Perspectives on Language Acquisition and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

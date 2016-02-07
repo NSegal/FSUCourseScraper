@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes place against a backdrop of current theories, issues, and research in first and second language reading. In the course, students select from a range of reading approaches to develop reading units and activities for specific kinds of learners, including those with low literacy and\u00a0 L2 proficiency.", 
+        "number": "5377", 
+        "subject": "TSL", 
+        "title": "Reading in Foreign Language Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

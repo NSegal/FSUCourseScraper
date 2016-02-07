@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of the canonical works of African-Americans, typically including Douglass, Chesnutt, Hurston, Wright, Ellison, Baldwin, Morrison, and Walker.", 
+        "number": "2600", 
+        "subject": "AML", 
+        "title": "Introduction to African-American Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

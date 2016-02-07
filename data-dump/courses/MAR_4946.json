@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed for Professional Sales majors who want to gain real-world experience through one of three options: (1) on the job practice, i.e., a sales internship, (2) strategic account management, i.e., a faculty-directed study of sales research techniques, or (3) a professional sales competition, with the permission of the sales program director.", 
+        "number": "4946", 
+        "subject": "MAR", 
+        "title": "Professional Sales Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 3023, MAR 3400, and one other sales course; consent of internship director or sales program director.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

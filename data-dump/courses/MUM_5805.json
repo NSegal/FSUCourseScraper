@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the basics of arts administration, and is a core course in the degree program. The course deals with topics such as history and philosophy of arts administration, advocacy, arts in education, board, audience, and volunteer development, needs assessment, and program evaluation.", 
+        "number": "5805", 
+        "subject": "MUM", 
+        "title": "Introduction to Arts Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

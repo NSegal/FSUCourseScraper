@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This core course is intended for computer science majors with previous C/C++ background. The course introduces fundamental concepts in computer organization and digital logic design, including numbering systems and number representation, logic gates and design, the Von-Neumann architecture principle, and the machine instruction cycle. Assembly language programming with C language interfacing is also presented, reinforcing basic computer structure and machine cycle operation principles.", 
+        "number": "3100", 
+        "subject": "CDA", 
+        "title": "Computer Organization I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisites: COP 3330 and MAD 2104.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

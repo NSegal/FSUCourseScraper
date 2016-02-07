@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies music in general education together with study in smaller groups of specialized phases of the music program. May be repeated to a maximum of six semester hours.", 
+        "number": "5921", 
+        "subject": "MUS", 
+        "title": "Symposium in Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

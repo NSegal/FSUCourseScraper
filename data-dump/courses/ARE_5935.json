@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration of current issues in art education: 1) theory, research, and practice in the field, 2) teaching comprehensive art education. Currently, these courses include contemporary historical issues in art education, grant writing, multicultural issues in art therapy, qualitative research and visual arts research. May be repeated to a maximum of fifteen semester hours. May be repeated within the same term.", 
+        "number": "5935", 
+        "subject": "ARE", 
+        "title": "Seminar: Current and Comparative Studies in Art Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

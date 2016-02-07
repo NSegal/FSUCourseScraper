@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an advanced course in event planning and management. Focus is placed on managerial aspects such as financing, economic impact, promotion and legal issues.", 
+        "number": "4314", 
+        "subject": "LEI", 
+        "title": "Event Operations and Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

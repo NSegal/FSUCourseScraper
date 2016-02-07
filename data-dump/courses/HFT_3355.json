@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on advanced skills that prepare students for the management of golf operations. For professional golf management majors only.", 
+        "number": "3355", 
+        "subject": "HFT", 
+        "title": "Advanced Professional Golf Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

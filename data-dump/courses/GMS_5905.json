@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study on a selected topic as designated by the student or directing professor. May be repeated to a maximum of nine semester hours.", 
+        "number": "5905", 
+        "subject": "GMS", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

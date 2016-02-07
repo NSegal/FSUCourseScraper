@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course uses dance and popular culture performances to explore current trends and issues in American gender.\u00a0 Through discussion, video viewings, and accessible readings, students explore the ways in which the moving body reflects and shapes identity.\u00a0 No previous movement experience necessary for this seminar.", 
+        "number": "2038", 
+        "subject": "IFS", 
+        "title": "From Ballet to Beyonce: Gender and the Body in Dance and Pop Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

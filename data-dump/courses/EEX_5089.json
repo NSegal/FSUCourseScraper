@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides information regarding adaptations and supports that enhance the education of children and youth with learning and behavior challenges. Emphasis is placed on procedures that adapt the general education curriculum.", 
+        "number": "5089", 
+        "subject": "EEX", 
+        "title": "Adaptations and Accommodations for Learners with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

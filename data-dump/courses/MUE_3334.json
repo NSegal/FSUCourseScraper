@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for undergraduate music education majors planning to teach general music classes in secondary schools and provides knowledge and experiences aimed at improving the student's understanding, skills, and confidence as a teacher and musician.", 
+        "number": "3334", 
+        "subject": "MUE", 
+        "title": "Assessment and Teaching Music: Secondary Schools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUE 3311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

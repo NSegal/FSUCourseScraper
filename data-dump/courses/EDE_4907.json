@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course requires participation in a public school classroom with University supervision. May be repeated to a maximum of twelve semester hours, to be taken in the following manner: at least one hour in Block I, one hour in Block II, and two hours in Block III.", 
+        "number": "4907", 
+        "subject": "EDE", 
+        "title": "Directed Field Experiences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisites: Blocks I, II, or III.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

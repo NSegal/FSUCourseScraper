@@ -1,0 +1,37 @@
+{
+    "_unique": "0049-LEC (13891)", 
+    "basic": {
+        "class_num": "13891", 
+        "course": "2233", 
+        "season": "Spring", 
+        "solus_id": "0049", 
+        "status": "Closed", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:15:00", 
+            "instructors": [
+                "Rafael Pearson"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:15:00", 
+            "instructors": [
+                "Rafael Pearson"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

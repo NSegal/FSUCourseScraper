@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students a capstone, independent-research experience on an advanced topic to be chosen by the student in conjunction with the major professor.", 
+        "number": "5919", 
+        "subject": "CLA", 
+        "title": "Master of Arts Paper"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Optional", 
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

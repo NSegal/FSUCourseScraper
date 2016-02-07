@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the concepts and issues associated with digital computer and network security and the skills necessary to assess and improve the security of servers, desktop systems, and digital networks. This includes information on security policy and legal issues.", 
+        "number": "5775", 
+        "subject": "LIS", 
+        "title": "Information Security"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides class participants with an overview of the characteristics and etiology of autism spectrum disorders and the knowledge needed to develop effective communication and language assessment and intervention strategies for individuals with autism and severe communication disabilities.", 
+        "number": "4431", 
+        "subject": "SPA", 
+        "title": "Nature of Autism and Severe Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-LAB (9004)", 
+    "basic": {
+        "class_num": "9004", 
+        "course": "3213C", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "PSY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Shivali Sarawgi"
+            ], 
+            "location": "PDB A0108", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

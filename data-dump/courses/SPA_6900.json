@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is to be taken prior to or during the semester the student registers for the preliminary examination. May be repeated to a maximum of six semester hours.", 
+        "number": "6900", 
+        "subject": "SPA", 
+        "title": "Readings for the Preliminary Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Doctoral standing and department approval.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

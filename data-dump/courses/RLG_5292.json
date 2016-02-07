@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of readings of selected religious texts in Semitic languages such as Akkadian, Ugaritic and Aramaic. The languages studied and course content vary by semester. Previous work in a Semitic language is presumed.", 
+        "number": "5292", 
+        "subject": "RLG", 
+        "title": "Tutorial in Near Eastern Languages and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

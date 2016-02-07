@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers topics specific to teaching and playing the flute, including breathing, posture, embouchure, scales, fingers, sound, dynamics, tuning, repertoire, styles, music history, vibrato and other related topics.", 
+        "number": "5651", 
+        "subject": "MVW", 
+        "title": "Flute Pedagogy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

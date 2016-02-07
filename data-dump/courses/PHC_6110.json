@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive examination of the the structure of healthcare systems from selected countries worldwide. Specific attention is paid to the developmental history of the national healthcare systems, financing, and infastructure", 
+        "number": "6110", 
+        "subject": "PHC", 
+        "title": "Comparative Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

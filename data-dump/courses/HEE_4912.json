@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is open to upper-division majors with an overall grade point average of 3.2 and consent of instructor. May be repeated to a maximum of six semester hours.", 
+        "number": "4912", 
+        "subject": "HEE", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

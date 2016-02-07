@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (13273)", 
+    "basic": {
+        "class_num": "13273", 
+        "course": "3933", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "INR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Lee Metcalf"
+            ], 
+            "location": "BEL 0005", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Lee Metcalf"
+            ], 
+            "location": "BEL 0005", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

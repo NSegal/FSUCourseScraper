@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the relationship between natural resource availability and growth, capital theory, economics of the environment, the U.S. energy problem and alternatives for the future, an economic appraisal of U.S. energy policy.", 
+        "number": "3302", 
+        "subject": "ECP", 
+        "title": "Economics of Natural Resources, Energy, and the Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Any 2000-level ECO course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

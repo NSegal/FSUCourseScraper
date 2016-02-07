@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Same course as PHY 2048C, except that the student does not take the labora tory. May only be taken by students who have passed PHY 2053C or an equivalent course.", 
+        "number": "2048", 
+        "subject": "PHY", 
+        "title": "General Physics A without Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "MAC2311,C,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

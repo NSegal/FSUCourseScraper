@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course addresses selected topics in warm water reef ecology and focuses on the processes that cause the rapid deterioration of reef ecosystems.\u00a0 The lectures explain recent results in reef research, including physical,\u00a0 biogeochemical, and biological process studies. Discussions address initiatives in coral reef protection and management. The course format includes student presentation, readings, and class discussions.", 
+        "number": "5264", 
+        "subject": "OCB", 
+        "title": "Selected Topics in Coral Reef Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: OCC 5050, OCG 5051, and OCP 5050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

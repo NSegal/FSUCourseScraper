@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is based on the increasingly important role of a school leader in identifying and developing teacher leaders in K-12 schools. School leaders need to be able to work with teacher teams effectively as well as cultivate the talents of teachers as leaders in various aspects of school life. This course explores the dynamics of teacher leadership development in schools today and how school leaders can be prepared to cultivate this important resource.", 
+        "number": "5508", 
+        "subject": "EDA", 
+        "title": "Teacher Leadership Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

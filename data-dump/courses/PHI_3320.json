@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes central issues in the philosophy of mind. Topics may include: the mind-body problem, the unity of the mind, the nature of consciousness, artificial intelligence, and free will.", 
+        "number": "3320", 
+        "subject": "PHI", 
+        "title": "Philosophy of Mind"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

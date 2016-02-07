@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (9426)", 
+    "basic": {
+        "class_num": "9426", 
+        "course": "1043", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SMT", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Karen Rose"
+            ], 
+            "location": "MCH 0220", 
+            "start_time": "15:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

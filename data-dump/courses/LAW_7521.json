@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the legislative and judicial control of state administrative action. Major emphasis is on the impact of the Florida Administrative Procedures Act on selected state agencies in their rulemaking and adjudicating functions.", 
+        "number": "7521", 
+        "subject": "LAW", 
+        "title": "Florida Administrative Practice"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

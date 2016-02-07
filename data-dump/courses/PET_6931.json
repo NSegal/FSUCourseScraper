@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates facts, principles, and theories into a practical philosophy in the area of specialization of instructor teaching the course any given semester. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6931", 
+        "subject": "PET", 
+        "title": "Advanced Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

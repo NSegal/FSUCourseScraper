@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth view of museums and their commitment to learning, equality and social advancement. The seminar traces the development of museums from early traditions through the paradigm shift of the past two decades that has produced uniquely humanistic and socially responsible institutions. Through investigations of museum environments and interaction with museum professionals, the class examines how museums can build a healthy, safe and meaningful future for diverse regional and global communities.", 
+        "number": "2066", 
+        "subject": "IFS", 
+        "title": "Museums: Three Promises for Humanity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

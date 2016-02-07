@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to implement the theories and methods of treatment in a correctional setting. Students work with the professor to implement and co-facilitate abuse and violence intervention. May be repeated to a maximum of six semester hours.", 
+        "number": "4411", 
+        "subject": "CJC", 
+        "title": "Methods of Offender Treatment Practicum-Men Helping Men"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJC 4410.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

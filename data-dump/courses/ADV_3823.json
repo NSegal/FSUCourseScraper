@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the second of a two course sequence. The course focuses on campaign execution. The advertising team course is an application-based class, which provides students with the opportunity to develop a complete Integrated Marketing Communication campaign plan as part of the National Student Advertising Competition sponsored by the American Advertising Federation. The class is set up as hierarchy based advertising agency with some students in leadership positions and others working in departments that are managed by student directors. May be repeated to a maximum of six semester hours.", 
+        "number": "3823", 
+        "subject": "ADV", 
+        "title": "Advertising Team II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

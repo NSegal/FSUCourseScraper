@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar in methodology required of art history graduate students.", 
+        "number": "5813", 
+        "subject": "ARH", 
+        "title": "Seminar in the Methods of Art History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

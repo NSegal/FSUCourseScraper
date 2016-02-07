@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on issues related to management of promotional tools including advertising, personal selling, sales promotion, public relations, and publicity.", 
+        "number": "3323", 
+        "subject": "MAR", 
+        "title": "Promotional Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

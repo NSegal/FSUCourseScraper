@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the history of reading in everyday life from ancient times through the nineteenth century in Europe, as well as the history of reading in everyday life in the United States from colonial to present times. Emphasis is on the examination of the influence of print on social, cultural, and intellectual life.", 
+        "number": "5112", 
+        "subject": "LIS", 
+        "title": "History of Reading In Everyday Life"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers electronic imaging, video, computer graphics, animation. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4926C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Electronic Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

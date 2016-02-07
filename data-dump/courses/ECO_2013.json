@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores aggregate economics and national income determination, money and monetary theory, present macroeconomic conditions, and aggregative policy alternatives; theory of international trade and the balance of payments; economic growth and development.", 
+        "number": "2013", 
+        "subject": "ECO", 
+        "title": "Principles of Macroeconomics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

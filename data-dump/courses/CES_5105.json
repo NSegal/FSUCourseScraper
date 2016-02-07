@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an analysis and design of load-carrying members, shear center, unsymmetrical bending, curved beams, beams on elastic foundations, energy methods, theories of failure, thick-walled cylinders, as well as stress concentrations.", 
+        "number": "5105", 
+        "subject": "CES", 
+        "title": "Advanced Mechanics of Materials"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

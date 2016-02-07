@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the elements of conducting and rehearsal techniques.", 
+        "number": "3104", 
+        "subject": "MUG", 
+        "title": "Conducting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUT 1112.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

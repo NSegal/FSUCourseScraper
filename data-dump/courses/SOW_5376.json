@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes the political and technical skills of budgeting and financial management, source development via grant writing and fundraising, government contracting, fiscal reporting, and payroll management.", 
+        "number": "5376", 
+        "subject": "SOW", 
+        "title": "Budgeting and Finances in Social Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

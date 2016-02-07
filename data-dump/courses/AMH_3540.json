@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of both the military experiences and issues in American history. The course analyzes war, its economic issues, technological developments, politics, and other factors that have influenced the military aspects of American history.", 
+        "number": "3540", 
+        "subject": "AMH", 
+        "title": "Military History of the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides instruction for secondary education faculty in all areas of technical theatre production. In the course, students should come away with the ability to train their own students in all aspects of technical theatre, as well as the ability to support productions they oversee.", 
+        "number": "5385", 
+        "subject": "TPA", 
+        "title": "Technical Production for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

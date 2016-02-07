@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a full-time internship experience in a recreation, tourism and events organization under the supervision of a professional in that field.", 
+        "number": "4940", 
+        "subject": "LEI", 
+        "title": "Internship in Recreation, Tourism and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be certified in First Aid/CPR.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "15.00"
+    }
+}

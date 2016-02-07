@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores human interaction with bodies of water, particularly in the maritime environment. Illustrated presentations, readings, and discussions focus on variety of cultures and watercraft built or used in the Americas.", 
+        "number": "5134", 
+        "subject": "ANG", 
+        "title": "Nautical Archaeology of the Americas"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

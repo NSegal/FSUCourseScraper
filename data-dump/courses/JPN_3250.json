@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students at the high-intermediate level in Japanese. Students develop oral communication skills that enable them to perform appropriately in Japanese in various authentic, real-life situations.", 
+        "number": "3250", 
+        "subject": "JPN", 
+        "title": "Practical Skills in Japanese Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 2300.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

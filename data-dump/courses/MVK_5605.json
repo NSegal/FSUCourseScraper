@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course equips students with teaching skills in organ/harpsichord.", 
+        "number": "5605", 
+        "subject": "MVK", 
+        "title": "Organ/Harpsichord Pedagogy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

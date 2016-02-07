@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of chorus and choral problems: organization, rehearsal, repertory, diction, intonation, tone quality, balance, blend, and style. Concurrent registration in MUE 3495r is required.", 
+        "number": "4411", 
+        "subject": "MUE", 
+        "title": "Choral Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUE 3491 - 3492 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

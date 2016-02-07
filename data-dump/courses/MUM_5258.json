@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers concert-level tuning in the concert hall, wood science, effective business practices, inventory management, templates and fixtures, as well as grand piano restoration techniques.", 
+        "number": "5258", 
+        "subject": "MUM", 
+        "title": "Piano Technology Practicum III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Instructor permission and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

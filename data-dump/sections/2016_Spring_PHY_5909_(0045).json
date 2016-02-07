@@ -1,0 +1,26 @@
+{
+    "_unique": "0045-DIS (14084)", 
+    "basic": {
+        "class_num": "14084", 
+        "course": "5909", 
+        "season": "Spring", 
+        "solus_id": "0045", 
+        "status": "Open", 
+        "subject": "PHY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Samuel Tabor"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

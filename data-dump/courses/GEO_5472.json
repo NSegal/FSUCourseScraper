@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of how political processes play out over space, from the local to the global levels. Topics include electoral geographies, nationalism and war, and current geopolitics.", 
+        "number": "5472", 
+        "subject": "GEO", 
+        "title": "Political Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

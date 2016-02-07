@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to promote skills in arranging for the jazz ensemble.", 
+        "number": "5357", 
+        "subject": "MUT", 
+        "title": "Jazz Theory/Arranging I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUE 5486 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

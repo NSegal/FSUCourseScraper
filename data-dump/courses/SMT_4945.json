@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course allows students to participate in teaching science and/or mathematics in secondary schools as their capstone field experience for the FSU-Teach (SMMT) major in the sciences and mathematics. The focus of this capstone experience is the synthesis and translation of the content and pedagogical knowledge learned in the program to the secondary classroom. This course contains signature assessments that must be successfully completed in order to earn an Institutional Recommendation for certification.", 
+        "number": "4945", 
+        "subject": "SMT", 
+        "title": "Apprentice Teaching (FSU-Teach)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043, SMT 1053, SMT 3100, and SMT 4301. Corequisite: SMT 4930.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "5.00"
+    }
+}

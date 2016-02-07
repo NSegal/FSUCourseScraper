@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course requires a written thesis. May be repeated\u00a0 to a maximum of nine semester hours, subject to approval of faculty advisor.", 
+        "number": "4815", 
+        "subject": "ARH", 
+        "title": "Honors Work in Art History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

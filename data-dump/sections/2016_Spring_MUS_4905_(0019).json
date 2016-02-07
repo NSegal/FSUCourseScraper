@@ -1,0 +1,26 @@
+{
+    "_unique": "0019-DIS (6390)", 
+    "basic": {
+        "class_num": "6390", 
+        "course": "4905", 
+        "season": "Spring", 
+        "solus_id": "0019", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "John Parks"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

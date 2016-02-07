@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the utilization of basic economic tools and concepts to analyze efficiency and optimality considerations of various economic systems. Both theoretical models of economic systems and actual case studies are utilized.", 
+        "number": "5005", 
+        "subject": "ECS", 
+        "title": "Seminar in Comparative Economics Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course empowers students to critically examine the Achievement Gap in education by exploring how personal, political, cultural, economic and social experiences and structures shape the educational landscape. Students gather and analyze research and empirical evidence in order to explicate the arguments, assertions and assumptions about the achievement gap through a range of assessments.", 
+        "number": "3016", 
+        "subject": "IFS", 
+        "title": "Examining the Educational Achievement Gap"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

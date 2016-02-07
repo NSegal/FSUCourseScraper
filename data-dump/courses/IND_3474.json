@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This studio course focuses on the generation of a comprehensive set of specifications and construction drawings for a single project.", 
+        "number": "3474", 
+        "subject": "IND", 
+        "title": "Construction Documents"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 3469.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

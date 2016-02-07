@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers two basic questions: what is a healthy city/community; and what are civic stakeholders, local communities, and global society doing to ensure that urban and urbanizing landscapes are healthy and desirable places for today's world? The course first examines what we know about the links between places and population health. The course then looks at what public health, environmental health, planning agencies, and community movements are doing to improve the health of people and places.", 
+        "number": "5526", 
+        "subject": "URP", 
+        "title": "Healthy Cities, Healthy Communities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

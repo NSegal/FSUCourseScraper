@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the study of German diction and the continuation of grammar studies from GER 1120. The focus is on proper pronunciation of the German language and on grammar and vocabulary necessary for translating texts of German Lieder and operas.", 
+        "number": "5236", 
+        "subject": "MUS", 
+        "title": "German Language and Diction for Singers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "GER1120,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

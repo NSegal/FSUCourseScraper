@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the principal epics of the classical world in English translation.", 
+        "number": "4340", 
+        "subject": "CLT", 
+        "title": "Greek and Roman Epic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

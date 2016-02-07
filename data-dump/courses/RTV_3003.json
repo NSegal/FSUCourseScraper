@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys American broadcasting from the standpoint of communicators, organizations, content, and audience with special emphasis on research.", 
+        "number": "3003", 
+        "subject": "RTV", 
+        "title": "Elements of Broadcasting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

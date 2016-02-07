@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the unique issues of managing in non-native culture. Discusses management situations where members of more than one cultural group are included, along with strategies for maximum effectiveness in such situations.", 
+        "number": "4605", 
+        "subject": "MAN", 
+        "title": "Cross-Cultural Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

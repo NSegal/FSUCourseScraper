@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lecture-based course is the first course in general chemistry for students in nursing, nutrition and fitness, and other areas requiring a short course leading to CHM 2200. Students taking CHM 1032 after taking CHM 1020 may register for reduced credit; see Policy on Reduced Credit.", 
+        "number": "1032", 
+        "subject": "CHM", 
+        "title": "Survey of General Chemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 with a grade of \"C-\" or better or placement beyond MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

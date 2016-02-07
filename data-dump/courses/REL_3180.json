@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course offers an introduction to theoretical and practical issues in bioethics from the perspective of a variety of religious and secular positions.", 
+        "number": "3180", 
+        "subject": "REL", 
+        "title": "Religion and Bioethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

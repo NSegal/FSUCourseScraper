@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This doctoral seminar focuses on leadership styles and theories of organizational behavior in the sport setting and prepares students to teach and research in these areas.", 
+        "number": "6007", 
+        "subject": "SPM", 
+        "title": "Leadership & Organizational Behavior in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 5400 and SPM 5102.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

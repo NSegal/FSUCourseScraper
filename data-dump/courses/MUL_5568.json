@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of chamber music literature for wind instruments with keyboards.", 
+        "number": "5568", 
+        "subject": "MUL", 
+        "title": "Chamber Music Literature for Piano and Winds"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

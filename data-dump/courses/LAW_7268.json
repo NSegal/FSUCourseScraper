@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a problem-oriented course focusing on issues including marine pollution, transboundary movement of hazardous waste, climate change, biodiversity, the relation of population and the environment, and other global and transboundary environmental problems. This course is usually offered every other year.", 
+        "number": "7268", 
+        "subject": "LAW", 
+        "title": "International Environmental Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

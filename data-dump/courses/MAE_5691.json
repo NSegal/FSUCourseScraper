@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to those theories of learning that have been historically influential, or which have the potential to be currently influential, in the learning and teaching of mathematics.", 
+        "number": "5691", 
+        "subject": "MAE", 
+        "title": "Mathematics Learning and Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

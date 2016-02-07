@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to teach students to work with large survey data sets, especially panel data. Upon completion of the course, students have an extensive familiarity with Stata. They should be able to display data visually, tabulate information, and run multivariate panel regressions.", 
+        "number": "5537", 
+        "subject": "ECP", 
+        "title": "Applied Health Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in Economics or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

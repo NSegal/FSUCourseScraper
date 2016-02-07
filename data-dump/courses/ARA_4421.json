@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the Arabic language, the Arab press, a\u00a0 nd to ordinary news items in print or broadcasted. It provides intermediate level students with an introduction to the language of the Arab media and develops their basic reading and interpreting skills.", 
+        "number": "4421", 
+        "subject": "ARA", 
+        "title": "Media Arabic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARA 2220 or higher.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of architecture, interior, and furniture design from antiquity through the Renaissance. May be repeated to a maximum of six semester hours.", 
+        "number": "4101", 
+        "subject": "IND", 
+        "title": "History of Interiors I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

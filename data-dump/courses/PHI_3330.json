@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers a number of different philosophical positions on free will and moral responsibility, and some of the arguments for and against these positions.", 
+        "number": "3330", 
+        "subject": "PHI", 
+        "title": "Free Will"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

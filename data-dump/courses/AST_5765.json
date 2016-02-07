@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey of advanced data-analysis and statistical techniques available to modern astronomical researchers. Topics include subpixel imaging, image deconvolution, point-spread function modeling, crowded field photometry, survey completeness, Malmquist and other statistical biases, automated data mining, image differencing techniques, astrometric solutions, working with low-signal-to-noise data, fitting models to data, modeling synthetic data, as well as real-world error determination.", 
+        "number": "5765", 
+        "subject": "AST", 
+        "title": "Advanced Analysis Techniques in Astronomy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: AST 4722 and AST 4211.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

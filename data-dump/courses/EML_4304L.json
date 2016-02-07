@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This engineering laboratory explores measurements in fluid and thermal applications, including basic concepts for design of experiments, measurement devices, and their performance characteristics; measurement of fluid and thermal properties, pressure, velocity, and temperature; calibration procedures; experiments in fluid flow and heat transfer; design of engineering experimental systems; laboratory work, report writing.", 
+        "number": "4304L", 
+        "subject": "EML", 
+        "title": "Thermal-Fluids Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3012C and EML 3015C. Corequisite: EML 3016C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

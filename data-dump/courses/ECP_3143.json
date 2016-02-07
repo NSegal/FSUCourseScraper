@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the market, institutional, governmental, and social processes that have contributed to the economic well-being of African-Americans. Also covers theoretical material related to wage determination, labor market discrimination, and marriage and transitions in family structure, as well as interaction between race and class as determinants of the life chances of African-Americans.", 
+        "number": "3143", 
+        "subject": "ECP", 
+        "title": "Afro-Americans in the American Political Economy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

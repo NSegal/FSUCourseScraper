@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to research and teaching, as well as orienting students to current issues relevant to preparing for teaching and re\u00a0\u00a0 search careers. The couse emphasizes reading; discussion and collaborative critical analysis of the methods, findings, and impacts of assigned readings; and presentations by students and invited speakers.", 
+        "number": "6936", 
+        "subject": "LIS", 
+        "title": "Proseminar in LIS Research and Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

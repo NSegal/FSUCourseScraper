@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the metatheory of first order logic. A mastery of the syntax and semantics of, and a natural deduction system for, first order logic is presumed. Among other results, the soundness and completeness of such a natural deduction system, and Godel's first incompleteness theorem, are proved.", 
+        "number": "5135", 
+        "subject": "PHI", 
+        "title": "Modern Logic I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHI 3130 or equivalent, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

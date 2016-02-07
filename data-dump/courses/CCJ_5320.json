@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of approaches to corrections, correctional institutions, their residents, programs, and management, and special problems such as probation and parole, riots, outside contacts, and special institutions.", 
+        "number": "5320", 
+        "subject": "CCJ", 
+        "title": "Penology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

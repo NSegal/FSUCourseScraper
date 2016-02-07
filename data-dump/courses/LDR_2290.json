@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the concept of leadership and action related to sustainability.\u00a0 It looks at the interconnectedness and complexity of the three pillars of sustainability (environment, economic, and social) as well as discusses the development of the leadership skills needed to create social change. In conjunction with class discussions and readings, students develop a personal sustainability plan to help align passion and values into active practice.", 
+        "number": "2290", 
+        "subject": "LDR", 
+        "title": "Leadership and Sustainability in Action"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

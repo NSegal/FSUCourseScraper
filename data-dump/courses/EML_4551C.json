@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in a two-part course sequence presenting an integrated system design approach for engineering product realization. Course blends the perspectives of market research and planning, design cycle, project management and teamwork, and technical reporting. This is the 'capstone' course for mechanical engineering students. The course offers weekly sessions in which teams are coached during the different phases of the project, plus frequent and extensive design reviews. This course is structured to closely resemble 'on-the-job' engineering education.", 
+        "number": "4551C", 
+        "subject": "EML", 
+        "title": "Senior Design Project I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3012C, EML 3014C, EML 0316, EML 3018C, and EML 4550.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

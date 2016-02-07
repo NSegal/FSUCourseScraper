@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies seawater properties, currents, waves, tides, and acoustics. Not open to students in physical oceanography option.", 
+        "number": "5050", 
+        "subject": "OCP", 
+        "title": "Basic Physical Oceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_unique": "0001-LEC (9666)", 
+    "basic": {
+        "class_num": "9666", 
+        "course": "5192", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SPS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Shelley Krach"
+            ], 
+            "location": "STB 2210", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "19:10:00", 
+            "instructors": [], 
+            "location": "STB G158", 
+            "start_time": "17:40:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

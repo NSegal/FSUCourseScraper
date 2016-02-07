@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to tools and techniques, including preparation of plates showing construction details and perspective.", 
+        "number": "3208", 
+        "subject": "TPA", 
+        "title": "Drafting for the Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 2201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of current advanced topics in management accounting.", 
+        "number": "5356", 
+        "subject": "ACG", 
+        "title": "Advanced Management Accounting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3341.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

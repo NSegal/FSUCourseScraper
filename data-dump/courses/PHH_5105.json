@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a detailed study of Plato, Aristotle, or one of the schools or divisions of ancient thought (pre-Socratics, Stoicism, etc.).", 
+        "number": "5105", 
+        "subject": "PHH", 
+        "title": "Greek Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

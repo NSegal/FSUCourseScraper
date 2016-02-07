@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the development of the Russian love prose in the 19th-21st centuries in such literary trends and movements as Romanticism, Realism, Symbolism, Silver Age, Socialist Realism, Soviet Underground, and Postmodernism. May be repeated to a maximum of six semester hours.", 
+        "number": "4213", 
+        "subject": "RUT", 
+        "title": "Russian Love Prose in English Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

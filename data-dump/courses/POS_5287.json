@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course puts emphasis on courts as political institutions. Analysis covers the behavior of courts from the U.S. Supreme Court to local small claims courts and the links between courts and society. Topics include court organization, judicial administration and court reform, politics of judicial selection, settlement of civil and criminal cases, plea bargaining, judicial decision making, judicial policy, and the implementation of judicial policy.", 
+        "number": "5287", 
+        "subject": "POS", 
+        "title": "Seminar in American Government and Public Policy: Judicial Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

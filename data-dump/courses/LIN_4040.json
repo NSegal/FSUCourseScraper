@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course attempts to develop an understanding of the organization of language, to provide tools and techniques for describing language data, and to examine various models of linguistic description. May count toward the major in Slavic (Russian) and Spanish.", 
+        "number": "4040", 
+        "subject": "LIN", 
+        "title": "Introduction to Descriptive Linguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

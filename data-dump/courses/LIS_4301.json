@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers the understanding, skills, and techniques needed for the production and utilization of various types of electronic graphic resources. Emphasis is on visual literacy, the evaluation of graphic resources, design standards, and the visual representation of information. Students evaluate existing materials and design and produce materials for both electronic and print formats, including pages for the World Wide Web, slide shows for visual support of verbal presentations, and documents produced with desktop publishing software.", 
+        "number": "4301", 
+        "subject": "LIS", 
+        "title": "Electronic Media Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2835, LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

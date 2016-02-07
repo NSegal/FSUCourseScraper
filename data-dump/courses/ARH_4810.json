@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar is designed for undergraduate art history majors who plan to continue at the graduate level. The seminar introduces art media and research methods.", 
+        "number": "4810", 
+        "subject": "ARH", 
+        "title": "Art History Methods and Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARH 3056, ARH 305, twelve prior credit hours in upper-level art history, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

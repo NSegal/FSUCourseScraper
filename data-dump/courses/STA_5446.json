@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores classes of sets, probability measures, construction of probability measures, random variables, expectation and integration, independence and product measures.", 
+        "number": "5446", 
+        "subject": "STA", 
+        "title": "Probability and Measure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAA 4227, MAA 5307, or the equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

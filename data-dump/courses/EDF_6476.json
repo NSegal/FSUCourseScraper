@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the theoretical and pragmatic aspects of qualitative research. It is intended for students who already have a foundation in qualitative methods and are planning to use this methodological approach in their dissertation research. Students develop a \"conference-ready\" research paper that draws on a set of existing qualitative data and different theoretical perspectives.", 
+        "number": "6476", 
+        "subject": "EDF", 
+        "title": "Advanced Qualitative Research Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5464 or EDF 6475.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

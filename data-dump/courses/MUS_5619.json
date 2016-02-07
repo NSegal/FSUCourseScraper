@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines behavior modification techniques as applied to music\u00a0 education and music therapy.", 
+        "number": "5619", 
+        "subject": "MUS", 
+        "title": "Behavior Modification in Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

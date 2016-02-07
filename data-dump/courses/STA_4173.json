@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the statistical methods used to design and analyze studies of the occurrence of disease in human populations.", 
+        "number": "4173", 
+        "subject": "STA", 
+        "title": "FUNDAMENTALS OF BIOSTATISTICS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A previous upper division course in statistics or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

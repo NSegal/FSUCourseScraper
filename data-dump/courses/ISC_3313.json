@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the science of computations. Topics cover algorithms for standard problems in computational science, as well as the basics of an object-oriented programming language, to facilitate the students' implementation of algorithms.", 
+        "number": "3313", 
+        "subject": "ISC", 
+        "title": "Introduction to Scientific Computing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

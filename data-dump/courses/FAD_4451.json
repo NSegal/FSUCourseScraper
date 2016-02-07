@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines sexuality through the lifespan regarding relationship issues and health concerns and provides training for professionals and parents in sexuality education.", 
+        "number": "4451", 
+        "subject": "FAD", 
+        "title": "Human Sexuality Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

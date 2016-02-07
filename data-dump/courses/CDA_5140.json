@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers basic definitions; self-checking circuits; error detection measures; interconnection networks; test generation and testability; distributed fault tolerance systems; software fault tolerance; fault tolerance and VLSI; error recovery.", 
+        "number": "5140", 
+        "subject": "CDA", 
+        "title": "Fault Tolerance and Reliability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 5155.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

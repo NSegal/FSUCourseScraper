@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the literary and cultural texts from the Greek, Roman, and later European traditions that were essential reading in the English Renaissance and that shaped literary culture in the age of Shakespeare.\u00a0 This course includes attention to the history of literary genres and to the history of reading. Authors studied may include: Homer, Virgil, Ovid, the Bible, Aristotle, Horace, Strabo, Lucretius, Plutarch, Seneca, Plautus, Augustine, Erasmus, della Mirandola, among others.", 
+        "number": "3591", 
+        "subject": "ENL", 
+        "title": "Renaissance Source Texts: Essential Reading in the Age of Shakespeare"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

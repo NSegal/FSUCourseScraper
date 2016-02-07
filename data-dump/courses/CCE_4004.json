@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers theories, principles, and applications of construction engineering and management. Emphasis is placed on construction preplanning, delivery systems, contracts and bidding, estimation, scheduling, project control, and professional issues.", 
+        "number": "4004", 
+        "subject": "CCE", 
+        "title": "Construction Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCE 3101 and EGN 3613.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

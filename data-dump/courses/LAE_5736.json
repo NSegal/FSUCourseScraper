@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on rhetorical and psychological approaches to the writing process; prewriting, invention, and revision; problems of the basic writer; evaluation of writing and writing skills; current research.", 
+        "number": "5736", 
+        "subject": "LAE", 
+        "title": "Written Composition in the Secondary School: Theory and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

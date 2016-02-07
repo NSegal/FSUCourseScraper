@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the philosophical foundation of leisure, recreation, and play, and traces the major historical events and perspectives in recreation and leisure through the present time. Current trends and issues are discussed as they relate to social, economic, environmental, and public policy factors.", 
+        "number": "3140", 
+        "subject": "LEI", 
+        "title": "History and Philosophy of Recreation, Leisure and Play"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

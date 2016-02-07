@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the critical analytical and mathematical skills for analyzing fundamental concepts in transport phenomena (including fluid mechanics, heat transfer, and mass transfer) and the application of these concepts to the solution of problems relevant to chemical and biomedical engineering. The focus is on the microscopic description of momentum, energy, and mass transfer to obtain balance equations and to utilize information obtained from solutions of the balance equations to calculate engineering quantities of interest drag force, rate of heat and mass transfer in a wide variety of problems.", 
+        "number": "4267", 
+        "subject": "ECH", 
+        "title": "Transport Phenomena II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3101, ECH 3266, and ECH 3854. Corequisites: ECH 3274L and ECH 3418.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

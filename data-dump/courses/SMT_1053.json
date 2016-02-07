@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, students continue developing the lesson-plan skills learned in SMT1043, as they become familiar with exemplary middle-school science curricula. After observing a lesson being taught in a local school-district classroom, students work alone or in pairs to plan and teach three inquiry-based lessons to sixth, seventh, or eighth graders.", 
+        "number": "1053", 
+        "subject": "SMT", 
+        "title": "Step 2: Inquiry-Based Lesson Design in Science/Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: SMT 1043.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

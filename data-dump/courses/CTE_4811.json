@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of strategic planning as a framework for retail-firm analysis. Through the completion of retail-store business plans, students hone their leadership, negotiation, and interpersonal skills.", 
+        "number": "4811", 
+        "subject": "CTE", 
+        "title": "Retail Merchandising Planning Strategies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Senior standing, a 2.50 GPA, as well as a grade of \"C\" or better in CTE 3835, CTE 4822, and MAR 3023. Corequisites: CTE 4826 and CTE 4882.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

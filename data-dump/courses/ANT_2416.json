@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the variety of ways childhood is experienced in other cultures, allowing students without a background in anthropology to develop an appreciation for the nature of childhood and the pivotal role this stage plays in maintaining cultural continuity and influencing cultural evolution.", 
+        "number": "2416", 
+        "subject": "ANT", 
+        "title": "Childhood Around the World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

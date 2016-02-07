@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces mixed-signal processing using analog and digital integrated circuits. The course focuses on fundamentals of sampled data systems, nonlinear and dynamic analog circuits, Nyquist-rate data converters, over-sampling data converters and digital filters, as well as the use of computer-aided design programs.", 
+        "number": "4377", 
+        "subject": "EEE", 
+        "title": "Mixed Signal Integrated Circuits"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 4313 or EEL 4376C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

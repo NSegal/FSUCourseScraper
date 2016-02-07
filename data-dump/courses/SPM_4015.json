@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to use film and media studies theory to critically engage in and interpret a series of popular sport-related films. By the end of the course, students are able to write and think critically about the role that film in general, and sport-based films in particular, play in promoting and challenging dominant formations of gender, sexuality, nationalism, race, social class, and ability in Western society.", 
+        "number": "4015", 
+        "subject": "SPM", 
+        "title": "Sport and Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

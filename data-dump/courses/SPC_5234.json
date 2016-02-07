@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students examine the origins of rhetorical theory during the classical period of Greece and Rome. The course focus rests on the rhetorical theories of Plato, Aristotle, Cicero, and Quintilian.", 
+        "number": "5234", 
+        "subject": "SPC", 
+        "title": "Classical Theories of Rhetoric"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

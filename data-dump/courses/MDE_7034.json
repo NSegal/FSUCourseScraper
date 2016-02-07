@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "The student will examine the role that internists play in measuring, promoting and improving the quality of care. At the completion of the course, the student will be able to examine the relationship between patient safety and good patient care, and discuss the impact of quality improvement initiatives for the practicing physician.", 
+        "number": "7034", 
+        "subject": "MDE", 
+        "title": "Quality Improvement and Patient Safety in Internal Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "4.00"
+    }
+}

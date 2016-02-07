@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed for the scientist or scientist in training who plans to use SCUBA diving as a tool for underwater research. Skills covered include dive planning, emergency management, underwater navigation, survey techniques, and instrument deployment and recovery.", 
+        "number": "4473C", 
+        "subject": "BSC", 
+        "title": "Introduction to Scientific Diving"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, open water dive certified by national organization, clear diving medical record, and ability to pass swimming evaluation.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

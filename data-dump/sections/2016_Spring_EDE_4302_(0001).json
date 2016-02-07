@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2617)", 
+    "basic": {
+        "class_num": "2617", 
+        "course": "4302", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EDE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Phyllis Underwood"
+            ], 
+            "location": "STB 3209", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

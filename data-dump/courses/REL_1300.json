@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the major living religious traditions of the world, with attention to their origins in the ancient world and their classic beliefs and practices.", 
+        "number": "1300", 
+        "subject": "REL", 
+        "title": "Introduction to World Religions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

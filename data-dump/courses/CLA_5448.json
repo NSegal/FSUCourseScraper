@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critical study of topics related to the Roman Republic or Empire. May be repeated to a maximum of six semester hours.", 
+        "number": "5448", 
+        "subject": "CLA", 
+        "title": "Studies in Roman History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

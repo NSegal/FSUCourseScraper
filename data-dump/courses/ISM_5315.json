@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course has been designed to be relevant for all professionals confronting project-related tasks, with particular attention given to the information systems context. Course content includes an overview of technology, an introduction to software development approaches, facets of project management, and organizational issues related to successful project management.", 
+        "number": "5315", 
+        "subject": "ISM", 
+        "title": "Project Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

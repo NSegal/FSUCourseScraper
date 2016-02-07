@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers techniques of demographic data collection and evaluation as well as measurement of population processes, composition, and distribution, and social and economic characteristics of population.", 
+        "number": "5135", 
+        "subject": "SYD", 
+        "title": "Techniques of Population Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

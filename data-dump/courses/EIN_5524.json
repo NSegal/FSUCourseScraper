@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses discrete event, continuous, and process simulation. Combined discrete/continuous simulation. Manufacturing systems modeling. Event graphs. Simulation languages and systems. Experimentation with models. Introduction to simulation-specific statistical problems. Model validation and verification issues. Design exercises.", 
+        "number": "5524", 
+        "subject": "EIN", 
+        "title": "System Modeling and Simulation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 3460, EGN 3443, and ESI 3443.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

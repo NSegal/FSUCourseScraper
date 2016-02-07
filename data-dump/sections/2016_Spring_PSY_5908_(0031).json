@@ -1,0 +1,26 @@
+{
+    "_unique": "0031-DIS (13127)", 
+    "basic": {
+        "class_num": "13127", 
+        "course": "5908", 
+        "season": "Spring", 
+        "solus_id": "0031", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Alan Spector"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

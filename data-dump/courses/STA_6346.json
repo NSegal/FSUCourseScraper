@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the basics of the probability theory, random elements, and stochastic processes; characteristic functions and probability inequalities; central limit theorems; elements of Markov dependence and Martingale theory; common scholastic processes arising in biostatistics; advanced treatment of sufficient statistics; exponential families, estimation, and testing; as well as elements of asymptotic theory of statistical inference.", 
+        "number": "6346", 
+        "subject": "STA", 
+        "title": "Advanced Probability and Inference I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5326 and STA 5327.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

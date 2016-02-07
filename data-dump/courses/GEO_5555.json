@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the systematic interrogation of the birth and historical trajectory of the contemporary capitalist world economy, including dependency and modernization theory, and current topics in ethnic conlict and the global economy.", 
+        "number": "5555", 
+        "subject": "GEO", 
+        "title": "World Systems Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

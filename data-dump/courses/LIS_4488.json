@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the planning, design, configuration, operation, and management of computer networks containing data communication devices, servers, workstations, and networked applications and support systems. The course introduces students to administrative techniques inherent to basic operating systems, and also to enterprise management systems required by larger organizations. Students examine and discuss issues of scalability, performance management, and integration of internal resources with external resources such as cloud-based systems.", 
+        "number": "4488", 
+        "subject": "LIS", 
+        "title": "Network Administration for the Information Professional"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 4482.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

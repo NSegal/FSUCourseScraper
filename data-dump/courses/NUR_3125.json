@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces the undergraduate nursing student to general body responses and alterations in disease across the lifespan. Topics cover physiological concepts, alterations in body systems, and clinical manifestations.", 
+        "number": "3125", 
+        "subject": "NUR", 
+        "title": "Pathophysiological Concepts in Nursing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2085 and BSC 2086.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

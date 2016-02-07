@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies representative contemporary instructional delivery systems and their planning, development, and implementation.", 
+        "number": "6616", 
+        "subject": "EME", 
+        "title": "Case Studies in Instructional Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

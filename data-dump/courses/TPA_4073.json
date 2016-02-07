@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on rendering techniques for the set, costume, and lighting designer in various media. For the course professional equipment is required.", 
+        "number": "4073", 
+        "subject": "TPA", 
+        "title": "Rendering for the Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

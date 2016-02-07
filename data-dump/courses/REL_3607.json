@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the varieties of institutional structures, beliefs, and religious practices of post-biblical Judaism in their historical contexts.", 
+        "number": "3607", 
+        "subject": "REL", 
+        "title": "The Jewish Tradition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

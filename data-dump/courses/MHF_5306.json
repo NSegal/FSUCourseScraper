@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers propositional and predicate logic, models, Godel's completeness theorem and related theorems, applications to modern algebra, and\u00a0 non-standard analysis.", 
+        "number": "5306", 
+        "subject": "MHF", 
+        "title": "Mathematical Logic I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 4302.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

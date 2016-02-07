@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of the aesthetic, political, economic and social theories that have shaped modern design, including critical methods applied to design integral to culture and human expression.", 
+        "number": "5636", 
+        "subject": "IND", 
+        "title": "Graduate Seminar: Design Theory and Criticism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

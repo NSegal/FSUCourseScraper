@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course deals with the purpose, function, organization, and programming of the radio and television station with an emphasis on research.", 
+        "number": "4800", 
+        "subject": "RTV", 
+        "title": "Radio-Television Station Operation and Programming"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MMC 2000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

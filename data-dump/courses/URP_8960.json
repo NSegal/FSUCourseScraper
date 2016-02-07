@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is preparation for the doctoral preliminary examination. May be repeated to a maximum of twelve semester hours. May be repeated within the same semester.", 
+        "number": "8960", 
+        "subject": "URP", 
+        "title": "Preliminary Examination Preparation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: URP 6102, URP 6846, and URP 6938.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 12.00"
+    }
+}

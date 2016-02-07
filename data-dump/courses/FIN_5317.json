@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the identification of key risks facing bank managers, as well as modern techniques for measuring, pricing, and managing those risks.", 
+        "number": "5317", 
+        "subject": "FIN", 
+        "title": "Financial Institutions and Risk Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIN 4424 and FIN 4504 or their equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

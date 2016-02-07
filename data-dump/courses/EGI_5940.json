@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the planning, establishing, and implementing a computerized community resource network for secondary and postsecondary gifted student mentorship programs.", 
+        "number": "5940", 
+        "subject": "EGI", 
+        "title": "Mentorship Practicum for the Gifted"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "5.00"
+    }
+}

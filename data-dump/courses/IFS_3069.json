@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students learn to think critically about a range of topics that include: history of torture; torture, pain, and unmaking the world; social psychological accounts of conditions making torture possible; genealogy of modern torture; democracy and recent proposals to legalize torture; comparative moral and religious perspectives on torture and its critique; and prospects for the abolition of torture.", 
+        "number": "3069", 
+        "subject": "IFS", 
+        "title": "Just Torture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

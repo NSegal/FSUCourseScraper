@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the following topics: the foundation in adolescents' learning of mathematics; theories of learning in mathematics; the nature of mathematics; and learners' mathematical processes (problem solving, reasoning, representation, communication, and connections). It also analyzes middle and high school mathematics curricula from the perspective of adolescent learning.", 
+        "number": "4330", 
+        "subject": "MAE", 
+        "title": "How Adolescents Learn Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

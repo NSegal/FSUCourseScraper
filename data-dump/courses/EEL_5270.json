@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include electric transients in power systems; frequency domain and the time domain techniques for transient analysis; capacitorswitching, load switching, fault induced transients, line closing, and lightning induced coupling.", 
+        "number": "5270", 
+        "subject": "EEL", 
+        "title": "Power System Transients"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4213.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

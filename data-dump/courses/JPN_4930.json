@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to study literary topics of a special kind, depending on student interest and faculty expertise. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4930", 
+        "subject": "JPN", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Divisional coordinator permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

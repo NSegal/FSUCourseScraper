@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory course presents the principles and practice of compressed-gas as a life-support system for underwater hyperbaric exposure. This course is designed to develop proficiency in the basic skills required to perform safe underwater investigations, including recording observations and conducting underwater environmental surveys. Additional equipment fee required.", 
+        "number": "3761L", 
+        "subject": "CJE", 
+        "title": "Introduction to Underwater Investigation Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CJE 3761.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

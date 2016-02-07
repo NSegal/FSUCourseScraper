@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of philosophy, approaches, and systems of managing people in government. Includes historical developments, personnel managemebnt practices and behaviors, and current issues. Examines recruitment, classsification, compensation training, evaluation functions, and equal employm ent opportunity and labor management policies.", 
+        "number": "5417", 
+        "subject": "PAD", 
+        "title": "Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

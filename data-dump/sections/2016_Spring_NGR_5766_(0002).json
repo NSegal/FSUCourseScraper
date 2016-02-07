@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (8184)", 
+    "basic": {
+        "class_num": "8184", 
+        "course": "5766", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "NGR", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:25:00", 
+            "instructors": [
+                "Barbara Little"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

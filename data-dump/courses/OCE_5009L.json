@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a a multi-disciplinary, hands-on experience of the field methods most commonly used in oceanography. It gives graduate students the opportunity to gain a greater appreciation of the complexity of marine-ecosystem dynamics through active participation in ocean-science field research.", 
+        "number": "5009L", 
+        "subject": "OCE", 
+        "title": "Coastal Oceanography and Marine Field Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Enrollment in a natural or environmental science graduate program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores Russian history from the emergence of the Muscovite state through the establishment of the Romanov dynasty, to the reforms of Peter the Great and the enlightened despotism of Catherine the Great, and finally the nature of the state in the early 19th century.", 
+        "number": "3571", 
+        "subject": "EUH", 
+        "title": "Russia to Nicholas I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

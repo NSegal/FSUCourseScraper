@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers what media can and cannot do, about texts that can be produced and disseminated and about the technologies that help and hinder the process of understanding.", 
+        "number": "5405", 
+        "subject": "EME", 
+        "title": "Media, Text, and Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

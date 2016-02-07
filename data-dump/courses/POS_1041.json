@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates how the national government is structured and how the American political system operates. Covers the philosophical and constuitutional foundations of American government, the branches of the nationalt government, the mechanisms by which citizens are connected to their gover nment, and the policy outputs of government.", 
+        "number": "1041", 
+        "subject": "POS", 
+        "title": "American Government: National"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

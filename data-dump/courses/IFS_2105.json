@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the study of evolution as it applies to the practice of medicine. Students investigate what constitutes scientific evidence, how to use evidence, the evidence concerning biological evolution, and the implications of evolution for the practice of medicine.", 
+        "number": "2105", 
+        "subject": "IFS", 
+        "title": "Evolution, Medicine, and Evidence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

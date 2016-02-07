@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (9699)", 
+    "basic": {
+        "class_num": "9699", 
+        "course": "1013", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "STA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Lindsi Brantley"
+            ], 
+            "location": "HCB 0207", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Lindsi Brantley"
+            ], 
+            "location": "HCB 0207", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

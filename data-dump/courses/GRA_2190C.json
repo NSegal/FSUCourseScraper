@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of the basic concepts introduced in foundations. Exploratory design problems include iconography, signs and\u00a0 symbols, and two-dimensional and three-dimensional composition. These problems extend the methodology and conceptualizing/problem-solving skills of design.", 
+        "number": "2190C", 
+        "subject": "GRA", 
+        "title": "Graphic Design I/Introduction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C, ART 1300C, and ART 1602C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

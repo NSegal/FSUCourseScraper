@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course utilizes exercises for self-awareness, physical strength, flexibility, and versatility for the actor. May be repeated to a maximum of six semester hours.", 
+        "number": "3510", 
+        "subject": "TPP", 
+        "title": "Movement Techniques for Theatre I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

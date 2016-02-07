@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the fundamentals of robot operation and application including: basic elements, robot actuators and servo-control, sensors, senses,vision, voice, microprocessor system design and computers, kinematic equations, and motion trajectories.", 
+        "number": "5802", 
+        "subject": "EML", 
+        "title": "Introduction to Robotics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in mechanical engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

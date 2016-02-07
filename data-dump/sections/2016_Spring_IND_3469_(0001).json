@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (12300)", 
+    "basic": {
+        "class_num": "12300", 
+        "course": "3469", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "IND", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Kristen Millican"
+            ], 
+            "location": "WJB 1023", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Kristen Millican"
+            ], 
+            "location": "WJB 1023", 
+            "start_time": "11:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

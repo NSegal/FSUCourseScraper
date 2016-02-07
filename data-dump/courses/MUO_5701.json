@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the function and techniques of stage direction; a theoretical approach to issues of style, conception, execution and related to pics (such as working with designers, conductors, producers.) Career development issues are addressed. Practical application occurs in tandem with the preparation of opera scenes in the various workshop components of the opera department. May be repeated to a maximum of six semester hours.", 
+        "number": "5701", 
+        "subject": "MUO", 
+        "title": "Opera Directing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Interview and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

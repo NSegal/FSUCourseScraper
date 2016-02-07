@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents advanced methods for describing, analyzing, and modeling data from observational studies.\u00a0 The inital offering includes introductions to meta-analytic methods, bootstrap methods, and randomization tests.\u00a0 Topics vary with each offering.\u00a0 May be repeated to a maximum of six semester hours.", 
+        "number": "6174", 
+        "subject": "STA", 
+        "title": "Advanced Methods in Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5167 and STA 5325.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

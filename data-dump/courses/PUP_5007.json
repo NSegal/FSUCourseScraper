@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to research on the process of policy-making with an emphasis on the various models used to study public policy.", 
+        "number": "5007", 
+        "subject": "PUP", 
+        "title": "Models of Public Policy-making"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

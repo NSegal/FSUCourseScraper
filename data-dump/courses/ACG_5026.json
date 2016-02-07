@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a basic understanding of accounting systems and financial statements as a foundation for analysis. The course also addresses cost systems and controls as they pertain to organizational control. Cannot be taken for credit for the Master of Accounting degree.", 
+        "number": "5026", 
+        "subject": "ACG", 
+        "title": "Financial Reporting and Managerial Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 2021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

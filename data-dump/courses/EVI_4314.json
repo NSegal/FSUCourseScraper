@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares prospective teachers of students with visual impairments, orientation and mobility specialists, and rehabilitation teachers for facilitating the visual functioning of individuals with low vision. Students learn the basics of optics and how to conduct functional vision evaluations, to modify environments, and to teach the effective use of low vision devices.", 
+        "number": "4314", 
+        "subject": "EVI", 
+        "title": "Low Vision"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EVI 4121.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is the capstone course in the Information Technology degree program. The course provides students with a broad perspective on the information technology field, the skills required to succeed in the field, and a familiarity with emerging technologies. It also allows students to complete their information technology portfolio. The course consists of a combination of discussions of issues in the information technology profession, emerging technologies, and directed work on the student's degree portfolio.", 
+        "number": "4708", 
+        "subject": "LIS", 
+        "title": "Perspective on Information Technology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

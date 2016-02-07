@@ -1,0 +1,44 @@
+{
+    "_unique": "0018-LEC (10610)", 
+    "basic": {
+        "class_num": "10610", 
+        "course": "2311", 
+        "season": "Spring", 
+        "solus_id": "0018", 
+        "status": "Open", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "David Mandel"
+            ], 
+            "location": "HCB 0213", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "HCB 0213", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "18:30:00", 
+            "instructors": [], 
+            "location": "HCB 0213", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

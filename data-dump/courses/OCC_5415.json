@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to geochemistry of earth with emphasis on processes controlling elemental cycling between the earths crust, oceans, and atmosphere. Controls on the chemical composition of seawater and its geological history.", 
+        "number": "5415", 
+        "subject": "OCC", 
+        "title": "Marine Geochemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: OCC 5050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

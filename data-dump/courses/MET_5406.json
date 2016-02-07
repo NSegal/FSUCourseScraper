@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers techniques, research, and operational applications related to satellite observations and their applications in numerical weather prediction.\u00a0 Students gain hands-on experience and a comprehensive understanding of data assimilation and related application problems in atmospheric science.", 
+        "number": "5406", 
+        "subject": "MET", 
+        "title": "Satellite Observations and Their Applications in Numerical Weather Preciction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 3305 or equivalent computer programming.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

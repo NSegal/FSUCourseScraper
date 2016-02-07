@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, a variety of subjects are offered on an occasional basis under the heading of \"Special Topics.\" Recent offerings include the Geography of Hunger, Advanced GIS, and Globalization. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "5934", 
+        "subject": "GEO", 
+        "title": "Seminar in Current Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

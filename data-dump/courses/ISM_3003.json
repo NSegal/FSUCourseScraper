@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an overview of the MIS profession and the role of MIS in organizations. Topics include the introduction to fundamental techniques and methods used in the analysis of business processes for which computer-based information systems are designed and managed.", 
+        "number": "3003", 
+        "subject": "ISM", 
+        "title": "Foundations of Management Information Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CGS 2518.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

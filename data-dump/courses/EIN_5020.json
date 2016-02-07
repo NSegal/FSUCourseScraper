@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a structured and easily understandable step-by-step approach for students to learn the key components that comprise a sound research process.", 
+        "number": "5020", 
+        "subject": "EIN", 
+        "title": "Research Methodology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

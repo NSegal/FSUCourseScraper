@@ -1,0 +1,26 @@
+{
+    "_unique": "0038-DIS (13202)", 
+    "basic": {
+        "class_num": "13202", 
+        "course": "5909", 
+        "season": "Spring", 
+        "solus_id": "0038", 
+        "status": "Open", 
+        "subject": "PHY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Harrison Prosper"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

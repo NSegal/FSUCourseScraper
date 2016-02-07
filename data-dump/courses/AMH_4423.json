@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the history of Florida from the period of its acquisition from Spain in 1821 until the present. The various \"periods\" in the state's past are discussed with special attention given to the period 1920 to the present.", 
+        "number": "4423", 
+        "subject": "AMH", 
+        "title": "History of Florida from 1821 to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

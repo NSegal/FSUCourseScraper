@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the definitions and development of criminal law, criminal procedure and criminal rights, with special attention to constitutional theory and practice.", 
+        "number": "5420", 
+        "subject": "CJL", 
+        "title": "Criminal Laws, Criminal Procedure and Individual Rights"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

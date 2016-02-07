@@ -1,0 +1,24 @@
+{
+    "_unique": "0002-LAB (5389)", 
+    "basic": {
+        "class_num": "5389", 
+        "course": "2004L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MCB", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "20:15:00", 
+            "instructors": [], 
+            "location": "KIN 2063", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

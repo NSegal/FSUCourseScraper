@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the theories, methods, and practices of career development; utilizing occupational information and labor market trends; and understanding of requirements and characteristics of a variety of occupations, job analysis, and job modification and restructuring.", 
+        "number": "4300", 
+        "subject": "RCS", 
+        "title": "Vocational Aspects of Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

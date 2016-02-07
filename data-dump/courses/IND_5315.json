@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students explore current media used to communicate complex research and design ideas by assessing and developing effective communication strategies.", 
+        "number": "5315", 
+        "subject": "IND", 
+        "title": "Advanced Visual Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5634.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-LEC (12209)", 
+    "basic": {
+        "class_num": "12209", 
+        "course": "3353", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "COP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Melina Vastola"
+            ], 
+            "location": "CAR 0101", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

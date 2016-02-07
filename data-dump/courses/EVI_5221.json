@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores the methods and strategies for teaching independent travel techniques to learners with visual impairments. The course presents and discusses methods, strategies, and information related to the teaching of independent travel skills. Emphasis is on travel within indoor environments.", 
+        "number": "5221", 
+        "subject": "EVI", 
+        "title": "Applied Methods of Orientation and Mobility"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4121, EVI 4220, and EVI 4314 or EVI 5316.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

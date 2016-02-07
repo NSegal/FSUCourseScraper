@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (2456)", 
+    "basic": {
+        "class_num": "2456", 
+        "course": "3418", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ECH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "John Telotte"
+            ], 
+            "location": "CE2 B0135", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "John Telotte"
+            ], 
+            "location": "CE2 B0135", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

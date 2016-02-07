@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines skills that underlie effective problem solving. Students plan military missions and operations, and execute squad battle drills.", 
+        "number": "3201", 
+        "subject": "MSL", 
+        "title": "Leadership and Problem Solving"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MSL 1001, MSL 1002, MSL 2101, MSL 2102, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

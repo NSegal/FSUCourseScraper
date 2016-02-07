@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced professional preparation course to acquaint students with issues in their academic discipline. A maximum of three semester hours may count towards the degree. May be repeated to a maximum of nine semester hours.", 
+        "number": "6925", 
+        "subject": "SPN", 
+        "title": "Tutorial in Professional Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPN 5940 or instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "0.00 - 2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The purpose of this course is to expose students to the underlying principles of syntax. Students are taught the mechanics of syntactic theories dating from the late 1960s to the present.", 
+        "number": "4512", 
+        "subject": "LIN", 
+        "title": "Introduction to Transformational Grammar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on experiments in optics, modern physics and electricity and magnetism. The emphasis is on the development of experimental technique, assessment of the validity of experimental data, and the development of skill in the written presentation of results.", 
+        "number": "3802L", 
+        "subject": "PHY", 
+        "title": "Intermediate Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

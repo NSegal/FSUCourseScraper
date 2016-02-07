@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, the student has the opportunity to pursue independent work under the direction of a faculty member.", 
+        "number": "5910", 
+        "subject": "IND", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

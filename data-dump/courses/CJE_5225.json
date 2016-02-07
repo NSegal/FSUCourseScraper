@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This entry-level course provides fundamentals necessary to prepare the student in successfully completing a series of four courses leading to a graduate certificate in medicocriminal forensic entomology. Instruction will\u00a0\u00a0\u00a0\u00a0 cover a broad range of topics in basic entomolgy as related to forensic science.", 
+        "number": "5225", 
+        "subject": "CJE", 
+        "title": "Introduction to Forensic Entomology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

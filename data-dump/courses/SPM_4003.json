@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers issues related to professional sports, including sport agents, contracts, the draft process, salary negotiations, and insurance.", 
+        "number": "4003", 
+        "subject": "SPM", 
+        "title": "Careers in Professional Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

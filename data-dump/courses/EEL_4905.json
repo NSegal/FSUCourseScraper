@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Normally may be repeated to a maximum of six semester hours. Requires departmental approval.", 
+        "number": "4905", 
+        "subject": "EEL", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Junior standing and \"B\" average in electrical engineering course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

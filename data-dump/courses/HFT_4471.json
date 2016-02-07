@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with an understanding of financial analysis so that decisions within the operation can be evaluated. Techniques used in maximizing revenues, controlling costs, analyzing financial statements, productivity, and ratios are explored within the food and beverage, hotel, and club industries. Emphasis is placed on effective revenue-management techniques.", 
+        "number": "4471", 
+        "subject": "HFT", 
+        "title": "Managing Revenues and Expenses"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: HFT 3806 and HFT 3424.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

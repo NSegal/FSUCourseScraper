@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the history of the U.S. Constitution to 1800, including the British background, the first state constitutions, the Articles of Confederation, the Constitutional Convention, ratification debates, and first use of the Constitution in the 1790s. It concludes with the first major controversies faced by the founders; issues that the Constitution did not resolve for them easily. The course is not about constitutional interpretation or theories applied by the current Supreme Court.", 
+        "number": "5555", 
+        "subject": "AMH", 
+        "title": "American Legal History I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "An important part of the toolkit of a practicing condensed matter physicist is a knowledge of the historical experimental database. This course prese nts part of this database through a study of the corporate record of the B ell Laboratories, with supplemental material bringing the research record up to date.", 
+        "number": "5430", 
+        "subject": "PHZ", 
+        "title": "Physics of Materials"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHZ 5491.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

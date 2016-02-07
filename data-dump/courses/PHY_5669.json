@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second semester of quantum field theory, and examines path integral quantization, renormalization, renormalization group, non-Abelian gauge theories and the Standard Model.", 
+        "number": "5669", 
+        "subject": "PHY", 
+        "title": "Quantum Field Theory B"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 5667.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

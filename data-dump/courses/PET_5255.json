@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the socio-cultural foundations of play, games, sport, and physical activity.", 
+        "number": "5255", 
+        "subject": "PET", 
+        "title": "Social Bases of Physical Activity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers statics and dynamics of particles and rigid bodies using vector analysis, free body diagrams, equilibrium of particles and rigid bodies, particle and general rigid body motion, work/energy, and impulse and momentum methods.", 
+        "number": "3512", 
+        "subject": "EGM", 
+        "title": "Engineering Mechanics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and PHY 2048.Corequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the major principles of the life sciences (microbiology, cell biology, and genetics) that are important for biomedical engineering applications. The application of the chemical engineering principles of kinetics, mass transport, bioreactor design, and separation processes to solve the important problems in the biomedical engineering are emphasized.", 
+        "number": "4007", 
+        "subject": "BME", 
+        "title": "Biomedical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisites: ECH 4404L, ECH 4504, and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

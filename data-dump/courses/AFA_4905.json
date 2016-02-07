@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of four semester hours. May be repeated within the same semester.", 
+        "number": "4905", 
+        "subject": "AFA", 
+        "title": "African-American Studies Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 4.00"
+    }
+}

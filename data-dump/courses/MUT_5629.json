@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This advanced course studies analytical techniques as proposed by Heinrich Schenker.", 
+        "number": "5629", 
+        "subject": "MUT", 
+        "title": "Schenkerian Theory and Analysis II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUT 5627.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

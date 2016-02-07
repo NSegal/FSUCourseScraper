@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the Roman Empire from Augustus to Constantine. Emphasis on the evolution from the principate of the early empire to the\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 monarchy of the late empire.", 
+        "number": "4413", 
+        "subject": "EUH", 
+        "title": "The Roman Empire"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines quantum many-body physics as applied to condensed matter, atomic, and nuclear physics.", 
+        "number": "5670", 
+        "subject": "PHY", 
+        "title": "Quantum Many-Body Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 5246, PHY 5346, PHY 5524, PHY 5645, and PHY 5646.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

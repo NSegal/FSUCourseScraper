@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers supervision, counseling, and interviewing in the area of communication disorders.", 
+        "number": "5554", 
+        "subject": "SPA", 
+        "title": "Counseling in Speech-Language Pathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

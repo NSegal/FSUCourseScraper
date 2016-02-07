@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines makeup, hair, and wig styles popular throughout history. Students acquire practical, hands-on experience in constructing and styling wigs for the stage and in designing various period hair and makeup styles.", 
+        "number": "4246", 
+        "subject": "TPA", 
+        "title": "Stage Wigs and Specialty Makeup"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

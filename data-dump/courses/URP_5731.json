@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines issues and techniques in planning for community infrastructure. Emphasis is placed on capital intensive infrastructure systems, but other services and facilities are covered. Considerable attention is devoted to analyzing variations in demand for infrastructure associated with land use types, intensities, and spatial form.", 
+        "number": "5731", 
+        "subject": "URP", 
+        "title": "The Planning of Community Infrastructure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

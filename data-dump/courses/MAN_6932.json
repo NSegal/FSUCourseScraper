@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the Study of organizational strategies and polices of the literature and analysis is of conceptual and empirical research issues\u00a0\u00a0 in strategic management.", 
+        "number": "6932", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Strategic Management I: Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

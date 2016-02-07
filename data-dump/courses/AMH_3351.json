@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the colonial and revolutionary background of U.S. politics. Topics cover U.S. political parties and elections from the 1790s to 1877, emphasizing the presidency and the groups and issues that have influenced political parties.", 
+        "number": "3351", 
+        "subject": "AMH", 
+        "title": "US Political History to 1877"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

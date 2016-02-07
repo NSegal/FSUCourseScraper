@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the thought, literature, and arts of Western culture from the 18th-century Romanticism to the Postmodern period.", 
+        "number": "2250", 
+        "subject": "HUM", 
+        "title": "Humanities: 18th-Century Romanticism to Postmodernism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

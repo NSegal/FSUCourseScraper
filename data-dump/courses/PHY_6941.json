@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Selected topics in modern physics. Readings and analysis of primary literature. Maximum of eight students in each tutorial.", 
+        "number": "6941", 
+        "subject": "PHY", 
+        "title": "Graduate Tutorial in Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

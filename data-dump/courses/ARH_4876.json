@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers global women's art in the 20th and 21st centuries, with investigations into women's painting, sculpture, installation, performance, photography, film, and multimedia, often challenging conventional perceptions of gendered roles to reshape possibilities for themselves and their communities. The course also includes coverage of immigrant and exiled women's contributions to the arts in the United States.", 
+        "number": "4876", 
+        "subject": "ARH", 
+        "title": "Global Women's Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the application of quantitative analysis to problems of public policy and management, quasi and experimental designs for evaluation of social programs, and computer analysis of data sets.", 
+        "number": "5701", 
+        "subject": "PAD", 
+        "title": "Quantitative Analysis in Public Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5700 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

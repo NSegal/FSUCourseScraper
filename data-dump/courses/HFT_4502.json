@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the applications of strategic market research and product/service positioning in the hospitality industry. Emphasis on competitive marketing strategies including sales, advertising, and promotions. Discussion of unique features of hospitality marketing, market research/analysis, ethics, and quality.", 
+        "number": "4502", 
+        "subject": "HFT", 
+        "title": "Integrated Marketing for Hospitality"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

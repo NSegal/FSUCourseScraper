@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the general linear model and application of a variety of techniques derived from this model to the analysis of data common to social science. Techniques include partial correlation, multiple regression, analysis of variance, analysis of covariance, and contingency table analysis. The course also reviews assumptions of models and methods for handling violations of the assumptions.", 
+        "number": "5406", 
+        "subject": "SYA", 
+        "title": "Multivariate Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SYA 5305 and SYA 5455 or comparable knowledge.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

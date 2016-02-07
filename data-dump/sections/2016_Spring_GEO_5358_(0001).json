@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (13899)", 
+    "basic": {
+        "class_num": "13899", 
+        "course": "5358", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "GEO", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "Alexander Coles"
+            ], 
+            "location": "TBA", 
+            "start_time": "18:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

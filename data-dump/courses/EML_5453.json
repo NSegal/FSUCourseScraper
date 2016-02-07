@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a continuation of sustainability energy-conversion systems and focuses on solar electricity, biopower, biofuels, and hydrogen. The course also discusses the practicality of hydrogen-based transportation.", 
+        "number": "5453", 
+        "subject": "EML", 
+        "title": "Sustainable Power Generation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 4450 and EML 5451 or graduate standing in engineering or sciences.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

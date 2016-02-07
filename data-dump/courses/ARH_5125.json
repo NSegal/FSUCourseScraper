@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critical study and appraisal of Etruscan monuments and artistic works; major archaeological evidence for Etruscan culture.", 
+        "number": "5125", 
+        "subject": "ARH", 
+        "title": "Etruscan Art and Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

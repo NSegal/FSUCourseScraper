@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of marketing and development for arts organizations. The course specifically develops skills in strategic marketing planning, budgeting, media planning, graphics and layout concepts, writing from a marketing and sales perspective and public relations.", 
+        "number": "5409", 
+        "subject": "TPA", 
+        "title": "Audience Development and Arts Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 4400 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

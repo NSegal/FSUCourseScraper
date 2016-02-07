@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the production and delivery of television programming.", 
+        "number": "5774", 
+        "subject": "FIL", 
+        "title": "Basic Video Production"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MFA admission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

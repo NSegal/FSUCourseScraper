@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a history of the expansion of the British Empire and its evolution into the Commonwealth from the early eighteenth century to the present. It examines the complex set societies, governing structures, economic systems, and geographic locations encompassed by British overseas expansion.", 
+        "number": "3530", 
+        "subject": "EUH", 
+        "title": "England, the Empire and the Commonwealth"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

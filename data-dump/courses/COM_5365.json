@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the construction of graphics and animation using digital software tools. There are three primary areas of focus: 1) the manipulation of still images; 2) the creation of moving images using digital software tools; and 3) the enhancement of digital video through special effects.", 
+        "number": "5365", 
+        "subject": "COM", 
+        "title": "Computer Graphics and Animation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

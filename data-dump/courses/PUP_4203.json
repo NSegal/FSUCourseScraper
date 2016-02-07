@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the actions taken by government to protect and improve environmental quality in the United States. It includes such topics as the underlying scientific principles, the major actors in policy making, existing legislation, and future challenges. Background in science is not necessary.", 
+        "number": "4203", 
+        "subject": "PUP", 
+        "title": "Environmental Politics and Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PUP 3002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with opportunities for detailed cultural analysis in the various geographies, historical contexts and intellectual endeavors of the Hispanic world.", 
+        "number": "3503", 
+        "subject": "SPT", 
+        "title": "Introduction to Hispanic Cultural Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

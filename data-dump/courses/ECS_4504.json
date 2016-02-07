@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the economic issues facing the region known as the Middle East and North Africa (MENA). The course discusses the economic history of the region and reviews events and policies bringing MENA nations to their current position, and examines their prospects for future economic growth.", 
+        "number": "4504", 
+        "subject": "ECS", 
+        "title": "Economics of the Middle East"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

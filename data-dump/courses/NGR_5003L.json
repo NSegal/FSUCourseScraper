@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to provide the learner with a strong foundation in the health assessment skills requisite for advanced nursing practice. The focus of the course is on the diagnostic reasoning process as it relates to building a clinical database.", 
+        "number": "5003L", 
+        "subject": "NGR", 
+        "title": "Health Assessment Laboratory for Nurse Practitioners"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

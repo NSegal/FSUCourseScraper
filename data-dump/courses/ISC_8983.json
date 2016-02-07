@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated with instruction permission.", 
+        "number": "8983", 
+        "subject": "ISC", 
+        "title": "PhD Dissertation Defense-MS&E"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Dissertation Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

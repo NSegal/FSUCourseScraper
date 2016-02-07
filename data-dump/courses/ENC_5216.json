@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to book and magazine editing and publishing.", 
+        "number": "5216", 
+        "subject": "ENC", 
+        "title": "Introduction to Editing and Publishing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

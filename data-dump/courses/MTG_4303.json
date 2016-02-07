@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines function spaces, Hilbert space, quotient spaces, continua, paracompactness and metrizability, nets and filters, and the fundamental group.", 
+        "number": "4303", 
+        "subject": "MTG", 
+        "title": "Elementary Topology II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MTG 4303.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

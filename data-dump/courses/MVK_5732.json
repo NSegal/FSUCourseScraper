@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with intensive training in the applied music skills necessary for a career in opera. May be repeated to a maximum of eight semester hours.", 
+        "number": "5732", 
+        "subject": "MVK", 
+        "title": "Applied Music Opera Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

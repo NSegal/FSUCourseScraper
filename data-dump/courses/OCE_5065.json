@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course helps students understand anthropogenic impacts on the world's marine biological resources and ways to mitigate those impacts.", 
+        "number": "5065", 
+        "subject": "OCE", 
+        "title": "Marine Conservation Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

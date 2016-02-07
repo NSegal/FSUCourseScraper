@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory applies various techniques for the examination of physical materials generated during the commission of a crime in order to produce information required to detect and investigate criminal activity.\u00a0 This laboratory emphasizes the implementation and development of protocols and the calculation of error rates. Additional equipment fee required.", 
+        "number": "5766L", 
+        "subject": "CJE", 
+        "title": "Forensic Science in Investigation Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "CJE5766,C,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

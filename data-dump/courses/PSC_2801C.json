@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for prospective elementary and early childhood education majors. The course combines physics and chemistry and the laboratory is integral to the course. The course includes laboratory exercises. Students work in groups in a hands-on, minds-on approach to learning physical science.", 
+        "number": "2801C", 
+        "subject": "PSC", 
+        "title": "Physical Science for EC/EE Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

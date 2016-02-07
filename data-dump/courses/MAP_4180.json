@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers solution concepts for noncooperative games. Nash equilibrium. Selection criteria. Evolutionary stable strategies. Cooperative games in strategic form. Characteristic function games. The prisoners dilemma. Applications.", 
+        "number": "4180", 
+        "subject": "MAP", 
+        "title": "Game Theory and Applications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAS 3105, MAP 2302, and STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

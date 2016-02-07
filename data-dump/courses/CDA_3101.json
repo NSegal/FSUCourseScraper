@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the fundamental concepts in processor design, including datapath and control, pipelining, memory hierarchies, and I/O.", 
+        "number": "3101", 
+        "subject": "CDA", 
+        "title": "Computer Organization II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 3100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

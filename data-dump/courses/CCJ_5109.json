@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to theory in criminology. It examines the principal functions of criminological theories and how they are rooted in the historical and social contexts in which they originate.", 
+        "number": "5109", 
+        "subject": "CCJ", 
+        "title": "Theory in Criminology and Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critical overview of the premises and theses of Marxism concerning the understanding of history, economic realities, political struggles, and ideologies as found in the principle works of its founders.", 
+        "number": "3510", 
+        "subject": "PHP", 
+        "title": "Introduction to Marxist Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

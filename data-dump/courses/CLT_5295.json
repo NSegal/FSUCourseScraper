@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines readings and criticism of selected plays from the Greek tragedians in English translation.", 
+        "number": "5295", 
+        "subject": "CLT", 
+        "title": "Studies in Greek Tragedy: Aeschylus, Sophocles, and Euripides"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

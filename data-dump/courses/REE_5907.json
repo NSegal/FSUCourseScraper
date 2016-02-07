@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5907", 
+        "subject": "REE", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of Associate Dean for Academic Programs.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a graduate seminar focusing on pedagogical issues and practical problems in teaching sociology at the college and university levels.", 
+        "number": "6660", 
+        "subject": "SYA", 
+        "title": "Teaching at the College Level in Sociology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

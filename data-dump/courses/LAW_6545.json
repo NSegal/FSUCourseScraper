@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of basic legal and policy concepts governing the employment relationship.", 
+        "number": "6545", 
+        "subject": "LAW", 
+        "title": "Employment Law Survey"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 4.00"
+    }
+}

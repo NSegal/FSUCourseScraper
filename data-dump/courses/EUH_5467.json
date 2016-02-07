@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the background of the Nazi regime, the character of Hitler's dictatorship, and the origins and course of World War II in its European context. Also examined is National Socialism's impact on German institutions and racial consequences.", 
+        "number": "5467", 
+        "subject": "EUH", 
+        "title": "Weimar and Nazi Germany"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

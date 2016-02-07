@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the scope and methods of information architecture in any setting, but emphasizes its application to the Web. The course examines the elements of an information architecture and some common technologies needed to design and create these elements.", 
+        "number": "3793", 
+        "subject": "LIS", 
+        "title": "Information Architecture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2835, LIS 3267, LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

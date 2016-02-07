@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on entrepreneurship in existing organizations. Course material centers on how established organizations can be entrepreneurial, how the corporate entrepreneurship process works, and the role of individuals in promoting entrepreneurship in their organizations. The course also explores how entrepreneurs can recognize and investigate business opportunities for established firms, and how entrepreneurs gain support for their ventures in an organizational context.", 
+        "number": "3123", 
+        "subject": "ENT", 
+        "title": "Coporate Venturing and Entrepreneurial Strategies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 or both ENT 2010 and ENT 2011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

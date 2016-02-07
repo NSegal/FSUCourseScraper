@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds upon the Introduction to Underwater Investigation Laboratory by providing the technology to collect data in an underwater environment according to the scientific method.\u00a0 The course delineates the similarities and differences of investigative techniques used in forensic science and other science disciplines that function underwater.\u00a0 Emphasis is placed on the validation of measurement protocols.", 
+        "number": "5767", 
+        "subject": "CJE", 
+        "title": "Scientific Underwater Investigation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 3761.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

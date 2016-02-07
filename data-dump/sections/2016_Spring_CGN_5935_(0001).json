@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (1299)", 
+    "basic": {
+        "class_num": "1299", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CGN", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:00:00", 
+            "instructors": [
+                "John Sobanjo"
+            ], 
+            "location": "CE1 0105", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

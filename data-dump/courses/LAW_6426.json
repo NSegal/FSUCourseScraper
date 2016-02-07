@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to train students to analyze complex commercial real estate transactions. It is interdisciplinary within law, attempting to integrate topics including basic mortgage law, usury law, subordination agreements, mechanics lien law, selected uniform commercial code issues, choice of business entity, federal and state securities law and, importantly, federal income tax law. Condominiums and cooperatives are discussed as security devices. The federal income tax coverage concentrates on a handful of issues fundamental to commercial real estate transactions, especially the tax treatment of indebtedness and tax aspects of leasing arrangements, including synthetic lease transactions.", 
+        "number": "6426", 
+        "subject": "LAW", 
+        "title": "Real Estate Finance"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

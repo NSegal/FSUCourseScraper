@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-DIS (14543)", 
+    "basic": {
+        "class_num": "14543", 
+        "course": "5906", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Closed", 
+        "subject": "GLY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Yang Wang"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

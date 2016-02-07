@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to management science and to administrative issues as applied to information resources management (IRM), information centers, and information services. Emphasis is placed on management functions, concepts, and principles. Topics cover IRM definitions and issues, IRM implementation and strategies, as well as life-cycle management and career opportunities.", 
+        "number": "4481", 
+        "subject": "LIS", 
+        "title": "Managing Information Resources and Services"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Three of the following: LIS 3201, LIS 3267, LIS 3353, LIS 4276, and LIS 4351.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

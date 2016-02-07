@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course represents the study of social psychology from a sociological perspective. Specifically, it is an analysis of the influence of the groups and the individual on each other, including the study of norms, group pressure, leadership, motivation, and social personality.", 
+        "number": "3000", 
+        "subject": "SYP", 
+        "title": "Social Psychology of Groups"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

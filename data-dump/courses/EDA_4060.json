@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines relationships among local school districts, intermediate units, state departments of education, and the federal government.", 
+        "number": "4060", 
+        "subject": "EDA", 
+        "title": "Organization and Control of Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

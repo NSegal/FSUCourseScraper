@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to wet site archaeology, incorporating an overview of wet sites, their geographic distribution, methods of excavation, conservation requirements, and the field's contribution to our understanding of the past.", 
+        "number": "4122", 
+        "subject": "ANT", 
+        "title": "Wetlands Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

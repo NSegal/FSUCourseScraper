@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the production of intelligence from the analysis of multiple and diverse sources of information and on its use by formal and informal intelligence agencies.\u00a0 Emphasis is placed on the development of models for making decisions on information that is uncertain and from diverse sources.\u00a0 Techniques are examined for collecting and using both qualitative and quantitative data as it relates to the role of local public safety and security personnel and organizations as both producers and consumers of intelligence.", 
+        "number": "5748", 
+        "subject": "CCJ", 
+        "title": "Advanced Evidentiary Reasoning for Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

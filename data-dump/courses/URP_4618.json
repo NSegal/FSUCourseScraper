@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the field of development planning and gives the student exposure to the interplay between theory and practice. Topics include concepts of development, measurement and indicators of patterns of development, rural development, urban development, preparation of development plans, and implementation of development plans.", 
+        "number": "4618", 
+        "subject": "URP", 
+        "title": "Planning for Developing Regions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

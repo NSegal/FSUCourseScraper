@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of horticultural and agronomic practices needed by golf course managers in the hospitality industry.", 
+        "number": "3354", 
+        "subject": "HFT", 
+        "title": "Agronomy for Golf Course Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

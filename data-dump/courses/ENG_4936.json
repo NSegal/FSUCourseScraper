@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The honors student takes two semesters of thesis work. May be repeated to a maximum of nine semester hours.", 
+        "number": "4936", 
+        "subject": "ENG", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission and admission to the department's honors-in-the-major program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

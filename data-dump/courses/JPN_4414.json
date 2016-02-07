@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course targets intermediate and advanced students of Japanese. Students improve reading skills by practicing various reading techniques. Focus is placed on written Japanese and the acquisition of natural reading ability.", 
+        "number": "4414", 
+        "subject": "JPN", 
+        "title": "Advanced Japanese C: Reading and Writing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 3202.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

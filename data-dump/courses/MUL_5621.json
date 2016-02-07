@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews French vocal solo literature for students who do not have the prerequisite repertoire knowledge for MUL 5625.", 
+        "number": "5621", 
+        "subject": "MUL", 
+        "title": "Graduate Survey: French Vocal Solo Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

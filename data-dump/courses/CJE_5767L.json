@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Building upon previous laboratory work, this course provides the tools and techniques to collect data in an underwater environment for prolonged periods of time.\u00a0 The underwater data collection techniques use traditional underwater technology adapted from forensic science and other scientific fields.\u00a0 Emphasis is placed on the verification of measurement protocols.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Additional equipment fee required.", 
+        "number": "5767L", 
+        "subject": "CJE", 
+        "title": "Scientific Underwater Investigation Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 3761L. Corequisite: CJE 5767.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00"
+    }
+}

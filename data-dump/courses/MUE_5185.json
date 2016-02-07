@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "5185", 
+        "subject": "MUE", 
+        "title": "College Music Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

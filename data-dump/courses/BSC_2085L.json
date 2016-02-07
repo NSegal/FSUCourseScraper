@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first of a two-semester human anatomy/physiology sequence emphasizing the cell, stimulus-response concept, and the skeletal-muscular and first half of the nervous systems.", 
+        "number": "2085L", 
+        "subject": "BSC", 
+        "title": "Anatomy and Physiology I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: BSC 2085.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

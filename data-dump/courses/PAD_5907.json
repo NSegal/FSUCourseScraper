@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of supervised readings and research. Student must submit formal written proposal to interested faculty member prior to registration. PhD students may exceed the nine hour maximum with approval of major professor.", 
+        "number": "5907", 
+        "subject": "PAD", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

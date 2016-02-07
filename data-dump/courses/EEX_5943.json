@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this practicum, students are given an opportunity to directly apply their skills in one of several transitional programs in the schools or the community. May be repeated to a maximum of nine semester hours.", 
+        "number": "5943", 
+        "subject": "EEX", 
+        "title": "Practicum in Transition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

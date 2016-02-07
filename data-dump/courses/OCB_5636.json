@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the diversity, distribution and roles of marine microbes, whose members include viruses, bacteria, archaea and protists. These are presented through lectures, readings, class discussions, and field trips to regional marine habitats.", 
+        "number": "5636", 
+        "subject": "OCB", 
+        "title": "Marine Microbial Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

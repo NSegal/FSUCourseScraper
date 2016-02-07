@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory is an introduction to quantitative techniques and chemical laboratory. Topics include stoichiometry, atomic spectra, thermodynamics, gases, as well as acids and bases, chemical structures and reactivity.", 
+        "number": "1050L", 
+        "subject": "CHM", 
+        "title": "Honors General Chemistry I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 with a grade of \"C-\" or higher or placement beyond MAC 1105. Corequisite: CHM 1050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

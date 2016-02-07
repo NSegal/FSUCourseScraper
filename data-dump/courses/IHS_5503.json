@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is individualized instruction for graduate students in the College of Medicine in the development of a dissertation proposal or other proposals, including the strategies, process and requirements that meet the standards for written project proposals in medical research. May be repeated to a maximum of two semester hours.", 
+        "number": "5503", 
+        "subject": "IHS", 
+        "title": "Proposal Development"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

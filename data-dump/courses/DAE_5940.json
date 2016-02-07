@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of two hours may apply to a master's degree.", 
+        "number": "5940", 
+        "subject": "DAE", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

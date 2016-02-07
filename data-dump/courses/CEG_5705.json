@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the geotechnical aspects of waste containment and\u00a0\u00a0 storage. Aspects of design, construction, and performance of earthen structures for storing or disposing waste or remediating contaminated sites.", 
+        "number": "5705", 
+        "subject": "CEG", 
+        "title": "Environmental Geotechnics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

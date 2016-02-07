@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies and examines traditional and psycholinguistic theory and approaches to management of defective articulation. Provides the student with training in the treatment of defective articulation.", 
+        "number": "5204", 
+        "subject": "SPA", 
+        "title": "Phonological Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

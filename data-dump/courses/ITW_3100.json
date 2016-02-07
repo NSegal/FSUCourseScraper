@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to representative literary figures and movements from the beginnings through the 18th century.", 
+        "number": "3100", 
+        "subject": "ITW", 
+        "title": "Survey of Italian Literature: Origins through 18th-Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 2220 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

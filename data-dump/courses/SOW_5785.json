@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students for international social-work practice and for transnational work with immigrants, refugees, international migrants, etc. It introducesinternational perspectives in the social work field and offers varied examples of social work practice in the U.S., Western and Central European, and Caribbean nations. The course also examines the impact of the global interdependence on social-work practice and policy and helps students learn to critically analyze varied practice approaches utilized in dealing with international welfare issues.", 
+        "number": "5785", 
+        "subject": "SOW", 
+        "title": "International Social Work and Social Welfare"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

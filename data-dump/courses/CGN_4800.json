@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the following topics: engineering and professional ethics; professional practice issues relevant to the design and construction of engineering projects; project planning and scheduling; design under engineering and societal constraints; importance of licensure and continuing education; as well as oral and written communication issues. Inter- or multidisciplinary teams prepare formal proposals addressing engineering challenges; the full design of these proposals is completed during the following semester in the CGN 4802, Senior Design Project course.", 
+        "number": "4800", 
+        "subject": "CGN", 
+        "title": "Pre-Senior Design and Professional Issues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing. Corequisite: CEG 2202L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course gives students the opportunity to develop methods and skills consistent with professional practice in the execution of scenery and properties for theatre. May be repeated to a maximum of sixty semester hours.", 
+        "number": "5280", 
+        "subject": "TPA", 
+        "title": "MFA Practicum in Technical Theatre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 15.00"
+    }
+}

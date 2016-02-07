@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course surveys the ethical principles, standards, and problems in the practice of journalism, advertising, and/or public relations.", 
+        "number": "4203", 
+        "subject": "MMC", 
+        "title": "Media Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000 or RTV 3001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

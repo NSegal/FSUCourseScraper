@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Through a variety of readings and written and oral activities, this course provides students with a fundamental knowledge of the critical issues related to the early Iberian peninsula, from approximately 1000 to 1700 A.D. Such topics may include medieval multiculturalism, the cultural role of the Church, and culture in an age of territorial expansion.", 
+        "number": "3103", 
+        "subject": "SPW", 
+        "title": "Readings from Early Iberia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPW 330 and SPN 3400; or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

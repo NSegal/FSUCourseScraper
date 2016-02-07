@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on leadership, group communication, project planning, strategy, and individual development, with a focus on Information Technology and its uses. Students participating in this class actively design, implement, and coordinate numerous ongoing projects that build a strong team atmosphere and allow students to gain valuable leadership, communication, and organizational skills within the context of contemporary IT organizations. May be repeated to a maximum of six semester hours; duplicate registration not allowed.", 
+        "number": "4480", 
+        "subject": "LIS", 
+        "title": "Information Technology Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

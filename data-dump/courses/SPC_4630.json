@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of selected social and political issues that affect women today. The course includes an analysis of content, lines of argument, supporting evidence, and rhetorical strategies.", 
+        "number": "4630", 
+        "subject": "SPC", 
+        "title": "Rhetoric of Women's Issues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

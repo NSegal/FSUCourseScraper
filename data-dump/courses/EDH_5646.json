@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the basic theories and practice of data mining, a process which allows for large amounts of data to be analyzed in a sequential and logical process.", 
+        "number": "5646", 
+        "subject": "EDH", 
+        "title": "Data Mining"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

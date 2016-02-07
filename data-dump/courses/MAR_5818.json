@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on corporate affairs activities and the strategic use of these activities to market the organization, its issues, and its ideals to potential stakeholders (consumers, general public, shareholders, media, government, etc.) Includes class presentations by corporate executives and extensive class discussion.", 
+        "number": "5818", 
+        "subject": "MAR", 
+        "title": "Corporate Affairs Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

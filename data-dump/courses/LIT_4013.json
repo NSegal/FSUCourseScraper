@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on varying topics in the novel as a genre from the beginnings of print culture through the contemporary period, with attention to texts of diverse national origins from the major traditions of the genre. This course also includes attention to both the history and theory of the genre.\u00a0 Authors studied may include: Cervantes, Diderot, Sterne, Flaubert, Tolstoy, Bely, Kafka, Woolf, Tomasi di Lampedusa, and Garcia Marquez, among others. May be repeated when topics vary to a maximum of six semester hours.", 
+        "number": "4013", 
+        "subject": "LIT", 
+        "title": "Studies in the Novel"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

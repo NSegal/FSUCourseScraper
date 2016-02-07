@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers microscopic and macroscopic characteristics, traffic stream models, demand-supply analysis, shockwave analysis, queueing analysis, computer simulation models, intelligent transportation systems.", 
+        "number": "5206", 
+        "subject": "TTE", 
+        "title": "Advanced Traffic Flow Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

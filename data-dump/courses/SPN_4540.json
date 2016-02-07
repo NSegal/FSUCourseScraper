@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with exposure to texts and cultural productions from specific regions of Latin America, Spain, or the Latino enclaves in the U.S. Texts may include historical documents, legends and myths, poetry, fiction, essays, or popular music. May be repeated to a maximum of six semester hours. Duplicate registration allowed in the same semester.", 
+        "number": "4540", 
+        "subject": "SPN", 
+        "title": "Regional Cultural Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400, or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

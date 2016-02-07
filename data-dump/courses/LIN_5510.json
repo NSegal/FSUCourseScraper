@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers, in addition to the fundamentals of transformational grammar, more current developments in linguistic theory, such as X-bar syntax, Government and Binding, Relational Grammar, etc.", 
+        "number": "5510", 
+        "subject": "LIN", 
+        "title": "Transformational Grammar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

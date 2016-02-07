@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a workshop-style class for upper-class Music Theatre majors, where all the various components of their preceding class work can be integrated. The focus is on Advanced Acting for Music Theatre and Audition Techniques.", 
+        "number": "4006", 
+        "subject": "MUO", 
+        "title": "Music Theatre Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 2110, TPP 2111, MVV 1312, and MVV 2322.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

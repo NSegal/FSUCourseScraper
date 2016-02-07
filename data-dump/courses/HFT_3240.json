@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth examination of the concept of service and the linkages of the three most important functional areas of the firm: marketing, operations, and human resources. The course also addresses the concept of quality.", 
+        "number": "3240", 
+        "subject": "HFT", 
+        "title": "Managing Service Organizations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

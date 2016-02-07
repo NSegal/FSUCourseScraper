@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the concept of force and moment. Two and three-dimensional equilibrium of points, frames, and machines using vector algebra. Principles of friction, centroids, centers of gravity, and area moments of inertia, virtual work, motion and kinematics, force and acceleration.", 
+        "number": "3311", 
+        "subject": "EGN", 
+        "title": "Civil Engineering Mechanics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 3512, MAC 2312, and PHY 2048.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

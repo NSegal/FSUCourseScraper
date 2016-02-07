@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to analysis as a process for informing pubnlic policy making and to two techniques useful in doing policy analysis: b enefit-cost analysis and dynamic modeling. Complements tools acquired in P AD 5327 and 6705.", 
+        "number": "6721", 
+        "subject": "PAD", 
+        "title": "Policy Analysis Research Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5700 and PAD 5701.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

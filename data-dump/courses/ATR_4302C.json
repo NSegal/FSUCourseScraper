@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course trains students in common modalities employed by sports medicine. Where applicable, modalities of treatment will examine biophysical principles, effects of treatment, application techniques, and indications and contraindications to treatment. Safety is emphasized during instruction and practical experience.", 
+        "number": "4302C", 
+        "subject": "ATR", 
+        "title": "Therapeutic Modalities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ATR 1800.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

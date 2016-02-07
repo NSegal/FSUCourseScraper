@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a study of the social and economic development of the Southern states from settlement by Europeans to the end of the Civil War with emphasis on the rise of the Cotton Kingdom and the causes of secession.", 
+        "number": "4402", 
+        "subject": "AMH", 
+        "title": "The Old South"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the major tendencies and representatives of prose fiction, up to the Modernistas and Mundonovista novel and short story.", 
+        "number": "5385", 
+        "subject": "SPW", 
+        "title": "Early and Modern Spanish American Prose Fiction to 1927"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

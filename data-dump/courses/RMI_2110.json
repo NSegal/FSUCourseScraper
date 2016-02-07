@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to personal risk exposures. The course integrates life, health, property, liability, private, and governmental programs.", 
+        "number": "2110", 
+        "subject": "RMI", 
+        "title": "Personal Insurance Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines Islam and its adherents from 1300 CE to the present,\u00a0 concentrating on the last two centuries of Islamic history: the period of reform, renewal, and revolution in the wake of Western political and cultural domination. This course investigates a basic question: What happened to different Muslim communities and intellectuals (specifically those in the Arab world, Iran, Turkey, and Africa) as they responded to the challenges posted by \"Westernization\" and \"modernization?\" Moreover, it explores the relatively new phenomenon of Islam in America.", 
+        "number": "3367", 
+        "subject": "REL", 
+        "title": "Islamic Traditions II: Islam up to the Modern World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

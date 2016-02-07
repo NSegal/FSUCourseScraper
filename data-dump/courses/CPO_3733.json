@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the new democracies of Central Europe after the collapse of communism. Emphasis is placed on democratic development in Poland, Czechoslovakia [sic], Romania, Yugoslavia, and Hungary. Discussion covers the historical process of political institutions of each state, especially the transition to democracy and the obstacles faced by all emerging democracies.", 
+        "number": "3733", 
+        "subject": "CPO", 
+        "title": "Ermerging Democracies of Central Europe"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies how literary texts address questions in medical ethics and public health. Each topic examined is paired with a set of readings that addresses similar concerns in the contemporary setting. May be repeated to a maximum of nine semester hours.", 
+        "number": "3438", 
+        "subject": "LIT", 
+        "title": "Literature and Medicine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses young adult development tasks, college student and adult development theory, and application of theories by student affairs and higher education professionals.", 
+        "number": "5045", 
+        "subject": "EDH", 
+        "title": "Student Development Theories for College Student Personnel Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

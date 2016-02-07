@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the theory of subject access; analysis, evaluation, and comparison of major systems of subject organization including study of PRECIS and the development of an original classification scheme in a subject area of the student's interest.", 
+        "number": "5737", 
+        "subject": "LIS", 
+        "title": "Subject Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

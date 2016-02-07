@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course utilizes a case-based, problem-solving approach to show students how spreadsheets are used to guide decision-making for today's business executives. The course focuses on spreadsheets as tools for statistical analysis, visualization, and modeling.", 
+        "number": "5006", 
+        "subject": "ISM", 
+        "title": "Spreadsheet Applications for Business Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

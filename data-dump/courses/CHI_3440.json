@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops students' Chinese proficiency in the context of business activities that require not only adequate language skills at the intermediate-high level but also adequate knowledge of socio-cultural customs in China. May be repeated when content changes to a maximum of six semester hours.", 
+        "number": "3440", 
+        "subject": "CHI", 
+        "title": "Business Chinese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of readings from the Greek philosophers or religious texts.", 
+        "number": "4500", 
+        "subject": "GRW", 
+        "title": "Greek Philosophical Writings"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

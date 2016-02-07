@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of constraints and options when managing the major elements of marketing strategy, as well as optimizing opportunities, goals, and efficiency.", 
+        "number": "6828", 
+        "subject": "MAR", 
+        "title": "Seminar in Marketing: Elements and Integration of Marketing Strategy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

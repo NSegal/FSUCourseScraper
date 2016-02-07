@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2682)", 
+    "basic": {
+        "class_num": "2682", 
+        "course": "5406", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EDF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:40:00", 
+            "instructors": [
+                "Yanyun Yang"
+            ], 
+            "location": "STB G103", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

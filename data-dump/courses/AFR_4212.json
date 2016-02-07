@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a continuation of AFR 4211.", 
+        "number": "4212", 
+        "subject": "AFR", 
+        "title": "National Security Studies and Preparation for Active Duty II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AFR 4211.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

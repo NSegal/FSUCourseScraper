@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7700", 
+        "subject": "MDX", 
+        "title": "Medical Externship in Anesthesiology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00 - 9.00"
+    }
+}

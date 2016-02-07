@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce the student to Crime Mapping (coordinate tracking of criminal events and GIS) and Crime Analysis (the statistical evaluation of criminal intelligence). The student will work with crime data, coordinate data, UCR data and gathered intelligence, to understand correct force deployment and response to crime, for crime-prevention and solvability. The student is also introduced to serialized crime identification, recognition and response.", 
+        "number": "4072", 
+        "subject": "CCJ", 
+        "title": "Crime Mapping and Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCJ 3073 and CCJ 4710.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

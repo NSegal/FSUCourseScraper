@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students the opportunity to observe private and class piano and musicianship instruction on the preschool and precollege levels.", 
+        "number": "1612", 
+        "subject": "MVK", 
+        "title": "Directed Observation in Piano Pedagogy: Preschool Through Precollege"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

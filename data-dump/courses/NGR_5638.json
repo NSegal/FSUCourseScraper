@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of concepts and skills for advanced risk assessment and the synthesis of knowledge and strategies to promote healthy lifestyles in client populations. Health promotion models and evidence-based strategies are used to design programs to address behavioral and social factors that contribute to morbidity and morality in diverse populations.", 
+        "number": "5638", 
+        "subject": "NGR", 
+        "title": "Health Promotion and Program Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

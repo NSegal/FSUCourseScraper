@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to modern and contemporary Japanese literature through the reading of short novels and plays.", 
+        "number": "4130", 
+        "subject": "JPN", 
+        "title": "Reading Modern Japanese Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: JPN 3202 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of selected issues regarding Florida criminal practice and procedure.", 
+        "number": "7116", 
+        "subject": "LAW", 
+        "title": "Florida Criminal Procedure - Pre-Trial"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 5100.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

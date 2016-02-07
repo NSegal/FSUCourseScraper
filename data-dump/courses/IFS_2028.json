@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role of media in the lives of U.S. children and youth by looking at young people's media use in diverse contexts throughout the U.S. and asking how child and youth identities and cultures are influenced by and co-constructed with media. The course also incorporates practical exercises in applying theory and research to study young people's media practices and to develop media products intended for child and youth audiences.", 
+        "number": "2028", 
+        "subject": "IFS", 
+        "title": "Child and Youth Media Cultures in the U.S."
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Honors or major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

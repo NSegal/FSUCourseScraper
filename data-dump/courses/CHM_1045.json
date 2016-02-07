@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes topics such as chemical symbols, formulas, and equations; states of matter; reactivity in aqueous solution; electronic structure, bonding, and molecular geometry. Students taking CHM 1045 after taking CHM 1020 and/or CHM 1032 may register for reduced credit, as indicated in the department's policy on reduced credit.", 
+        "number": "1045", 
+        "subject": "CHM", 
+        "title": "General Chemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 with a grade of \"C-\" or higher or placement beyond MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the problems and current solutions related to the performance of music before the twentieth century. The approach isa combination of historical and theoretical study combined with practical performance projects.", 
+        "number": "5655", 
+        "subject": "MUH", 
+        "title": "Seminar in Performance Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

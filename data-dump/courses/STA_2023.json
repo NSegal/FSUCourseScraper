@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers statistical applications in business, involving graphical and numerical descriptions of data, data collection, correlation and simple linear regression, elementary probability, random variables, binomial and normal distributions, sampling distributions, and confidence intervals and hypothesis tests for a single sample.", 
+        "number": "2023", 
+        "subject": "STA", 
+        "title": "Fundamental Business Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised field experience in exercise physiology or motor control. May include research, athletic training, or, community fitness projects. May be repeated with permission of the instructor. May be repeated to a maximum of six semester hours with permission of the instructor.", 
+        "number": "4948", 
+        "subject": "PET", 
+        "title": "Practicum in Exercise Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: A 2.75 GPA, ATR 2020 or equivalent, APK 3011C, and instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

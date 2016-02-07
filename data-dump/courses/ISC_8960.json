@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated with instructor permission.", 
+        "number": "8960", 
+        "subject": "ISC", 
+        "title": "PhD Preliminary Exam-MS&E"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

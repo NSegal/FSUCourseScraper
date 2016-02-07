@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies representative films from mainland China, Hong Kong, and Taiwan from diverse critical perspectives and in proper historical contexts. Studies Chinese cinema as both a unique genre of modern arts and a powerful sociopolitical discourse. Taught in English. May be repeated to a maximum of six semester hours.", 
+        "number": "3391", 
+        "subject": "CHT", 
+        "title": "Chinese Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

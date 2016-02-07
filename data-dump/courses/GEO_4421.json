@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the processes by which various cultural features have diffused throughout the world. Emphasis is on the contemporary cultural landscape.", 
+        "number": "4421", 
+        "subject": "GEO", 
+        "title": "Cultural Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

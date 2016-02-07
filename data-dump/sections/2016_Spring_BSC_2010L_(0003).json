@@ -1,0 +1,24 @@
+{
+    "_unique": "0003-LAB (572)", 
+    "basic": {
+        "class_num": "572", 
+        "course": "2010L", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:00:00", 
+            "instructors": [], 
+            "location": "KIN 2069", 
+            "start_time": "14:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

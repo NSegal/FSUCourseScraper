@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys ethical issues from a four-field approach, addressing past and current ethical questions in Archaeology, Cultural Anthropology, Physical Anthropology, and Linguistics. Students are expected to think critically and build their own opinions based on lectures, articles, and class discussions for each topic.", 
+        "number": "4126", 
+        "subject": "IFS", 
+        "title": "Who Owns the Past: Perspectives on Ethics in Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

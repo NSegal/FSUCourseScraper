@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LAB (8499)", 
+    "basic": {
+        "class_num": "8499", 
+        "course": "1341", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "PEL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Ernest Ross"
+            ], 
+            "location": "SST 0101", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Ernest Ross"
+            ], 
+            "location": "SST 0101", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

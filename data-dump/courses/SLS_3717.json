@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides training in various areas related to peer tutoring for both group and individual tutoring and is applicable across disciplines. Course content is analyzed through the exploration of contemporary theory, group activities, readings, lectures, class discussions and online assignments. Critical inquiry, tutoring 'best practices', and service learning play important roles.", 
+        "number": "3717", 
+        "subject": "SLS", 
+        "title": "Peer Tutoring"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

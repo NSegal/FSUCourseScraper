@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an advanced treatment of real estate valuation analysis. This includes a description of valuation procedures, identification of hightest and best use, application of real property valuation methods, and\u00a0 emerging topics of special interest.", 
+        "number": "5105", 
+        "subject": "REE", 
+        "title": "Real Estate Valuation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers stochastic algorithms, linear programming, optimization techniques, clustering and feature extraction presented in the context of science problems.\u00a0 The laboratory component includes algorithm implementation for simple problems in the sciences and applying visualization software for interpretation of results.", 
+        "number": "4221C", 
+        "subject": "ISC", 
+        "title": "Algorithms for Science Applications II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 3222 and MAC 2312. Corequisite: ISC 4304C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

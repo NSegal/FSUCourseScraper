@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course allows students the opportunity to develop a professional portfolio format in hardcopy and digital media.", 
+        "number": "3529", 
+        "subject": "IND", 
+        "title": "Portfolio Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 4218.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

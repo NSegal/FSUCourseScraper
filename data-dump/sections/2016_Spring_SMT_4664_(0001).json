@@ -1,0 +1,24 @@
+{
+    "_unique": "0001-DSC (9432)", 
+    "basic": {
+        "class_num": "9432", 
+        "course": "4664", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SMT", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [], 
+            "location": "MCH 0423", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

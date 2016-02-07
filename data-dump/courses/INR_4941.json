@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship places students in approved agencies and organizations. Designed to provide practical experience in the area of international affairs. May be repeated to a maximum of six semester hours.", 
+        "number": "4941", 
+        "subject": "INR", 
+        "title": "Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Fifteen semester hours beyond liberal studies, a minimum cumulative GPA 3.0, and instructor permission one semester in advance.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

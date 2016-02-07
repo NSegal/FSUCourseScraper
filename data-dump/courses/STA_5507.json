@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on applications of nonparametric tests, estimates, confidence intervals, multiple comparison procedures, multivariate nonparametric methods, and nonparametric methods for censored data.", 
+        "number": "5507", 
+        "subject": "STA", 
+        "title": "Applied Nonparametric Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A course in statistics above STA 1013 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

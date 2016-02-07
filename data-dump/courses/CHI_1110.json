@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces beginners to basic conversational Chinese, enabling them to develop interpretive and communicative skills in Chinese at the elementary level and grasp rudimentary knowledge of social customs and cultural practices in Chinese-speaking communities.", 
+        "number": "1110", 
+        "subject": "CHI", 
+        "title": "Elementary Conversational Chinese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

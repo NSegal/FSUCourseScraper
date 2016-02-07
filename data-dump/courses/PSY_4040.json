@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the neural basis of emotion, including how the brain analyzes incoming sensory information, categorizes its motivational value, and initiates an ecologically appropriate response. The course also covers cognition-emotion interaction, abnormal emotional processing, and basic topics in cognitive neuroscience.", 
+        "number": "4040", 
+        "subject": "PSY", 
+        "title": "Affective Neuroscience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012, a cognitive course, a neuroscience course, or Junior/Senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

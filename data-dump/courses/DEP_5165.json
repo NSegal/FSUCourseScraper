@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the development of children's cognitive and social behavior from infancy to the beginning of adolescence.", 
+        "number": "5165", 
+        "subject": "DEP", 
+        "title": "Developmental Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

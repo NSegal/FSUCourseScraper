@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the application of concepts in public administration literature to actual managaement problems. Such concepts include diagnosis of decision situation, collection of relevant data, development of alternative solutions, recommendation of proposed course of action. Students must submit formal, written proposal one semester prior to registration.", 
+        "number": "6908", 
+        "subject": "PAD", 
+        "title": "Action Report"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: All prior required MPA coursework and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

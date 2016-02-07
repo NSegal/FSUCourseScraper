@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the physiological effects of acute and chronic physical exercise.", 
+        "number": "5111C", 
+        "subject": "APK", 
+        "title": "Advanced Exercise Physiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

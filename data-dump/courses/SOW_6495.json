@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course familiarizes the student with the philosophy and methodology of designing and conducting systematic reviews of research relevant to social work. Topics include the selection and review of published research articles, methodological issues unique to particular problems and diverse populations, and the synthesis of literature in students' areas of specialization.", 
+        "number": "6495", 
+        "subject": "SOW", 
+        "title": "Systematic Reviews in Social Work Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

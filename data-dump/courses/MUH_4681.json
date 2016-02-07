@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to gain basic research experience in music history.", 
+        "number": "4681", 
+        "subject": "MUH", 
+        "title": "Senior Seminar in Music History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUH 4680.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

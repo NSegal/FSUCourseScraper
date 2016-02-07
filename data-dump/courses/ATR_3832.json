@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers a study of the cognitive, affective, and motor skills required to perform athletic-training techniques in practice settings. Techniques reflect those presented in the lecture and laboratory courses taken the previous semester.", 
+        "number": "3832", 
+        "subject": "ATR", 
+        "title": "Athletic Training Clinical III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 2820.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

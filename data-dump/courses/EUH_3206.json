@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers European history from the turn of the century through the two world wars. Particular attention is paid to the major powers in this period when Europe declined from its preeminent position.", 
+        "number": "3206", 
+        "subject": "EUH", 
+        "title": "20th-Century Europe: A Survey"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course explores marine mammals such as cetaceans, pinnipeds, sirenians, and sea otters from the point of view of their biology and ecology. More specifically, the course offers an overview of the evolution, taxonomy, anatomy, and physiology of marine mammals, as well as an in-depth examination of their acoustics, ecology, and behavior. Course lecture is accompanied by discussions of the current specific literature.", 
+        "number": "2302", 
+        "subject": "OCB", 
+        "title": "Biology of Marine Mammals"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BSC 1005.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

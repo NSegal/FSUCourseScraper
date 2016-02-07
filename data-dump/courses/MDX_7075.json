@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a two or four week experience designed to provide students with an intense exposure to the practice of medicine in international settings where the physicians and other health care providers provide care. Students are also encouraged to compare the total health care system of the country(ies) to the United States.", 
+        "number": "7075", 
+        "subject": "MDX", 
+        "title": "International Health Externship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

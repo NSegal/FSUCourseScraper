@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a study of the primary stylistic traits of Western European opera as composed in the Romantic era (circa 1800-1900) by major composers in the genre.", 
+        "number": "5678", 
+        "subject": "MUL", 
+        "title": "Seminar in Opera Literature: 19th Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

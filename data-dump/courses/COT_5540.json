@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines syntax, semantics, and proof theory of propositional\u00a0 logic and first order languages; prenex normal form; Gentzen systems; resolution for propositional logic; elements of PROLOG and program verification.", 
+        "number": "5540", 
+        "subject": "COT", 
+        "title": "Logic for Computer Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COT 4420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

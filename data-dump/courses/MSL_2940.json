@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of an intensive internship conducted at Fort Knox, Kentucky, for four weeks. Designed as an alternative to meet requirements for entrance into the upper division of Military Science for students who have not completed introductory level coursework.", 
+        "number": "2940", 
+        "subject": "MSL", 
+        "title": "Basic Field Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Must pass the Army Physical Fitness Test (APFT) and have earned at least fifty-four semester hours at FSU with a GPA of 2.0.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the basic principles of behavior and exposes students to settings where techniques based on learning theory can be used therapeutically.", 
+        "number": "3703", 
+        "subject": "EAB", 
+        "title": "Applied Behavior Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

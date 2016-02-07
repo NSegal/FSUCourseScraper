@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses central theories and topics in developmental psychology across the life span, focusing especially on the implications of developmental theory and empirical research on counseling and other helping professions.", 
+        "number": "5068", 
+        "subject": "DEP", 
+        "title": "Life-Span Human Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

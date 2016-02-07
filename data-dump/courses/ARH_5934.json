@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses intensive readings and discussion within a small group centered upon a specific topic or research problem in classical archaeology. May be repeated when topics vary to a maximum of nine semester hours.", 
+        "number": "5934", 
+        "subject": "ARH", 
+        "title": "Tutorial in Classical Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

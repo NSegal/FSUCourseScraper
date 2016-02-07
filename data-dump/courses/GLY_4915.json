@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes projects in the Earth, Ocean, and Atmospheric Science department arranged in advance between the student and a member of the teaching faculty of the department. May be repeated to a maximum of nine semester hours.", 
+        "number": "4915", 
+        "subject": "GLY", 
+        "title": "Undergraduate Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 9.00"
+    }
+}

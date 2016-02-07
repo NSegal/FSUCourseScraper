@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the staging practices and dramatic literature from the 19th century to the present. Specific units in the course include Romanticism, melodrama, the rise of realism, avant-garde theatre movements (both American and European), European innovations 1960s-1990s, and contemporary\u00a0\u00a0 dramatic theory.", 
+        "number": "3214", 
+        "subject": "THE", 
+        "title": "World Theatre History II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced seminar in selected special topics relating to environmental policy and resource management issues. Content varies. May be repeated to a maximum of six semester hours.", 
+        "number": "5429", 
+        "subject": "URP", 
+        "title": "Special Topics in Environmental Planning and Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

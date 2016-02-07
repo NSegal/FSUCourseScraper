@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introductory survey of various musical traditions in a global perspective, exploring music both as a phenomenon of sound and as a phenomenon of culture. Students analyze tradition as a constantly evolving and transformative entity that nurtures and sustains core cultural values. The social context of music, including social structure, geography, globalization, mass mediation, concepts of religion, instruments, aesthetic priorities, and cultural beliefs that inform music within given cultural contexts is emphasized.", 
+        "number": "2051", 
+        "subject": "MUH", 
+        "title": "Music in World Cultures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

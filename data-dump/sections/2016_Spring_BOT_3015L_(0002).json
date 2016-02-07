@@ -1,0 +1,24 @@
+{
+    "_unique": "0002-LAB (512)", 
+    "basic": {
+        "class_num": "512", 
+        "course": "3015L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "BOT", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "19:00:00", 
+            "instructors": [], 
+            "location": "KIN 2069", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "_unique": "0012-LAB (10727)", 
+    "basic": {
+        "class_num": "10727", 
+        "course": "1111", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Closed", 
+        "subject": "MVK", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:00:00", 
+            "instructors": [], 
+            "location": "CAW 0023", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:00:00", 
+            "instructors": [], 
+            "location": "CAW 0023", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

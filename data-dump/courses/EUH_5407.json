@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the Greek world from the death of Socrates (399 B.C.) to the Roman conquest (146 B.C., the sack of Corinth by Mummius).", 
+        "number": "5407", 
+        "subject": "EUH", 
+        "title": "Hellenistic Greece"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

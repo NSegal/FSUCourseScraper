@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the physics and mathematics associated with successful stage structure design. Students study and apply concepts of static engineering, physical science, and material strength in the development of scenic elements.", 
+        "number": "4302", 
+        "subject": "TPA", 
+        "title": "Structural Design for the Stage I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 2201 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

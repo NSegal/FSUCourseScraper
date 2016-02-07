@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to planning as a collective decision-making tool, and introduces the concepts of efficiency, equity, and environmental quality as competing bases for public decisions. The course examines tools for contributing to public decisions in varying circumstances, including unitary and diverse decision makers, certain and uncertain environments, and simple and complex goals.", 
+        "number": "4022", 
+        "subject": "URP", 
+        "title": "Collective Decision Making"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

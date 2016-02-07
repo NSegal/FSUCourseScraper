@@ -1,0 +1,26 @@
+{
+    "_unique": "0014-DSC (802)", 
+    "basic": {
+        "class_num": "802", 
+        "course": "5932", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Open", 
+        "subject": "BSC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Debra Fadool"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

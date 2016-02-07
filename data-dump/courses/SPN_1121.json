@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes oral communication and grammatical expertise, as well as listening comprehension. Students read short texts, poems, and write compositions in Spanish. May not be taken concurrently with SPN 1120, 1124, and/or 2220 or be taken by native speakers.", 
+        "number": "1121", 
+        "subject": "SPN", 
+        "title": "Elementary Spanish II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPN 1120 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

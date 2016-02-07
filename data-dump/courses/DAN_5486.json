@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course combines hands-on experience with reading, discussion, and critique to develop technical skills and aesthetic awareness related to the documentation of concert dance. The course requires a significant research paper on current practices in dance documentation and a directing project for a dance concert documentation.", 
+        "number": "5486", 
+        "subject": "DAN", 
+        "title": "Documentation Techniques"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 4418.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

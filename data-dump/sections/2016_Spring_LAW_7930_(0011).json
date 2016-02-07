@@ -1,0 +1,37 @@
+{
+    "_unique": "0011-LEC (4726)", 
+    "basic": {
+        "class_num": "4726", 
+        "course": "7930", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:52:00", 
+            "instructors": [
+                "Steve Johnson"
+            ], 
+            "location": "LSR R0107", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:52:00", 
+            "instructors": [
+                "Steve Johnson"
+            ], 
+            "location": "LSR R0107", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

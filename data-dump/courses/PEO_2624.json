@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies teaching and coaching techniques in basketball including current trends and offensive and defensive systems.", 
+        "number": "2624", 
+        "subject": "PEO", 
+        "title": "Theory and Practice of Basketball"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers classical equilibrium thermodynamics; first and second law, entropy, phase changes, potentials. Physics of moist air; physics of aerosols; condensation of water vapor on aerosols. Microphysics and dynamics of clouds; growth of ice crystals.", 
+        "number": "4420", 
+        "subject": "MET", 
+        "title": "Atmospheric Physics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 (\"C-\"or better), MET 2700 (\"C\" or better), PHY 2048C (\"C-\" or better), and PHY 2049C (\"C-\" or better).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

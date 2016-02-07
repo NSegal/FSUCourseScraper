@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers Java basics, a review of structured and object-oriented programming concepts, classes, constructors, interfaces, exceptions, I/O, graphics concepts, jar files, compilation, virtual machines, applications, applets, APIs, HTML, XML, and XHTML.", 
+        "number": "3416", 
+        "subject": "CGS", 
+        "title": "Java Programming for Non-Specialists"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

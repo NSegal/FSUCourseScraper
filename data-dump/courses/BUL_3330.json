@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The course surveys basic concepts of law as applied to the accounting profession, including contracts, agencies, partnerships and corporations, property, wills and trusts, securities regulation, consumer protection, and antitrust. Students may not receive credit for both BUL 3310 and BUL 3330.", 
+        "number": "3330", 
+        "subject": "BUL", 
+        "title": "Law for Accountancy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

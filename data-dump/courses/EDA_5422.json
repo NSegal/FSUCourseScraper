@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides participants with skills and knowledge in using the results of screening, diagnosis, process monitoring and outcome reading assessments to guide instructional decision-making in grades K-12, as described in Florida's Reading Program Specification 3.3 and 3.4. Topics include differentiating reading instruction, flexible grouping and assessment-driven intervention, including the selection of core and supplemental reading programs and appropriate instructional strategies.", 
+        "number": "5422", 
+        "subject": "EDA", 
+        "title": "Applied Data Analysis and Assessment for Educational Leaders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

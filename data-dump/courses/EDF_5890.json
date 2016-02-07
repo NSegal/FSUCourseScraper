@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically reviews theories and research on the role of educational innovation in the development process.", 
+        "number": "5890", 
+        "subject": "EDF", 
+        "title": "Sociology of Nontraditional Approaches and Innovation in Education and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

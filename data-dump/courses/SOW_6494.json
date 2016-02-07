@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Students in this course develop a more sophisticated understanding of the research enterprise. The course focuses on developing specific advanced competencies in conceptualization, sampling, design, measurement, data collection, and data analysis. Students also identify practical and ethical dilemmas common in research, especially as they relate to membership in vulnerable populations.", 
+        "number": "6494", 
+        "subject": "SOW", 
+        "title": "Advanced Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

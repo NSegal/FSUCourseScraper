@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a \"professional experience\" course designed to give students professional production experience in an educational environment. Students act as the production crew on program features. This includes videography, editing, audio, and graphic design.", 
+        "number": "4682", 
+        "subject": "RTV", 
+        "title": "Advanced Feature Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RTV 3531 and RTV 3571; or RTV 3533.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

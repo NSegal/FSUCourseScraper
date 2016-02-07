@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on tourism management, organization, and development. Emphasis on economic and environmental issues confronting the industry such as balancing use and preservation. Open to nonmajors.", 
+        "number": "3700", 
+        "subject": "HFT", 
+        "title": "Tourism Management and the Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

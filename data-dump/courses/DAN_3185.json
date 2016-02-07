@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines how cultural and artistic expression can both integrate and divide different groups of people along lines of race, gender, and class using African-American dance as the central focus.", 
+        "number": "3185", 
+        "subject": "DAN", 
+        "title": "African-American Perspectives on Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

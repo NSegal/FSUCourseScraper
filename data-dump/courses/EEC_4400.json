@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the need and importance of parental involvement in the education of young children. Includes strategies for promoting home/school interactions.", 
+        "number": "4400", 
+        "subject": "EEC", 
+        "title": "Parents as Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to concepts of CG lighting and rendering to enhance original animations and visual effects. The course also addresses basic lighting theory needed to create virtual lighting effects. May be repeated to a maximum of six semester hours.", 
+        "number": "3702L", 
+        "subject": "FIL", 
+        "title": "Lighting, Texturing, and Rendering I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2730 and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

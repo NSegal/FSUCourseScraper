@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-DDF (3570)", 
+    "basic": {
+        "class_num": "3570", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Virgilio Suarez"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

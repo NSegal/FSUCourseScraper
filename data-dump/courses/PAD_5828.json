@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the fundamental concepts, theories, principles and practices in emergency management relationships with NGOs and non-profit organizations.", 
+        "number": "5828", 
+        "subject": "PAD", 
+        "title": "The Third Sector: Non-Profits, Non-Governmental Organizations, and Disaster"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

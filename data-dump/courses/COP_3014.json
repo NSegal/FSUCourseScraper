@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental concepts and skills of programming in a high-level language. Flow of control: sequence, selection, iteration, subprograms. Data structures: arrays, strings, structs, ADT lists and tables. Algorithms using selection and iteration (decision making, finding maxima and minima, basic searching and sorting, simulation, etc.). Good program design using a procedural paradigm, structure, and style are emphasized. Interactive and file IO. Testing and debugging techniques. Intended primarily for computer science or computer engineering majors, or anyone who is required to take COP 3330.", 
+        "number": "3014", 
+        "subject": "COP", 
+        "title": "Programming I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC1140.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

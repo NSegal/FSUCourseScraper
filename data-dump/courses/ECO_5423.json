@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers extensions of the classical regression model. Topics include nonlinear least squares, instrumental variables estimation, and generalized least squares.", 
+        "number": "5423", 
+        "subject": "ECO", 
+        "title": "Econometrics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5416 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

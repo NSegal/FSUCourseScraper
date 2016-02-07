@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-OTH (9987)", 
+    "basic": {
+        "class_num": "9987", 
+        "course": "2248", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "TPA", 
+        "type": "OTH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Sarah Jahnke"
+            ], 
+            "location": "TBA", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

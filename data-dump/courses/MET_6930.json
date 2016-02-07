@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers reports and discussions of meteorological research. Doctoral candidates give an oral presentation of their prospectus or dissertation. A minimum of two semester hours is required.", 
+        "number": "6930", 
+        "subject": "MET", 
+        "title": "Doctoral Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

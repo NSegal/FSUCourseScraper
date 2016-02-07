@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (10968)", 
+    "basic": {
+        "class_num": "10968", 
+        "course": "5698", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "POS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "Steven Vancore"
+            ], 
+            "location": "BEL 0115", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

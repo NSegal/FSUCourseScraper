@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the relationships between art and electronic media in the 20th and 21st centuries. The course focuses on the shift from industrial to information-driven economies, the curriculum outlines digital arts historical trajectory, from the invention of photography to recent digital tools. Special attention is given to film, gaming, 3D printing, architecture and interdisciplinary art practices.", 
+        "number": "3651", 
+        "subject": "ART", 
+        "title": "Art and Electronic Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C, ART 1300C, and ART 1602C", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

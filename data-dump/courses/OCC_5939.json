@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of weekly meetings for reports and discussions of recent chemical oceanographic research within and outside of the department. May be repeated to a maximum of ten semester hours.", 
+        "number": "5939", 
+        "subject": "OCC", 
+        "title": "Chemical Oceanography Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

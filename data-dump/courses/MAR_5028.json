@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the basics of marketing as a business discipline. It covers a wide variety of topics relevant to the task of managing resources to achieve marketing goals. Successful completion requires learning the vocabulary and concepts which characterize the marketing field and applying them to the development of a marketing strategy. Cannot be applied for credit for any graduate business degree.", 
+        "number": "5028", 
+        "subject": "MAR", 
+        "title": "Fundamentals of Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

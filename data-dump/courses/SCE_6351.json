@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides opportunities to learn and apply the principles of curriculum design, implementation, and evaluation in science. The course emphasizes analysis of implemented science curricula in terms of philosophical and psychological models, the roles of teachers and students and external forces.", 
+        "number": "6351", 
+        "subject": "SCE", 
+        "title": "Curriculum Design in Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

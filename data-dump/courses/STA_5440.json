@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics such as random variables, probability of random variables, generating functions, central limit theorem, laws of large numbers.", 
+        "number": "5440", 
+        "subject": "STA", 
+        "title": "Introductory Probability I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

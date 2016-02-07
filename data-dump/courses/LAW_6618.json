@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the federal income taxation of corporations, partnerships and limited liability companies. Topics covered will include choosing the appropriate entity, formation of the entity, operation anddistribution, sales of interests, and liquidation. Tax-free reorganization s and other similar transactions are covered in this course.", 
+        "number": "6618", 
+        "subject": "LAW", 
+        "title": "Taxation of Business Entities"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

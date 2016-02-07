@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the historical development of American protestant thought by examining the writings of influential American protestant thinkers from different time periods, and by considering the social and intellectual forces that influenced their differing conceptions of Christan life.", 
+        "number": "3541", 
+        "subject": "REL", 
+        "title": "American Protestant Thought in Historical Context"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

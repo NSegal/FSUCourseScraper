@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to develop fluency in conversation skills at the fourth-year level by means of extensive vocabulary building and practice.", 
+        "number": "4410", 
+        "subject": "ITA", 
+        "title": "Advanced Italian Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ITA 2240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

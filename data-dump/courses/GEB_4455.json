@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an examination of the free enterprise system and the associated economic schools of thought. Sponsored by the BB&T Center for Free Enterprise.", 
+        "number": "4455", 
+        "subject": "GEB", 
+        "title": "Perspectives on Free Enterprise"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIN 3244 and FIN 3403.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

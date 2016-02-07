@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course concentrates on the urban theory component of urban and regional theory, referring to the patterns and processes of development within cities. An emphasis is placed on the theories of human ecology, economics, and geography, and the translation of these theories into a planning perspective.", 
+        "number": "6846", 
+        "subject": "URP", 
+        "title": "Seminar in Urban Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5847.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

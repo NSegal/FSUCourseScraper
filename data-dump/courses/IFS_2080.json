@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the sustainability of the National Parks of the United States; their geographic distribution, physical structure, economic management, and cultural recreation.", 
+        "number": "2080", 
+        "subject": "IFS", 
+        "title": "Glaciers, Geysers, and Glades: Exploring U.S. National Parks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

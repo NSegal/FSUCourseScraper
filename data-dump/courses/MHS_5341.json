@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines contemporary career interventions and strategies for program development and implementation.", 
+        "number": "5341", 
+        "subject": "MHS", 
+        "title": "Career Development Program Design and Evaluation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

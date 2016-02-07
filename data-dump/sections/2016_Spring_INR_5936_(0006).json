@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-LEC (13167)", 
+    "basic": {
+        "class_num": "13167", 
+        "course": "5936", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "INR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "Mark Schlakman"
+            ], 
+            "location": "HCB 0215", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

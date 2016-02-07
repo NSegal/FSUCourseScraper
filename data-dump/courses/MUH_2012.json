@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys music literature and composers of the 19th and 20th centuries. The course explores music and its relation to the other arts, the historical events of the times, and the milieu in which the music literature was created. For non-music majors. Meets liberal studies requirements.", 
+        "number": "2012", 
+        "subject": "MUH", 
+        "title": "Music in Western Culture, 19th and 20th Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

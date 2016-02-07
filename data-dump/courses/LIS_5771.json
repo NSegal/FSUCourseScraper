@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the scope and problems of the administrative management of records. Emphasis on the importance of managing and controlling records from the time of their creation until their vital disposition.", 
+        "number": "5771", 
+        "subject": "LIS", 
+        "title": "Information and Image Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

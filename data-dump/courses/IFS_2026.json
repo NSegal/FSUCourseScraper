@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This interdisciplinary course in environmental history explores numerous diverse perspectives of the environment: history, ethics, literature, art, and, of course, science. The course asks, \"What is the relationship between humans and the natural world?\" and explores how nature has helped to shape culture as well as how humans have modified the natural world and transformed the land in the process of extracting resources, building structures, producing pollution, and importing exotic species.", 
+        "number": "2026", 
+        "subject": "IFS", 
+        "title": "Environment and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

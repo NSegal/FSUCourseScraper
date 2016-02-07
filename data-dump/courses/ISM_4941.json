@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with learning opportunities in the organizational management information systems environments beyond those available in existing MIS courses. No more than three credit hours allowed in a semester. May be repeated to a maximum of six semester hours.", 
+        "number": "4941", 
+        "subject": "ISM", 
+        "title": "Field Study in Management Information Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

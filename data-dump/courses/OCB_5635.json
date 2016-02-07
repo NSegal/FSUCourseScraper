@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses selected topics in coastal ocean ecology with emphasis on changes caused by anthropogenic activities. The lectures address key\u00a0 physical, chemical and biological processes, including coastal upwelling, cycling of matter, hypoxia, and biological diversity changes. The course format includes student presentation, readings, and class discussions.", 
+        "number": "5635", 
+        "subject": "OCB", 
+        "title": "Selected Topics in Coastal Ocean Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: OCC 5050, OCG 5051, and OCP 5050.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

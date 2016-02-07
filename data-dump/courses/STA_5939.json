@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course consists of the formulation of statistical problems from client information, the analysis of complex data sets by computer, practical consulting experience.", 
+        "number": "5939", 
+        "subject": "STA", 
+        "title": "Introduction to Statistical Consulting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5167 or STA 5327, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

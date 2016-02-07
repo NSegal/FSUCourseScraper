@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on basic principles of music theory and their application to graduate study in music.", 
+        "number": "5151", 
+        "subject": "MUT", 
+        "title": "Introduction to Graduate Study in Music Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

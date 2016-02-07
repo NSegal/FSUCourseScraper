@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines continued development of tuning skills.", 
+        "number": "4212", 
+        "subject": "MUM", 
+        "title": "Applied Piano Tuning III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4211.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

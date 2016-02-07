@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the fundamental elements of design including spot, line, shape, and color while relating these elements to theatrical production design.", 
+        "number": "2000", 
+        "subject": "TPA", 
+        "title": "Introduction to Theatrical Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

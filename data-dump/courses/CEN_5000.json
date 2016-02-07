@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of techniques and tools representing the transition from database management to knowledge management; database architecture and models; fuzzy databases; construction of knowledge bases.", 
+        "number": "5000", 
+        "subject": "CEN", 
+        "title": "Knowledge Management and Data Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 5710.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

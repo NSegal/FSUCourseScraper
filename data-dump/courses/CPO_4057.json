@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to scholarly writing on violent political conflict. Reviews theories of guerilla struggle and counter-insurgency, as well as the philosophy of non-violent direct action and several theories of conflict resolution. Course also explores the human costs of political violence.", 
+        "number": "4057", 
+        "subject": "CPO", 
+        "title": "Political Violence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This interdisciplinary course is designed for students who are not necessarily intent on becoming computer programmers, but are interested in understanding the principles that govern object-oriented programming and software development in order to assist with problem solving in their own disciplines.", 
+        "number": "2258", 
+        "subject": "COP", 
+        "title": "Problem Solving with Object Oriented Programming"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

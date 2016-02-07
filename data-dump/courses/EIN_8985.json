@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "8985", 
+        "subject": "EIN", 
+        "title": "Dissertation Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Dissertation Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Doctoral candidate standing.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

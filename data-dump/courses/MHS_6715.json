@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the conceptualization of counseling problems in researchable terms; critical review of published counseling research.", 
+        "number": "6715", 
+        "subject": "MHS", 
+        "title": "Design and Critical Review of Research in Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

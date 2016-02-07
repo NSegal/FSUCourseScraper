@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course represents a study of various contemporary social problems in an urbanized society, which may include such topics as education, the family, politics, the economy, race relations, drug use and alcoholism, over-population, and other issues.", 
+        "number": "2010", 
+        "subject": "SYG", 
+        "title": "Social Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a working knowledge of the specialized concepts and vocabulary pertaining to entertainment-related forms of intellectual property and the contractual relationships necessary to finance, create, and license various forms of entertainment.", 
+        "number": "4653", 
+        "subject": "FIL", 
+        "title": "Film Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

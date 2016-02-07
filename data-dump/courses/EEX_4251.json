@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, instructional methods and curriculum to teach mathematics to students with disabilities are examined.", 
+        "number": "4251", 
+        "subject": "EEX", 
+        "title": "Teaching Mathematics to Learners with Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

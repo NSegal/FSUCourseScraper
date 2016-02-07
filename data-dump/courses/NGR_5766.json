@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines leadership theories within the context of organizational culture. Students analyze traditional and transformational leadership models and their effects on healthcare environments. Emphasis is placed on the health politics in the workplace, organization, government, and community as well as on social policy, power, and political behaviors. The course also explores professional attributes and requisites for the next generation of advanced-practice nursing leaders within the evolving healthcare system.", 
+        "number": "5766", 
+        "subject": "NGR", 
+        "title": "Nursing Leadership within Complex Healthcare Environments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6895.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

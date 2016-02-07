@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of participant observation of the administration of public policy in governmental organizations. Faculty supervision, on-campus seminars, discussion papers.", 
+        "number": "5946", 
+        "subject": "PAD", 
+        "title": "Public Service Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

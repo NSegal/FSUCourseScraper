@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (1269)", 
+    "basic": {
+        "class_num": "1269", 
+        "course": "2202L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "CEG", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Ryan Doczy"
+            ], 
+            "location": "CE2 B0114", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

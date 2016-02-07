@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the development of American librarianship from colonial times to the present, with special reference to the relationship of library institutions to their contemporary social, economic, and political environments.", 
+        "number": "5113", 
+        "subject": "LIS", 
+        "title": "History of American Librarianship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

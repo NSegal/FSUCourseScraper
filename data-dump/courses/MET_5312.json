@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers scale analysis of the vorticity, divergence, and omega equations; quasi-geostrophic quasi-nondivergent systems; synoptic development of baroclinic disturbances; linear perturbations; sound, gravity, Rossby waves. Baroclinic instability; the two-level model; numerical weather prediction.", 
+        "number": "5312", 
+        "subject": "MET", 
+        "title": "Advanced Dynamic Meteorology II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 5311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

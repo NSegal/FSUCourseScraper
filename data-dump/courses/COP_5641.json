@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers internals of the Linux operating system kernel, including virtual and physical memory management, scheduling, and device drivers. Focus is also placed on kernel modules, hardward interfaces, char and block devices, kernel debugging, interrupt handling, and memory mapping. Laboratory exercises include modifying example modules and project developing a new device driver.", 
+        "number": "5641", 
+        "subject": "COP", 
+        "title": "Kernel and Device Driver Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: COP 4610 and COP 5570, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

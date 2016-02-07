@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the development of life sciences from 1750 to the present. It introduces students to critical problems related to biology and society through the study of primary and secondary sources.", 
+        "number": "6500", 
+        "subject": "HIS", 
+        "title": "History of Life Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

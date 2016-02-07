@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies guitar literature from the Classic Period to the present.", 
+        "number": "4431", 
+        "subject": "MUL", 
+        "title": "Guitar Literature II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

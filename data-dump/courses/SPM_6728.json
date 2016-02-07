@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an in-depth analysis of the aspects of law encountered in the contemporary practice and business of sport. The course allows students to gain expertise in the practice of sport (negligence, intentional torts, and product liability) and the business of sport (contract, business organizations, employment, labor law, antitrust, intellectual property, sales, and taxes). Civil rights, federal and state statutes, sexual harassment and risk management are also addressed. Students select two topics for in-depth analysis.", 
+        "number": "6728", 
+        "subject": "SPM", 
+        "title": "Advanced Law in Sport and Physical Activity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

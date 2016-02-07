@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students from any discipline with an integrated interdisciplinary learning experience. The course is taught by instructors from at least two different departments and/or colleges. Topics vary. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "5938", 
+        "subject": "HUM", 
+        "title": "Interdisciplinary Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

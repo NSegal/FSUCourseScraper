@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers composition, extent, properties, cloud forms, general circulation; geophysics of the planets; theoretical deductions; implications for general circulation on Earth.", 
+        "number": "5471", 
+        "subject": "MET", 
+        "title": "Satellite Remote Sensing of Planetary Atmospheres"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 4450; MET 4302 or MET 5312, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

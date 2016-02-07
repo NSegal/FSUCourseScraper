@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey, covering strategic practices and problems in human resource management. Topics include job analysis, selection, training, compensation, and other employee rights.", 
+        "number": "5305", 
+        "subject": "MAN", 
+        "title": "Personnel/Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

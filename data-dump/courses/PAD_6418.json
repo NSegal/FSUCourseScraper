@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on theory and critical issues involved in human resource management including historical evolution, representativeness of bureaucracy, civil service reform, compensation systems, and executive personnel. Review of literature for preliminary exams; development of publishable papers.", 
+        "number": "6418", 
+        "subject": "PAD", 
+        "title": "Seminar: Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5417 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

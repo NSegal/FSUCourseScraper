@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar is an in-depth exploration of current theoretical and methodological topics in American archaeology. The aim is to develop a critical assessment and understanding of underlying principles and assumptions in the field of archaeology.", 
+        "number": "5110", 
+        "subject": "ANG", 
+        "title": "Seminar in Archaeological Method and Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

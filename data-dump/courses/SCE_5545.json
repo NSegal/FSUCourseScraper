@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the implications of \"science for all,\" with a particular emphasis on the interactions of students' culture and the culture of science. This examination is followed by a description of instructional congruence and its role in helping all students move toward scientific literacy. The course culminates with the identification of practices that allow for cultural congruence and the application of these practices in the design and enactment of an instructionally congruent unit of science teaching.", 
+        "number": "5545", 
+        "subject": "SCE", 
+        "title": "Teaching Science in Diverse Classrooms"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

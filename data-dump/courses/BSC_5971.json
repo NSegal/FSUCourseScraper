@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "After a graduate student meets minimum requirements and is working on thesis research, registration for Thesis is required. A minimum of six semester hours of credit must be earned.", 
+        "number": "5971", 
+        "subject": "BSC", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

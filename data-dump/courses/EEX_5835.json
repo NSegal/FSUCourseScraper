@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "The course provides experience developing, implementing, and evaluating functional and academic intervention programs for K-12 learners with high incidence disabilities.\u00a0 Additional content includes designing, implementing, and evaluating large and small group activities; evaluating learning environments; and working with a team of professionals and instructional assistants.", 
+        "number": "5835", 
+        "subject": "EEX", 
+        "title": "Practicum with Learners with High Incidence Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

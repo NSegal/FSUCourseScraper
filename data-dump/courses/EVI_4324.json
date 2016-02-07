@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course prepares participants in the Visual Disabilities course of studies in the assessment and use of assistive technology for students with visual impairments.", 
+        "number": "4324", 
+        "subject": "EVI", 
+        "title": "Assistive Technology for Students with Visual Impairments in the Schools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: EVI 4211. Corequisite: EVI 4314 or EVI 5316.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

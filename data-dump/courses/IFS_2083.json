@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores how languages are born, the ways and reasons why they change, and the limits of language learning and teaching. The course also examines the factors leading to language loss and language death, the reasons why we, as global citizens, should care, and how language specialists and activists attempt to bring dying languages back to life.", 
+        "number": "2083", 
+        "subject": "IFS", 
+        "title": "Language Birth, Language Death"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

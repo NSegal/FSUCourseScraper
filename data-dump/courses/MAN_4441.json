@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on negotiation and conflict management in business and other organizational settings. The emphasis is on gaining an understanding of the negotiation process and strategies and developing effective negotiation and conflict management skills.", 
+        "number": "4441", 
+        "subject": "MAN", 
+        "title": "Negotiation and Conflict Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

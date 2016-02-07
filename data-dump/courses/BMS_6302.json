@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course builds upon the principles learned in BMS 6302 and covers infectious diseases in organ sytsems in detail. The biological characteristics and pathologic mechanisms of infectious bacteria, viruses, fungi, and parasites are covered. Functional and clinical implications are presented in the form of relevant clinical examples.", 
+        "number": "6302", 
+        "subject": "BMS", 
+        "title": "Medical Microbiology 202"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "BMS6301,P,Y,**", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

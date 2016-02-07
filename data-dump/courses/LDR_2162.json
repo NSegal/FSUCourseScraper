@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to inspire, teach, and engage students in the process of learning leadership within the context of working with groups and communities. This course helps students develop the skills necessary in order to be effective in the leadership process and to practice these skills within their community. The course is highly interactive, with student participation and outside class involvement as critical components to the\u00a0 learning process.", 
+        "number": "2162", 
+        "subject": "LDR", 
+        "title": "Leadership in Groups and Communities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

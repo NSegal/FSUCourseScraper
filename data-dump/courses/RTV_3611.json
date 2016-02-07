@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the techniques used to prepare, create, and post-produce 3D graphics and animation with video.", 
+        "number": "3611", 
+        "subject": "RTV", 
+        "title": "3D Video Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the applications of the Java language to education, electronic commerce, scientific research, and distributed systems in general. Topics include the following: the architecture of the Web, including software and protocols for passing information in typical Web applications; introduction to the Java programming language; developing Graphical User Interfaces using Swing; an introduction to distributed objects using Java Remote Method Invocation (RMI); and server-side programming using Servlets and JDBC. Emphasis is placed on practical programming using these technologies.", 
+        "number": "3252", 
+        "subject": "COP", 
+        "title": "Internet Applications Programming with Java"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3330.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

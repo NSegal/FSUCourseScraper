@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a non-credit experiential learning course, which offers students an opportunity to gain \"real world\" on-the-job work experience related to a specific academic field of study.\u00a0 Students must register for this course through the FSU Career Center.", 
+        "number": "3949", 
+        "subject": "URP", 
+        "title": "Experiential Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

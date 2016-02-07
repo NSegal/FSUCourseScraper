@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (9630)", 
+    "basic": {
+        "class_num": "9630", 
+        "course": "5907", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SPM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "21:45:00", 
+            "instructors": [
+                "Jason Pappas"
+            ], 
+            "location": "TUL 2010", 
+            "start_time": "18:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

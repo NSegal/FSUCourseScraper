@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys American-Indian relations with the people and the government of the United States, beginning in the 1760s and continuing to the present. The course examines the Indians' diplomatic and military struggles, as well as to the Indian perspective on familiar historical events such as the Civil War, the New Deal, and the 1960s..", 
+        "number": "2095", 
+        "subject": "AMH", 
+        "title": "American Indians in the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

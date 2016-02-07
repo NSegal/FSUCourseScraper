@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes topics such as construction cost estimation, work breakdown structure, and cost control; critical path method (CPM) scheduling, resource-constrained scheduling, and integrated scheduling-cost control; probabilistic scheduling techniques, and linear scheduling techniques; contract specifications, and contract claims (schedule impact) analysis.", 
+        "number": "5036", 
+        "subject": "CCE", 
+        "title": "Project Controls in Construction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCE 4004 and EGN 3443.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course enables students to design and conduct experiments on fluid mechanics and heat transfer; analyze and interpret data; apply spreadsheets, statistical methods, and process models; as well as gain proficiency in operating basic chemical-engineering equipment and instruments. Emphasis is placed on safety, professionalism, teamwork, and oral/written communication.", 
+        "number": "3274L", 
+        "subject": "ECH", 
+        "title": "Transport Phenomena Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3101, ECH 3266, and ECH 3854. Corequisites: ECH 3418 and ECH 4267.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

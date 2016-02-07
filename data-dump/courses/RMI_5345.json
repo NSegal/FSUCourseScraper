@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the application of the risk management process, including risk control and risk financing techniques, to business risk management problems.", 
+        "number": "5345", 
+        "subject": "RMI", 
+        "title": "Risk Management in the Business Enterprise"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

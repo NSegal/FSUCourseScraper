@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum provides experience with individuals with a range of disabilities.", 
+        "number": "4834", 
+        "subject": "EEX", 
+        "title": "Introductory Practicum in Special Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on understanding the rhetorical situations and developing effective rhetorical strategies for technical communication in the information age.\u00a0 Attention is given to producing both technical documents and technical presentations.\u00a0 Emphasis is placed on the writing process, specifically on analyzing context, purpose, and audience; designing documents; and peer editing.", 
+        "number": "3108", 
+        "subject": "IFS", 
+        "title": "Technical Communication in the Information Age"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

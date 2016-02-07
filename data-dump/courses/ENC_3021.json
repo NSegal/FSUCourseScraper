@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to key concepts in the study of rhetoric; to frameworks useful for the analysis of texts, events, communication, and other phenomena; and to the principles of rhetoric in the contexts of many media and cultures.", 
+        "number": "3021", 
+        "subject": "ENC", 
+        "title": "Rhetoric"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

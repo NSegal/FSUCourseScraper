@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students both to the philosophy of science and to exemplary research conducted in public administration. Students will learn to target research both theoretically and politically.", 
+        "number": "6707", 
+        "subject": "PAD", 
+        "title": "Logics of Inquiry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5700.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

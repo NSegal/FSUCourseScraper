@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study in the anatomy of leadership, the need for quality and management leadership, the role of discipline in leadership situations and the variables affecting leadership. Case studies are used to examine Air Force leadership and management situations as a means of demonstrating and exercising practical application of the concepts. Students deal with actual problems and complete projects associated with planning and managing the Leadership Laboratory.", 
+        "number": "3201", 
+        "subject": "AFR", 
+        "title": "Leadership Studies I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AFR 2140.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

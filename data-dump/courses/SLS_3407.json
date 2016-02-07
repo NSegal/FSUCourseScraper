@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed as a proactive measure to facilitate the transition from military service to college with the ultimate goal of promoting student veteran retention, graduation, and job placement. The purpose of the course is to facilitate development of study and life management skills that are critical to success in an environment that is structured to encourage personal connections with fellow student veterans as well as campus resources.", 
+        "number": "3407", 
+        "subject": "SLS", 
+        "title": "Strategies for Veteran Success"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00 - 1.00"
+    }
+}

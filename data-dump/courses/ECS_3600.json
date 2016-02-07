@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines and challenges the traditional view that the economic systems of Native Americans before Europeans arrived were communal. The historical evolution of Native economies is considered in light of the evolving relationships (both conflict and cooperation) between Europeans and Natives. Finally, the economic conditions of modern Native American communities are examined.", 
+        "number": "3600", 
+        "subject": "ECS", 
+        "title": "Economics of Native Americans"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

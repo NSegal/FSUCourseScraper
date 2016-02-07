@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the contemporary political executive, especially th e American Presidency. Organization, leadership, personality, power, ideoliogy, relationships, decision, and policy. (Also offered by the Department\u00a0 of Political Science.)", 
+        "number": "6115", 
+        "subject": "PAD", 
+        "title": "The Executive"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

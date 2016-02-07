@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for practicing preK-16 teachers who are interested in analyzing their instruction so as to improve their students' writing abilities. May be repeated to a maximum of six semester hours.", 
+        "number": "5749", 
+        "subject": "LAE", 
+        "title": "Teacher Action Research:\u00a0 Studies in Teaching Writing II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

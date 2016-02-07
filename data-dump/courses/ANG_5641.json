@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course uses linguistic patterns to trace the formal structures of texts. Topics addresses in the course include oral poetry, anthropological linguistics, linguistic relativity, ethnopoetic and discourse analyses, speech genres, linguistic transcription and performance, symbolism, ethnomusicology, writing and ethnography.", 
+        "number": "5641", 
+        "subject": "ANG", 
+        "title": "Ethnopoetics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

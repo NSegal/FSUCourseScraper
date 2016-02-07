@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is Preparation for and participation in state, regional, and national moot court competitions. Selection determined by directing professor. May be repeated within the same semester to a maximum of three semester\u00a0 hours.", 
+        "number": "7951", 
+        "subject": "LAW", 
+        "title": "Moot Court Competition"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

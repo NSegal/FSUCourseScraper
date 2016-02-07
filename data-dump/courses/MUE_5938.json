@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies current issues, bibliography, and introduction to research techniques in music education. Required of master's music education majors.", 
+        "number": "5938", 
+        "subject": "MUE", 
+        "title": "Introduction to Graduate Studies in Music Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to legal literature and to the tools of legal research to create an understanding of how legal information is organized, structured, and accessed in various settings.", 
+        "number": "5417", 
+        "subject": "LIS", 
+        "title": "Introduction to Legal Resources"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

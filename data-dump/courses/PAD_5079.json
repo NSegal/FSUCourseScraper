@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to give students an overview of what UAS can do to support the phases of emergency management (response, recovery, planning, preparedness, and mitigation). The course includes the core concepts and theory behind UAS use, and exposure to regulations, guiding policies, limitations and exclusions.", 
+        "number": "5079", 
+        "subject": "PAD", 
+        "title": "Unmanned Aircraft Systems in Emergency Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a supervised internship. The credit is proportional to scope and significance of work and may not be applied to graduate degrees. The course is individually designed to accommodate student's background and objectives. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4945", 
+        "subject": "COM", 
+        "title": "Communication Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to a major in Communication.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

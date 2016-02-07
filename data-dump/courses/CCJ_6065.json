@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the key training needed to engage in the professional activities central to a successful scholarly career in criminology.", 
+        "number": "6065", 
+        "subject": "CCJ", 
+        "title": "Professional Development in Criminology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

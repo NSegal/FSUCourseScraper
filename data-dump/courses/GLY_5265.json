@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the nucleosynthesis and systematics of the nuclides, radioactive and radiogenic isotopes as natural tracers, theory and application of isotopic fractionation.", 
+        "number": "5265", 
+        "subject": "GLY", 
+        "title": "Nuclear Geology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 4240 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

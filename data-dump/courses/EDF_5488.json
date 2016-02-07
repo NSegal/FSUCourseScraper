@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course acquaints students with Statistical Package for the Social Sciences (SPSS). Emphasis on editing text on remote terminals, data collection, and management.", 
+        "number": "5488", 
+        "subject": "EDF", 
+        "title": "Computer Analysis of Educational Data"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: EDF 5400 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

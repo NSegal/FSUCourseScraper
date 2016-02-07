@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines string vibration as it relates to applied piano tuning.", 
+        "number": "4210", 
+        "subject": "MUM", 
+        "title": "Applied Piano Tuning I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

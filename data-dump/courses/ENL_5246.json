@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores various approaches to the study of British romantic poetry and prose from 1785 to 1832.", 
+        "number": "5246", 
+        "subject": "ENL", 
+        "title": "Studies in British Romantic Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

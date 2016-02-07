@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide a proper overview of the biological aspects of psychology (a.k.a. biopsychology, physiological psychology or behavioral neuroscience) as well as the necessary background for the upper level coursework in behavioral and cognitive neurosciences.", 
+        "number": "3004C", 
+        "subject": "PSB", 
+        "title": "Physiological Psychology with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSB 2000 and PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

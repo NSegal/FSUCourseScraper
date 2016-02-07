@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes education in teaching leadership and programming skills in outdoor adventure, including hiking, camping, backpacking, kayaking, canoeing, basic survival skills, orienting skills, group dynamics, safety, risk management, accessibility, and environmental ethics.", 
+        "number": "3266", 
+        "subject": "LEI", 
+        "title": "Outdoor Adventure Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

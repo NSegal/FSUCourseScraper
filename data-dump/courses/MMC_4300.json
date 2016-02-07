@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of the process of change, particularly from the standpoint of how communication is used in the introduction, spread, and adoption of new ideas, behaviors, and products within a society.", 
+        "number": "4300", 
+        "subject": "MMC", 
+        "title": "Diffusion of Innovations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

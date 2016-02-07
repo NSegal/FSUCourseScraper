@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, the objective is the ability to write and converse on general cultural topics at a level which demonstrates near mastery of German grammar and the beginning of a personal style in the language. The course is conducted in German.", 
+        "number": "3400", 
+        "subject": "GER", 
+        "title": "Composition and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

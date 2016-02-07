@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers attribute grammars and attribute grammar processors, formal methods of semantic analysis, generalized tree transformers, code selection, analysis and optimization, as well as error analysis and recovery.", 
+        "number": "6622", 
+        "subject": "COP", 
+        "title": "Advanced Topics in Compilation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 5621.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

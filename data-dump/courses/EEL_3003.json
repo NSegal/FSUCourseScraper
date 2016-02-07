@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to electrical engineering concepts for non-electrical engineering majors. Covers a broad range of topics including basic circuit theory, semiconductor devices, instrumentation, amplifiers, and machines. Not accepted for credit toward BSEE and BSCpE.", 
+        "number": "3003", 
+        "subject": "EEL", 
+        "title": "Introduction to Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

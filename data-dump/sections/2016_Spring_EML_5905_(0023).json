@@ -1,0 +1,26 @@
+{
+    "_unique": "0023-DIS (15033)", 
+    "basic": {
+        "class_num": "15033", 
+        "course": "5905", 
+        "season": "Spring", 
+        "solus_id": "0023", 
+        "status": "Closed", 
+        "subject": "EML", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Farrukh Alvi"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

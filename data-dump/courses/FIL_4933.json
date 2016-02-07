@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to enter the professional film work arena; addresses the search for employment within the film industry and the search for funds to produce independent work.", 
+        "number": "4933", 
+        "subject": "FIL", 
+        "title": "Professional Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

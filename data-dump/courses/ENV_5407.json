@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers wastewater reclamation and reuse; treatment processor and systems; monitoring and control instrumentation; health and social aspects; design of facilities/systems.", 
+        "number": "5407", 
+        "subject": "ENV", 
+        "title": "Water Reuse Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENV 4001 or equivalent. .", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (13614)", 
+    "basic": {
+        "class_num": "13614", 
+        "course": "2028", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "IFS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Lisa Tripp"
+            ], 
+            "location": "HSF 2009", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

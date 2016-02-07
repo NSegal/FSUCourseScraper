@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines advanced conducting study of gesture, rehearsal techniques, and musical interpretation appropriate to wind performance practice.", 
+        "number": "5308", 
+        "subject": "MUG", 
+        "title": "Advanced Conducting II: Band"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUG 5307.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

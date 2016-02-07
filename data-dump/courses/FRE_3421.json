@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a further study of the subtleties of written expression in the French language.", 
+        "number": "3421", 
+        "subject": "FRE", 
+        "title": "French Grammar and Composition II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 2211 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

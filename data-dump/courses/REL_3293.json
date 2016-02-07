@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics dealing with biblical writings in their ancient historical contexts and/or their interpretation in later period. May be repeated to a maximum of nine semester hours.", 
+        "number": "3293", 
+        "subject": "REL", 
+        "title": "Topics in Biblical Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: REL 2210 and REL 2240 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

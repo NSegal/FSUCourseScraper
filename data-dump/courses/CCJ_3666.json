@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role of victims in crimes, their treatment by the criminal justice system, their decisions to report crimes and help prosecute offenders, victim assistance, and victim compensation. Special focus is placed on sexual battery and domestic violence.", 
+        "number": "3666", 
+        "subject": "CCJ", 
+        "title": "Victimology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

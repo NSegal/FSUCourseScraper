@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role of human development and functioning for the entire age spectrum, including disabilities.", 
+        "number": "3701", 
+        "subject": "LEI", 
+        "title": "Human Development and Functioning in Leisure"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

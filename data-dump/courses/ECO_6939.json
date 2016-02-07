@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of informal seminars and colloquia on topics and issues related to teaching economics at the college level, presented by doctoral students, faculty, and visitors. May be repeated to a maximum of six semester hours.", 
+        "number": "6939", 
+        "subject": "ECO", 
+        "title": "Teaching Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 3.00"
+    }
+}

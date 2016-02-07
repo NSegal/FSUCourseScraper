@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the role of the U.S. President, State Department, Congress, Central Intelligence Agency, and Defense Department in making foreign policy. Examines the decision-making process and domestic sources of foreign policy, such as the electorate, public opinion, interest groups, and the media. Looks at the past and the future of American foreign policy with an emphasis on current issues.", 
+        "number": "4102", 
+        "subject": "INR", 
+        "title": "American Foreign Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

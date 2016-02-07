@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of curriculum and instructional needs of students with low incidence disabilities.", 
+        "number": "5237", 
+        "subject": "EEX", 
+        "title": "Methods for Teaching Students with Low Incidence Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

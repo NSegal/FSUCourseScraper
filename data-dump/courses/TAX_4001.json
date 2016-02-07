@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers concepts and methods of determining income of individuals for tax purposes, as well as the interpretation of Internal Revenue Code, related regulations, and tax advisory services.", 
+        "number": "4001", 
+        "subject": "TAX", 
+        "title": "Federal Tax Accounting I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3101 with a grade of \"C\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

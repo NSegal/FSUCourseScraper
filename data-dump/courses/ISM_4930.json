@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an opportunity to study current issues in management information systems and topics not covered in other courses. May be repeated to a maximum of nine semester hours as content varies. Prerequisites vary depending on the topic of the course; refer to department for details.", 
+        "number": "4930", 
+        "subject": "ISM", 
+        "title": "Special Topics in Management Information Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

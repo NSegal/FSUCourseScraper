@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers continuous and discrete models from physics, chemistry, biology, and engineering are analyzed using perturbation methods, analytical and geometrical tools, and dynamical systems theory.", 
+        "number": "5165", 
+        "subject": "MAP", 
+        "title": "Methods of Applied Mathematics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAP 2302, and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

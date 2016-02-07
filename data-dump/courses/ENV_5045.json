@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, systems analysis techniques are applied to the solution of environmental problems, with particular emphasis on linear and dynamic\u00a0\u00a0\u00a0\u00a0 programming.", 
+        "number": "5045", 
+        "subject": "ENV", 
+        "title": "Environmental Systems Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENV 4001 and MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

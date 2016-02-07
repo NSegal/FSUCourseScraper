@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A comprehensive examination. Students with a master's degree should take it during the second semester in residence; those without a master's degree should take it during the fourth semester in residence. Passing exam required for admission to doctoral candidacy.", 
+        "number": "8964", 
+        "subject": "BSC", 
+        "title": "Preliminary Doctoral Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

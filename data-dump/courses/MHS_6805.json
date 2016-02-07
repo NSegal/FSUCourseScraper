@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is intensive practice in counseling, consisting of closely supervised practical experience and critique of students practice. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "6805", 
+        "subject": "MHS", 
+        "title": "Advanced Group or Individual Counseling Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

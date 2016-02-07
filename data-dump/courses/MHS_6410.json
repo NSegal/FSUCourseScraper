@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides understanding of behavior patterns of children and adolescents and develops effective strategies for behavior management.", 
+        "number": "6410", 
+        "subject": "MHS", 
+        "title": "Behavior Management: Principles and Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

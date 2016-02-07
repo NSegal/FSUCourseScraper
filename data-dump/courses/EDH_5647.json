@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on key functions in Excel and SPSS for an IR office. In particular, students learn pivot tables, t-tests, regression, and commonly used formulas in Excel. Assignments are in Excel and replicated on SPSS so that students could perform the analysis in either software. Using institutional research data from IPEDS or other data sources, students learn how to complete and interpret an analysis that is appropriate for an IR office and campus stakeholders. Access to SPSS is required and is the student's responsibility. A prerequisite to this course is a basic understanding of statistics as statistics is not taught.", 
+        "number": "5647", 
+        "subject": "EDH", 
+        "title": "Data Analysis for Institutional Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5400.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

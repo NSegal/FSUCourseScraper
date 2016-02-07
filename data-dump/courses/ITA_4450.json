@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course stresses the morphological and syntactical order of Italian by means of extensive drill in controlled and free composition.", 
+        "number": "4450", 
+        "subject": "ITA", 
+        "title": "Advanced Italian Composition and Style"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 3421 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

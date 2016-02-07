@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the political, social, and cultural history of the German lands from the age of Enlightenment to the end of World War I. It emphasizes the impact of war and revolution on the process of nation-building and the persistence of political, social, and religious conflict after the foundation of the German Empire under Bismarck.", 
+        "number": "3461", 
+        "subject": "EUH", 
+        "title": "German History, 1740-1918"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

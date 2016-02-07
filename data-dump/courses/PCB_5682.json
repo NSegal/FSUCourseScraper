@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the conceptual foundations as well as providing practical experience in many commonly used methods. Topics include phylogenetics and systematics, the comparative method, reconstructing the past, biogeography, testing adaptation, quantifying diversification, and connections with microevolution and speciation.", 
+        "number": "5682", 
+        "subject": "PCB", 
+        "title": "Macroevolution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

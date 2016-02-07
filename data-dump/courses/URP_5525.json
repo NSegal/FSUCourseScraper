@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores and applies various theoretical models used to explain the behaviors that influence health. Educating persons about the risks of certain behaviors is a fundamental component in the holistic model of health.", 
+        "number": "5525", 
+        "subject": "URP", 
+        "title": "Health Behavior and Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

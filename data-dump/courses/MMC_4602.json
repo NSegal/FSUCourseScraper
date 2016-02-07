@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of the effects of mass media on public opinion and behavior. A review of social science research exploring the impact of TV on children and others.", 
+        "number": "4602", 
+        "subject": "MMC", 
+        "title": "Mass Media and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

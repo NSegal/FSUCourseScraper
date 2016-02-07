@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of the life and works of a major Spanish American author. The subject of this seminar varies from year to year. May be repeated to a maximum of six semester hours.", 
+        "number": "6939", 
+        "subject": "SPW", 
+        "title": "Seminar on a Spanish American Author"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

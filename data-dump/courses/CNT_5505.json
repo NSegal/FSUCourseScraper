@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an overview of networks; data communications principles;data link layer; routing in packet switched networks; flow and congestion control; multiple access communication protocols; local area network protocols and standards; network interconnection; transport protocols; integrated services digital networks (narrowband and broadband); and switching techniques and fast packet switching.", 
+        "number": "5505", 
+        "subject": "CNT", 
+        "title": "Data and Computer Communications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CDA 3101 and COP 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DSC (5219)", 
+    "basic": {
+        "class_num": "5219", 
+        "course": "6939", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "MAP", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Nicholas Cogan"
+            ], 
+            "location": "LOV 0104", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

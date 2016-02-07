@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates the intricate relationship between the human existence and technology from both theoretical and practical perspectives. The course also explores fundamental questions concerning the human condition and searches for solutions to related practical problems.", 
+        "number": "3054", 
+        "subject": "IFS", 
+        "title": "Robots, Monsters, Avatars: Technology and the (Post-)Human Condition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the theoretical development of crime prevention, punishment, and treatment. Topics include historical models of crime control, growth of crime prevention, and aspects such as environmental design, community action programs, and technology systems.", 
+        "number": "5546", 
+        "subject": "CCJ", 
+        "title": "Prevention and Treatment of Crime and Delinquency"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews historical and contemporary anthropological approaches to the study of kinship and social organization by reading and discussing ethnographies of family, marriage, and society throughout the world. Topics include classic theories of descent and alliance, symbolic approaches to kinship and social organization, genetic definitions of human relations, and the impact of new reproductive technologies on definitions of family, bringing the vast ethnographic literature on kinship to bear upon ongoing debates about definitions of family and society.", 
+        "number": "5426", 
+        "subject": "ANG", 
+        "title": "Kinship and Social Organization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates aspects of nutrition, diet, fitness and health/wellness for personal well being. This course cannot be used as a department elective.", 
+        "number": "2084", 
+        "subject": "PET", 
+        "title": "Personal Fitness and Wellness"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

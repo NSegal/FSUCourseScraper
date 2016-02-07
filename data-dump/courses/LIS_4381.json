@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on concepts and best practices for managing mobile technology projects. It covers processes and requirements for developing mobile applications and principles for effective interface and user experience design. Students develop a prototype of a mobile app and prepare a proposal and other documentation for communicating contractual and functional specifications to clients. Students also examine different issues and concerns that may influence the widespread adoption and implementation of mobile applications. Tools and techniques learned in this course are relevant to careers in software engineering, publishing, marketing and advertising, entertainment, education, sales consulting, and business management.", 
+        "number": "4381", 
+        "subject": "LIS", 
+        "title": "Mobile Application Development and Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

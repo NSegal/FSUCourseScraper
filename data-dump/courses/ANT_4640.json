@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of the role language plays in society as a means of communication and as a social diacritic, as well as a primary vehicle of enculturation and acculturation. Topics include the methodology and theoretical foundations of sociolinguistics, linguistic variation in a social context, social and geographical dialects, bi- and multilingualism, and literacy and language planning, as featured in case studies from around the world.", 
+        "number": "4640", 
+        "subject": "ANT", 
+        "title": "Sociolinguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 3610.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

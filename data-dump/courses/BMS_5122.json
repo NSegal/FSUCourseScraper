@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced biomedical sciences course for graduate students to introduce the molecular basis of human congenital and developmental disorders. This course consists of three topics which cover genomic instability and cancer development, stem cells and their application in disease treatment, and neurodevelopmental disorders.", 
+        "number": "5122", 
+        "subject": "BMS", 
+        "title": "Insights into Human Congenital and Developmental Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

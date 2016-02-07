@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to study literary topics of a special kind, depending on student interest and faculty expertise. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "CHI", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Divisional permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

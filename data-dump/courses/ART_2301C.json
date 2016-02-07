@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds on the technical and conceptual skills learned in Drawing I. Artistic expression and communication through drawing in both black and white and color media.", 
+        "number": "2301C", 
+        "subject": "ART", 
+        "title": "Drawing II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

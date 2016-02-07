@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, current topics in Leisure Services are studied in depth. May be repeated to a maximum of nine semester hours.", 
+        "number": "4932", 
+        "subject": "LEI", 
+        "title": "Special Topics in Leisure Services"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

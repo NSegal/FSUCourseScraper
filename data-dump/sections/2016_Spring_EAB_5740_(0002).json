@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (2444)", 
+    "basic": {
+        "class_num": "2444", 
+        "course": "5740", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EAB", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Amy Polick"
+            ], 
+            "location": "HCB 0317*", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

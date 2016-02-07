@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DSC (10474)", 
+    "basic": {
+        "class_num": "10474", 
+        "course": "4320", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "CRW", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "Virgilio Suarez"
+            ], 
+            "location": "WMS 0002", 
+            "start_time": "18:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

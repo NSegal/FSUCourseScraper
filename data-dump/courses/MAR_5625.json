@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the tools, techniques, and procedures involved in the marketing research process, as well as the critical thinking skills necessary to interpret marketing research findings. In addition, the course covers major analytical techniques that are used in a variety of research settings in both marketing and general business.", 
+        "number": "5625", 
+        "subject": "MAR", 
+        "title": "Marketing Research and Analytics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

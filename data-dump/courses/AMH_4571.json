@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course begins with the African background of Black Americans and ends with the final curtailment of Reconstruction in 1877. Although some portions of the course are topical, cutting across chronological divisions, there is a general chronological progression from colonial times to the end of Reconstruction.", 
+        "number": "4571", 
+        "subject": "AMH", 
+        "title": "Black America to 1877"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

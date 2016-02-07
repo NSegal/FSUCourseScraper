@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with high-level private club management techniques relevant to today's challenging business environment.", 
+        "number": "4334", 
+        "subject": "HFT", 
+        "title": "Advanced Club Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3277.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

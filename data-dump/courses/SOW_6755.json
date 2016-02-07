@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This second-semester doctoral seminar uses an evidence-tested framework based on a review of competing philosophies of science to prepare students to understand the role of theory in research, to critically appraise theories for their usefulness, and to utilize theory in conceptualizing research problems, developing research questions from these problems, and creating possible effective research models.", 
+        "number": "6755", 
+        "subject": "SOW", 
+        "title": "Theories and Models of Social Work Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

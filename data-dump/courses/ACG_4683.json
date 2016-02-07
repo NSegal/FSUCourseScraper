@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the field of fraud examination. Topics include the nature of fraud, who commits it and why, deterring fraud, financial statement fraud, and fraud resolution.", 
+        "number": "4683", 
+        "subject": "ACG", 
+        "title": "Fraud Examination"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisite: ACG 4632.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

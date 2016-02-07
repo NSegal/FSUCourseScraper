@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of law and values in health care and the biomedical sciences.", 
+        "number": "7722", 
+        "subject": "LAW", 
+        "title": "Bioethics and the Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the concepts and processes that define a world system of commodity production, labor costs, and cultural exchange.", 
+        "number": "4503", 
+        "subject": "GEO", 
+        "title": "Globalization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

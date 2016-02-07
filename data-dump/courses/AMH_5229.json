@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes a study of the development of domestic and foreign policy, the revolution of social thought, and the paradoxical path of reform in urbanized, industrial America. Devotes special attention to the nation's effort to accommodate old values with new realities.", 
+        "number": "5229", 
+        "subject": "AMH", 
+        "title": "US Progressive Era, 1890-1920"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

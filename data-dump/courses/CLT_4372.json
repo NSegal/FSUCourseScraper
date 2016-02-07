@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers specific topics in the study of ancient myth and its interpretation. May be repeated to a maximum of six semester hours.", 
+        "number": "4372", 
+        "subject": "CLT", 
+        "title": "Studies in Ancient Mythology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

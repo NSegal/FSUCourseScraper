@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies physiological systems of vertebrates with emphasis on mammals. Mechanisms underlying physiological processes and the physico-chemical principles upon which they depend are also studied.", 
+        "number": "3743", 
+        "subject": "PCB", 
+        "title": "Vertebrate Physiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

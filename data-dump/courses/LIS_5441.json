@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the knowledge and skills necessary for informational professionals to provide collaborative leadership in reading across the K-12 spectrum. Special emphasis is placed on how reading for achievement and\u00a0 reading motivation can successfully be reconciled as essential components of information literacy.", 
+        "number": "5441", 
+        "subject": "LIS", 
+        "title": "Leadership in Reading"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

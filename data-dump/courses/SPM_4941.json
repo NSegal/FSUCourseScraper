@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides opportunities for practical experience in various areas of sport management. The practicum is intended to provide students with work experience in a sport organization. May be repeated to a maximum of nine semester hours.", 
+        "number": "4941", 
+        "subject": "SPM", 
+        "title": "Practicum in Sport Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

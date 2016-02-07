@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with opportunities to learn and practice basic procedural skills and tasks they use in a variety of health care settings during the clinical rotations in Years 3 and 4. The course prepares the student to begin to contribute meaningfully to real patient care from the first day of their first clerkship.", 
+        "number": "6801C", 
+        "subject": "BMS", 
+        "title": "Medicine 5: Preclerkship Preparation Boot Camp"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Matriculation to FSU College of Medicine MD program. Student must have taken USMLE Step 1.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "8.00 - 10.00"
+    }
+}

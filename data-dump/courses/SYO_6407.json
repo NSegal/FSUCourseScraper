@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews current research and theory on the connections between race and/or ethnic status in regard to physical and mental health. Students in the seminar review scholarly work in multiple disciplines and professions to identify empirical trends and theoretical explanations that these trends reveal.", 
+        "number": "6407", 
+        "subject": "SYO", 
+        "title": "Race, Ethnicity, and Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines traditional and non-traditional education leadership theories, including analyses of purposes and meanings inherent in formal and informal perspectives.", 
+        "number": "6102", 
+        "subject": "EDA", 
+        "title": "Perspectives on Leadership Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

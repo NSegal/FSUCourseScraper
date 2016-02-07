@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course content varies to provide an opportunity to study current issues in accounting and topics not offered in other courses. May be repeated to a maximum of twelve semester hours as content changes.", 
+        "number": "4930", 
+        "subject": "ACG", 
+        "title": "Special Topics in Accounting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

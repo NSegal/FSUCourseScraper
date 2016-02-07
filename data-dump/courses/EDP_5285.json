@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the theory, research, and practice in interpersonal interaction, group dynamics, and management of group processes in the classroom and school setting. Topics include group development, leadership, conflict management, organizational dynamics, values.", 
+        "number": "5285", 
+        "subject": "EDP", 
+        "title": "Group Processes in Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

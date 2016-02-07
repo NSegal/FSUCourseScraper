@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar is designed to be taken at the end of a student's program of study. It focuses on contemporary issues in teaching ESL/EFL important to one's professional understanding and participation in the field. The course is repeatable when different topics are listed for consideration. May be repeated to a maximum of nine semester hours.", 
+        "number": "5930", 
+        "subject": "TSL", 
+        "title": "Seminar: Current Issues in Teaching TSL"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TSL 5005.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

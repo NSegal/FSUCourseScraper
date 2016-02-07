@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to probability, random variables, distributions, limit laws, conditional distributions, and expectations.", 
+        "number": "5326", 
+        "subject": "STA", 
+        "title": "Distribution Theory and Inference"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313 and at least one previous course in statistics or probability.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

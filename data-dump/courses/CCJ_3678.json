@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a theoretical and practical foundation for addressing issues of diversity as public safety and security practitioners. Focus is on an analysis of current local, regional, and national demographics regarding the impact of race, ethnicity, gender, and religion in criminal justice as both producers and victims for crime. Students explore some of the various strategies municipalities have implemented to better serve diverse populations such as policies, laws, and procedures.", 
+        "number": "3678", 
+        "subject": "CCJ", 
+        "title": "Policing Diversity: Race, Gender, Religion, and Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

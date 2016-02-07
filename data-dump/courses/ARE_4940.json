@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course facilitates clinical experience teaching art in a public school assignment.", 
+        "number": "4940", 
+        "subject": "ARE", 
+        "title": "Student Teaching in Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "9.00"
+    }
+}

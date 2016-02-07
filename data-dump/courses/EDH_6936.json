@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course gives doctoral students an opportunity to examine leading theories of college student development and the research literature supporting these theories. Students develop the ability to critique and evaluate student development theories and apply theory in higher education settings.", 
+        "number": "6936", 
+        "subject": "EDH", 
+        "title": "Seminar in Student Development Theories"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

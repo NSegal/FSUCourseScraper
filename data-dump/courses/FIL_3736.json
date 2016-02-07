@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction in developing and creating believable and compelling animated characters. Topics and skills covered include body mechanics, facial animation, lip synching, conveying human emotion, acting theory for animators, and production processes from planning shots to final polishing.", 
+        "number": "3736", 
+        "subject": "FIL", 
+        "title": "Character Animation I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2730, FIL 2731, and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

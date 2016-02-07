@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, at a maximum of three semester hours, may apply towards the master's degree.", 
+        "number": "5940", 
+        "subject": "MAR", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission from the associate dean for academic programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

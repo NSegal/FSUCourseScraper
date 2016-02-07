@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the impact of American cinema on social relations and the reproduction of power. Students learn a matrix of movie history, movie genres, and approaches to multiculturalism by which to judge movies, cultural representation and the cultural experiences of life.", 
+        "number": "3107", 
+        "subject": "IFS", 
+        "title": "Lions and Tigers and Bears, Oh My! Multicultural Dimensions of American Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

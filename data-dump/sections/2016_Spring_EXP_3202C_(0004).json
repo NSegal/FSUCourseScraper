@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LAB (3678)", 
+    "basic": {
+        "class_num": "3678", 
+        "course": "3202C", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "EXP", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Michael Dieciuc"
+            ], 
+            "location": "PDB C0141", 
+            "start_time": "08:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

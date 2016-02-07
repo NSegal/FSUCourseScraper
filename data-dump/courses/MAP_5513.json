@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers phase and group velocities, dispersion, reflection, characteristics, shock formation, momentum and energy transport, and nonlinear effects. Applications such as acoustics, water waves, internal waves, Rossby waves, and seismic waves. The Korteweg-DeVries equation and solutions.", 
+        "number": "5513", 
+        "subject": "MAP", 
+        "title": "Wave Propagation Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 4342 or MAP 5346; and MAP 5431.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

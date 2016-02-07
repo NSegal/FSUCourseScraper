@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the dynamics of flowing water on and near the earth's surface; porous-media flows and boundary flows as they pertain to geological phenomena.", 
+        "number": "5556", 
+        "subject": "GLY", 
+        "title": "Hydrodynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and PHY 2048C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

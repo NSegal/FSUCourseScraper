@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide basic knowledge about and a common framework for understanding contemporary American politics. Topics include the political system, political industries and underlying political beliefs.", 
+        "number": "5203", 
+        "subject": "POS", 
+        "title": "Fundamentals of Political Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

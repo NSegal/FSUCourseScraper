@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to explore techniques and resources available to support and assist higher education and student affairs practitioners in counseling and advising individuals and groups in contemporary colleges and universities.", 
+        "number": "5041", 
+        "subject": "EDH", 
+        "title": "Intentional Interventions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

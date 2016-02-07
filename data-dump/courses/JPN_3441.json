@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a continuation of Business Japanese I. It is designed to further development students' language skills and knowledge of socio-cultural customs in Japan for business purposes, preparing students to appropriate expressions and behaviors in various business-related situations in Japan.", 
+        "number": "3441", 
+        "subject": "JPN", 
+        "title": "Business Japanese II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 3440.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

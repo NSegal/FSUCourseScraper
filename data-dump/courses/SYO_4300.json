@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course deals with American political institutions, political organizations, pressure groups, and the public's participation in political processes. Discussion focuses on current political issues from a sociological perspective.", 
+        "number": "4300", 
+        "subject": "SYO", 
+        "title": "Sociology of Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

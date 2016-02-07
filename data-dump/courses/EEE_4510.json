@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as sinusoids, periodic signals, and Fourier spectra. Sampling of continuous-time signals, aliasing. Impulse response of linear, discrete-time systems, convolution. FIR filters and implementation. Frequency response of FIR filters. Z-transforms. IIR filters, poles and zeros, frequency response. Realization of IIR filters. Discrete Fourier transform and the FFT algorithm. MATLAB exercises are assigned.", 
+        "number": "4510", 
+        "subject": "EEE", 
+        "title": "Digital Signal Processing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3135.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the use of law library, legal research techniques, and practical work in analyzing legal problems. Students meet in small sections to work on specific legal problems assigned to them. First-year required\u00a0\u00a0 course.", 
+        "number": "5792", 
+        "subject": "LAW", 
+        "title": "Legal Writing and Research I"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

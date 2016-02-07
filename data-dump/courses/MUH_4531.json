@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces graduate students and upper-level undergraduates to the diversity of musical cultures from the African continent. Students explore various case studies from the continent and develop tools to interpret their musical value and contextual meaning. A background interest in music, anthropology, performance studies, or African studies is recommended.", 
+        "number": "4531", 
+        "subject": "MUH", 
+        "title": "African Soundscapes"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

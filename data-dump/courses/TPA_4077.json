@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on traditional scene painting techniques for theatre and film. For the course professional equipment is required.", 
+        "number": "4077", 
+        "subject": "TPA", 
+        "title": "Scene Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

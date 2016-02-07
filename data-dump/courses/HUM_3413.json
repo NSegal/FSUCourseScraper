@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the religion, philosophy, literature, and arts of Indian and Islamic culture in their classical and modern expressions. Not offered every semester.", 
+        "number": "3413", 
+        "subject": "HUM", 
+        "title": "Humanities: South Asian"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

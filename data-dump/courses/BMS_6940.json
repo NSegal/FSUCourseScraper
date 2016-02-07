@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a clinically intensive practicum experience for first-year medical students. Students spend three weeks in approved rural, urban, or geriatric facilities where they participate in supervised patient care.", 
+        "number": "6940", 
+        "subject": "BMS", 
+        "title": "Internship/Practicum/Clinical Practice"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "BMS6015,P,Y,**", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

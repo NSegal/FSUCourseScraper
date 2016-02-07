@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of music of the Middle Ages and Renaissance periods, with emphasis on historical validity, technical proficiency, and expressive musicianship. May be repeated to a maximum of ten semester hours.", 
+        "number": "5477", 
+        "subject": "MUN", 
+        "title": "Collegium Musicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

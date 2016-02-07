@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers functions, sequences, limits; continuity, uniform continuity; differentiation; integration; convergence, uniform convergence. For strong students with advisor approval only.", 
+        "number": "4226", 
+        "subject": "MAA", 
+        "title": "Advanced Calculus I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAS 3105, and prior experience with mathematical proofs (MGF 3301, MAD 2104, or other proving experience).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

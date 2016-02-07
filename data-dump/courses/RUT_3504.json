@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of current social and cultural issues in Russian, including the legacy of the Soviet period, the relationship between literature and daily life, women's issues, ecology, mass media, and the efforts of the country to define itself in its new setting and role. No knowledge of Russian is required. May count toward the Russian major. Taught in English.", 
+        "number": "3504", 
+        "subject": "RUT", 
+        "title": "Modern Russian Life"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

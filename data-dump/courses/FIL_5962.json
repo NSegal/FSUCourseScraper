@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This project provides students with advanced instruction related to their chosen field of specialization while requiring them to coordinate their efforts with those of their crew counterparts, up to thesis project completion.Credit hours determined by work load assigned, according to student's area of emphasis. Postproduction of MFA thesis projects.", 
+        "number": "5962", 
+        "subject": "FIL", 
+        "title": "MFA Qualifying Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00 - 15.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to basic principles and terminology associated with the aesthetics of film making and television production.", 
+        "number": "3001", 
+        "subject": "RTV", 
+        "title": "Media Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to build basic clinical competence in the area of speech-language pathology. Students are introduced to diagnostic and therapeutic clinical processes as they relate to clients of various ages and disorder types. May be repeated to a maximum of four semester hours.", 
+        "number": "5941", 
+        "subject": "SPA", 
+        "title": "Beginning Speech-Language Pathology Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

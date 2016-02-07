@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the historical and theoretical perspectives that have impacted the development of nursing. The progression of nursing toward professionalism is explored, including foundational concepts such as ethics, advocacy, and legal issues.", 
+        "number": "3816", 
+        "subject": "NUR", 
+        "title": "PROFESSIONAL PERSPECTIVES IN NURSING"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Semester I Nursing courses. Corequisite: Semester II Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

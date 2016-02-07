@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores contemporary perspectives on the relationship between gender and communication in three areas: (1) the nature of gender; (2) the construction of gender in the media; and (3) gendered communication within \"queer\" culture.", 
+        "number": "6015", 
+        "subject": "COM", 
+        "title": "Gender and Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

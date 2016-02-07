@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies continued theory and practice of conducting.", 
+        "number": "4102", 
+        "subject": "MUG", 
+        "title": "Advanced Conducting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUG 3104.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-RSR (13632)", 
+    "basic": {
+        "class_num": "13632", 
+        "course": "5910", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "STA", 
+        "type": "RSR", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "16:00:00", 
+            "instructors": [
+                "Xufeng Niu"
+            ], 
+            "location": "OSB 0110", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

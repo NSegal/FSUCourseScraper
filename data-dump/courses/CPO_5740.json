@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course deals with the interaction between politics and economics (or politicians and economists) in the formulation and implementation of national economic policies. The course is theoretical and empirical in orientation.", 
+        "number": "5740", 
+        "subject": "CPO", 
+        "title": "Comparative Political Economy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

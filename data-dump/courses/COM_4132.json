@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the causes of and remedies for stress in the workplace. The course provides practical education in controlling stress that emphasizes primarily organizational, intrapersonal, and interpersonal communication skills and utilizes primarily written channels. The course is reading and writing intensive.", 
+        "number": "4132", 
+        "subject": "COM", 
+        "title": "Communication and Stress Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

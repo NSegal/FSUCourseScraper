@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the evolution of American dance history from 1892-1960. A maximum of three semester hours may apply toward the master's degree.", 
+        "number": "5148", 
+        "subject": "DAN", 
+        "title": "History of American Dance 1892-1960"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

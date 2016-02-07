@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores further macro dynamics, the quantity theory, determinants of the demand for and supply of money, and money models.", 
+        "number": "5207", 
+        "subject": "ECO", 
+        "title": "Macroeconomic Theory II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5204 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

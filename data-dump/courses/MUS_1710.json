@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces all first-year music students to selected resources in the Warren D. Allen Music Library, the online search capabilities of WebLuis and FirstSearch, and the research activities of faculty from the College of Music.", 
+        "number": "1710", 
+        "subject": "MUS", 
+        "title": "First Year Experience in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00"
+    }
+}

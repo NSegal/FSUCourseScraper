@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This first course in Artificial Intelligence (AI) is designed to expose the student to both the breadth and depth of the subject. Topics include problem solving, knowledge and reasoning, acting logically, uncertain knowledge and reasoning, learning, and communicating, perceiving and acting.", 
+        "number": "4601", 
+        "subject": "CAP", 
+        "title": "Introduction to Artificial Intelligence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

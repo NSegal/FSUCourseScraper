@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides basic information for the planning and maintenance of leisure areas and facilities.", 
+        "number": "4602", 
+        "subject": "LEI", 
+        "title": "Planning and Maintenance of Facilities in Leisure Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces student actors to the basic principles of voice training. Group and individual exercises are designed to stimulate and develop the imagination, physical and sensory awareness, creativity, and the ability to work as part of an ensemble. Focus is on alleviating individual tensions in the vocal musculature that restrict the natural voice. May be repeated to a maximum of nine semester hours.", 
+        "number": "2710", 
+        "subject": "TPP", 
+        "title": "Voice I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

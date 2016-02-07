@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines principles of modern digital communication systems including pulse-code modulation, error-control coding, optimal signal protection, and information theory.", 
+        "number": "5500", 
+        "subject": "EEL", 
+        "title": "Digital Communication Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4514.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

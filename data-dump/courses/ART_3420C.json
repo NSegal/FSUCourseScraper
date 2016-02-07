@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the basic lithographic techniques of graining, drawing, etching, and printing.", 
+        "number": "3420C", 
+        "subject": "ART", 
+        "title": "Fundamentals of Printmaking: Lithography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C, ART 1203, and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

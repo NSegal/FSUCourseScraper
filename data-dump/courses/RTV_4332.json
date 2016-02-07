@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers instruction in the theory and practice of production of non-fiction documentary video. Students produce a final video product after studying the documentary tradition, theory, and history.", 
+        "number": "4332", 
+        "subject": "RTV", 
+        "title": "Documentary Video Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisites: RTV 3531 and RTV 3571.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

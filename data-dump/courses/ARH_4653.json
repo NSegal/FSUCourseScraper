@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the art and architecture of Mesoamerica from the rise of the Olmec (1500 BC) to the Spanish conquest of the Aztec capital of Tenochtitlan. Focus is placed on how changes in visual culture reflect larger religious and political transformations.", 
+        "number": "4653", 
+        "subject": "ARH", 
+        "title": "Great Traditions in Mesoamerican Art and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

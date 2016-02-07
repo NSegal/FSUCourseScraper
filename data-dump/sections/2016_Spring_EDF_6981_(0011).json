@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-DSS (13181)", 
+    "basic": {
+        "class_num": "13181", 
+        "course": "6981", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Open", 
+        "subject": "EDF", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Motoko Akiba"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

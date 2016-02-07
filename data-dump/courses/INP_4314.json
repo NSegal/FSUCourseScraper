@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the implementation and analysis of performance management principles via a project carried out in a business setting; motivation, compensation, and systems issues in performance technology.", 
+        "number": "4314", 
+        "subject": "INP", 
+        "title": "Advanced Topics in Performance Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: INP 3313 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

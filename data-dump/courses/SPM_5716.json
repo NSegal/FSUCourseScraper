@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview to risk management in sport and physical activity. The identification, evaluation, and control of loss to personal and real property, clients and students, employees and the public are addressed. Loss may result in injury, death, destruction of property, financial failure, or harm to reputation. Students become familiar with systems used in assessing risk in the sport industry.", 
+        "number": "5716", 
+        "subject": "SPM", 
+        "title": "Risk Management in Sport and Physical Activity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

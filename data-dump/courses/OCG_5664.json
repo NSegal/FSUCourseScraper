@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the paleogeochemical record of climate change, continental and oceanic archives of past environmental change, processes and models of climate evolution over the Cenozoic with emphasis on the most recent Ice Ages, and readings from the current literature.", 
+        "number": "5664", 
+        "subject": "OCG", 
+        "title": "Paleoceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

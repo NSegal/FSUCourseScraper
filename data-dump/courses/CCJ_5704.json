@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a basic introduction for graduate students to statistics and research methods as they are used in criminology. It is intended for students who have not had undergraduate courses in methods or statistics. May be repeated to a maximum of six semester hours.", 
+        "number": "5704", 
+        "subject": "CCJ", 
+        "title": "Introduction to Research Methods and Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

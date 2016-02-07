@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an examination of language from biological, psychological, and social perspectives, and considers ways that our knowledge of language can be deployed to tackle real-world issues in areas such as health, law, and education.", 
+        "number": "2036", 
+        "subject": "IFS", 
+        "title": "Language, Body, Mind and World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

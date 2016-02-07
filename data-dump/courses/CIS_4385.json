@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses tools, techniques, and procedures for detecting cybercrime and analyzing collected data related to past and on-going cyber offenses, along with preserving the legal value of the collected evidence.", 
+        "number": "4385", 
+        "subject": "CIS", 
+        "title": "Cybercrime Detection and Forensics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CDA 3100 and CJE 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive overview of Spanish American prose since the advent of Jorge Luis Borges' short stories and the genres of the novel and short story, covering trends from the avant-garde to neorealism, neo-naturalism, cosmopolitanism, and sociopolitical content.", 
+        "number": "5386", 
+        "subject": "SPW", 
+        "title": "Contemporary Spanish American Prose Fiction since 1927"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introductory overview of the history of public health. The philosophy and concepts basic to public health practice are addressed in depth. Basic skills related to health delivery in the U.S. and throughout the world are reviewed.", 
+        "number": "5203", 
+        "subject": "HSC", 
+        "title": "Public Health History, Philosophy and Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

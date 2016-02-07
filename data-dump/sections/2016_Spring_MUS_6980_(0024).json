@@ -1,0 +1,26 @@
+{
+    "_unique": "0024-DSS (6705)", 
+    "basic": {
+        "class_num": "6705", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0024", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Paul Richards"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

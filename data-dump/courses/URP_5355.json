@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the broad area of international transportation planning. The course features analyses of a number of specific case studies of transportation planning from around the world, including from Europe, Canada, China, India, Russia, Africa and the developing world, and includes analytical exercises that are relevant to growing international transportation planning challenges.", 
+        "number": "5355", 
+        "subject": "URP", 
+        "title": "International Transportation Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

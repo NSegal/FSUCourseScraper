@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the enterprise of college and university business administration in the United States and the roles and responsibilities it plays in the overall higher educational process. Students are introduced to emerging trends and challenges faced by practitioners and also gain an understanding of how finance and business administration departments affect different consistency groups on and off campus. Departments explored include Police, Information Technology, Human Resources, Contracts and Grants, Facilities, Environmental Health and Safety, Purchasing and Auxiliary Enterprises.", 
+        "number": "5506", 
+        "subject": "EDH", 
+        "title": "College and University Business Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores advanced methods of statistical process control for univariate and multivariate processes, methods for change point detection andestimation, control chart performance comparisons, process capability studies.", 
+        "number": "5223", 
+        "subject": "ESI", 
+        "title": "Statistical Process Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 4234.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

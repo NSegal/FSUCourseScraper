@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the consideration of the manager as a leader, individual styles of managing, functions of the manager of the arts, and typical problems in the various arts.", 
+        "number": "5665", 
+        "subject": "ARE", 
+        "title": "Leading the Arts Organization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

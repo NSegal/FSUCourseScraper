@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of chemical reactivity, including various types of reactions and factors that govern the rate and course of chemical processes. Students study fundamentals of kinetics and thermodynamics, which forms the basis for the follow-up study of organic, inorganic, and organometallic reactivity. May be repeated to a maximum of three semester hours.", 
+        "number": "5555", 
+        "subject": "CHM", 
+        "title": "Chemical Reactivity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

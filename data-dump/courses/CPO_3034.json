@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines how economic and social conditions affect politics andgovernment in Africa, Asia, Latin America, and/or the Middle East. Typical topics include theories of economic development, cultural influences on politics, religious and ethnic conflict, changing roles of women in the developing world, foreign aid, causes and consequences of poverty, causes of revolution, environmental policies, military regimes, and corruption.", 
+        "number": "3034", 
+        "subject": "CPO", 
+        "title": "Politics of Developing Areas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

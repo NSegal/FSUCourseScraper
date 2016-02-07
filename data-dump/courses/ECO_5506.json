@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the theory, empirical evidence, and experimental evidence regarding how human societies provide public goods.", 
+        "number": "5506", 
+        "subject": "ECO", 
+        "title": "Public Goods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: Approved course in Experimental Economics.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

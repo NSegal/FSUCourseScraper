@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an advanced treatment of topics fundamental to real estate finance. The course topics are presented in units that range from pricing mortgages to the lending process to the secondary mortgage market. Topics include a discussion of primary and secondary mortgage markets, mortgage market operations, mortgage instruments and mortgage-related securities.\u00a0 Emerging topics of special interest are also discussed.", 
+        "number": "5205", 
+        "subject": "REE", 
+        "title": "Topics in Real Estate Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

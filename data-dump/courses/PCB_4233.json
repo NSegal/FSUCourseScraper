@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes the tissues, cells, and molecules of the immune system and their relationships to disease and transplantation.", 
+        "number": "4233", 
+        "subject": "PCB", 
+        "title": "Immunology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L; also CHM 2210, PCB 3063, PCB 3134, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

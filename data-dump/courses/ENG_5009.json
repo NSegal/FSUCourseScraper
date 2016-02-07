@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces basic concepts and methods of advanced literary\u00a0\u00a0\u00a0\u00a0 study.", 
+        "number": "5009", 
+        "subject": "ENG", 
+        "title": "Introduction to Advanced Studies in English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

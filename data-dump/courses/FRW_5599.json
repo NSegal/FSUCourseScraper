@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers post-WWII literary movements in the novel, theatre and poetry. Authors studied include Michel Butor, Albert Camus, Samuel Beckett, Jean Cocteau, Henri Michaux, and others. May be repeated to a maximum of six semester hours.", 
+        "number": "5599", 
+        "subject": "FRW", 
+        "title": "Studies in 20th-Century Post-War French Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

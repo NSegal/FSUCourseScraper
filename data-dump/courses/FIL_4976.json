@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches students to articulate on paper an idea that is both discernible and visual in the form of a collection of interesting moments that add up to tell a story.", 
+        "number": "4976", 
+        "subject": "FIL", 
+        "title": "Thesis Script Rewrite"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

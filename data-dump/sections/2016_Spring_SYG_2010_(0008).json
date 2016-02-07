@@ -1,0 +1,37 @@
+{
+    "_unique": "0008-LEC (14107)", 
+    "basic": {
+        "class_num": "14107", 
+        "course": "2010", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Open", 
+        "subject": "SYG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "20:15:00", 
+            "instructors": [
+                "Jorge Giannareas"
+            ], 
+            "location": "TBA", 
+            "start_time": "19:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "20:15:00", 
+            "instructors": [
+                "Jorge Giannareas"
+            ], 
+            "location": "TBA", 
+            "start_time": "19:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

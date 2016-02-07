@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides support and guidance to science-education graduate students who are currently interning.", 
+        "number": "5331", 
+        "subject": "SCE", 
+        "title": "Management and Planning in Science Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the program, SCE 5336, SCE 5340, SCE 5895, and SCE 5947. Corequisite: SCE 5942.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

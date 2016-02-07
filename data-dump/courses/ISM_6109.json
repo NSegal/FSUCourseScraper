@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is a discussion of the different theories and views about organizations and the design of information and communication systems in organizations. Students gain an appreciation for the close and intertwining nature of the relationship between views of organizations and the philosophies governing the design and use of information systems.", 
+        "number": "6109", 
+        "subject": "ISM", 
+        "title": "Doctoral Seminar in General Systems Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

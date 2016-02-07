@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for freshmen and sophomore students who intend to major in business. Career options in various business disciplines are described. Appropriate personal characteristics and skills required for a successful business career are discussed.", 
+        "number": "1030", 
+        "subject": "GEB", 
+        "title": "Introduction to Careers in Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

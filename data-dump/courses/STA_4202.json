@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as one and two-way classifications, nesting, blocking, multiple comparisons, incomplete designs, variance components, factorial designs, and confounding.", 
+        "number": "4202", 
+        "subject": "STA", 
+        "title": "Analysis of Variance and Design of Experiments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 2122, STA 2171, STA 3032, or QMB 3200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

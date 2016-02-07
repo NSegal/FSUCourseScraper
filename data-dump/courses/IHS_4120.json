@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course aims to provide advanced undergraduate students the opportunity to gain an understanding of common human disease conditions through a highly interactive set of learning activities.\u00a0 We recommend that students have taken physiology, genetics and biochemistry. Examples of topics covered include heart failure, cancer, diabetes, depression and Alzheimer's disease.", 
+        "number": "4120", 
+        "subject": "IHS", 
+        "title": "Frontiers in Medicine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

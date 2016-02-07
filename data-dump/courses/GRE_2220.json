@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation and commentary on selected Greek readings. Meets the foreign language requirement for the BA degree. No language laboratory required.", 
+        "number": "2220", 
+        "subject": "GRE", 
+        "title": "Introduction to Greek Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

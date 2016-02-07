@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (4742)", 
+    "basic": {
+        "class_num": "4742", 
+        "course": "7939", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "Mary Pankowski"
+            ], 
+            "location": "LAW 0308", 
+            "start_time": "15:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

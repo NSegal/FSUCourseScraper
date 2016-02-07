@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the fundamental laws of thermodynamics and their application to simple systems. The kinetic theory of an ideal gas. An introduction to the classical and quantum statistical mechanics of weakly interacting systems.", 
+        "number": "4513", 
+        "subject": "PHY", 
+        "title": "Thermal and Statistical Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, PHY 3221, and PHZ 3113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

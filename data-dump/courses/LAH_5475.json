@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey of the history of the Latin American Caribbean. Special attention is given to such topics as the Cuban Revolution and recent United States-Puerto Rican relations.", 
+        "number": "5475", 
+        "subject": "LAH", 
+        "title": "History of the Caribbean"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

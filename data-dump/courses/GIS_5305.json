@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, technical topics covered include space-time variability in environmental data, environmental data acquisition and integration, interpolating environmental data, error and uncertainty, environmental decision support systems, environmental modeling techniques, and the integration of geospatial technologies with environmental modeling systems. Applications include hydrological modeling, terrain modeling and landform analysis, landscape pattern analysis, land suitability analysis, soil erosion modeling and wildfire modeling.", 
+        "number": "5305", 
+        "subject": "GIS", 
+        "title": "Geographic Information Systems for Environmental Analysis and Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

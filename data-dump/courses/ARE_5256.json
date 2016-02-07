@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to explore current visitor-centered theories, research tools, and practices in museum exhibition planning coinciding with hands-on curatorial experience.", 
+        "number": "5256", 
+        "subject": "ARE", 
+        "title": "Visitor-Centered Exhibitions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: ARE 5257.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

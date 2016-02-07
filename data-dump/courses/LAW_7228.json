@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of 19th century American legal history, including the Marshall Court, slave law, the impact of the Civil War and Reconstruction, Indian law, and the effects of industrialization.", 
+        "number": "7228", 
+        "subject": "LAW", 
+        "title": "American Legal History II"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

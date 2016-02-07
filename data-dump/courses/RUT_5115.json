@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on classics of Russian 19th- and 20th-century prose. No Russian required.", 
+        "number": "5115", 
+        "subject": "RUT", 
+        "title": "Seminar: Russian Literature in English Translation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

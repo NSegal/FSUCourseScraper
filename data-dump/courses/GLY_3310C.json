@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the classification, description, and origin of igneous and metamorphic rocks; relation of these rocks to tectonic processes. Three hour laboratory required.", 
+        "number": "3310C", 
+        "subject": "GLY", 
+        "title": "Igneous and Metamorphic Petrology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 3220C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

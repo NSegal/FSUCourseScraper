@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a capstone senior-level design course integrating the knowledge and skills gained in undergraduate studies in civil and environmental engineering. The course involves the completion of a team-based interdisciplinary design project covering several sub-disciplines in civil or environmental engineering. Industry and professional participation.", 
+        "number": "4802", 
+        "subject": "CGN", 
+        "title": "Senior Design Project"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGN 4800 and in last full semester of CEE program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

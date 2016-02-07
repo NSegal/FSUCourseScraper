@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on simple, stratified, systematic, and cluster random sampling as well as ratio and regression estimation, multistage sampling.", 
+        "number": "4222", 
+        "subject": "STA", 
+        "title": "Sample Surveys"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A statistics course above STA 1013 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

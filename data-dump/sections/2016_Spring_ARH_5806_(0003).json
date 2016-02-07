@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DSC (210)", 
+    "basic": {
+        "class_num": "210", 
+        "course": "5806", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "ARH", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:45:00", 
+            "instructors": [
+                "Michael Carrasco"
+            ], 
+            "location": "WJB 2038", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

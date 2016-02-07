@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers neuropsychopharmacology, including the behavioral effects of of brain-mind altering drugs (i.e. psychotropics) and the biological action of drugs used to treat psychological disorders.", 
+        "number": "4447", 
+        "subject": "PSB", 
+        "title": "Clinical Psychopharmacology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and PSB 2000, or PSB 3004C, or three semester hours in biology.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

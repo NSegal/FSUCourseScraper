@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines normative ethics and metaethics, including such topics as consequentialism, contractualism, deontology, divine command theory, expressivism, intuitionism, and realism. The survey also includes reference to historical figures such as Socrates, Plato, Aristotle, Hobbes, Hume, Kant, Bentham, and Mill.", 
+        "number": "5665", 
+        "subject": "PHI", 
+        "title": "Core Course in Ethics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

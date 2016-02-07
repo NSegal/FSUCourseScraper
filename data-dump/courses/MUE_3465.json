@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the application of performance and teaching techniques and practices unique to brasses.", 
+        "number": "3465", 
+        "subject": "MUE", 
+        "title": "Techniques and Teaching: Brass Instruments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

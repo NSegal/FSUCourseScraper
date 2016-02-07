@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces teacher policy and reform topics based on theoretical and empirical literature in the U.S. and global contexts. The roles and influences of policy actors at global, national, sub-national (state/province), and local levels are discussed, and policy assumptions, contexts, designs, implementations, and outcomes are examined.", 
+        "number": "6666", 
+        "subject": "EDF", 
+        "title": "Teacher Policy and Reform"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

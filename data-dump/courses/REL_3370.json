@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the variety and complexity of religious practices and beliefs on the African continent, and in particular how African discourses of religion challenge our most fundamental understandings of the term religion.", 
+        "number": "3370", 
+        "subject": "REL", 
+        "title": "Religion in Africa"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

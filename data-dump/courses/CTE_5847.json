@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the role of brands in promotional advertising and in-store promotions in the retail industry. Students analyze all facets of the promotional mix and impact technology has on the consumer.", 
+        "number": "5847", 
+        "subject": "CTE", 
+        "title": "Retail Branding and Promotion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 5807 and CTE 5905, or equivalent courses.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students an opportunity to explore some of the issues related to information systems and their place in society. Course focus covers society as a whole, electronic communities, organizational impacts, the implications of design choices, and ethical considerations.", 
+        "number": "5046", 
+        "subject": "ISM", 
+        "title": "Social and Organization Issues in MIS"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

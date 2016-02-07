@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis and evaluation of leisure systems, operations, programs, personnel, and fiscal resources from a quantitative and qualitative perspective.", 
+        "number": "5555", 
+        "subject": "LEI", 
+        "title": "Analysis and Management of Leisure Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

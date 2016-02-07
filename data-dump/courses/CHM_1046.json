@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes topics such as intermolecular forces, chemical kinetics, equilibrium, acids and bases, elementary thermodynamics, and electrochemistry.", 
+        "number": "1046", 
+        "subject": "CHM", 
+        "title": "General Chemistry II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 1045\u00a0 and CHM 1045L or CHM 1050 and CHM 1050L, each with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

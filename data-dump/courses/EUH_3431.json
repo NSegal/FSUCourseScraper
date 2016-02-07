@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course traces the development of Italy from the Enlightenment to the present. Discussions concentrate on the major social, political, and intellectual currents, centering on the unification movement, the crisis of the Liberal State, and Fascism.", 
+        "number": "3431", 
+        "subject": "EUH", 
+        "title": "Modern Italy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

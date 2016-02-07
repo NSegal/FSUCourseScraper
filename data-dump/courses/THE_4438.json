@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the cultural and political complexities of selected countries of sub-Saharan Africa through an exploration of precolonial performance traditions, written plays, and contemporary popular culture.", 
+        "number": "4438", 
+        "subject": "THE", 
+        "title": "African Theatre and Performance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

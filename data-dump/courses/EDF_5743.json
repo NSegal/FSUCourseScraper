@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the social, cultural, philosophical, political, historical, and economic foundations of education. It examines the relationship between schools and the society in which they exist. Students examine the influences of culture, history, and economy on educational beliefs, policies, and practices.", 
+        "number": "5743", 
+        "subject": "EDF", 
+        "title": "Foundations of Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

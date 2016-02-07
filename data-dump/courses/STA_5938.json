@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, two to four reasonably complex consulting problems are identified each time the course is offered, and the investigators present the problem to the class.\u00a0 Statistical topics covered in class are those identified by the class as required to solve the problems presented.", 
+        "number": "5938", 
+        "subject": "STA", 
+        "title": "Topics in Medical Consulting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 2171.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

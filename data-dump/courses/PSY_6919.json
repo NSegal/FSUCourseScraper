@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Students may register for a maximum of two sections within the same semester. May be repeated to a maximum of thirty-six semester hours.", 
+        "number": "6919", 
+        "subject": "PSY", 
+        "title": "Seminar in Current Research Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This three week course in year three is designed to broaden students' understanding of the role played by community agencies in health promotion and disease prevention. Students are assigned to a community health agency under the supervision of a preceptor. Students work as a team to assist the agency in fulfilling its goals.", 
+        "number": "7170", 
+        "subject": "BCC", 
+        "title": "Community Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of all year-one and year-two curricula.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

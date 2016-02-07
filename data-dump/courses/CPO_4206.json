@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "4206", 
+        "subject": "CPO", 
+        "title": "Political Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "POS1041,P,Y,**", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

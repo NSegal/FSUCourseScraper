@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers centrally important theories of film from the 1920s work of Eisenstein through the 1970s \"gaze\" theories of Metz and Mulvey, to the present. The course emphasizes what distinguishes film from other arts as well as its socio-historical causes and consequences.", 
+        "number": "4115", 
+        "subject": "ENG", 
+        "title": "Film Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: 3000-level core courses in major and 4000-level coursework recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

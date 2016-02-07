@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the political systems of the Middle East and their social, economic, and cultural foundations.", 
+        "number": "5407", 
+        "subject": "CPO", 
+        "title": "Seminar in Comparative Government and Politics: The Middle East"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

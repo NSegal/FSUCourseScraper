@@ -1,0 +1,26 @@
+{
+    "_unique": "0010-DSS (5324)", 
+    "basic": {
+        "class_num": "5324", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Closed", 
+        "subject": "MAT", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "David Kopriva"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

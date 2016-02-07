@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the practical application of ton-building and voicing techniques, action analysis using the equation balance, manufacturing techniques and engineering concepts in the fore-finishing process, as well as grand piano restoration.", 
+        "number": "5257", 
+        "subject": "MUM", 
+        "title": "Piano Technology Practicum II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Instructor permission and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to design of modern steel and concrete highway bridges. Topics include materials and properties, loads on bridges, and substructure design. AASHTO LRFD specifications are used.", 
+        "number": "5325", 
+        "subject": "CES", 
+        "title": "Bridge Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4605 and CES 4702.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

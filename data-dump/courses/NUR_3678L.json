@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the application component of NUR 3678. Under the guidance of clinical instructors, the student is given opportunities to integrate theoretical knowledge from NUR 3678 in clinical sessions. Emphasis is placed on nursing care of the elderly, clients with psychosocial disorders, and at risk culturally diverse populations in the community. The impact of poverty, environment, support networks, health policy, and community resources on vulnerable populations and health outcomes is explored. The focus is on promoting client's independence and maximizing quality of life of vulnerable individuals, families, and communities.", 
+        "number": "3678L", 
+        "subject": "NUR", 
+        "title": "Nursing Care of Vulnerable Populations Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Semester I Nursing courses. Corequisite: Semester II Nursing courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

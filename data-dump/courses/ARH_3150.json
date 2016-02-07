@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of Italian art and archaeology including early Italy, the Etruscans, and Rome with reference to the major monuments, works, and archaeological evidence.", 
+        "number": "3150", 
+        "subject": "ARH", 
+        "title": "Art and Archaeology of Ancient Italy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

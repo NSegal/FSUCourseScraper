@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview and application of social marketing principles and campaigns. The course is designed to familiarize students with current theory and knowledge in the field of social marketing and to provide students experience with planning a social marketing campaign.", 
+        "number": "4560", 
+        "subject": "COM", 
+        "title": "Social Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000 or PUR 3000.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

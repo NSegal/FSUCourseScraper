@@ -1,0 +1,37 @@
+{
+    "_unique": "0029-LAB (11369)", 
+    "basic": {
+        "class_num": "11369", 
+        "course": "1046L", 
+        "season": "Spring", 
+        "solus_id": "0029", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Rita Sanchez"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Rita Sanchez"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the theory and application of second-language learning and teaching strategies for limited English-proficient students in subject matter classes. The course also satisfies META requirements for all teachers of LEP students except primary language arts instructors. This course is appropriate for renewal of all certification coverage.", 
+        "number": "4324", 
+        "subject": "TSL", 
+        "title": "ESOL Instruction in the Content Areas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an intensive survey of relevant research and professional practices in the broadly defined field of sport management. The course emphasizes practical issues related to planning, conducting, and interpreting research relevant to the behavioral aspects of sport. The primary purposes of the course are to provide students with the skills to (1) successfully develop active research agendas, (2) identify sources of external funding, (3) coordinate large-scale research projects, (4) evaluate research, and (5) refine writing and analytical skills.", 
+        "number": "6707", 
+        "subject": "SPM", 
+        "title": "Applied Research Practices in Sport Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPM 6700.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of the performance of propulsion systems using fundamental principles of thermodynamics, heat transfer, and fluid mechanics. Systems studied include turbo jet, turbofan, ramjet engines, as well as\u00a0 piston type internal combustion (IC) engines.", 
+        "number": "4421", 
+        "subject": "EML", 
+        "title": "Fundamentals of Propulsion Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3016C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

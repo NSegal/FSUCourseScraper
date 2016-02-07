@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DSC (13931)", 
+    "basic": {
+        "class_num": "13931", 
+        "course": "3931", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "INR", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Latika Young"
+            ], 
+            "location": "HSF 4003", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of special topics on demand in structural geology, rock deformation, and tectonics of mountain building. May be repeated to a maximum of six semester hours.", 
+        "number": "5497", 
+        "subject": "GLY", 
+        "title": "Advanced Topics in Structural Geology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

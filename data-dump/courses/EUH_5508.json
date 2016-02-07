@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course includes history of England from Anglo-Saxon settlements to the establishment of the Tudor dynasty. Covers all significant aspects of\u00a0 life in medieval England, but places emphasis on the growth of English common law, the constitution, and administrative structures.", 
+        "number": "5508", 
+        "subject": "EUH", 
+        "title": "England in the Middle Ages"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

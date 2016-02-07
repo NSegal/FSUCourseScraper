@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course aims to develop fluency and accuracy in advanced-level Chinese in using complex vocabulary and sentence patterns, grasping basic forms of expository and argumentative prose, and discussing real-life issues of contemporary China both in writing and conversation. May be repeated to a maximum of six semester hours.", 
+        "number": "4411", 
+        "subject": "CHI", 
+        "title": "Advanced Chinese II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 4000-level course with the CHI or CHW prefix.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

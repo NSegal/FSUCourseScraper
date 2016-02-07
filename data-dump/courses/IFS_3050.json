@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines Indian identity, cultural, and religious values as expressed in film. The popular cinema produced in Bombay (now Mumbai), dubbed 'Bollywood,' will predominate, spanning the period from Indian and Pakistani Independence (1947) to the 21st century.", 
+        "number": "3050", 
+        "subject": "IFS", 
+        "title": "India Through Bollywood Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

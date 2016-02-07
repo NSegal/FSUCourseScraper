@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the law related to the teaching of English learners and second language acquisition theory.", 
+        "number": "4080", 
+        "subject": "TSL", 
+        "title": "Language Principles for Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

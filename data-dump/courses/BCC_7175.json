@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This community-based, ambulatory clerkship emphasizes the identification, evaluation and treatment of family practice patients with common medical, surgical and psychological conditions. Students in this course spend eight patient care sessions/week under supervision of the family physician in the office; complete two required clerkship projects; and utilize web-based self-directed learning activities.", 
+        "number": "7175", 
+        "subject": "BCC", 
+        "title": "Clerkship in Family Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

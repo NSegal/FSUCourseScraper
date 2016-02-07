@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, material alternates between preromanticism and enlightenment. May be repeated to a maximum of six semester hours.", 
+        "number": "5588", 
+        "subject": "FRW", 
+        "title": "Studies in 18th-Century Literature: Figure or Movement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

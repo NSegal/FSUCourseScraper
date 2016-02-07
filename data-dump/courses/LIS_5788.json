@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This is an introductory course in management of Health Information Technology (HIT) within a variety of organizational contexts.\u00a0 It is designed to develop a conceptual framework for intergrating fundamental HIT management concepts, policies, theories, and practices into an effective personal management process that relates to health related organizations (broadly defined)", 
+        "number": "5788", 
+        "subject": "LIS", 
+        "title": "Management of Health Information Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers legal and professional responsibility of CPAs; generally accepted auditing standards; audit programs, procedures, and evidence; review and evaluation of internal controls.", 
+        "number": "4632", 
+        "subject": "ACG", 
+        "title": "Auditing Theory and Application I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ACG 3111 and ACG 4401 with grades of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

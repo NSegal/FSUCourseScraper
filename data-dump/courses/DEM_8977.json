@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students defend their master's research paper in demographybefore a faculty master's supervisory committee.", 
+        "number": "8977", 
+        "subject": "DEM", 
+        "title": "Master's Research Paper Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DEM 5972.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

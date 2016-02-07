@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to compiling, elements of language theory, syntax-directed translation, lexical analysis, symbol tables, LR(k) parsing, intermediate code generation, code optimization, code generation, error detection and recovery. There are also a number of significant programming projects in this course.", 
+        "number": "5621", 
+        "subject": "COP", 
+        "title": "Compiler Construction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CDA 3101, COP 4020, and COT 4420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

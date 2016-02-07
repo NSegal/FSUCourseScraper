@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course surveys current scholarship in five areas of communication theory: group, rhetorical, interpersonal, legal, and performance communication.", 
+        "number": "3210", 
+        "subject": "SPC", 
+        "title": "Contemporary Human Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

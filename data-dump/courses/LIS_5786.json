@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction and learning experiences in user-centered design of information systems, especially Web sites. The entire Information Architecture process from learning the user's needs by developing user personas and scenarios through organizing the information to be presented to specifying the final design parameters, such as low-fidelity and high-fidelity wireframes, is covered. The result is a technical solution to a specific information system need that takes into account its social and organizational context. The project-based course design allows students to learn issues and problems in a real-life project of building information architecture for systems.", 
+        "number": "5786", 
+        "subject": "LIS", 
+        "title": "Introduction to Information Architecture"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

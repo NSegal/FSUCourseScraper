@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LAB (11743)", 
+    "basic": {
+        "class_num": "11743", 
+        "course": "3065L", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:00:00", 
+            "instructors": [
+                "Cara Pappas"
+            ], 
+            "location": "SCN 0212", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

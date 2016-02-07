@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced introduction to the contemporary theories and practices regarding the performances of race and gender upon the stage and in everyday life. The course also utilizes feminist theories of performance, students read and analyze playtext written by women of color, by white women, and by one African-American male.", 
+        "number": "5437", 
+        "subject": "THE", 
+        "title": "Gender, Race, and Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

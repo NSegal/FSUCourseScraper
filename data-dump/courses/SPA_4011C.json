@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers basic acoustics and speech acoustics including frequency, intensity, duration, and wave composition and their psychological correlates, pitch, loudness, time, and sound quality. Lectures, demonstrations, and required laboratory project.", 
+        "number": "4011C", 
+        "subject": "SPA", 
+        "title": "Acoustics for Speech and Hearing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

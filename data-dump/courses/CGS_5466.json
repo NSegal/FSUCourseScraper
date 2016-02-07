@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines fundamental concepts and skills of programming in a high-level language. Flow of control topics such as sequence, selection, iteration, and subprograms are covered. Data structures topics such as arrays, strings, structs, and ADT lists and tables are also covered, along with algorithms using selection and iteration (decision making, finding maxima and minima, basic searching and sorting, simulation, etc.). Good program design using a procedural paradigm, structure, and style are emphasized.", 
+        "number": "5466", 
+        "subject": "CGS", 
+        "title": "Programming for Non-Majors"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1140.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

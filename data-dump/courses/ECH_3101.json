@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students learn the basics of classical and solution thermodynamics. The course forms the link between the mass and energy balance courses, and separations.", 
+        "number": "3101", 
+        "subject": "ECH", 
+        "title": "Chemical Engineering Thermodynamics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3023, ECH 3024, and ECH 3301, all with a grade of \"C\" or higher; and PHY 2049C. Corequisites: ECH 3266 and ECH 3854.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

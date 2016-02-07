@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents the history and principles of basic oceanography, physics, and physiology as they relate to exposure to compressed gas environments and how to deduce safe parameters from those principles. This course provides the theoretical foundation for individuals preparing to be scientific investigators underwater.", 
+        "number": "3761", 
+        "subject": "CJE", 
+        "title": "Introduction to Underwater Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

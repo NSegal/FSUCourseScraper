@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the scope and nature of religious movements, trends, and figures in American religious history, with an emphasis on the role that religious groups and institutions have played in conceptions of America and formations of American identity.", 
+        "number": "2121", 
+        "subject": "REL", 
+        "title": "Religion in the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course enables students to develop skills consistent with professional methods of creating patterns for stage costumes for women and men, including measuring, sizing and fitting on individual body shapes and sizes. Patterning methods include drafting, flat pattern and draping techniques used in creating historically based costumes.", 
+        "number": "5287", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Patterning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 4239 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed as an overview for understanding the geologic perspective in assessing environmental hazards. Topics covered include: beach processes and erosional effects of severe storms, evaluation of flood-prone and wetland areas, evolution of sink holes, landfill sitings and remediation, mine reclamation problems, contaminant transport and contamination plumes, nuclear waste disposal, slope stability issues, etc.", 
+        "number": "5885", 
+        "subject": "GLY", 
+        "title": "Geologic Hazards Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

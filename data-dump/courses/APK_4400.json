@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores selected psychological theories and applications relevant to sport and exercise behavior.", 
+        "number": "4400", 
+        "subject": "APK", 
+        "title": "Sport Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

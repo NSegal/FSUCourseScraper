@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the rationale, sequence, and learning theory in relation to music for the general student (K-12).", 
+        "number": "3344", 
+        "subject": "MUE", 
+        "title": "Teaching General Music K-12"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUE 3311 and MUE 3334.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

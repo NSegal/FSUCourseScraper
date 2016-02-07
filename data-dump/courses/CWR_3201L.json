@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab engages students in hydraulics experiments and demonstrations, followed by formal technical reports in which students report the experimental results.", 
+        "number": "3201L", 
+        "subject": "CWR", 
+        "title": "Hydraulics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 3512, EGN 2212, and MAP 3305. Corequisite: CWR 3201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an integration of the various areas involved within sports pertaining to the legal liability of coaching, facility management, and risk management.", 
+        "number": "5726", 
+        "subject": "SPM", 
+        "title": "Issues in Sport Law"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the developmental processes related to cognitive, physical, and psychosocial changes during adulthood, the associated challenges, and the influences of various contexts in which adults are embedded, such as families and communities.", 
+        "number": "3343", 
+        "subject": "FAD", 
+        "title": "Contexts of Adult Development and Aging"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHD 2220.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

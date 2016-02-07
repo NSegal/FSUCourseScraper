@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of basic performance skills on the baroque recorder and commensurate stylistic techniques through a graduated study of available eighteenth-century pedagogic and performance materials. May be repeated to a maximum of four semester hours.", 
+        "number": "5706", 
+        "subject": "MVW", 
+        "title": "Introduction to the Baroque Recorder"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

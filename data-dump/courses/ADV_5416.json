@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores consumer behavior similarities and differences among Hispanic, Asian, African-American,and Non-Hispanic White cultural market segments in the United States. The course also provides opportunities for original research into issues of culture and marketing communication.", 
+        "number": "5416", 
+        "subject": "ADV", 
+        "title": "Multicultural Marketing Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Recommended prerequisites: ADV 5415 and COM 5331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

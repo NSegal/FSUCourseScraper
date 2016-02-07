@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a total of twelve semester hours for the major. Only three semester hours taken in any Summer session count towards the major.", 
+        "number": "4930", 
+        "subject": "RUS", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

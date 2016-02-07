@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of specialized topics in motion pictures. May berepeated during the same term to a maximum of twelve semester hours.", 
+        "number": "3932", 
+        "subject": "FIL", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

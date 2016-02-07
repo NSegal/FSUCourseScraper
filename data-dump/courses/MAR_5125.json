@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the business-level marketing strategy in the context of global markets and uses the marketing-planning process as a framework for understanding how global environments, markets, and institutions affect the strategic marketing operations of the global business enterprise.", 
+        "number": "5125", 
+        "subject": "MAR", 
+        "title": "Marketing Strategy in the Global Environment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised practical field experiences in various professional settings related to family/child development including human services, agencies, hospitals, educational facilities, and government.", 
+        "number": "5944", 
+        "subject": "FAD", 
+        "title": "Internship-Family/Child"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Family relations/child development majors only. Corequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

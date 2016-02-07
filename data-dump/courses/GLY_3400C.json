@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the theory, processes, mechanics of rock deformation and the deformation of the earth's crust. Field trip is required.", 
+        "number": "3400C", 
+        "subject": "GLY", 
+        "title": "Structural Geology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 2100, GLY 2100L, and GLY 3200C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

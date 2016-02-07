@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the contemporary Latin American landscape, its historical formation, societies and problems.", 
+        "number": "4405", 
+        "subject": "GEA", 
+        "title": "Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

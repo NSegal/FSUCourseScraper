@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for students seeking certification who do not have an undergraduate degree in a teaching field. This course provides the essential elements needed to succeed in a classroom setting. It does not have critical tasks needed for initial certification. It is a part of the Professional Training Option open to all students.", 
+        "number": "4321", 
+        "subject": "EDG", 
+        "title": "Foundations of Teaching"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

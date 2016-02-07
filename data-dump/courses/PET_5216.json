@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course places emphasis on techniques and strategies for changing sport and exercise psychology as well as their theoretical bases.", 
+        "number": "5216", 
+        "subject": "PET", 
+        "title": "Applied Sport and Exercise Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

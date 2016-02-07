@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (3552)", 
+    "basic": {
+        "class_num": "3552", 
+        "course": "5933", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:05:00", 
+            "instructors": [
+                "Tarez Graban"
+            ], 
+            "location": "WMS 0415", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

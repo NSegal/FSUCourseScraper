@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers Interpolation, quadrature, approximation theory, numerical methods for ordinary differential equations and partial differential\u00a0\u00a0\u00a0 equations.", 
+        "number": "5404", 
+        "subject": "MAD", 
+        "title": "Foundations of Computational Mathematics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 5403.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

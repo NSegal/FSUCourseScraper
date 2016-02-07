@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced graduate level computer-aided design class focusing on tools and software to aid in three-dimensional design.", 
+        "number": "5477", 
+        "subject": "IND", 
+        "title": "Computer-Aided Design II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (13883)", 
+    "basic": {
+        "class_num": "13883", 
+        "course": "2010", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "PHI", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Benjamin Murphy"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Benjamin Murphy"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

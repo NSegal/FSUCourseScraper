@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Students selected by the University and the department honors programs may take this course. Consent of the thesis advisor is mandatory. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4970", 
+        "subject": "STA", 
+        "title": "Honors Thesis in Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

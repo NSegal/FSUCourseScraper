@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches students skills and knowledge to teach deaf-blind/multisensory impaired individuals.", 
+        "number": "5131", 
+        "subject": "EVI", 
+        "title": "Teaching Deaf-Blind/Multisensory Impaired Individuals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

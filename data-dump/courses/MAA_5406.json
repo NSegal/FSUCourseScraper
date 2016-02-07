@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers algebra and geometry of complex numbers; elementary functions and their mappings. Analytic functions; integration in the complex plane; Cauchy's integral theorem and related theorems. Representation theorems including the Taylor and Laurent expansions. Calculus of residues. Entire and meromorphic functions.", 
+        "number": "5406", 
+        "subject": "MAA", 
+        "title": "Theory of Functions of a Complex Variable I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAA 4227 or MAA 5307; or MAA 4226 and MAA 4402.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

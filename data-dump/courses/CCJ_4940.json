@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This internship facilitates field placement in an approved criminal justice agency for integration of theory and practice through participant observation study.", 
+        "number": "4940", 
+        "subject": "CCJ", 
+        "title": "Internship in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "15.00"
+    }
+}

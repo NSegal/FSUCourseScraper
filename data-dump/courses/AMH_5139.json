@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the political, social, and economic history of British America from the end of the Seven Years War to the ratification of the U.S. Constitution. Emphasis is given to the origins, course, and aftermath of the colonial rebellion that became the American Revolution, and which led to the founding of the United States. The course considers the fundamental causes of the Revolution and the many ways, some intended by the Founders but many not, in which the former colonies were transformed by the experience.", 
+        "number": "5139", 
+        "subject": "AMH", 
+        "title": "Revolutionary America, 1760-1788"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an opportunity for prospective secondary-science educators to learn more about learning, teaching, curriculum development, and assessment in science. Requires thirty hours of field work in a local secondary school.", 
+        "number": "5332", 
+        "subject": "SCE", 
+        "title": "Methods for Teaching Science in Secondary Schools"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

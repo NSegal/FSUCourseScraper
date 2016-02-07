@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers theoretical and empirical\u00a0 perspectives on the biological and psychosocial aspects of psychopathology.Includes issues of definitionclassification, diagnosis, etiology, as well as treatment implications\u00a0\u00a0\u00a0\u00a0 in the context of human development.", 
+        "number": "6169", 
+        "subject": "CLP", 
+        "title": "Adult Development and Psychopathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Clinical psychology majors only.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

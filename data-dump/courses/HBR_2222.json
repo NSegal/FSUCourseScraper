@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on translation and commentary on selected Hebrew readings. Meets the foreign language requirement for the BA degree. No language\u00a0 laboratory required.", 
+        "number": "2222", 
+        "subject": "HBR", 
+        "title": "Intermediate Hebrew"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

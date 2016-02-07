@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of current evaluation theory and models; emphasis on role evaluation in needs assessment and planning phase of program development.", 
+        "number": "5461", 
+        "subject": "EDF", 
+        "title": "Introduction to Program Evaluation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

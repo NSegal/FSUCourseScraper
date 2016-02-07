@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Students will interact with the anesthesia team in the delivery of clinical care in a wide variety of surgical procedures. Students will learn the physiologic and anatomic differences between pediatric and adult patients and how to apply them to the preoperative evaluation, preoperative management and post operative care. Students will be introduced to a variety of anesthetic techniques.", 
+        "number": "7701", 
+        "subject": "MDE", 
+        "title": "Pediatric Anesthesiology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "4.00"
+    }
+}

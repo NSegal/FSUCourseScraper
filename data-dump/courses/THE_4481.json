@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to production dramaturgy with emphasis on conducting research and preparing written reports. Topics include surveys of the critical literature, cultural background and biography, production history and text preparation.", 
+        "number": "4481", 
+        "subject": "THE", 
+        "title": "Dramaturgy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: THE 3214, THE 4303, and or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a general introduction to growth management and environmental planning through an overview of general planning history, basic legal theory, principals of growth management and land use planning, and introductory environmental management approaches. The first portion of the course covers basic growth management principles, both to identify issues and to study current trends in planning. The second portion of the course covers current practices and approaches to environmental planning that are important to defining environmental planning problems and evaluating alternative courses of action.", 
+        "number": "4318", 
+        "subject": "URP", 
+        "title": "Growth Management and Environmental Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 3000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

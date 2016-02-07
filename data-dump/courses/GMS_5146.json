@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced biomedical sciences course for graduate students to introduce the recent developments in the immune response to virus infection and cancer.\u00a0 The course involves lectures and student-driven presentation and discussion. May be repeated to a maximum of six semester hours.", 
+        "number": "5146", 
+        "subject": "GMS", 
+        "title": "The Immune Response to Infection and Cancer"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BMS 5525, PCB 5137, and PCB 5595.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

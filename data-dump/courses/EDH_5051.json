@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history, philosophy, policies, practices, and problems of America's community colleges, senior colleges, and universities.", 
+        "number": "5051", 
+        "subject": "EDH", 
+        "title": "Higher Education in America: Basic Understandings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

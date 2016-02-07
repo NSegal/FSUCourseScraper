@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the nursing student to the foundations of professional nursing practice which include multidimensional aspects of clients/families, the relationship between quality of care and client outcomes, patient safety, communication, and use of evidence to support practice.", 
+        "number": "3056", 
+        "subject": "NUR", 
+        "title": "Foundations of Nursing Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Nursing major. Corequisite: Semester I Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

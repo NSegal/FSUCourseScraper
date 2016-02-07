@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course aims to develop students' Chinese proficiency in reading and writing while focusing on grammar, composition, and vocabulary building. May be taken concurrently with CHI 3240. May be repeated to a maximum of six semester hours when content changes.", 
+        "number": "3420", 
+        "subject": "CHI", 
+        "title": "Chinese Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

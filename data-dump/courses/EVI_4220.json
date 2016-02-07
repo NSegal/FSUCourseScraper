@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides future teachers of students with visual impairments and rehabilitation teachers with an appreciation for and a realistic understanding of the problems inherent in the orientation and mobility experienced by visually impaired individuals. Stresses techniques for teaching O/M in indoor environments.", 
+        "number": "4220", 
+        "subject": "EVI", 
+        "title": "Introduction to Orientation and Mobility"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

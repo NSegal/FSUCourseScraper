@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys current materials and techniques in music instruction for the general student in the middle school, junior high school, and high school.", 
+        "number": "5369", 
+        "subject": "MUE", 
+        "title": "Organizing and Teaching Music in General Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUE 3334 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

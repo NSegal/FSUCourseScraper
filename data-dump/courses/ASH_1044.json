@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course is on Middle Eastern history and culture with a considerable emphasis on the impact of religion: Christianity, Judaism, and Islam. The primary emphasis of the course is to understand the historical and cultural background of the major problems facing the Middle East today. The course does not count as credit toward the history major.", 
+        "number": "1044", 
+        "subject": "ASH", 
+        "title": "Middle Eastern History and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

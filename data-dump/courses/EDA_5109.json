@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course presents history, rationale, and current status of educational management development (EMD) in Florida. Studies management competencies, acquisition, and their assessment; establishes individualized growth planning. Relates EMD to effective schools and school improvement; addresses implications for prospective administrators and supervisors.", 
+        "number": "5109", 
+        "subject": "EDA", 
+        "title": "Educational Management Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

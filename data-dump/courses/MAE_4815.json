@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the algebra of sets and the algebra of real numbers. Concepts rather than rote manipulations are emphasized. Not open to students majoring in mathematics.", 
+        "number": "4815", 
+        "subject": "MAE", 
+        "title": "Elements of Algebra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

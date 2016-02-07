@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of a supervised internship to provide students with professional experiences in their field. Design of the internship is developed by the student and intern host in consultation with the academic advisor. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5940", 
+        "subject": "DAN", 
+        "title": "Dance Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

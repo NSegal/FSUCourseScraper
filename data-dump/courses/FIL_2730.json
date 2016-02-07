@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction in using industry-standard 3D tools to generate assets, light scenes, and render images. Students apply course concepts to create an original vfx scene extension shot.", 
+        "number": "2730", 
+        "subject": "FIL", 
+        "title": "Introduction to 3D Computer Graphics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

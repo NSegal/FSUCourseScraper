@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to radiation processes and their applications to astrophysical phenomena and space science for senior or first-year graduate students. Topics cover radiative transfer theory, radiation hydrodynamics and matter-light interactions in the interstellar medium and star-forming regions, stellar atmospheres, exploding stars, as well as galaxies.", 
+        "number": "5245", 
+        "subject": "AST", 
+        "title": "Radiative Processes in Astronomy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AST 5210. Corequisite: PHY 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

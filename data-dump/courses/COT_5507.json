@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches computer science students the fundamental discrete mathematics required for serious graduate work in algorithms and theoretical computer science.\u00a0 It specifically covers topics in recurrent problems, sums, integer functions, elementary number theory, binomial coefficients, special numbers, and generating functions.", 
+        "number": "5507", 
+        "subject": "COT", 
+        "title": "Analytic Methods in Computer Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4531.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

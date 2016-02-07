@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum provides experience with individuals with high incidence disabilities.", 
+        "number": "4941", 
+        "subject": "EEX", 
+        "title": "Practicum with Students with High Incidence Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

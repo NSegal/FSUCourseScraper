@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed build on prior investigative courses and to give the student an in depth look at the law as it applies to the use of force, both lethal and non-lethal. Relevant court decisions that drive the investigation of the use of force are examined and their applications explained.", 
+        "number": "5745", 
+        "subject": "CJE", 
+        "title": "Use of Force in Public Safety and Security"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

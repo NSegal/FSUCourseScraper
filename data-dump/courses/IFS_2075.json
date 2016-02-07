@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "The purpose of this seminar is to advance library research, writing skills, and critical thinking skills among lower division students. Through participation in the seminar and research activities, students learn to develop and improve their capacity to communicate complex ideas about a topic of their choosing in speech and in writing.", 
+        "number": "2075", 
+        "subject": "IFS", 
+        "title": "Foundations of Research and Inquiry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

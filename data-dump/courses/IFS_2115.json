@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to help students develop the ability to make sound decisions for getting the most out their limited resources. The course includes learning the basics of cost-benefit analysis and other fundamental economic principles that are necessary for getting the most out of everyday decisions as well as budgeting and investing strategies for maximizing the return on one's financial portfolio. This course also provides students with entrepreneurial strategies for starting and developing business ideas.", 
+        "number": "2115", 
+        "subject": "IFS", 
+        "title": "Making Good Decisions: How to Get the Most Out of Your Money and Life"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

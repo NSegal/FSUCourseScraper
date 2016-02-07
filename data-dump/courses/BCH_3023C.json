@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a survey of modern biochemistry with special emphasis on those concepts which might be of use to nutrition and food scientists.", 
+        "number": "3023C", 
+        "subject": "BCH", 
+        "title": "Introduction to Biochemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 2200 and CHM 2200L both with a grades of \"C-\" or better, or CHM 2211 and CHM 2211L both with grades of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

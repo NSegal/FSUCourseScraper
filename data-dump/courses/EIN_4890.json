@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in a two-part course sequence, this capstone class represents the culmination of the industrial-engineering design sequence and draws upon student training from all previous courses. This course utilizes the six-sigma methodology to reduce variation and defects in order to deliver products and services that meet customer requirements.", 
+        "number": "4890", 
+        "subject": "EIN", 
+        "title": "Industrial Engineering Senior Design Project I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be in final year of the degree program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

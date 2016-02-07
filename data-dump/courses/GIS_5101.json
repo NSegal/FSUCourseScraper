@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a hands-on course on GIS topics, including locational control, spatial data structures, spatial cartographic statistics, modeling and analysis, trends in decision support, sensors, and geographic methods.", 
+        "number": "5101", 
+        "subject": "GIS", 
+        "title": "Geographic Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

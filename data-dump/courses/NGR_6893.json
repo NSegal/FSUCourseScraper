@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines changes in healthcare systems based on evolving healthcare priorities and economic outcomes. Students analyze the relationship among processes, outcomes, and economic indicators; explore financial models of healthcare delivery, including resource management, distribution of services, cost-benefit analyses, return on investments, and outcome-based care; investigate financing of the practice of care-delivery systems viewed on a continuum of individual practitioner-care delivery to acute and complex, multi-level organization systems; and examine key entrepreneurial leadership principles, practices, and creative strategic planning for healthcare ventures.", 
+        "number": "6893", 
+        "subject": "NGR", 
+        "title": "Healthcare Finances, Economics and Entrepreneurship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 5887.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

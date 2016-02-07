@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines methods for the analysis of spatial data, including geostatistical data, lattice data, and point patterns. The course also includes theory and applications of basic principles and techniques.", 
+        "number": "6709", 
+        "subject": "STA", 
+        "title": "Spatial Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5167 and STA 5327; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

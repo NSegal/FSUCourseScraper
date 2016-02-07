@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a framework of knowledge and skills to prepare them for effective and ethical decision making that is congruent with codes of ethics and standard practice in the social-work profession. Also explored are the principles of ethical decision making and various value systems.", 
+        "number": "4290", 
+        "subject": "SOW", 
+        "title": "Ethical Issues in Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

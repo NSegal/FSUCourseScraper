@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to investigate and study the cognitive and thinking processes and their application to problem solving.", 
+        "number": "5028", 
+        "subject": "IND", 
+        "title": "Creative Problem-Solving"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

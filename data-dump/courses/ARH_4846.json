@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history of museums and to debates on the philosophical nature of museums. The course surveys the history of the French nation, from antiquity to the present, from the perspective of its museums and monuments.", 
+        "number": "4846", 
+        "subject": "ARH", 
+        "title": "Museums of Paris"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

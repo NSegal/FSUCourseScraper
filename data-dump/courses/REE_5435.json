@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents an overview of the real estate markets and the laws affecting land use. This course provides an advanced treatment of the legal environment of real estate, including those issues related to property ownership and its transfer, and the contracts applied in the acquisition, operation, and disposition of property.", 
+        "number": "5435", 
+        "subject": "REE", 
+        "title": "Real Estate and Its Legal Environment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

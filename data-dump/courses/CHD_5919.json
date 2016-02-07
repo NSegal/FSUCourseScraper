@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to identify funding sources at local, state, and federal levels. Students review techniques and develop proposals to be sumbitted to child and family funding sources.", 
+        "number": "5919", 
+        "subject": "CHD", 
+        "title": "Grant Writing in Family and Child Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing, background in family and child development, as well as instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

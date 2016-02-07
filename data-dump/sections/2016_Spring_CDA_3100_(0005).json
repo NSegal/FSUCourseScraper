@@ -1,0 +1,37 @@
+{
+    "_unique": "0005-LEC (1260)", 
+    "basic": {
+        "class_num": "1260", 
+        "course": "3100", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "CDA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Stephen Leach"
+            ], 
+            "location": "HOL B0305", 
+            "start_time": "14:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Stephen Leach"
+            ], 
+            "location": "HOL B0305", 
+            "start_time": "14:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

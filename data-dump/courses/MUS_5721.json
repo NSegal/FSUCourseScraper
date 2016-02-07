@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines current theories and research in the perception and\u00a0\u00a0 cognition of music, including studies of the ear and brain as they relate to the human processing of music.", 
+        "number": "5721", 
+        "subject": "MUS", 
+        "title": "Music Perception and Cognition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

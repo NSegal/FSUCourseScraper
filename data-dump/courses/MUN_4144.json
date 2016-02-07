@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students professional-level performance in a wide variety of wind-oriented chamber music. Open to graduate students and selected upper level undergraduate students. May be repeated to a maximum of four semester hours.", 
+        "number": "4144", 
+        "subject": "MUN", 
+        "title": "Chamber Winds"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

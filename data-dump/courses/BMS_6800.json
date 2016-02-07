@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the synthesis of knowledge and skills acquired throughout the previous blocks and clinical experiences and the further development of clinical reasoning.\u00a0 The course prepares the student to begin to contribute meaningfully to real patient care in the workplace during the clinical rotations in Years 3 and 4.", 
+        "number": "6800", 
+        "subject": "BMS", 
+        "title": "Medicine 4: Integrated Cases"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "12.00 - 14.00"
+    }
+}

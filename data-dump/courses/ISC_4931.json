@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This is a special topics course in computational science. May be repeated two times to a maximum of four semester hours, with a maximum of only two semester hours credit allowed to be applied to the Computational Science degree.", 
+        "number": "4931", 
+        "subject": "ISC", 
+        "title": "Junior Seminar in Scientific Computing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing (sixty plus hours).", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

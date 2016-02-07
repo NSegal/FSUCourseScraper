@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students for the professional practice of applied behavior analysis. Ethical guidelines are examined, professional issues in consulting with families are discussed, and the role of the behavior analyst as an ethical business and organizational consultant is covered.", 
+        "number": "5780", 
+        "subject": "EAB", 
+        "title": "Ethical and Professional Issues in Applied Behavior Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

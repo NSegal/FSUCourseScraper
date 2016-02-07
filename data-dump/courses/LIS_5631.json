@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a practical introduction to a variety of printed and electronic sources used to locate information in medicine, consumer health, nursing, and allied health. Course material is intended for those interested in medical and consumer health information resources in medical, public or academic libraries where clients need health-related information.", 
+        "number": "5631", 
+        "subject": "LIS", 
+        "title": "Health Information Sources"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

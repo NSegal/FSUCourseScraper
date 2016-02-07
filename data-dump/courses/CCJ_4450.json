@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an application of organization and administration theories to the criminal justice system.", 
+        "number": "4450", 
+        "subject": "CCJ", 
+        "title": "Criminal Justice Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

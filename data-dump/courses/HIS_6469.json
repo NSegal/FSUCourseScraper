@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces graduate students to the range of scholarship within the history of science and reveals the full sweep of the study of science and society by examining studies of various scientific disciplines and time periods.", 
+        "number": "6469", 
+        "subject": "HIS", 
+        "title": "Historiography and Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

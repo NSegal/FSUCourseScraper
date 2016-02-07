@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the financial strategies for survival and expansion of existing entrepreneurial businesses, as well as for developing new business ventures.", 
+        "number": "4131", 
+        "subject": "GEB", 
+        "title": "Entrepreneurial Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GEB 4113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course utilizes the project cycle and uses it as a reference point to discuss the following issues: problem identification and basic needs assessment, feasibility studies, selection of most appropriate activities, implementation and evaluation of results. The course also explores the implications for blueprint vs. process oriented approaches to project design and implementations.", 
+        "number": "5616", 
+        "subject": "URP", 
+        "title": "Project Planning in Developing Countries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the study of magnetic circuits, electromagnetic torques, and induced voltages. Topics covered include induction motors, variable speed drives, Park's transformers, synchronous machines and generator controls, DC machines, controls, and drives.", 
+        "number": "4220", 
+        "subject": "EEL", 
+        "title": "Electromechanical Dynamics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3216 and EEL 3472.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

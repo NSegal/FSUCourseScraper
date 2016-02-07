@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (13264)", 
+    "basic": {
+        "class_num": "13264", 
+        "course": "1044", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "ASH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:50:00", 
+            "instructors": [
+                "Will Hanley"
+            ], 
+            "location": "DIF 0314", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

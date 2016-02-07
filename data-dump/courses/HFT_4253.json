@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a study of hotel, motel, resort, and other types of lodging operations, including benchmarking, department organization and management, operations, and systems. Emphasis is on rooms, delivering exceptional service, computer usage in lodging properties, and quality control issues.", 
+        "number": "4253", 
+        "subject": "HFT", 
+        "title": "Lodging and Luxury Hotel Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the operational and design features of the physical, chemical, thermal, and biological treatments used in engineering for water and wastewater treatment and the management of solid and hazardous waste.", 
+        "number": "4500", 
+        "subject": "ENV", 
+        "title": "Environmental Unit Processes and Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

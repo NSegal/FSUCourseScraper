@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introductory survey of geographic theories, issues and applications from the human perspective. The course discusses how people interact with each other politically, economically, culturally and socially across distances, scales and within various physical environments. In addition, global contrasts are examined using urban versus rural habitation, local versus transnational trade, and uneven economic development.", 
+        "number": "1400", 
+        "subject": "GEO", 
+        "title": "Human Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

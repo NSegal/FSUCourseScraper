@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the origins and organization of social movements, the dilemmas and challenges facing social movements, the relationship between social movements and political institutions, and the role of social movements in causing social change.", 
+        "number": "3350", 
+        "subject": "SYP", 
+        "title": "Collective Action and Social Movements"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

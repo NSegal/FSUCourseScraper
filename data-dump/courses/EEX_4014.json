@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with an overview of the basic knowledge pertinent to mental disabilities. Special attention is given to the educational, social and psychological aspects of mental disabilities.", 
+        "number": "4014", 
+        "subject": "EEX", 
+        "title": "Introduction to Mental Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

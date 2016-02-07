@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "\"For a complete description, see interdisciplinary science courses listed in the \"\"College of Arts and Sciences\"\" section of this General Bulletin.\"", 
+        "number": "2000C", 
+        "subject": "ESC", 
+        "title": "Earth Science for EC/EE Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

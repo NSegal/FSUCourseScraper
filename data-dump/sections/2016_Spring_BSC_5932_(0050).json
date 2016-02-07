@@ -1,0 +1,26 @@
+{
+    "_unique": "0050-DSC (1016)", 
+    "basic": {
+        "class_num": "1016", 
+        "course": "5932", 
+        "season": "Spring", 
+        "solus_id": "0050", 
+        "status": "Open", 
+        "subject": "BSC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Nora Underwood"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

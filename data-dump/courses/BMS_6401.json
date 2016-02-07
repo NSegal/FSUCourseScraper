@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers concepts of pharmacodynamics and pharmacokinetics, emphasizing the biochemical and physiological bases for understanding drug action while introducing many major classes of drugs.", 
+        "number": "6401", 
+        "subject": "BMS", 
+        "title": "Medical Pharmacology 201"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

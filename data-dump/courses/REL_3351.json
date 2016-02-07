@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates the influence of Japanese religious traditions on Japanese life, culture, and history; as well as the influence of history and politics on modem Japanese religiosity.", 
+        "number": "3351", 
+        "subject": "REL", 
+        "title": "Japanese Religions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

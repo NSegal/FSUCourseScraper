@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (142)", 
+    "basic": {
+        "class_num": "142", 
+        "course": "5046", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ARE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "Jeff Broome"
+            ], 
+            "location": "WJB 3002", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

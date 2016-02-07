@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students learn to conceptualize, design, and program responsive websites as both an applied and creative practice. Through a combination of technical topics in interface design and development such as usability, coding in HTML, CSS, Javascript and Jquery, as well as readings and discussions around net-based artworks and historical and cultural concerns surrounding the internet as a communication platform, students execute interactive projects that are both culturally-relevant and technically sophisticated.", 
+        "number": "3654C", 
+        "subject": "ART", 
+        "title": "Web 1: Art, Design, Code"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201, ART 1300, and ART 1602.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

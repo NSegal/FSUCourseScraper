@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the fundamentals of digital video production. Topics include concepts of videography, video editing, and soundtrack design.", 
+        "number": "5364", 
+        "subject": "COM", 
+        "title": "Foundations of Digital Media"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

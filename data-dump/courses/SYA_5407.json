@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the fourth in a sequence and deals with recursive and non-recursive structural equation models, the identification problem, and issues in estimation and statistical inference. Additional topics include time-ordered data (time-series and panel models), the causal approach to measurement error and latent variables equation context, and current developments in quantitative analysis in sociology.", 
+        "number": "5407", 
+        "subject": "SYA", 
+        "title": "Advanced Quantitative Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SYA 5305, SYA 5406, and SYA 5455.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

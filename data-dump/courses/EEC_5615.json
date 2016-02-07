@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies issues and trends in the area of early childhood education and addresses possible causes and relationships.", 
+        "number": "5615", 
+        "subject": "EEC", 
+        "title": "Issues and Trends in Early Childhood Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

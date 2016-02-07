@@ -1,0 +1,37 @@
+{
+    "_unique": "0004-LEC (10606)", 
+    "basic": {
+        "class_num": "10606", 
+        "course": "5939", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "URP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "William Butler"
+            ], 
+            "location": "BEL 0111", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "William Butler"
+            ], 
+            "location": "BEL 0111", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the close relationship between disease, race, and environment in the development of civilizations of the world.", 
+        "number": "5238", 
+        "subject": "WOH", 
+        "title": "Disease, Race, and Environment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

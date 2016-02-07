@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to provide a comprehensive overview of the major issues underlying the organizational utilization of databases and database management systems. Theoretical, conceptual and practical concerns in the design and implementation of database systems are discussed. Organizational concerns in database use are highlighted through the use of case studies.", 
+        "number": "5206", 
+        "subject": "ISM", 
+        "title": "Database Development and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

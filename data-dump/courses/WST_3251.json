@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an interdisciplinary examination of women's roles in the development of Western culture, focusing on women's contributions to literature, theatre, art, religion, political thought, and science. Concurrently, this course examines what it meant to be female in each era of Western civilization.", 
+        "number": "3251", 
+        "subject": "WST", 
+        "title": "Women in Western Culture: Images and Realities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

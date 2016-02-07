@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes the cultural and historical connections between Spanish America and Spain. Topics of study may include the subaltern in early Spain and Spanish America, nineteenth-century nation identities, and Modernismo/Generacion del 98. May be repeated to a maximum of six semester hours.", 
+        "number": "4150", 
+        "subject": "SPW", 
+        "title": "Transatlantic Encounters"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

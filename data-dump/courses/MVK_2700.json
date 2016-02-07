@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies techniques, artistic skills, and repertory for accompanying. Required of piano performance majors.", 
+        "number": "2700", 
+        "subject": "MVK", 
+        "title": "Piano Accompanying Vocal"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

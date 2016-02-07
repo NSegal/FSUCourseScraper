@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines how gender, as an identity, interaction, institution, and inequality, influences individuals' lives and organizes society.", 
+        "number": "3800", 
+        "subject": "SYD", 
+        "title": "Sociology of Sex and Gender"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

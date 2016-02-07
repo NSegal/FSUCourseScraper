@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the impact of gendered relations on crime and justice. Theories of gender and society are presented and the special relationship between gender and crime is studied.", 
+        "number": "5672", 
+        "subject": "CCJ", 
+        "title": "Gender, Crime and Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

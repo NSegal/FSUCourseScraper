@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the application of the risk management process. Includes risk control, risk financing, and business risk management problems.", 
+        "number": "4347", 
+        "subject": "RMI", 
+        "title": "Commercial Risk Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 4224.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

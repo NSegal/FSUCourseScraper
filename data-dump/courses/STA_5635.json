@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a hands-on introduction to statistical methods for supervised, unsupervised, and semi-supervised learning. It explores fundamental techniques including but not limited to Support Vector Machines, Decision Trees, Linear Discriminant Analysis, Random Forests, Neural Networks, and different flavors of Boosting.", 
+        "number": "5635", 
+        "subject": "STA", 
+        "title": "Applied Machine Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 3032 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the social, economic, and cultural as well as the political development of Russia from the reign of Tsar Nicholas I to the present day. Although particular stress is on internal history, appropriate attention is paid to Russia's role in international relations.", 
+        "number": "3572", 
+        "subject": "EUH", 
+        "title": "History of Russia, 1825 to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

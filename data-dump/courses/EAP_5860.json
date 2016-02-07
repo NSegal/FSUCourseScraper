@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an orally based individualized course in English as a second language, designed to provide practice in diagnosed problem areas.", 
+        "number": "5860", 
+        "subject": "EAP", 
+        "title": "Advanced English Practice for International Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

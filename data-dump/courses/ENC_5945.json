@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers practical experience in editing and professional writing.\u00a0 May be repeated to a maximum of six semester hours.", 
+        "number": "5945", 
+        "subject": "ENC", 
+        "title": "Internship in Editing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

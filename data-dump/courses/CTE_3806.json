@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an overview of businesses that design, produce, distribute, and sell fashion and basic goods. Theoretical foundations and practical application of the principles of retail merchandising.", 
+        "number": "3806", 
+        "subject": "CTE", 
+        "title": "Merchandising Principles"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 2800 and CTE 3201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the musical cultures of Latin America, including Native American, European, African, and Asian derived, and syncretic or mestizo forms.", 
+        "number": "5546", 
+        "subject": "MUH", 
+        "title": "Music of Latin America"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

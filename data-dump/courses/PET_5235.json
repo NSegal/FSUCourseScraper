@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers coaches a better understanding of the processes underlying the learning and performance of skill movements. Focus is on how humans learn skilled actions and how the principles of motor performance and learning can be useful in coaching. Topics cover theories and principles explaining motor behavior and psychological factors related to and/or affecting motor-skill acquisition or performance.", 
+        "number": "5235", 
+        "subject": "PET", 
+        "title": "Motor Learning for Coaches"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course emphasizes that qualities that mark a true professional in the field of crime scene investigation. The course covers crime scene safety, chain of custody, ethics, impartiality, the manipulation, and mishandling or misinterpreting of evidence. There is a focus on preventing contamination, report writing, and courtroom reputation and presentation.", 
+        "number": "3648", 
+        "subject": "CJE", 
+        "title": "Crime Scene Professionalism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

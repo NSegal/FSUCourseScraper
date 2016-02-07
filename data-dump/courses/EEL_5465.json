@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as electromagnetic fields; radiation from simple sources and apertures; receiving antennas; arays-uniformly spaced, non-uniform, pattern synthesis; cylindrical antennas and arrays; radiation from conical and spheroidal structures; slot antennas; open waveguides and small horns.", 
+        "number": "5465", 
+        "subject": "EEL", 
+        "title": "Antenna Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3473 or EEL 4461.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

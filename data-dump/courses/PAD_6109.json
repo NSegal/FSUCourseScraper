@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the government bureaucracies as key elements in modern social systems and the role of society in shaping government bureaucracies.", 
+        "number": "6109", 
+        "subject": "PAD", 
+        "title": "Institutions and Society"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Doctoral student or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

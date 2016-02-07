@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines methods for the practice of doing criticism of rhetorical discourse. Topics include Aristotelian, Metaphor, narrative, post-modern, and cultural approaches to the analysis of text.", 
+        "number": "4680", 
+        "subject": "SPC", 
+        "title": "Methods of Rhetorical Criticism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Recommended Prerequisite: SPC 3231 SPC 3233.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

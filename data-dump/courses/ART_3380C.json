@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores a variety of approaches to drawing using a wide range of media, materials, and strategies.", 
+        "number": "3380C", 
+        "subject": "ART", 
+        "title": "Experimental Drawing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1300C, ART 2301C, and ART 2330C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

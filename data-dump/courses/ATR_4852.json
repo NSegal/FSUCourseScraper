@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the cognitive, affective, and motor skills required to perform athletic-training techniques in practice settings. Techniques reflect those presented in previous the orthopedic assessment/lower and the therapeutic exercise/rehabilitation lecture/lab courses.", 
+        "number": "4852", 
+        "subject": "ATR", 
+        "title": "Athletic Training Clinical V"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 4842.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

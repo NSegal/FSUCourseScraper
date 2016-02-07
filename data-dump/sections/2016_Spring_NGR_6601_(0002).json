@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (8189)", 
+    "basic": {
+        "class_num": "8189", 
+        "course": "6601", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "NGR", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "04:25:00", 
+            "instructors": [
+                "Susan Porterfield"
+            ], 
+            "location": "TBA", 
+            "start_time": "01:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

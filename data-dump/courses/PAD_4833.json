@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses practical and theoretical issues associated with international disaster management. Risk, hazards, and disasters are addressed from a global perspective with particular emphasis placed on the differences in key issues between developing and developed countries.", 
+        "number": "4833", 
+        "subject": "PAD", 
+        "title": "International and Comparative Disaster Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

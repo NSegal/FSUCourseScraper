@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is open to all upper-division organ majors and principals.", 
+        "number": "4931", 
+        "subject": "MVK", 
+        "title": "Service Playing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

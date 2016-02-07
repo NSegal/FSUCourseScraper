@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to enhance student understanding of risk and its implications for individuals, business, and society. The course focuses on the impact of uncertainty on decisions and the risk-reward tradeoff.\u00a0 Students analyze the implications of risk in a variety of settings.", 
+        "number": "2302", 
+        "subject": "RMI", 
+        "title": "Risk in Business and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

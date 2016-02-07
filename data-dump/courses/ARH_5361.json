@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the Golden Age of painting, sculpture, and architecture in France, England, and the Netherlands. Discusses how such figures as Rembrandt and Vermeer encoded meaning in works of detailed realism and contributed to the rise of new subjects in art, including still-life, landscape, and portraiture.", 
+        "number": "5361", 
+        "subject": "ARH", 
+        "title": "Northern Baroque Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

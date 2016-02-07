@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the land use implications of transportation investments and explores strategies for transportation and land use planning that are environmentally sound, socially efficient, and equitable.", 
+        "number": "5716", 
+        "subject": "URP", 
+        "title": "Transportation and Land Use"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

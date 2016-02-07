@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a mechanism for graduate students to use in preparing for the required comprehensive exam in their major area of study.", 
+        "number": "8967", 
+        "subject": "SYA", 
+        "title": "Preparation for Major Area Preliminary Exam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

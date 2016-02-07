@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a history and overview of the counseling profession, including ethical and legal issues, controversies in the field, and the impact of contemporary problems on mental health problems.", 
+        "number": "5007", 
+        "subject": "MHS", 
+        "title": "Foundations of Mental Health Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

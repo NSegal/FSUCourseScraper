@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an advanced graduate-level seminar designed to explore archaeological approaches to modeling regional social processes. The course is restricted to graduate students who have had some training in archaeological methods and theory at the graduate level. The course considers theoretical frameworks and methodological approaches to understanding anthropological processes that are best studied with the region as the primary unit of analysis. The course also introduces students to classic and contemporary literature related to regional models in geography, anthropology, and sociology, and assesses how those models have been applied to specific archaeological contexts. Students are required to gain hands-on experience conducting their own analysis of archaeological data at the regional level.", 
+        "number": "5116", 
+        "subject": "ANG", 
+        "title": "Regional Analysis in Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

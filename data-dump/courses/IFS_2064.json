@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the reception of musical performance and contemporary music in the late nineteenth, twentieth and twenty-first centuries. Through this study students select a metropolitan musical capital for their own research project and evaluate the influences of society on music and music on society through the reception of music in the Western canon.", 
+        "number": "2064", 
+        "subject": "IFS", 
+        "title": "Art Music in Contemporary Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (355)", 
+    "basic": {
+        "class_num": "355", 
+        "course": "2150C", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ASL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Julia Justl"
+            ], 
+            "location": "DIF 0228", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Julia Justl"
+            ], 
+            "location": "DIF 0228", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

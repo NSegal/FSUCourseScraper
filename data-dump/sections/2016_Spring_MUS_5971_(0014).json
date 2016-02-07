@@ -1,0 +1,26 @@
+{
+    "_unique": "0014-THE (6635)", 
+    "basic": {
+        "class_num": "6635", 
+        "course": "5971", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Michael Bakan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

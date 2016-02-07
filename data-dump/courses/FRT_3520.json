@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This Francophone cinema course is offered in two versions: one focusing on the relationship between cinema and Francophone cultures and societies, and another taking a chronological and thematic approach to the movements and directors of metropolitan French cinema. This course is taught in English and, with instructor permission, three hours may be used for major or minor credit. May be repeated to a maximum of six semester hours.", 
+        "number": "3520", 
+        "subject": "FRT", 
+        "title": "French and Francophone Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

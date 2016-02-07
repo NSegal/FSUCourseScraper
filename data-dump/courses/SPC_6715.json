@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to give an advanced perspective on the study of race, ethnicities, and culture. As such, students have the opportunity to explore what constitutes communication competence when interacting with others with vastly different values and perspectives through experimental exercises and empirical research.", 
+        "number": "6715", 
+        "subject": "SPC", 
+        "title": "Race, Culture, and Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

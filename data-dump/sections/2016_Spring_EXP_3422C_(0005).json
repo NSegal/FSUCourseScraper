@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (3698)", 
+    "basic": {
+        "class_num": "3698", 
+        "course": "3422C", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "EXP", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Gina O'Neal-Moffitt"
+            ], 
+            "location": "PDB C0141", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

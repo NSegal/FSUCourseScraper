@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces solid-state power conversion and control circuits, including analysis and design of nonlinear multiple-phase circuits with sinusoidal and non-sinusoidal variables; constant-frequency and variable-frequency input converters; variable-frequency inverters; sensing and processing circuits supporting control systems; and embedded microprocessor control systems.", 
+        "number": "5247", 
+        "subject": "EEL", 
+        "title": "Power Conversion and Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

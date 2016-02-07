@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the evolution of jazz, 1950 to the present, including the study of: Cool, Hard Bop, Free, Post Bop, and Pop-Jazz styles.", 
+        "number": "4802", 
+        "subject": "MUH", 
+        "title": "History of Jazz II (1950 to the Present)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

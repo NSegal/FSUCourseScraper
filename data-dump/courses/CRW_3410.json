@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to playwriting, with emphasis on the relation of the written drama to production. Both published plays and student work are analyzed.", 
+        "number": "3410", 
+        "subject": "CRW", 
+        "title": "Dramatic Technique"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

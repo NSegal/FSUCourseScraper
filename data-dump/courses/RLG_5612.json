@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the history of the Jews and the development of Jewish religious ideas, literature, institutions and practices from the Maccabean Revolt to the redaction of the Babylonian Talmud.", 
+        "number": "5612", 
+        "subject": "RLG", 
+        "title": "Judaism in the Graeco-Roman World"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

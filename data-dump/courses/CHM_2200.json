@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a one-semester survey of organic chemistry intended for students in nutrition and fitness (fitness option), or for students needing an overview of organic compounds, functional groups, and reactions.", 
+        "number": "2200", 
+        "subject": "CHM", 
+        "title": "Survey of Organic Chemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045 and CHM 1045L and CHM 1046 and CHM 1046L, each with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

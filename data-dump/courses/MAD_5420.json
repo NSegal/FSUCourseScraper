@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers unconstrained minimization: one-dimensional, multivariate, including steepest-descent, Newtons method, Quasi-Newton methods, conjugate-gradient methods, and relevant theoretical convergence theorems. Constrained minimization: Kuhn-Tucker theorems, penalty and barrier methods, duality, and augmented Lagrangian methods. Introduction to global\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 minimization.", 
+        "number": "5420", 
+        "subject": "MAD", 
+        "title": "Numerical Optimization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAS 3105, and C, C++, or Fortran.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

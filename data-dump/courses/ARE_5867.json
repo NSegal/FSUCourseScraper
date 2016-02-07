@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the fundamental processes that influence the conceptualization, design, development, review, and management of a grant funded project in a nonprofit cultural organization. The course also features a service-learning component that allows students to prepare their assignments on behalf of and in consultation with a local nonprofit cultural organization.", 
+        "number": "5867", 
+        "subject": "ARE", 
+        "title": "Grant Writing and Development in the Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

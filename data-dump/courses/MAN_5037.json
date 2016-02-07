@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to enhance students' managerial and organizational skills by developing an understanding of the underlying theoretical and practical aspects of three domains of management: (1) strategic management, (2) organizational behavior (OB), and (3) human resource management (HRM). The course surveys various management topics that are categorized by individual, group, and organizational levels of analysis. Cannot be applied for credit for any graduate business degree.", 
+        "number": "5037", 
+        "subject": "MAN", 
+        "title": "Fundamentals of Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

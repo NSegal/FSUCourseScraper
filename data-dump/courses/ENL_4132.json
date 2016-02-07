@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course typically includes Conrad, Lawrence, Joyce, Woolf, Greene, Spark, and Lessing.", 
+        "number": "4132", 
+        "subject": "ENL", 
+        "title": "The Modern British Novel"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "An introduction to the major national, governmental institutions of the United States. Focuses specifically on the presidency, the Congress, the Supreme Court, and the federal bureaucracy by approaching each major institution of national government by looking at the way in which its occupants are selected, at the way in which the institution operates internally, and at its relation with the other major institutions of national government. Serves as the basic introduction to American government for graduate students.", 
+        "number": "5045", 
+        "subject": "POS", 
+        "title": "Seminar in American Government and Public Policy: National Government"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents how diet, nutrition, and functional foods can help promote health, control weight, and manage chronic diseases. This course includes guidelines for client assessment, nutritional diagnosis, intervention, education, monitoring and evaluation.", 
+        "number": "4243", 
+        "subject": "DIE", 
+        "title": "Medical Nutrition Therapy I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: HUN 1201, PET 3322, PET 3322L, HUN 3403.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

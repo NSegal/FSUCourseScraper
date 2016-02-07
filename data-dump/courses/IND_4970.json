@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "For honors credit, the Department of Interior Design requires a two-term honors program consisting of six thesis or project hours to be counted towards elective credit. Upon meeting Florida State University's requirements for honors courses, the students pursue independent creative and academic research as part of the undergraduate program.", 
+        "number": "4970", 
+        "subject": "IND", 
+        "title": "Honors in the Major"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

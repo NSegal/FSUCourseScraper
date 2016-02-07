@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course acquaints students with current model building techniques and systems. Students gain experience in constructing most of the elements commonly associated with models such as doors, windows, textures, fences, trees, and props.", 
+        "number": "4014", 
+        "subject": "TPA", 
+        "title": "Model Making"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

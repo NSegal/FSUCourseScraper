@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers reports and discussions in selected topics of meteorology research. May be repeated to a maximum of twenty semester hours.", 
+        "number": "5920", 
+        "subject": "MET", 
+        "title": "Colloquium: Topics in Meteorology Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

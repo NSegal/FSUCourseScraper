@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This culminating course for students in production enables individual students, focusing on areas they have mastered in intermediate courses, to produce senior thesis video projects.", 
+        "number": "4970", 
+        "subject": "RTV", 
+        "title": "Senior Thesis in Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Senior standing, twelve semester hours of 3000 level production courses, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

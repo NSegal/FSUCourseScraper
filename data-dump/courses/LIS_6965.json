@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This exam is the milestone that determines a student\u2019s readiness to advance to candidacy.", 
+        "number": "6965", 
+        "subject": "LIS", 
+        "title": "Preliminary Exam Preparation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 8.00"
+    }
+}

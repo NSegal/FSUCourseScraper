@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the theoretical, practical, and research components that demonstrate the cultural bases of mathematics education. Mathematical activities from diverse cultures are shared and linguistic difficulties in math are discussed.", 
+        "number": "5690", 
+        "subject": "MAE", 
+        "title": "Ethnomathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers radiative processes in the admosphere; radiative transfer equation, absorption by gases, Rayleigh scattering. Remote sensing using radars and satellites.", 
+        "number": "4450", 
+        "subject": "MET", 
+        "title": "Atmospheric Physics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4420 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

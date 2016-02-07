@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a rapid survey of English history from Anglo-Saxon times to 1783. The lectures emphasize the constitutional and legal aspects of English history, while the readings cover broadly cultural and social aspects as well.", 
+        "number": "3501", 
+        "subject": "EUH", 
+        "title": "The Making of Modern England"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

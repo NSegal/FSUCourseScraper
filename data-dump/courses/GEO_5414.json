@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses topics in geographic theory, beginning with the history and social context of the field, including the debates over regions, urbanization, economy, population, development, and the role of markets and nation states. Each theoretical position is tied to method, both in terms of standard practices and critical challenges.", 
+        "number": "5414", 
+        "subject": "GEO", 
+        "title": "Geospatial Data and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

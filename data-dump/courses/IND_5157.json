@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar provides the opportunity for advanced study in the historiography, research and documentation of restoration and preservation procedures,sources of antiquity, and reproductions.", 
+        "number": "5157", 
+        "subject": "IND", 
+        "title": "Historical Restoration, Research, and Documentation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

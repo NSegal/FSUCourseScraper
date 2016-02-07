@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course familiarizes the student with methods of analysis in mechanicalengineering. Surveys applications of integration and series, ordinary and partial differential equations, and linear algebra.", 
+        "number": "5060", 
+        "subject": "EML", 
+        "title": "Analysis in Mechanical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in mechanical engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

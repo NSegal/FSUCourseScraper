@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the computer and the Internet. The course includes a discussion of the use of these technologies within the criminal justice system. It covers word processing, spreadsheets, databases, graphics, and Internet applications such as e-mail, chat, forum discussions, search engines, Web page browsers, etc.", 
+        "number": "5078", 
+        "subject": "CCJ", 
+        "title": "Computer Applications in Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

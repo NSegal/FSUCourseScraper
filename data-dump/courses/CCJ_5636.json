@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a comparative analysis of crime issues worldwide and reviews criminal justice system responses to both localized and transnational crime.", 
+        "number": "5636", 
+        "subject": "CCJ", 
+        "title": "Comparative Criminology and Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

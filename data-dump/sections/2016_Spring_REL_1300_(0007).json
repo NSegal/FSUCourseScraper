@@ -1,0 +1,37 @@
+{
+    "_unique": "0007-LEC (9247)", 
+    "basic": {
+        "class_num": "9247", 
+        "course": "1300", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "REL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "David Mills"
+            ], 
+            "location": "DIF 0204", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "David Mills"
+            ], 
+            "location": "DIF 0204", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

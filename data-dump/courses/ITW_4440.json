@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers readings and discussions of figures and movements of the 18th and 19th centuries including Goldoni, Alfieri, Foscolo, Manzoni, Leopardi, and Verga. May be repeated to a maximum of six semester hours.", 
+        "number": "4440", 
+        "subject": "ITW", 
+        "title": "18th- and 19th-Century Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ITW 3100 and ITW 3101, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

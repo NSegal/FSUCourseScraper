@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents the central concepts of practical numerical analysis techniques and their application to chemical engineering problems. The course includes interpolation and approximation theory, solution of linear and nonlinear systems, solution of ordinary differential and partial differential equations, single step and multi-step methods, stiff systems, and two-point boundary problems.", 
+        "number": "5852", 
+        "subject": "ECH", 
+        "title": "Advanced Chemical Engineering Computations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 5841.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

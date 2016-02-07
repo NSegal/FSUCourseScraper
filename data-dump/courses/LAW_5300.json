@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores jurisdiction of person, subject matter, and venue of federal and state courts; pleadings, complaints, answer, and reply; motion for judgment on pleadings and summary. Required course.", 
+        "number": "5300", 
+        "subject": "LAW", 
+        "title": "Civil Procedure"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

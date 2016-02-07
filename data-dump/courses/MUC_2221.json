@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies techniques of composition. For composition majors only. May be repeated to a maximum of four semester hours.", 
+        "number": "2221", 
+        "subject": "MUC", 
+        "title": "Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUC 1211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

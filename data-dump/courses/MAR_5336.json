@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes an integrated marketing communication approach to the structure and function of corporate communication and its role in managing a corporation's overall reputation. Specifically, this course examines strategic communication planning and how the corporation communicates with its various publics, including consumers, employees, investors, the media, government, and society at large. The course also addresses crisis avoidance and crisis communication planning.", 
+        "number": "5336", 
+        "subject": "MAR", 
+        "title": "Strategic Corporate Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the accurate documentation of crime and accident scenes and the proper production of visual aids that can be used with scientific reliability in investigation and the courtroom. The course teaches hands on operation of scene documentation and imaging equipment to enable students to create images that depict an accurate reproduction of a crime scene that is fit for an investigation or the courtroom.", 
+        "number": "4655L", 
+        "subject": "CJE", 
+        "title": "Crime and Accident Scene Imaging and Reconstruction Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CJE 4655.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

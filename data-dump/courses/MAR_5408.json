@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on practical and theoretical issues associated with an array of sales leadership activities, including hiring salespeople, desig\u00a0 ning and implementing training programs, in-field coaching and development , motivating and compensating salespeople, and team building.", 
+        "number": "5408", 
+        "subject": "MAR", 
+        "title": "Sales Leadership"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the concepts of nature of literature, relevant developments in literary studies, theory and criticism, strategies of promoting student response to literary works.", 
+        "number": "5064", 
+        "subject": "LAE", 
+        "title": "Reader Response to Literature: Research and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

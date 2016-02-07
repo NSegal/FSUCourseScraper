@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of informal seminars and colloquia for critical review of research work in progress and advanced research topics, presented by doctoral students, faculty, and visitors. Registration for credit requires departmental approval. May be repeated without limit.", 
+        "number": "6938", 
+        "subject": "ECO", 
+        "title": "Doctoral Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 3.00"
+    }
+}

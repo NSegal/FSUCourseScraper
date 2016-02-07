@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents a review and further study of grammar and idiomatic constructions. Composition practice augments the skills developed.", 
+        "number": "3420", 
+        "subject": "ITA", 
+        "title": "Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

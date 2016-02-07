@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on how the concept of multiculturalism is central to understanding the development of educational policies and practices in the twentieth century. This course provides a broad survey of the ways in which this concept helps to describe and explain current programs both in and out of school and in the university settings.", 
+        "number": "2073", 
+        "subject": "EDF", 
+        "title": "Diversity in and out of School: Multicultural Policies and Practices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

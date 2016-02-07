@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes digital experiments in color perception combined with uses of color in visual communication and expression.", 
+        "number": "2607", 
+        "subject": "ART", 
+        "title": "Digital Color Theory and Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1602C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

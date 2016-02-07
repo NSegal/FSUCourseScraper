@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab provides practice with the concepts and techniques in remote sensing. Specifically, the lab covers the foundations of remote sensing, aerial photography and photogrammetry, characteristics of various sensing systems, remote sensing applications, and basic skills in digital image processing.", 
+        "number": "4035L", 
+        "subject": "GIS", 
+        "title": "Introduction to Remote Sensing Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: GIS 4035.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

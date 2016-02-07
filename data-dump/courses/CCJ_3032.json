@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with an understanding of the impact of the\u00a0\u00a0 media on crime, criminals, the criminal justice system, and the general public. The focus of this course is the historical impact of media and its influences on the outcomes of both routine and sensational cases within the American criminal justice system and how media reporting affects the policy\u00a0 making processes and the social definitions of crime.", 
+        "number": "3032", 
+        "subject": "CCJ", 
+        "title": "Crime in Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

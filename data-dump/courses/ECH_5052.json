@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course for first-term graduate students includes instruction in the performance of scientific research, including problem definition, literature review, project proposal development, laboratory and computational research, oral presentations, technical report writing, and professional conduct.", 
+        "number": "5052", 
+        "subject": "ECH", 
+        "title": "Research Methods in Chemical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

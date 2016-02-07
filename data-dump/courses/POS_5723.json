@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar that surveys game theory with a specific emphasis on utilizing those mathematical models to understand political phenomena. Thus, there will be a dual focus on tools and exemplary applications.", 
+        "number": "5723", 
+        "subject": "POS", 
+        "title": "Game Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

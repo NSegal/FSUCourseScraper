@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar integrates three areas of research: social psychology, social gerontology, and life course research, with a focus on middle and later life. Topics include health, caregiving, retirement, and family relationships.", 
+        "number": "5733", 
+        "subject": "SYP", 
+        "title": "Social Psychology of Aging"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

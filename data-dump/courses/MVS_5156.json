@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for beginning graduate guitar students. Includes beginning acoustical guitar techniques, guitar accompaniment skills, and song leading.", 
+        "number": "5156", 
+        "subject": "MVS", 
+        "title": "Beginning Class Guitar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

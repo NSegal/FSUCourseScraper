@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables woodwind, brass, and percussion students to perform as well as to study works from the standard orchestral literature. May be repeated to a maximum of twenty-four hours.", 
+        "number": "4504", 
+        "subject": "MUL", 
+        "title": "Orchestral Wind Repertory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "2.00"
+    }
+}

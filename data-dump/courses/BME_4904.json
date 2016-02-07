@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves the completion of an Honors Undergraduate Research Program (URP) for six hours with a minimum grade of \"C\". This program requires independent student research on a topic relevant to biomedical engineering and may be used to satisfy the Chemical Engineering Elective requirement. May be repeated to a maximum of six semester hours.", 
+        "number": "4904", 
+        "subject": "BME", 
+        "title": "Undergraduate Research Project"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BME 4403C, CHM 4410, ECH 3101, ECH 3266, ECH 3854, a 3.0 GPA, and instructor permission. Corequisites: ECH 3274L, ECH 3418, and ECH 4267.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

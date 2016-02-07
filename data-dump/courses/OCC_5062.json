@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the application of radiochemistry and stable isotope geochemistry in the oceanographic and environmental sciences.", 
+        "number": "5062", 
+        "subject": "OCC", 
+        "title": "Marine Isotopic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: OCC 5050 and OCP 5050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

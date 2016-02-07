@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves interaction with professional film/video makers in screenings and discussions of each others work. Five semester hours are required for graduation.", 
+        "number": "5930", 
+        "subject": "FIL", 
+        "title": "Proseminar in Motion Picture, Television, and Recording Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

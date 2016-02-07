@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on a thematic approach to the understanding and appreciation of works of art.", 
+        "number": "2000", 
+        "subject": "ARH", 
+        "title": "Art, Architecture, and Artistic Vision"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

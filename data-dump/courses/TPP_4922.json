@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides evaluating systemization, supervision, and critiques for performance work required for BFA program. May be repeated to a maximum of ten semester hours.", 
+        "number": "4922", 
+        "subject": "TPP", 
+        "title": "Performance Workshop in Acting/Directing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BFA candidates only and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

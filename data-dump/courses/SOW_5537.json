@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an elective placement designed to assist students in developing additional skills in social work practice in order to meet specialized and individual needs. The course may be taken only by special arrangement through the Office of Field Instruction.", 
+        "number": "5537", 
+        "subject": "SOW", 
+        "title": "Field Instruction: Special Placement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course expects students to complete a large-scale design project involving the full implementation of the IPPED process. Project includes a written report and requires the use of various techniques and methods. Two-semester sequence.", 
+        "number": "4891", 
+        "subject": "EIN", 
+        "title": "Industrial Engineering Senior Design Project"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be in final year of the degree program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

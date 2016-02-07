@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of philosophical discussions of human rights and the moral and political questions arising from their violations. We examine the philosophical foundations for human rights claims, as well as women's human rights, political evil and mass atrocities. We analyze questions of justice and forgiveness in the context of social healing and democratization.", 
+        "number": "3351", 
+        "subject": "PHM", 
+        "title": "Philosophy of Human Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

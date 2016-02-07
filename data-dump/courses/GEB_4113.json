@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the management of rapidly growing entrepreneurial firms. Topics include building an infrastructure, planning stage financing, managing under adversity and managing a business with rapid growth.", 
+        "number": "4113", 
+        "subject": "GEB", 
+        "title": "Managing the Small to Mid-Sized Company"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

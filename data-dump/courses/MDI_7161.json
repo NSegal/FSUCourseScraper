@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to work as an integral part of the OB/GYN residency team. Students take one call per rotation week and round on at least 1-2 labor patients and any routine patients that they deliver. Students write notes every two hours while on labor and delivery rounds, and give a fifteen to thirty minute case presentation on the last day of rotation.", 
+        "number": "7161", 
+        "subject": "MDI", 
+        "title": "Labor and Delivery Sub-Internship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

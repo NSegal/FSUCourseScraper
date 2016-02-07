@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (13830)", 
+    "basic": {
+        "class_num": "13830", 
+        "course": "1093", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "LAH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:15:00", 
+            "instructors": [
+                "Gustavo Montufar"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:15:00", 
+            "instructors": [
+                "Gustavo Montufar"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0053-DIS (14931)", 
+    "basic": {
+        "class_num": "14931", 
+        "course": "4905", 
+        "season": "Spring", 
+        "solus_id": "0053", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jack Saltiel"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

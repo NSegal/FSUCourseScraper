@@ -1,0 +1,26 @@
+{
+    "_unique": "0046-LAB (9157)", 
+    "basic": {
+        "class_num": "9157", 
+        "course": "4920", 
+        "season": "Spring", 
+        "solus_id": "0046", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Kelley Kline"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

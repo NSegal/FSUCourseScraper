@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students learn through the exploration and development of curricular and/or program development in the arts in formal and informal educational settings.", 
+        "number": "5245", 
+        "subject": "ARE", 
+        "title": "Curriculum and Programs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

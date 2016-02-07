@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course illustrates how digital technologies are used in professional environments to assist in productivity. Topics include information systems, databases, e-commerce, systems and software development, multimedia, and information security. While developing a deeper understanding of information systems and digital technologies, students also acquire valuable hands-on skills that include digital graphics and photo editing, animation, database development, and Web development.", 
+        "number": "2064", 
+        "subject": "CGS", 
+        "title": "Computer Literacy II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CGS 2060 or equivalent computer experience or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

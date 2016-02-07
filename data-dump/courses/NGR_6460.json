@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents, analyzes/evaluates general principles of drug action, signs and stages of anesthesia, uptake and distribution of inhalation agents, and pharmacology of specific drug classes: inhalation agents, anesthesia induction drugs, opiate agonists/ antagonists, and non-narcotic agents.", 
+        "number": "6460", 
+        "subject": "NGR", 
+        "title": "Pharmacology of Anesthesia I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the nurse anesthesia program and completion of an undergraduate pharmacology course.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

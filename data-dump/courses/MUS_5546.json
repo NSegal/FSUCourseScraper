@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with basic theory and history of sound, knowledge of analog and digital sound recording and manipulation techniques, and an introduction to the art of electronic music.", 
+        "number": "5546", 
+        "subject": "MUS", 
+        "title": "Digital Music Synthesis I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

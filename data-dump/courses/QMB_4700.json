@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of quantitative analysis of management decisions involving such topics as linear programming, inventory control, queuing, and project management.", 
+        "number": "4700", 
+        "subject": "QMB", 
+        "title": "Operations Research for Managerial Decisions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

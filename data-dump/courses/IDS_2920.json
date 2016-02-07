@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a seminar-structured colloquium for The Undergraduate Research Opportunity Program (UROP) that provides a set of experiences to introduce students to undergraduate research at FSU. Topics vary. May be repeated to a maximum of two semester hours.", 
+        "number": "2920", 
+        "subject": "IDS", 
+        "title": "UROP Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

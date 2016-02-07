@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This capstone doctoral seminar helps students integrate the information acquired during the doctoral program with the content of the Advanced ResearchMethods class and other research electives.In preparation for doctoral candidacy, this seminar assists students in consolidating and refining their intellectual work through the development of a research plan. If students choose to develop a dissertation research plan, they must work closely with the members of their committee, ad the final approval of the plan rests with the committee.", 
+        "number": "6498", 
+        "subject": "SOW", 
+        "title": "Integrative Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

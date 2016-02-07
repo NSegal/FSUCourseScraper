@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses threats to and vulnerabilities of information systems and provides hands-on opportunities for students to work with current counter-threat technology. This course also covers analytics principles to support vulnerability assessment and countermeasure design.", 
+        "number": "4361", 
+        "subject": "CIS", 
+        "title": "Applied Computer Security"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CDA 3100.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

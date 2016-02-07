@@ -1,0 +1,26 @@
+{
+    "_unique": "0014-THE (9025)", 
+    "basic": {
+        "class_num": "9025", 
+        "course": "5973", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "THE", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Michael Kofler"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

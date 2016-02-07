@@ -1,0 +1,37 @@
+{
+    "_unique": "0008-LEC (13868)", 
+    "basic": {
+        "class_num": "13868", 
+        "course": "3240", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "MAN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:15:00", 
+            "instructors": [
+                "Raymond George"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:15:00", 
+            "instructors": [
+                "Raymond George"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

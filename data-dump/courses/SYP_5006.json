@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on sociological and psychological approaches to self and identity along with the cognitive aspects of the self-concept. This is an advanced seminar, so students should have a background in sociological theory and methods, social psychology, and/or methods of social science research.", 
+        "number": "5006", 
+        "subject": "SYP", 
+        "title": "Identity and the Self"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

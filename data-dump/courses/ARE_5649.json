@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the history of the development of theoretical structures for the practice of art therapy.\u00a0 Content is linked to multiple psychological perspectives including psychoanalytic, analytic, cognitive, and behavioral approaches.\u00a0 Theory and practice are presented through lectures, demonstration tapes, and studio experiences.", 
+        "number": "5649", 
+        "subject": "ARE", 
+        "title": "Theories of Art Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

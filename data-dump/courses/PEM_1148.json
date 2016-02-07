@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a beginning-level fitness-walking course developed to increase the physical strength and overall health of participants. Students are slowly introduced to a walking program appropriate for them. Intensity of the program increases as the student's skill level and endurance increases. No previous experience or knowledge is necessary.", 
+        "number": "1148", 
+        "subject": "PEM", 
+        "title": "Fitness Walking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the \"art\" and \"science\" of fundraising, an endeavor about people, personalities, and personal relationships. The assigned readings give students the tools needed to successfully engage in fundraising for profit and/or nonprofit organizations.", 
+        "number": "6517", 
+        "subject": "SPM", 
+        "title": "Fundraising in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

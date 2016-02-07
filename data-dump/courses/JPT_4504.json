@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to the Japanese Tea Ceremony, from its inception in medieval Japan to its metamorphosis under 20th century nationalism and its global expansion during the postwar economic boom. Taught in English.", 
+        "number": "4504", 
+        "subject": "JPT", 
+        "title": "The Culture of Tea in Japan"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

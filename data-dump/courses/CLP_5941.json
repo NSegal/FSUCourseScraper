@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a ten hour per week practicum in intake, assessment, and therapy including direct client contact, supervision, and staffing. in the on-campus Psychology Clinic. May be repeated to a maximum of twenty-four\u00a0\u00a0\u00a0\u00a0\u00a0 semester hours.", 
+        "number": "5941", 
+        "subject": "CLP", 
+        "title": "Psychology Clinic Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 5325, CLP 5196, and CLP 6169.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

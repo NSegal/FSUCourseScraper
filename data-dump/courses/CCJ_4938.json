@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course content varies as instructors present different developments, problems, and controversies. May be repeated to a maximum of twelve semester hours. May be repeated within the same semester.", 
+        "number": "4938", 
+        "subject": "CCJ", 
+        "title": "Special Topics in Criminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

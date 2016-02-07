@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the design and operation of systems for employee recruitment and selection, including current practice and issues.", 
+        "number": "4320", 
+        "subject": "MAN", 
+        "title": "Staffing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAN 3240 and MAN 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

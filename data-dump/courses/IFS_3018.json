@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines attitudes towards sexuality in ancient Greek and Roman culture, and the influence of Greek and Roman norms on later cultures and periods, including and especially our own; sexual identities play a large and increasing role in modern political life. Students explore a wide variety of literary, non-literary, and visual material in order to understand the dynamics of sexuality and power as they operate in the ancient and modern world.", 
+        "number": "3018", 
+        "subject": "IFS", 
+        "title": "Ancient Sexualities and Modern Sexual Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

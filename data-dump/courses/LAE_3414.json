@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines approaches in building a literature program for the elementary grades. Critical survey of literature for children and consideration of teaching techniques.", 
+        "number": "3414", 
+        "subject": "LAE", 
+        "title": "Literature in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: Block I.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

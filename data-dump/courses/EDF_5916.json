@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the opportunity to develop a written research proposal (including literature review) and to select and specify the appropriate research design and data collection methods to answer one's research questions.", 
+        "number": "5916", 
+        "subject": "EDF", 
+        "title": "Research Proposal Writing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EDF 5481.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

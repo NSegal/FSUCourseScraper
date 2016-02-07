@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is an introduction to references and research tools in international relations; disciplinary and interdisciplinary approaches, and basic concepts in the field. Provides a core course for all majors in the interdepartmental master's program in international affairs.", 
+        "number": "5938", 
+        "subject": "INR", 
+        "title": "Joint Seminar in International Affairs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

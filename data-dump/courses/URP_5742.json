@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces housing and community development issues, problems, and policy. Attention is focused on the operation of the housing market, historical development of housing and community development problems, and the evaluation of public and private sector responses to these problems.", 
+        "number": "5742", 
+        "subject": "URP", 
+        "title": "Problems and Issues in Housing and Community Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

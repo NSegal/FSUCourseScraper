@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores Uniform Commercial Code. The law of sales, commercial paper, secured transactions, competition, and the antitrust laws; professional liability.", 
+        "number": "3350", 
+        "subject": "BUL", 
+        "title": "Uniform Commercial Code Business Law Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BUL 3310 or BUL 3330.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

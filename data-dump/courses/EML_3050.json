@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores mathematical and numerical tools relevant to practical applications in mechanical engineering, as well as modeling of real physical systems using mathematical formulation. Subjects include Fourier Series and Integrals; Fourier Transform and energy spectrum; solution of partial differential equations using separation of variables, finite difference methods, and finite element methods; and numerical interpolation and integration.", 
+        "number": "3050", 
+        "subject": "EML", 
+        "title": "Analytical Tools in Mechanical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EML 3002C, EML 3004, and MAP 3305. Corequisites: EML 3011C and EML 3013C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

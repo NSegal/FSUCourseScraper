@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2685)", 
+    "basic": {
+        "class_num": "2685", 
+        "course": "2085", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "EDF", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Shannon Gooden"
+            ], 
+            "location": "STB G157", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

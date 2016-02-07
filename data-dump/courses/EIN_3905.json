@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary and each case must be approved by the department chairperson. May be repeated to a maximum of six semester hours.", 
+        "number": "3905", 
+        "subject": "EIN", 
+        "title": "Directed Independent Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission from the department chairperson.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

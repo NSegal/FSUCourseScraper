@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "After a general overview of Italian history and culture, this course introduces students to a sample of novels, plays, paintings and movies that present key aspects of Italian culture and its achievements. Taught in English.", 
+        "number": "3430", 
+        "subject": "ITT", 
+        "title": "Masterpieces of Italian Literature and Culture in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the following topics: special theory of relativity; tensor analysis and curvature; general theory of relativity; experimental tests; black holes, gravitational radiation, and cosmology.", 
+        "number": "5606", 
+        "subject": "PHZ", 
+        "title": "Special and General Relativity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 5226 and PHY 5326.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare teachers to teach functional reading and related academic skills to individuals with mental disabilities.", 
+        "number": "4360", 
+        "subject": "EMR", 
+        "title": "Functional Reading, Academics, and Life Skills\u00a0 for Individuals with Mental Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to work as an integral part of the OB/GYN residency team. Students take one call per rotation week and round on all GYN patients that they operated on. Students assist on operative cases and may be assigned private attending cases, if desired. Students give a 15-30 minute case presentation on the last day of rotation.", 
+        "number": "7163", 
+        "subject": "MDI", 
+        "title": "GYN Surgery Sub-Internship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "4.00"
+    }
+}

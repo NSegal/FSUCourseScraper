@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar is designed to introduce the current problems facing the leisure profession and the practitioner and to teach students to effectively discuss issues in a seminar setting.", 
+        "number": "4930", 
+        "subject": "LEI", 
+        "title": "Senior Seminar in Recreation, Tourism, and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LEI 3161.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

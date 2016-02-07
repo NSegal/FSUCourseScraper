@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected topics in meteorology and climatology not covered in other courses. May be repeated as content changes to a maximum of twelve semester hours.", 
+        "number": "4159", 
+        "subject": "MET", 
+        "title": "Selected Topics in Meteorology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 2700 with a grade of \"C\" or better. Corequisites: MET 2101, MET 3300, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

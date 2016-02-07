@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers a comparison of the ways in which societies respond to defining, and sometimes traumatic, events in their histories. Using the Persian Wars of the 5th c. BCE, in which a small and often disunited group of Greeks successfully fought off the invasions of the powerful Persian Empire, as well as the attacks on the United States on September 11th, 2001 as the major touchstones for our investigations, we shall look at some of the important ways in which societies remember, memorialize, and try to come to grips with major events in their histories.", 
+        "number": "2005", 
+        "subject": "IFS", 
+        "title": "Defining Moments and Identities: From the Persian Wars to September 11th"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

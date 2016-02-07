@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides broad exposure to the theories and practice of effective leadership and supervision in today's business and explores contemporary leadership challenges from a practical point of view, with opportunities to develop and practice effective leadership skills.", 
+        "number": "4143", 
+        "subject": "MAN", 
+        "title": "Contemporary Leadership Challenges"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

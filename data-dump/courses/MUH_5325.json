@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Medieval.", 
+        "number": "5325", 
+        "subject": "MUH", 
+        "title": "History of Music: Medieval"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

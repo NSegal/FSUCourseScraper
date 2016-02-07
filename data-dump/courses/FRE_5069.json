@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a translation examination to ascertain the student's ability to read research materials written in French. Use of translation software is prohibited.", 
+        "number": "5069", 
+        "subject": "FRE", 
+        "title": "Reading Knowledge Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

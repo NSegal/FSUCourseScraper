@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (11283)", 
+    "basic": {
+        "class_num": "11283", 
+        "course": "2000", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "ECO", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Joseph Calhoun"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

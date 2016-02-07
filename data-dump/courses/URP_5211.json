@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to descriptive and associative statistics as applied to public-policy problems encountered by planners. Topics include basic definitions and descriptive measures, probability theory, sampling, and inference. Elementary multivariate techniques are covered, including those appropriate to the analysis of nominal and interval scales.", 
+        "number": "5211", 
+        "subject": "URP", 
+        "title": "Planning Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This 2 or 4 week experience is designed to provide a deeper understanding\u00a0 and appreciation of the broad field of global (or international) health.\u00a0\u00a0 It is composed of a series of readings, online discussion groups and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 written assignments.", 
+        "number": "7070", 
+        "subject": "MDE", 
+        "title": "Global Health Elective"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

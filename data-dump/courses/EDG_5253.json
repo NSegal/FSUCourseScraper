@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the foundation for designing, implementing, and evaluating curriculum in the context of change theory, school restructuring, and benchmarking processes. The course is designed for current and prospective administrators interested in understanding the broad implications of curriculum issues on organizational leadership and management.", 
+        "number": "5253", 
+        "subject": "EDG", 
+        "title": "Designing, Implementing and Evaluating Curriculum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDG 5250.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the arts and architecture of the Native American peoples of the Southwest, beginning with ancient times and emphasizing the arts of the present Pueblo people from the sixteenth century to the present.", 
+        "number": "5606", 
+        "subject": "ARH", 
+        "title": "Native American Arts and Architecture of the Southwest"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

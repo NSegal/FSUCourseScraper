@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on methods of analyzing economic data, in addition to teaching students how to accurately read and interpret articles containing economic data. The course includes a look at various statistical analysis software available, applying statistical software to analyze economic data, interpreting the meaning of the statistical output, and presenting the findings in a meaningful manner.", 
+        "number": "5434", 
+        "subject": "ECO", 
+        "title": "Analysis of Economic Data"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the spatial distributions of flora and fauna, vegetation dynamics, ecosystem change and issues related to biodiversity, invasive species, wildfire policy and debates over wilderness.", 
+        "number": "5305", 
+        "subject": "GEO", 
+        "title": "Biogeography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

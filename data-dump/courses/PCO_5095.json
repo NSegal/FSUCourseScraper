@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the effective application of computer technology in counseling psychology with an emphasis on mental health, education, and rehabilitation.", 
+        "number": "5095", 
+        "subject": "PCO", 
+        "title": "Computer Applications in Counseling Psychology and other Human Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

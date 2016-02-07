@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the structure and function of the human central nervous system, with emphasis on its role in cognition and behavior across the lifespan, in health and in neurological and psychiatric disease. Dissection laboratory sessions are included. The course integrates knowledge from across the traditional disciplines in basic, behavioral and clinical sciences and applies that knowledge in understanding and treating patients.", 
+        "number": "6046C", 
+        "subject": "BMS", 
+        "title": "Medicine 3 Human Systems in Health and Disease: Neuroscience: CNS and Behavior"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "10.00 - 12.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to analyze themes and techniques associated with poetry in English from the end of World War II to the present. Poets studied typically include Olson, Ginsberg, Baraka, Clifton, Bishop, Lowell, Plath, Heaney, and Rich.", 
+        "number": "4034", 
+        "subject": "LIT", 
+        "title": "Postmodern and Contemporary Poetry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 1102 and ENC 1122 or equivalents.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "0002-LEC (4792)", 
+    "basic": {
+        "class_num": "4792", 
+        "course": "5522", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "09:20:00", 
+            "instructors": [
+                "Steve Johnson"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "08:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "09:20:00", 
+            "instructors": [
+                "Steve Johnson"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "08:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:20:00", 
+            "instructors": [
+                "Steve Johnson"
+            ], 
+            "location": "LAW 0208", 
+            "start_time": "08:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

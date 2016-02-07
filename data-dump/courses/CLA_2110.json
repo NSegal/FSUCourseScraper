@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to different aspects of Greek, especially Athenian, culture, society, history, and literature from the archaic age (8th-6th centuries BCE) through the classical era (5th-4th centuries BCE) and beyond. The goal is to understand the Greeks through their words and the views of modern scholars, which students encounter in their assigned texts, translations of primary sources, and through lectures.", 
+        "number": "2110", 
+        "subject": "CLA", 
+        "title": "Debates About the Past: Greek Civilization, History and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

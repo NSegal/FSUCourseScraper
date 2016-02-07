@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the scope and content of population study, with attention to demographic theories, data, and research; factors affecting population change, mortality, fertility, mobility, and population composition and distribution, and empirical and policy consequences of population dynamics.", 
+        "number": "5045", 
+        "subject": "SYD", 
+        "title": "Introduction to Demography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

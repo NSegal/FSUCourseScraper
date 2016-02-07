@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores various computer rendering techniques for the costume designer and enables the student to develop an understanding of computer presentation programs and digital portfolios.", 
+        "number": "5356", 
+        "subject": "TPA", 
+        "title": "Computer Rendering for Costume Designers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 5047.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

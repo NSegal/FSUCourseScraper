@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (12430)", 
+    "basic": {
+        "class_num": "12430", 
+        "course": "3003", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Joshua Weaver"
+            ], 
+            "location": "HOL B0201", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

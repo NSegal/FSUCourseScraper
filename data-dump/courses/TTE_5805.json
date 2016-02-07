@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course goes over the principles and procedures for the geometric design of highways and streets. The course also includes considerations of traffic, land use, and aesthetic factors.", 
+        "number": "5805", 
+        "subject": "TTE", 
+        "title": "Highway Geometric Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CEG 2202, CEG 2202L, and TTE 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

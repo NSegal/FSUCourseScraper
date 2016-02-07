@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers groups, group mappings; direct products, linear algebras; rings and ring mappings; extensions of rings and fields; factorization theory; groups with operators; Galois theory; structure of fields;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 valuations.", 
+        "number": "5312", 
+        "subject": "MAS", 
+        "title": "Abstract Algebra II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 5311.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

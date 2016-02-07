@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the first in a two-course series for seniors in which students complete a business plan for the creation of a new venture and construct a tradeshow booth to promote their venture. In this first course, students learn how to identify emerging opportunities for goods or services and demonstrate the need for such goods or services through market research. Students have the opportunity to collaborate with the university technology transfer office and a campus inventor to investigate the feasibility of a new technology. Students also learn about the technology commercialization process and the legal environment of technology commercialization.", 
+        "number": "4014", 
+        "subject": "ENT", 
+        "title": "Creating New Ventures I: Opportunity Recognition and Market Feasibility"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENT 3413.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

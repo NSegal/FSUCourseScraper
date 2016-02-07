@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines various communication patterns basic to individual and group relationships. Course emphasizes the development of interactive skills paramount to effective communication with individuals and groups involved with health care issues. It provides an opportunity for the validation of oral communication and a range of public speaking experiences especially related to health care.", 
+        "number": "3076", 
+        "subject": "NUR", 
+        "title": "Communication in Health Care"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENC 1101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

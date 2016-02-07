@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The analytical focus of this course is concentrated on the most important features of transition from centrally planned command economies toward market economic systems.", 
+        "number": "5335", 
+        "subject": "ECS", 
+        "title": "Economies in Transition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

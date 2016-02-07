@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course gives advanced graduate students the opportunity to organize and teach basic courses in audiology and speech-language pathology under the direct supervision of faculty. May be repeated to a maximum of five semester hours. A maximum of three semester hours may apply to the master's degree.", 
+        "number": "5940", 
+        "subject": "SPA", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores how the idea of Florida took shape and shifted in the minds of Spaniards from the sixteenth-nineteenth centuries. Throughout, students consider how their reconstruction of the Spanish vision of Florida may enrich and even alter their understanding of Florida today.", 
+        "number": "2035", 
+        "subject": "IFS", 
+        "title": "(Re)Imagining Florida: From Spanish Colonialism to Today"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

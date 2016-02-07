@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides class participants with the knowledge and skills to effectively manage the behavior of learners with disabilities within a classroom setting. Course content is organized around the Pyramid Model that includes three tiers of behavior management based on priniciples of positive behavior support 1) Universal supports, 2) Prevention, and 3) Intervention.", 
+        "number": "4605", 
+        "subject": "EEX", 
+        "title": "Classroom Management for Special Educators"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

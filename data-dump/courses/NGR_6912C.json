@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses scientific theory, systematic evidence appraisal, policy and organizational analysis, and models of care delivery. Students translate newly acquired knowledge and skills in the implementation and evaluation of a scholarly project to improve patient outcomes.", 
+        "number": "6912C", 
+        "subject": "NGR", 
+        "title": "DNP Project II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6910C.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

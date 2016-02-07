@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to enable students to identify and apply legal principles that place limits on authority, define individual and corporate liability and inform standards of educational practice in public school settings. It emphasizes knowledge, analysis, and application that explores a range of leadership competencies, including concept formation, organizational sensitivity, problem solving and decisiveness. The course includes readings offering an overview of key legal and ethical issues for school administrators and case scenarios designed for small group and individual analysis.", 
+        "number": "5232", 
+        "subject": "EDA", 
+        "title": "Legal Aspects of Public School Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

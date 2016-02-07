@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an examination of the fundamentals of modern symbolic logic (propositional and predicate calculi), with special attention to: (a) symbolizing arguments and evaluating them using both the rules of a system of natural deduction, and semantic method; and (b) explaining the canons of good reasoning, critiquing weak arguments, and developing stronger ones.", 
+        "number": "3130", 
+        "subject": "IFS", 
+        "title": "Making the Argument: Symbolic Logic and the Forms of Good Reasoning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

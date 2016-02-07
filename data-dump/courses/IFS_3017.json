@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course seeks to answer questions, such as \"How do we know the past?\" and \"How might technology help or hinder us in knowing the past better?\", by studying the changing and diverse roles of the various technologies used to record the past, \"technologies of memory.\" Beginning with the earliest forms of writing, poetry, and ancient memory arts (mnemotechnics) and then extending to the modern day shift to computers and digital memorialization, we ask both what has been gained and what has been lost in these technological turns.", 
+        "number": "3017", 
+        "subject": "IFS", 
+        "title": "Technologies of Memory from Ancient Greece to Today"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

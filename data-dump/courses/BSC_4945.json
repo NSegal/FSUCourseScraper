@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students as Laboratory Assistants in BSC1005L or as Tutors in BSC2010 or BSC2011, or BSC1005.\u00a0 Students also receive training in interactive teaching techniques and use this training to lead classroom discussions and interactive exam review sessions.", 
+        "number": "4945", 
+        "subject": "BSC", 
+        "title": "Undergraduate Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L; senior standing and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

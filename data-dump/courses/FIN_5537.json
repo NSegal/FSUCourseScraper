@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers issues related to the pricing and application of futures, swaps, and options. Emphasis is placed on different methods of valuing derivative securities and of hedging macroeconomic and firm-specific risks. The course examines real-world examples of derivative uses and how they impact firm value.", 
+        "number": "5537", 
+        "subject": "FIN", 
+        "title": "Financial Derivatives and Risk Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIN 4504 or FIN 5515 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

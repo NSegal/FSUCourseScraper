@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides teacher candidates with a controlled transition to the role of professional educator; provides a laboratory setting in which critical teaching behaviors may be systematically developed and demonstrated; provides the elementary education faculty and the profession with an opportunity to assess the development and the needs of the teacher candidate; and provides a situation in which the remaining needs can be met. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4943", 
+        "subject": "EDE", 
+        "title": "Student Teaching in Elementary Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDE 4316 and MAE 4310.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "9.00 - 12.00"
+    }
+}

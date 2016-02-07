@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the application of geologic and geochemical principles to environmental issues. Topics include: evaluation of contaminants in surface water and ground water; hydrocarbon geochemistry and petroleum storage tank problems; waste management, including solid, toxic and nuclear waste; air quality issues, including radon and asbestos; geologic hazards in upland and coastal areas; environmental geologic methods and instrumentation; quality assurance and quality control in environmental analysis; principles of toxicology; risk assessment and risk management; and environmental assessments.", 
+        "number": "5887", 
+        "subject": "GLY", 
+        "title": "Environmental Geology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

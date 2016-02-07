@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This film study course provides students with an advanced understanding of the construction of the motion picture narrative language, stressing the students need to develop fluency in visual storytelling through a conscious building of a film literacy.", 
+        "number": "5807", 
+        "subject": "FIL", 
+        "title": "Critical Methods of Film Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

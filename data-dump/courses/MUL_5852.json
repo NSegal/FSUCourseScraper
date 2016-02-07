@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines selected works, with special attention to form and style.", 
+        "number": "5852", 
+        "subject": "MUL", 
+        "title": "The Music of WA Mozart"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to pursue a topic within modern languages (linguistics, literature, culture or civilization). Number of semester hours taken depends on the content and breadth of the topic. May be repeated twice with different topics to a maximum of six semester hours.", 
+        "number": "4901", 
+        "subject": "FOL", 
+        "title": "Tutorial in Modern Languages, Literatures or Linguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

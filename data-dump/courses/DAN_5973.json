@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an individualized course of study leading to completion of a formal master's thesis in American dance history. May be repeated within the same term to a maximum of six semester hours. May be repeated during the same semester.", 
+        "number": "5973", 
+        "subject": "DAN", 
+        "title": "Master's Thesis in American Dance Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

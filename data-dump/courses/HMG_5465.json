@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the fundamental principles and theoretical framework that form the foundation of corporate financial management decisions in the hospitality industry. In this course, students develop skills in framing and solving quantitative business problems, using both a calculator and Excel. The course also includes lessons on time value of money, valuation, capital structure, project valuation, feasibility study, franchising, and management contract.", 
+        "number": "5465", 
+        "subject": "HMG", 
+        "title": "Hospitality Financial Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

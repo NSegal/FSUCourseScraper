@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an understanding of fundamental statistical principles that can be applied to health-related problems in clinical and public health settings. Students interpret published statistical findings, select and apply statistical methods to health related research problems and critique statistical methods utilized in biomedical research. Only the most common methods of statistical analysis used in published nursing research are reviewed.", 
+        "number": "5846", 
+        "subject": "NGR", 
+        "title": "Biostatistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

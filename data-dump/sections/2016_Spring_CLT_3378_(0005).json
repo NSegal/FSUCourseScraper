@@ -1,0 +1,37 @@
+{
+    "_unique": "0005-DSC (2042)", 
+    "basic": {
+        "class_num": "2042", 
+        "course": "3378", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "CLT", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Matthew Wilkens"
+            ], 
+            "location": "MON 0005", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Matthew Wilkens"
+            ], 
+            "location": "MON 0005", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

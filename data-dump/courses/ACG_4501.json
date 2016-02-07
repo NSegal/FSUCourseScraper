@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to fund accounting procedures and financial reporting requirements for governmental units and not-for-profit entities.", 
+        "number": "4501", 
+        "subject": "ACG", 
+        "title": "Accounting for Governmental and Not-for-Profit Entities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3111 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

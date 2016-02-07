@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "All instruments. Performance major only.", 
+        "number": "5055", 
+        "subject": "MVO", 
+        "title": "Applied Music, Graduate Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 4.00"
+    }
+}

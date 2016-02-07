@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares students to both read and write papers containing basic statistical analyses. Topics covered include descriptive statistics, basic plots and graphing, hypothesis testing, confidence intervals, correlational techniques, and introduction to the general linear model.", 
+        "number": "5400", 
+        "subject": "EDF", 
+        "title": "Basic Descriptive and Inferential Statistics Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

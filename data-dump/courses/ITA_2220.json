@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course stresses skills in reading and conversational Italian at the second-year level. Readings are supported by discussions of the materials. This course completes the baccalaureate degree requirement. May not be taken concurrently with ITA 1111, 1120 and/or 1121. May not be taken by native speakers.", 
+        "number": "2220", 
+        "subject": "ITA", 
+        "title": "Reading and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 1111 or ITA 1121.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

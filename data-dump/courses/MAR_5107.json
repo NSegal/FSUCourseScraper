@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the ethical responsibilities of companies toward all stakeholders in the marketing environment, including owners, employees, customers, and society. Includes a study of ethical decision making and how it overlaps with strategic and tactical decisions in both general business and marketing.", 
+        "number": "5107", 
+        "subject": "MAR", 
+        "title": "Business Ethics and Social Responsibility"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

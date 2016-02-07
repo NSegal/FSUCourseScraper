@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores current topics in proteins, carbohydrates, lipids,\u00a0\u00a0\u00a0 minerals, or vitamins.", 
+        "number": "6248", 
+        "subject": "HUN", 
+        "title": "Advances in Nutrition and Food Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

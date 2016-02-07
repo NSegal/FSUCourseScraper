@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to connect consumers with advertising and marketing in public relations and other communication fields.", 
+        "number": "5605", 
+        "subject": "ADV", 
+        "title": "Account Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

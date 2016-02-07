@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to qualitative and quantitative research methods in order to provide an understanding of a scientific, analytic, and ethical approach to building knowledge for practice. Students' mastery of course content prepares them to develop, use, and effectively communicate empirically-based knowledge. Research knowledge is used by students to provide high-quality services; to initiate change; to improve practice, plicy, and social service delivery; and to evaluate their own practice from an evidence-based perspective.", 
+        "number": "5404", 
+        "subject": "SOW", 
+        "title": "Introduction to Social Work Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

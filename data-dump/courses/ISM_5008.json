@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to provide individuals without business-oriented educational backgrounds with the fundamental knowledge of the various information technologies and systems commonly encountered in the business environment. In addition to gaining a basic understanding of the underlying technologies, more importantly the student gains the knowledge of how to strategically apply them in a business or organizational setting. Cannot be applied for credit for any graduate business degree.", 
+        "number": "5008", 
+        "subject": "ISM", 
+        "title": "Fundamentals of Managing Information Technologies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

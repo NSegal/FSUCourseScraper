@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers H2 and H control design for linear systems with multipleinputs and multiple outputs and globally optimal techniques, fixed-structure (e.g., reduced-order) techniques. Includes introductory concepts in robust control.", 
+        "number": "5361", 
+        "subject": "EML", 
+        "title": "Multivariable Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 4312 or EML 5311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

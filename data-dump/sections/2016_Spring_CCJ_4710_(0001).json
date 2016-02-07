@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (1132)", 
+    "basic": {
+        "class_num": "1132", 
+        "course": "4710", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CCJ", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Mark Feulner"
+            ], 
+            "location": "TEC 0225", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a review of methods on analyzing geographic patterns of natural phenomena, including ecological conservation, natural resource management, landscape and urban planning, as well as human-environmental interaction and implications. Familiarity with software packages such as ArcGIS\u00a0 is assumed.", 
+        "number": "5378", 
+        "subject": "GEO", 
+        "title": "Landscape Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GIS 5101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

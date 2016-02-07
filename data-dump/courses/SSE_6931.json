@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critical review of research in social science education in preparation for the dissertation prospectus. Issues of epistemology and research methodology are carefully analyzed and discussed.", 
+        "number": "6931", 
+        "subject": "SSE", 
+        "title": "Doctoral Seminar in Social Science Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

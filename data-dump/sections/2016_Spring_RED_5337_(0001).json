@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (10558)", 
+    "basic": {
+        "class_num": "10558", 
+        "course": "5337", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "RED", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "George Boggs"
+            ], 
+            "location": "STB G158", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides information about the value of a marketing orientationto the public and non-profit organizations.", 
+        "number": "5326", 
+        "subject": "ISS", 
+        "title": "Marketing in the Public and Nonprofit Sector"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

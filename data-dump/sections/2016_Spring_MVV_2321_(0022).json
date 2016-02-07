@@ -1,0 +1,26 @@
+{
+    "_unique": "0022-PRF (7820)", 
+    "basic": {
+        "class_num": "7820", 
+        "course": "2321", 
+        "season": "Spring", 
+        "solus_id": "0022", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Daniel Belcher"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

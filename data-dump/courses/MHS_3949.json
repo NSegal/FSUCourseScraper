@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a non-credit experiential learning course, which offers students an opportunity to gain \"real world\" on-the-job work experience related to a specific academic field of study.\u00a0 Students register for this course through the FSU Career Center.", 
+        "number": "3949", 
+        "subject": "MHS", 
+        "title": "Experiential Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

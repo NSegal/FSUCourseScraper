@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of Spanish-American women writers, focusing on prose fiction, non-fiction and/or drama. Supplementary readings are taken from critical and theoretical works.", 
+        "number": "5496", 
+        "subject": "SPW", 
+        "title": "Spanish-American Women Writers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

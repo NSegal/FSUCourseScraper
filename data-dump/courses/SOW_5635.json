@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to school social work practice and related issues. In order for students to experience the role of the school social worker as realistically as possible, both systematic and theoretical approaches to learning are presented. The course impresses the idea that school social workers seek to maximize student success and promote optimal learning opportunities by helping to remove the variety of barriers that prevent school-based personnel and children from working to the best of their\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 abilities.", 
+        "number": "5635", 
+        "subject": "SOW", 
+        "title": "The Social Worker in the Public School System"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

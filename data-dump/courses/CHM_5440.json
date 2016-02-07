@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes topics such as comprehensive chemical reaction kinetics and dynamics; phenomenological rate laws; reaction mechanisms; diffusion-controlled and activation-controlled reactions; and experimental and numerical techniques for kinetic studies.", 
+        "number": "5440", 
+        "subject": "CHM", 
+        "title": "Physical and Chemical Kinetics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

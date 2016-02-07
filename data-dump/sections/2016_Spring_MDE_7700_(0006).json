@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-MED (5598)", 
+    "basic": {
+        "class_num": "5598", 
+        "course": "7700", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "MDE", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Luckey Dunn"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-20", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

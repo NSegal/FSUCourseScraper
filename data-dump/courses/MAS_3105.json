@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers Gaussian elimination, vector spaces, least squares problems, determinants, eigenvalues and eigenvectors, linear transformations, applications.", 
+        "number": "3105", 
+        "subject": "MAS", 
+        "title": "Applied Linear Algebra I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

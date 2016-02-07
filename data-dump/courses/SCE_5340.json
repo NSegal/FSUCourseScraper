@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides opportunities for students to examine predominant psychological models of human cognition, the evolving nature of science knowledge, and the role of the teacher in assisting students to learn science with understanding.", 
+        "number": "5340", 
+        "subject": "SCE", 
+        "title": "Teaching and Learning Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

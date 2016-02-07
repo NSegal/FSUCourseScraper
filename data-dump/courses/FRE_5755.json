@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, the primary objectives are to acquire a reading knowledge of the language and to learn basic concepts concerning its structure and development.", 
+        "number": "5755", 
+        "subject": "FRE", 
+        "title": "Old French"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews the major accomplishments in Greek art from early times through the Hellenistic period using a survey of principal monuments, works, and archaeological evidence.", 
+        "number": "3130", 
+        "subject": "ARH", 
+        "title": "Survey of Greek Art and Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

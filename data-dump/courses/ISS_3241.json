@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the emerging field of social entrepreneurship and innovation, examining how it promotes innovative, impactful, and sustainable solutions to social and environmental problems at the local, national, and international levels. The course looks at how the field is defined and expressed in three essential contexts:\u00a0 innovation and impact across the public, private, and citizen sectors; social enterprise within the context of nonprofit, for-profit, and hybrid organizations; and social transformation throughout an entire system.", 
+        "number": "3241", 
+        "subject": "ISS", 
+        "title": "Foundations of Social Entrepreneurship and Innovation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

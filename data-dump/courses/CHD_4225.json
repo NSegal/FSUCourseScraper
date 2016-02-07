@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps students learn to create contexts, relationships, acitivities, and environments for the enhancement of the physical, social, emotional, and cognitive development of young children from birth to five years of age in homes and other institutions.", 
+        "number": "4225", 
+        "subject": "CHD", 
+        "title": "Contexts for Early Childhood Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status and junior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

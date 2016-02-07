@@ -1,0 +1,26 @@
+{
+    "_unique": "0014-MEX (6550)", 
+    "basic": {
+        "class_num": "6550", 
+        "course": "8966", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "MEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Anne Garee"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

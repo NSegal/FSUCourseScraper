@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: general properties of waves; surface gravity, capillary, inertia-gravity, internal, Kelvin, Rossby; continental shelf and coastal trapped waves; many illustrations of how ocean variability can be described by free and forced waves.", 
+        "number": "5160", 
+        "subject": "OCP", 
+        "title": "Ocean Waves"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: OCP 5253 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

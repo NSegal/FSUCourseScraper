@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the Lagrangian Field theory, quantization of scalar, spinor, and vector fields, perturbation theory, renormalization, and quantum electrodynamics.", 
+        "number": "5667", 
+        "subject": "PHY", 
+        "title": "Quantum Field Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 5246, PHY 5346, PHY 5347, PHY 5645, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

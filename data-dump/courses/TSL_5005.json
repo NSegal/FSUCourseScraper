@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to meet the needs of those teaching second languages abroad and pre-service teachers in K-12 foreign/second language education by developing an understanding of current theories of language learning through exploration of relevant research. Opportunities are provided for students to use the theoretical base in the design of classroom lessons.", 
+        "number": "5005", 
+        "subject": "TSL", 
+        "title": "Methodologies for Teaching Foreign and Second Languages"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

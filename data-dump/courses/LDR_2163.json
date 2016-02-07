@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course enables students to develop their intellectual, interpersonal, and social skills through their experiences as members in organizations. This course is designed to prepare students for leadership roles and challenges they face in their organizations, on campus, and in the community. The course is highly interactive with student participation and outside class involvement as critical components to the learning process.", 
+        "number": "2163", 
+        "subject": "LDR", 
+        "title": "Emerging Leaders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

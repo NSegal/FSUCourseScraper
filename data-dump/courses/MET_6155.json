@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers advanced topics and recent advances in climatology. Content varies covering such areas as climate modeling, physical climatology, dynamic climatology, climate change, and climate and the oceans. May be repeated up to six times to a maximum of eighteen semester hours.", 
+        "number": "6155", 
+        "subject": "MET", 
+        "title": "Advanced Topics in Climatology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

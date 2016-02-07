@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of wireless communications and systems. The core topics include radio-wave propagation characteristics of wireless channels; modulation and demodulation techniques for mobile radio; reception techniques for wireless systems; fundamentals of cellular communications; multiple access techniques; wireless networking; and hybrid networking of a wireless system and the Internet.", 
+        "number": "4595", 
+        "subject": "EEL", 
+        "title": "Wireless Communications and Networking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3014 or equivalent, EEL 3135, and EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

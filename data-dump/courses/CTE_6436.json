@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the process of new products management in the global market with a focus on strategic elements of product development such as the new products process, the product innovation charter, and the new product portfolio.", 
+        "number": "6436", 
+        "subject": "CTE", 
+        "title": "Product Innovation and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

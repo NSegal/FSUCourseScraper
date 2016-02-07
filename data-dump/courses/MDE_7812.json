@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course helps students understand the role of neuropsychology and rehabilitation in medicine. The course incorporates practical application of neuropsychological principles and examination in a medical context, neurological rehabilitation, and up-to-date outcomes research analysis.", 
+        "number": "7812", 
+        "subject": "MDE", 
+        "title": "Neuropsychology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00"
+    }
+}

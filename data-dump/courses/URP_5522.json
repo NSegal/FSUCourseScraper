@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the major governmental policies developed to facilitate access to health care, particularly policies of the federal government. Major federal and state regulatory policies affecting health and long-term care are also examined for policy intent and effect on the intersection of health financing and the delivery of health care.", 
+        "number": "5522", 
+        "subject": "URP", 
+        "title": "Regulatory Aspects of Health Care"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

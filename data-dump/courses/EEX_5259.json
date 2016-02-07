@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the major reading components of scientifically-based reading research as applied to learners with disabilities: phonological awareness, phonics, fluency, vocabulary, and comprehension. Additional topics include models of typical and atypical reading development and principles and practices of differentiated instruction.", 
+        "number": "5259", 
+        "subject": "EEX", 
+        "title": "Literacy for Learners with Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores a wide range of issues in the history and practice of publishing, editing, and the production and distribution of texts from the twentieth and twenty-first centuries, as well as from earlier historical periods. These issues include the book as object, the ethics of publishing, the history of reading, and censorship, as well as the rise of print culture. It also includes practical training, introducing students to the work that editors currently perform in magazine and book publishing.", 
+        "number": "4834", 
+        "subject": "ENG", 
+        "title": "Issues in Publishing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: 3000-level core courses in the major recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

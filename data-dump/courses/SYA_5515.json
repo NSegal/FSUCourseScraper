@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides hands-on experience in formulating questions for sociological research and developing a master's paper research project.\u00a0 In concert with a faculty supervisor, students write a report of a theoretical or empirical problem of sociological relevance. Students must simultaneously enroll for two credit hours in Master's Paper Research, SYA 5971r with a supervising faculty member.", 
+        "number": "5515", 
+        "subject": "SYA", 
+        "title": "Sociological Research Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SYA 5305 and SYA 5455.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "0.00 - 3.00"
+    }
+}

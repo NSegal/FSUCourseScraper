@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a critical appraisal of the historical, philosophical,and contemporary trends and issues in the design field.", 
+        "number": "5638", 
+        "subject": "IND", 
+        "title": "Graduate Seminar: Design Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

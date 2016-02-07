@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys recent developments and emerging technologies in library and information science. Stresses research methodologies in these areas.", 
+        "number": "6269", 
+        "subject": "LIS", 
+        "title": "Seminar in Information Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

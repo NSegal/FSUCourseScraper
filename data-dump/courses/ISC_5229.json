@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers mathematical and algorithmic basis for atomic scale, mesoscale and continuum scale modeling approaches in material sciences. Emphasis is on the atomic-to-continuum connection, statistical approaches and homogenization problems in continuum modeling of heterogeneous materials. The course offers concrete examples to explain basic ideas and involves projects to apply concepts discussed in lectures.", 
+        "number": "5229", 
+        "subject": "ISC", 
+        "title": "Multiscale Modeling of Materials"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 5611, EML 5060 or equivalent, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

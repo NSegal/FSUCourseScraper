@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (10292)", 
+    "basic": {
+        "class_num": "10292", 
+        "course": "4360", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "SOW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Pamela Valentine"
+            ], 
+            "location": "UCC C1704", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Pamela Valentine"
+            ], 
+            "location": "UCC C1704", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the following topics: homogeneous and heterogeneous reaction kinetics; analysis of batch, mixed, plug, and recycle reactors; analysis of multiple reactions and multiple reactors; reactor temperature control; and catalytic reactor design.", 
+        "number": "4504", 
+        "subject": "ECH", 
+        "title": "Kinetics and Reactor Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

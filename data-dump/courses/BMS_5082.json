@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers issues relevant to end-of-life care, offers a survey of the various forms of limited consciousness/interaction, and addresses issues involving the physician-patient relationship, issues related to healthcare delivery, as well as ethical issues relevant to specific medical specialties.", 
+        "number": "5082", 
+        "subject": "BMS", 
+        "title": "Ethics in the Clinical Setting"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BMS 5081.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00 - 6.00"
+    }
+}

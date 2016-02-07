@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides undergraduate majors with an introduction to family-based, stress-focused mini-theories. The course provides a framework for understanding the differences between family patterns when families are centered on growth related themes and when they are pre-occupied with a variety of stressor events.", 
+        "number": "3432", 
+        "subject": "FAD", 
+        "title": "Stress and Resilience in Individuals and Families"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

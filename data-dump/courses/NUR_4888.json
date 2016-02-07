@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on concepts, principles and theories of leadership, management, role development and administration in a variety of culturally diverse health care delivery systems at local, regional, national and global\u00a0 levels. Skills required by the professional nurse leader, including delegation of responsibilities, networking, facilitation of groups, conflict resolution, case management, collaboration, budgeting, cost effectiveness and resource allocation, risk management, quality and performance indicators, teaching and professional development are emphasized and applied in relevant\u00a0 settings.", 
+        "number": "4888", 
+        "subject": "NUR", 
+        "title": "Nursing Leadership in Systems of Care"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Semester I, II, and III Nursing courses. Corequisites: Semester IV Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

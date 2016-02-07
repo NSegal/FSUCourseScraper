@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the fundamental laws of thermodynamics and their application to simple systems. The kinetic theory of an ideal gas. An introduction to the classical and quantum statistical mechanics of weakly interacting systems.", 
+        "number": "5515", 
+        "subject": "PHY", 
+        "title": "Thermal and Statistical Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

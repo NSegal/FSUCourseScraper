@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (3856)", 
+    "basic": {
+        "class_num": "3856", 
+        "course": "4114C", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "FOS", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:50:00", 
+            "instructors": [
+                "Changqi Liu"
+            ], 
+            "location": "WJB 4004", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

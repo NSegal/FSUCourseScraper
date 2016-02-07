@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers methods in reconstruction of past economic behavior and diet. It includes lab work in identification and analysis of faunal remains.", 
+        "number": "4185", 
+        "subject": "ANT", 
+        "title": "Paleonutrition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

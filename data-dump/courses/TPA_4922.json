@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes the evaluation and supervision of all design/technology work. May be repeated to a maximum of eight semester hours.", 
+        "number": "4922", 
+        "subject": "TPA", 
+        "title": "BFA Design/Technology Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

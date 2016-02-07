@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a one-semester course encompassing the topics of MAC 1140 (Pre-calculus Algebra) and MAC 1114 (Analytic Trigonometry). See the topics for MAC 1140 and MAC 1114.", 
+        "number": "1147", 
+        "subject": "MAC", 
+        "title": "Precalculus Algebra/Trigonometry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 or suitable mathematics examination placement score.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "5.00"
+    }
+}

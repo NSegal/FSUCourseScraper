@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to review L2 learning stages and contemporar\u00a0\u00a0 y curricular designs that pertain to teaching second/foreign languages. Students learn to analyze existing curricula, materials, technology, and participate in the process of developing original units and materials.", 
+        "number": "4144", 
+        "subject": "TSL", 
+        "title": "Foreign/Second Language Curriculum and Materials"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

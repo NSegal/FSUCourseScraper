@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys anthropological thought and practice (theory and methods) with respect to kinship and related forms of social organization, including the classification and analysis of kinship systems and associated terminology, patterns of marriage and residence, descent theory and alliance theory, and the role of kinship in different social systems.", 
+        "number": "4422", 
+        "subject": "ANT", 
+        "title": "Kinship and Social Organization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

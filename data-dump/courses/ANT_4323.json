@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of Mexico and Central America and the multiplicity of cultural and linguistic groups within the developing modern nations from an anthropological viewpoint. It discusses cultural values and the problems of reconciling modern society with traditional peasant and indigenous ethnic groups, as well as institutions such as kinship and the family; technology, work, and ecological adaptations; social organization, political integration, religion, and ceremonial life.", 
+        "number": "4323", 
+        "subject": "ANT", 
+        "title": "Peoples and Cultures of Mexico and Central America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

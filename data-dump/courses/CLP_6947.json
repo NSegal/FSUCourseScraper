@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a practicum in psychotherapy and behavior change techniques.", 
+        "number": "6947", 
+        "subject": "CLP", 
+        "title": "Clinical Practicum: Change of Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 5325 and CLP 6169.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to fibers, yarns, fabric structures, coloration and finishes related to performance, selection, and care. It includes laboratory experience in the identification and analysis of fibers, yarns, fabrics, finishes, and textile coloration.", 
+        "number": "1401C", 
+        "subject": "CTE", 
+        "title": "Introductory Textile Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes various approaches to the study of American southern literature from the colonial period to the present. May be repeated within the same semester to a maximum of twelve semester hours.", 
+        "number": "5267", 
+        "subject": "AML", 
+        "title": "Studies in Literature of the American South"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

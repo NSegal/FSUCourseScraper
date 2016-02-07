@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a companion course to the Applied Project (ECO 5973) for students in the MS in Applied Economics degree. The course focuses on how to analyze and solve consulting projects. In addition, students discuss how to effectively communicate results to clients. The course also helps students to quickly adapt to the life of an economist in private, state or federal organizations. May be repeated to a maximum of nine semester hours.", 
+        "number": "5973L", 
+        "subject": "ECO", 
+        "title": "Economic Analysis: Solving and Communicating a Consulting Project"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5114, ECO 5117, ECO 5206, ECO 5208, ECO 5420, and ECO 5434. Corequisite: ECO 5973.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

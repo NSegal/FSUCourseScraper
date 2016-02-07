@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This one-semester course is designed for those students who have had at least two years of high school Spanish (or the equivalent), but who do not feel ready to go directly into SPN 2220 Intermediate Spanish. May not be taken by native speakers. Students passing SPN 1124 with a grade of \"C\" or better are eligible to enroll in SPN 2220.", 
+        "number": "1124", 
+        "subject": "SPN", 
+        "title": "Comprehensive Elementary Spanish"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides qualified, upper-division majors in textiles and consumer sciences an opportunity to undertake an independent and original research project in their particular area of interest. A minimum of two semesters is required to complete an honors project. May be repeated to a maximum of nine semester hours.", 
+        "number": "4970", 
+        "subject": "CTE", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a sociological view of mass communications by critically examining the origin, history, and functions of the American mass media and its effect on social life.", 
+        "number": "3460", 
+        "subject": "SYO", 
+        "title": "Sociology of Mass Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

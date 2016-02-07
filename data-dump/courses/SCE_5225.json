@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides opportunities to acquire knowledge and skills related to teaching and learning science in middle school grades. The course investigates the emotional and psychological needs of adolescent pupils in relationship to the middle school science curriculum.", 
+        "number": "5225", 
+        "subject": "SCE", 
+        "title": "Conceptual Learning in Middle School Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

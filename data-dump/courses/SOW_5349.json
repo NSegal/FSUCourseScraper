@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the history, theoretical underpinnings, and strategies of case management in various service delivery systems. Contemporary issues and implications that impact the practice environment are highlighted. General topics include critical skills in assessment, formal and informal linkage, counseling and consultation, advocacy, mediation and conflict resolution, and monitoring and evaluation. Students apply critical thinking skills and utilize evidence-based practice approaches in case management settings.", 
+        "number": "5349", 
+        "subject": "SOW", 
+        "title": "Social Networking and Case Management in Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

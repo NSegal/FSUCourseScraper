@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of historical development and theoretical bases of performance and directing.", 
+        "number": "5158", 
+        "subject": "DAN", 
+        "title": "Theory of Dance Performance and Directing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: Previous technical experience.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

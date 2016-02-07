@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to guide students to the essential works in archaeology of different parts of the world, whether they are classic readings or cutting-edge research.", 
+        "number": "5117", 
+        "subject": "ANG", 
+        "title": "Core Seminar in Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

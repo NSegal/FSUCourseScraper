@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores ethnographic and archaeological models to understand and explain the various forms political and economic organizations exhibited by human societies.", 
+        "number": "5478", 
+        "subject": "ANG", 
+        "title": "Cultural Evolution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

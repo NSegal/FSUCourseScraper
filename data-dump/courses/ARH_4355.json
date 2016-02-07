@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies painting, sculpture, and architecture produced in Western Europe during the Enlightenment, with emphasis on the luxurious, sensual art of the Rococo, the rational classicism of the Palladian Revival, the new moral and philosophical image of women, and the rise of the decorative arts.", 
+        "number": "4355", 
+        "subject": "ARH", 
+        "title": "18th-Century Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

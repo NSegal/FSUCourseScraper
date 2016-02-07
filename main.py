@@ -84,6 +84,8 @@ class JobManager(object):
             # the scraper will still work
             return
 
+        #The "from config import PROFILE" statement below is just a debugging experiment.
+        #from config import PROFILE 
         # Run all the jobs in the job queue
         while True:
             try:

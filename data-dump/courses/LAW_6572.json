@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of federal copyright law and closely related doctrines. A study of the Copyright Act, including protectable subject matter, scope of protection, remedies for infringement, and permissible use of copyrighted material.", 
+        "number": "6572", 
+        "subject": "LAW", 
+        "title": "Copyright Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: LAW 6750.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

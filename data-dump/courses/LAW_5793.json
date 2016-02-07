@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on legal writing techniques, practical work in analyzing legal problems, preparation of an appellate brief, and the argument of an appellate case. Follows LAW 5792. Required course.", 
+        "number": "5793", 
+        "subject": "LAW", 
+        "title": "Legal Writing and Research II"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

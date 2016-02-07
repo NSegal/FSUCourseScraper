@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an examination of the biblical flood story from its roots in the ancient Near East to antiquity up until today. Special focus on how the flood story has been a locus for contemporary debates involving religion and science since the 1600s.", 
+        "number": "2039", 
+        "subject": "IFS", 
+        "title": "Noah's Flood Through the Ages"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

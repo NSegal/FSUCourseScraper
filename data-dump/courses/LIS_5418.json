@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This survey course evaluates medical informatics from a stakeholder perspective. Beginning with a brief overview of the US health care system, the focus then shifts to understanding to what extent health information needs are met using technology for users such as providers of health care services, clinician educators, consumers, and caregivers.", 
+        "number": "5418", 
+        "subject": "LIS", 
+        "title": "Introduction to Health Informatics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

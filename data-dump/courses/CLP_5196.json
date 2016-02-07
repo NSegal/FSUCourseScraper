@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines therapeutic strategies and promising techniques for behavioral change of specific referral problems in clinical practice.", 
+        "number": "5196", 
+        "subject": "CLP", 
+        "title": "Techniques of Behavioral Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CLP 6169 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

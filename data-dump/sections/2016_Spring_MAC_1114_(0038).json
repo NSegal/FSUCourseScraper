@@ -1,0 +1,37 @@
+{
+    "_unique": "0038-LEC (13845)", 
+    "basic": {
+        "class_num": "13845", 
+        "course": "1114", 
+        "season": "Spring", 
+        "solus_id": "0038", 
+        "status": "Closed", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "09:50:00", 
+            "instructors": [
+                "Jimmy Bryan"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "09:50:00", 
+            "instructors": [
+                "Jimmy Bryan"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

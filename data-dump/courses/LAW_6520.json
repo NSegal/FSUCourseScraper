@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the legislative, executive, and judical control of administrative action.", 
+        "number": "6520", 
+        "subject": "LAW", 
+        "title": "Administrative Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

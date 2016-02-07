@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to cover major areas related to the research on college students and discuss the challenges in conducting such types of research. The first part of the course reviews the major theories and conceptual frameworks related to college students, from transition to, experience in, and outcomes of college. The second section discusses methodological issues and other challenges in conducting research on college students.", 
+        "number": "6040", 
+        "subject": "EDH", 
+        "title": "Research on College Students"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

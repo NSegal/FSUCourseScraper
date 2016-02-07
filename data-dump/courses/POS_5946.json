@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides instruction in teaching responsibilities and techniques, and the special problems and challenges in teaching mainly undergraduate political science courses. Required of all funded graduate assistants and open to other interested graduate students.", 
+        "number": "5946", 
+        "subject": "POS", 
+        "title": "Teaching Political Science at the College Level"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

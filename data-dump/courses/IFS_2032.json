@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This interdisciplinary course merges performance theory and practice with philosophy and literary theory. It introduces students to the emerging field of performance as research and practice-based research focusing on the phenomenon of the encounter.", 
+        "number": "2032", 
+        "subject": "IFS", 
+        "title": "Theory and Practice of the Encounter"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

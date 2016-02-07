@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the political economy of information, including those factors which encourage or discourage free exchange of information within and among inhabitants of countries worldwide. The unit of analysis is an individual country in comparison with others chosen from the spectrum of development. Attention is given to the legal, economic, and infrastructural conditions from a culturally sensitive point of view. Practical preparation for work abroad is provided.", 
+        "number": "5241", 
+        "subject": "LIS", 
+        "title": "International and Comparative Information Service"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

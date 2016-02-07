@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a study of African-American literary tradition. May be repeated within the same semester to a maximum of twelve semester hours.", 
+        "number": "5608", 
+        "subject": "AML", 
+        "title": "Studies in the African-American Literary Tradition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

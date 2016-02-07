@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-PRF (7331)", 
+    "basic": {
+        "class_num": "7331", 
+        "course": "5350", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MVO", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:20:00", 
+            "instructors": [
+                "Marcia Porter"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

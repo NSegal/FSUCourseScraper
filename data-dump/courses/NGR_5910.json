@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows for research experience supervised by faculty that is different from student's thesis project.", 
+        "number": "5910", 
+        "subject": "NGR", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course encourages advanced students to approach the multifaceted problem of research as a set of interrelated issues ranging from tasks of concept formation and theory construction through research design and data collection to the assessment and analysis of the generated data.", 
+        "number": "6708", 
+        "subject": "CCJ", 
+        "title": "Seminar in Crime Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

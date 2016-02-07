@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides both a theoretical and practical introduction to collecting reliable information via interviewing and interrogation for use in criminal justice and corporate investigations. Students examine and evaluate the key concepts of differential techniques of interviewing and interrogation, explanations of behavioral symptom analysis, principles of kinesics, aspects of verbalizations, explanation of legal constraints on confessions, the production of evidence indicating deception and malingering, and management aspects of the interview.", 
+        "number": "3612", 
+        "subject": "CJE", 
+        "title": "Interview and Interrogation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 4611.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

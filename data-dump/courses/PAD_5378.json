@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "As potential practitioners, it is vital that participating graduate students not only recognize the underlying concepts, principles, and theories in modern disaster response operations, but they must also comprehend the intricate interdependencies of these systems. Of equal importance is the impact information technology has upon these sytems.", 
+        "number": "5378", 
+        "subject": "PAD", 
+        "title": "Disaster Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5907.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

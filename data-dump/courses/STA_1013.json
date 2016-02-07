@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with a background in applied statistical reasoning. Fundamental topics are covered including graphical and numerical description of data, understanding randomness, central tendency, correlation versus causation, line of best fit, estimation of proportions, and statistical testing.", 
+        "number": "1013", 
+        "subject": "STA", 
+        "title": "Statistics through Example"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

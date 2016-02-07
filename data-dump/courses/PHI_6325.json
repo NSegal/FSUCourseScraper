@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically explores one or more of the major problems in the philosophy of mind, such as mental causation, intentionality, consciousness, personal identity, and the mind-body problem. May also include issues arising from the intersection of philosophy of mind and psychology, cognitive neuroscience, and other sciences of the mind.", 
+        "number": "6325", 
+        "subject": "PHI", 
+        "title": "Philosophy of Mind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

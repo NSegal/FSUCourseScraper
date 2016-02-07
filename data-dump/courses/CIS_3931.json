@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes intermediate topics in the area of computer science.\u00a0 The course may be used as a self-contained study of a programming language in the context of applications for which the language is particularly suited. Topics and prerequisites vary from term to term and section to section. May be repeated to a maximum of nine semester hours.", 
+        "number": "3931", 
+        "subject": "CIS", 
+        "title": "Intermediate Topics in Computer Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

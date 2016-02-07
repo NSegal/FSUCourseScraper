@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of MAS 4302.", 
+        "number": "4303", 
+        "subject": "MAS", 
+        "title": "Introduction to Abstract Algebra II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 4302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

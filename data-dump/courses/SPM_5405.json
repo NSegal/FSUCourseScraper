@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the unique role and impact of the media on the sport industry. Identification of the grand spectrum of activities and mediums comprising the media is explored. The ever-growing role of print, radio and television broadcast, and the Internet are investigated. This course also orients students to the academic and professional literature accessible in the field of sport management.", 
+        "number": "5405", 
+        "subject": "SPM", 
+        "title": "Sport and the Media"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

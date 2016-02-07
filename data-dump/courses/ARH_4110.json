@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the major archaeological evidence related to the Bronze Age in Crete and Greece; the major sites, monuments, and artistic works.", 
+        "number": "4110", 
+        "subject": "ARH", 
+        "title": "Art and Archaeology of the Bronze Age in the Aegean"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

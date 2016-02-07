@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of trends in urban economies in the U.S. and elsewhere. Introduction to economic and demographic data sources for analysis of urban areas; issues confronting contemporary urban places.", 
+        "number": "4613", 
+        "subject": "ECP", 
+        "title": "Urban Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes advanced practice in costume patterning for theatre with an emphasis on draping and drafting historically based garments for women and men. Projects include period garment research and measuring, sizing, fitting and grading techniques to accommodate actual performers' measurements and stage movement requirements.", 
+        "number": "5243", 
+        "subject": "TPA", 
+        "title": "Advanced Period Draping and Fitting Techniques"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPA 5287 and THE 5264 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

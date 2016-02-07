@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of twelve semester hours.", 
+        "number": "6468", 
+        "subject": "STA", 
+        "title": "Advanced Topics in Probability and Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

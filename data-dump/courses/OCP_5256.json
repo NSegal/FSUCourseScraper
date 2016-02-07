@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics like: shallow water theory, Poincare, Kelvin, and Rossby waves; boundary layer theory; wind driven ocean circulation models; quasigeostrophic motion on a sphere, thermocline problem; stability theories. Also offered by the departments of Mathematics, Computer Science, and Meteorology.", 
+        "number": "5256", 
+        "subject": "OCP", 
+        "title": "Fluid Dynamics: Geophysical Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 5431 and partial differential equations, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers global environmental change, scientific and human dimensions, and international public policy implications.", 
+        "number": "2003", 
+        "subject": "ISC", 
+        "title": "Global Change: Its Scientific and Human Dimensions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Two years high school science and two years high school math.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

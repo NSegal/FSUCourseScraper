@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, student instructors teach orientation and mobility skills in public school, residential school, and rehabilitation settings for a minimum of 300 service hours to students with visual disabilities. They do so full-time and while under the supervision of an experienced, certified orientation and mobility specialist.", 
+        "number": "5945", 
+        "subject": "EVI", 
+        "title": "Internship in Orientation and Mobility"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4220, EVI 5221, EVI 5222, and EVI 5943.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of various elements of music with relationship to dance performance and/or choreography.", 
+        "number": "2611", 
+        "subject": "DAN", 
+        "title": "Music and Choreography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 2610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

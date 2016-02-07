@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course benchmarks the process of 5-star and 4-star hotels and resorts in order to identify how they deliver exceptional service in their operations.", 
+        "number": "4290", 
+        "subject": "HFT", 
+        "title": "Luxury Hotel and Resorts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

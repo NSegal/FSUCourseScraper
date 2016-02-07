@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamentals and techniques of optical and electron microscopy as applied\u00a0 to the determination of physical, chemical, and structural properties of materials and materials behavior in practice.", 
+        "number": "4501", 
+        "subject": "EMA", 
+        "title": "Optical and Electron Microscopy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3012C or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

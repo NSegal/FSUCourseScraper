@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the characterization of synthetic polymers by various analytical techniques, including spectroscopy, molecular weight measurements, structure, surface studies and mechanical properties. The course includes sufficient introductory material in polymer synthesis to relate structure and properties.", 
+        "number": "5454", 
+        "subject": "CHM", 
+        "title": "Polymer Characterization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

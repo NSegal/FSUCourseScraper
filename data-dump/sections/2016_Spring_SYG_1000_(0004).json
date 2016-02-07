@@ -1,0 +1,37 @@
+{
+    "_unique": "0004-LEC (9890)", 
+    "basic": {
+        "class_num": "9890", 
+        "course": "1000", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "SYG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Gloria Lessan"
+            ], 
+            "location": "BEL 0180", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Gloria Lessan"
+            ], 
+            "location": "BEL 0180", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

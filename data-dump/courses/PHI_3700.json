@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of major issues in philosophy of religion. Topics may include the rationality of religious belief, faith, religious experience, religious language, evil, and the relation between religion and morality. Also offered by the Department of Religion.", 
+        "number": "3700", 
+        "subject": "PHI", 
+        "title": "Philosophy of Religion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

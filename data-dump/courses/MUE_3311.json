@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course seeks to introduce the prospective music teacher to a variety of skills and techniques necessary for successful teaching in elementary school settings.", 
+        "number": "3311", 
+        "subject": "MUE", 
+        "title": "Reading and Teaching Music: Elementary"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

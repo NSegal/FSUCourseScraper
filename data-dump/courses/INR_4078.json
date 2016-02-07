@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course investigates various means of confronting massive human rights violations. It compares the recent phenomenon of truth commissions and pardons to the more traditional, legalistic approach of criminal prosecution. Moral issues involved in each approach and how each serves society are explored. Specific truth commission cases are studied.", 
+        "number": "4078", 
+        "subject": "INR", 
+        "title": "Confronting Human Rights Violations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

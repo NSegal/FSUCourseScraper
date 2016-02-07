@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the assessment and diagnosis, etiology, and treatment of a number of psychological disorders of childhood in the context of human development.", 
+        "number": "5475", 
+        "subject": "CLP", 
+        "title": "Child Development and Psychopathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

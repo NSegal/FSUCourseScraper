@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to allow for in-depth, directed exploration of the many possibilities of painting. This critique-based course is designed to develop the mature students toward a cohesive portfolio. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "5818", 
+        "subject": "ART", 
+        "title": "Graduate Painting and Drawing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be enrolled in MFA Program.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 18.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a seminar that covers selected primary-source readings in Tibetan language about the religious history of Tibet. Readings are drawn from a variety of historical periods and genres, including history, biography, Buddhist canonical texts, philosophical treatises, ritual manuals, poetry, and epic narrative. The course also introduces students to various tools and methods for the study of classical and modern Tibetan literature.", 
+        "number": "5356", 
+        "subject": "RLG", 
+        "title": "Readings in Tibetan Religious Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Basic reading knowledge of classical Tibetan.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 12.00"
+    }
+}

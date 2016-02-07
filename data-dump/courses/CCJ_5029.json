@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines theory and research in the relationship between economic structure, conditions and change, and the circumstances engendering both criminal behavior and attempts to control it.", 
+        "number": "5029", 
+        "subject": "CCJ", 
+        "title": "The Political Economy of Crime and Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

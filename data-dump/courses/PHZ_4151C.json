@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the use of computers to solve computationally intensive problems, including basic instruction in physics problem solving using numerical solutions of differential equations, numerical integration, Monte Carlo methods, linear algebra and symbolic algebra. Provides instruction in computational techniques and software development skills and practice in using network and software development tools including telnet, ftp, spreadsheets, databases, code management tools, and the World Wide Web.", 
+        "number": "4151C", 
+        "subject": "PHZ", 
+        "title": "Computational Physics Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302 or MAP 3305, PHY 3221 and PHZ 3113.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

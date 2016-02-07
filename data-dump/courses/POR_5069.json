@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a translation examination to ascertain the student's ability to read research materials written in Portuguese. Use of translation software is prohibited.", 
+        "number": "5069", 
+        "subject": "POR", 
+        "title": "Graduate Reading Knowledge Examination: Portuguese"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

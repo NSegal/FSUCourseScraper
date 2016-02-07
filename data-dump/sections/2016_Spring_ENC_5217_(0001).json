@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (3408)", 
+    "basic": {
+        "class_num": "3408", 
+        "course": "5217", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "ENC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "21:30:00", 
+            "instructors": [
+                "R Bickley"
+            ], 
+            "location": "WMS 0319", 
+            "start_time": "18:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

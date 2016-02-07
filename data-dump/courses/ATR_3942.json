@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for athletic training students to investigate and research athletic training special topics through individual study and seminars. Enrollment is allowed by permission of the athletic training curriculum coordinator.", 
+        "number": "3942", 
+        "subject": "ATR", 
+        "title": "Sports Medicine Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 1800.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 6.00"
+    }
+}

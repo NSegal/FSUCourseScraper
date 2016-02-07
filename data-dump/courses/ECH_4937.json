@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected topics in chemical engineering with emphasis on contemporary developments in the field. May be repeated within the same term to a maximum of twelve semester hours.", 
+        "number": "4937", 
+        "subject": "ECH", 
+        "title": "Special Topics in Chemical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, and ECH 4267. Corequisite: ECH 4504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

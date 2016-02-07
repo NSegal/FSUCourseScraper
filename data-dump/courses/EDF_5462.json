@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced level seminar on the theoretical and pragmatic aspects of program evaluation. Students begin with an overview and understanding of evaluation theoretical roots and the philosophical premises shaping evaluation theory. This leads to further understandings about the application of different research designs to the practice of evaluation, as presented in evaluation cases.", 
+        "number": "5462", 
+        "subject": "EDF", 
+        "title": "Evaluation of New Educational Programs and Practices"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5461.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

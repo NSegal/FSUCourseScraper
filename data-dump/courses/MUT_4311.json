@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the characteristic usage of orchestral instruments and the principles of scoring.", 
+        "number": "4311", 
+        "subject": "MUT", 
+        "title": "Orchestration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 3421 and MUT 3422.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "2.00"
+    }
+}

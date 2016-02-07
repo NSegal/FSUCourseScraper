@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of scalar and vector fields, an introduction to the three-dimensional structure of atmospheric systems, and thermodynamic\u00a0 diagrams.", 
+        "number": "5505C", 
+        "subject": "MET", 
+        "title": "Advanced Synoptic Lecture-Laboratory I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CGS 3460. Corequisites: MET 5311 and MET 5425.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with basic knowledge of applied and numericalmathematics useful for scientific and engineering modeling, guided by some problems in applications. Focus is on the numerical solution of stochastic differential equations and Monte Carlo methods. A combination of theory an d lab work develop the student's intuition and allow for more insight useful for applications.", 
+        "number": "5936", 
+        "subject": "ISC", 
+        "title": "Numerical Methods for Stochastic Differential Equations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 3703; MAP 2302; MAS 3105; SAT 4321; or equivalent or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of environmental issues arising in the context of business transactions such as real estate development and sales, leases, lending agreements, corporate mergers and acquisitions, and securities disclosure.", 
+        "number": "7477", 
+        "subject": "LAW", 
+        "title": "Environmental Issues in Business Transactions"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

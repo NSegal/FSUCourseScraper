@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides participants with experiences with learners identified as having dual sensory disabilities or deafblindness. The practicum provides experience in developing, implementing and evaluating individualized educational programs, as well as experience working with a team of professionals, paraprofessionals and family members/guardians. May be repeated to a maximum of three semester hours.", 
+        "number": "5944", 
+        "subject": "EVI", 
+        "title": "Practicum with Students Who Are Deaf-Blind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EVI 5131.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

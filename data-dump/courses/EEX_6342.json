@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive study of special education literature in a variety of areas.", 
+        "number": "6342", 
+        "subject": "EEX", 
+        "title": "Seminar: Readings in Education, Training, and Treatment of Exceptional Individuals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

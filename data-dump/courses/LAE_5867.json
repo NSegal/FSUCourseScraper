@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to address current technology research and learning theory, instructional design and product development, information access and delivery issues, and pragmatic ideas for integrating educational technology in the classroom. Emphasis is on applying technology applications as an effective tool in teaching and learning.", 
+        "number": "5867", 
+        "subject": "LAE", 
+        "title": "Teaching and Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers special topics in civil engineering with emphasis on recent developments. May be repeated to a maximum of six semester hours. Consult instructor.", 
+        "number": "5930", 
+        "subject": "CGN", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

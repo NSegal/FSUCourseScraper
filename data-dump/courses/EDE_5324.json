@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of thinking processes of elementary-aged children and interventions to enhance thinking. Special emphasis given to critical thinking, creative thinking, moral thinking, problem solving, and decision making.", 
+        "number": "5324", 
+        "subject": "EDE", 
+        "title": "Promoting Thinking in the Elementary School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

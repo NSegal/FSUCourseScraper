@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to engineering materials, with emphasis on understanding the relation between structure, processing, and properties. In particular, the role of the atomic structure and arrangement, as well as the microstructure, in determining the physical properties of these materials is examined. In addition, polymers and modern processing techniques for improving material performance are studied. Finally, the resistance of materials to environmental factors, and factors in selection of materials for engineering applications are discussed.", 
+        "number": "4824", 
+        "subject": "ECH", 
+        "title": "Chemical Engineering Materials"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3274L, ECH 3418, adn ECH 4267. Corequisites: ECH 4404L, ECH 4504, and ECH 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

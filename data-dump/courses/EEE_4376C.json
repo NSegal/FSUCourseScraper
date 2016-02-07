@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the design and analysis of bipolar and MOS analog integrated circuits. The course focuses on operational amplifier design, analog multipliers, active loads, current sources, and active filters.", 
+        "number": "4376C", 
+        "subject": "EEE", 
+        "title": "Introduction to Analog Integrated Circuit Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 4301.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

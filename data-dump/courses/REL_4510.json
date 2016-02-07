@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers major developments in the history and theology of Christianity in the first three centuries of the Common Era.", 
+        "number": "4510", 
+        "subject": "REL", 
+        "title": "Christianity after the New Testament"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: REL 2240 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

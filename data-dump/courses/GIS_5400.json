@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course practical examples from the fields of health, economic geography and real estate, housing, transportation, criminology and others are used to illustrate how spatial analysis techniques are used to address problems in a GIS environment. Special consideration is given to the data needs of such operations, the implementation of methods in a GIS environment, andunderstanding the spatial assumptions and issues that underpin analyses.", 
+        "number": "5400", 
+        "subject": "GIS", 
+        "title": "Geographic Information Systems Applications in Social Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

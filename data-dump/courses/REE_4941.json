@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship is designed for College of Business students who desire to gain real-world experience in the real estate field through on-the-job practice. Students work under the direction of an approved industry professional, a faculty advisor, and the internship director. S/U grade only.", 
+        "number": "4941", 
+        "subject": "REE", 
+        "title": "Real Estate Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically examines the commonplace notions surrounding gender and sport by using the posstructural and feminist theory.", 
+        "number": "5252", 
+        "subject": "PET", 
+        "title": "Gender Issues in Sport and Physical Activity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

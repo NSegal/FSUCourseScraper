@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops an understanding of the scientific approach to the development of knowledge; analyzes historical and social factors associated with theory construction; gives exposure to research and writings in the area of theory development; utilizes conceptual tools to develop theories; increases understanding of ways to critique theories; analyzes the progression of ideas through the accomplishments of a prominent theorist; engages in the exploration of epistemological issues through the creation of a theory of the student's choice.", 
+        "number": "6278", 
+        "subject": "LIS", 
+        "title": "Issues in Theory Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00 - 5.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to develop techniques in electronic music composition and all aspects of MIDI.", 
+        "number": "3340", 
+        "subject": "MUS", 
+        "title": "Music Instrument Digital Interface"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

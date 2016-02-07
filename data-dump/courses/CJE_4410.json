@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the dynamics of community policing from both a theoretical and practical perspective. Emphasis is on both understanding the origins of community policing and practical application through the use of problem solving and partnership strategies.", 
+        "number": "4410", 
+        "subject": "CJE", 
+        "title": "Community Policing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

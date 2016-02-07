@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a systematic and comprehensive study of basic literary Tibetan grammar, common locution, and translation devices. Emphasis will be on exposure to a variety of styles and genres in Tibetan religious literature including Buddhist texts on philosophy, ritual and history. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4357", 
+        "subject": "REL", 
+        "title": "Classical Tibetan"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

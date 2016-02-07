@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course employs direct observation and recording techniques for analysis of classroom management strategies.", 
+        "number": "3831", 
+        "subject": "EEX", 
+        "title": "Practicum in Direct Observation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EEX 3601.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

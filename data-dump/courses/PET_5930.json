@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves a number of student and faculty presentations concerning research, and developments in exercise physiology, motor learning/control, and the movement sciences.", 
+        "number": "5930", 
+        "subject": "PET", 
+        "title": "Seminar in Movement Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

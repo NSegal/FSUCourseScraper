@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers the basic graphic-representation skills required for communicating solutions to planning and urban-design problems. Topics cover the basic principles of graphic design; manual graphic communication; digital image editing techniques to represent 2-D aerial and plan views of existing or proposed conditions and elevations; as well as the use of visualization software to compose vector-based illustrations of physical-planning solutions to urban design and policy-based questions.", 
+        "number": "5885", 
+        "subject": "URP", 
+        "title": "Graphics Communication for Urban Planning and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

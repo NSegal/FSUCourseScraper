@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students develop the practical skills needed to successfully complete a teaching portfolio using Chalk and Wire, reflect on prerequisite coursework and associated field experiences, and set goals for future internship experiences.", 
+        "number": "5525", 
+        "subject": "ISC", 
+        "title": "Accomplished Practices in Science Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 4210, EDF 4430, EDG 4321, RED 4335, and TSL 4324.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00"
+    }
+}

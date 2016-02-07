@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the environment of international capital and foreign exchange markets and examines the effects of the international business environment on risk, capital budgeting, working capital management, and capital structure decisions of the firm.", 
+        "number": "4604", 
+        "subject": "FIN", 
+        "title": "Multinational Financial Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518, FIN 3244, and FIN 3403 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

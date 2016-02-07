@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "5676", 
+        "subject": "STA", 
+        "title": "Reliability Theory and Life Testing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A basic course in probability and statistics.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

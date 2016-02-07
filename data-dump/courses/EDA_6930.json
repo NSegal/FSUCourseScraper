@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a weekly seminar on current educational problems. May be repeated to a maximum of nine semester hours.", 
+        "number": "6930", 
+        "subject": "EDA", 
+        "title": "Seminar in Literature, Research and Professional Writing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

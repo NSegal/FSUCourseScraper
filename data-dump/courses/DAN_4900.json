@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Written thesis for creative or academic research done as part of the honors in dance program. May be repeated to a maximum of nine semester hours.", 
+        "number": "4900", 
+        "subject": "DAN", 
+        "title": "Honors Study in Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to honors in dance program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

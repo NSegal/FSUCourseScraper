@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the works of a broad range of recent theorists, primarily post-1945. Major emphasis is given to central issues and problems of recent theory and to critical analyses of logical-structural adequacy of theorizing.", 
+        "number": "5126", 
+        "subject": "SYA", 
+        "title": "Contemporary Sociological Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

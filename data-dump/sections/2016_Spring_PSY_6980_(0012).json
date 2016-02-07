@@ -1,0 +1,26 @@
+{
+    "_unique": "0012-DSS (9071)", 
+    "basic": {
+        "class_num": "9071", 
+        "course": "6980", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Christopher Patrick"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

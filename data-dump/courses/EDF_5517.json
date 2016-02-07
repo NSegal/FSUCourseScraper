@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the evolution of public and private schooling in the United States from the Spanish and British colonial eras to the modern reform period of the late 20th century. It includes the social history of American teachers, and a critical examination of issues surrounding race, ethnicity, social class and gender in the development of formalized structures of schooling.", 
+        "number": "5517", 
+        "subject": "EDF", 
+        "title": "History of Education in The United States"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

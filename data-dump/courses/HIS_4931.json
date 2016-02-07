@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers selected topics in history. A maximum enrollment of five students in each tutorial. May be repeated only once and to a maximum of four semester hours. The course does not count as credit toward the history major or minor.", 
+        "number": "4931", 
+        "subject": "HIS", 
+        "title": "Tutorial in History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Senior history majors or minors status and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 2.00"
+    }
+}

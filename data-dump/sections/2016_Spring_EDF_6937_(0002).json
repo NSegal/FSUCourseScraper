@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (2677)", 
+    "basic": {
+        "class_num": "2677", 
+        "course": "6937", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "EDF", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:40:00", 
+            "instructors": [
+                "Yanyun Yang"
+            ], 
+            "location": "STB G103", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

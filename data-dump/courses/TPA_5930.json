@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to help the student develop a comprehensive understanding of skills and practices in different areas of theatre management and to develop research and presentation skills. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5930", 
+        "subject": "TPA", 
+        "title": "Select Topics in Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students participate in a faculty or graduate student research and/or creative project. May be repeated to a maximum of six semester hours.", 
+        "number": "4910", 
+        "subject": "FIL", 
+        "title": "Application of Research and Creative Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status and junior standing.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

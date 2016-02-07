@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the methods and implications of making wage and salary decisions for recruiting and retaining employees.", 
+        "number": "4330", 
+        "subject": "MAN", 
+        "title": "Compensation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAN 3240 and MAN 4301.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

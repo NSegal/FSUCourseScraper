@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of the short story in the 19th and 20th centuries, the major writers, and their representative works.", 
+        "number": "5375", 
+        "subject": "RUW", 
+        "title": "Russian Short Story"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

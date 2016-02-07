@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course synthesizes the various theories for the conduct of crime with the knowledge of how physical evidence is produced during the commission of a crime on or under the water in order to produce information that enables the investigation and prosecution of criminal activity.", 
+        "number": "4764", 
+        "subject": "CJE", 
+        "title": "Underwater Crime Scene Methodology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 4762 and CJE 4763.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

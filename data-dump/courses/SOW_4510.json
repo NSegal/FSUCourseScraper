@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, supervised direct social work experience is provided in various human service settings. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4510", 
+        "subject": "SOW", 
+        "title": "Undergraduate Field Instruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A 3.0 GPA in social work courses and completion of all required social work courses and prerequisites. Corequisite: SOW 4522.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00 - 12.00"
+    }
+}

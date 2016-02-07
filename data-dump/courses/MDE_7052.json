@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This elective course is designed to be taken via distance learning. Severalfaculty members are collaborating on teaching so as to bring different per spectives. Extensive annotated reading lists are available for each theme. Students may select a theme or propose a new theme for faculty approval.\u00a0\u00a0 Students may select readings from the reading list.", 
+        "number": "7052", 
+        "subject": "MDE", 
+        "title": "Literature and Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

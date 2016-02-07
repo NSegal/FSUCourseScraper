@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is taught at an introductory level and includes discussions of current ground-breaking research, environmental problems, and approaches to solving them. It consists of presentations by experts on their current research topics or on environmental issues.", 
+        "number": "4017", 
+        "subject": "OCE", 
+        "title": "Current Issues in Environmental Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

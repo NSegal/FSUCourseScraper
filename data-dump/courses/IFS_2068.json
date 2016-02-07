@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students investigate numerous cultural and political issues and defining moments in 20th-century America through the lenses of Hemingway biography, texts, and audience.", 
+        "number": "2068", 
+        "subject": "IFS", 
+        "title": "Understanding America: Hemingway in a World of Discredited Values and Traditions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

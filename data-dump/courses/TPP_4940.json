@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a resident internship in an approved professional theatre, shop, or enrichment center. May be repeated to a maximum of six semester hours.", 
+        "number": "4940", 
+        "subject": "TPP", 
+        "title": "Internship in Theatre Performance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Completion of all coursework in theatre and instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

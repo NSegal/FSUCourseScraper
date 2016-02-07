@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Student must complete a minimum of six semester hours; may be repeated to a maximum of nine semester hours.", 
+        "number": "4975", 
+        "subject": "FIL", 
+        "title": "Undergraduate Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the undergraduate Film School honors program and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

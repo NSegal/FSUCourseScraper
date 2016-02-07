@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of literature in English and related materials relevant to the issue of human rights.", 
+        "number": "4205", 
+        "subject": "LIT", 
+        "title": "Literature of Human Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

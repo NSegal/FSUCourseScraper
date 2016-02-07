@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course approaches the study of Africa through the reading and discussion of ethnographies of African life. While situating Africa within broad historical dynamics that shaped the continent, the course also focuses on particular economic, gender, medical, political and ritual circumstances within which people lead their lives. Ultimately, the course explores African ethnography as a key source for current questions and debates within anthropology, African studies, and other disciplines interested in the analysis of human socio-cultural life.", 
+        "number": "5352", 
+        "subject": "ANG", 
+        "title": "Peoples and Cultures of Africa"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

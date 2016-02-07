@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with an in-depth knowledge of advanced topics in neural networks such as universal approximation networks, transformation-based neural networks, information theoretic models, and foundations of neurodynamics.", 
+        "number": "5812", 
+        "subject": "EEL", 
+        "title": "Advanced Neural Networks"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4810.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

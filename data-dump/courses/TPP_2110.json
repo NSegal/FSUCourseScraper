@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction of the basic acting process. The course emphasizes living truthfully in imaginary circumstances through honest listening and response. May be repeated to a maximum of nine semester hours.", 
+        "number": "2110", 
+        "subject": "TPP", 
+        "title": "Acting Technique I: Basic Process"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

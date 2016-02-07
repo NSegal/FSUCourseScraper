@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to observe and inquire about sustainable practices through field studies at local organic farm, hydro-power station, new urbanism community, and recycling facilities, etc., as well as through interactions with community-based programs. Students will engage in critical thinking about the sustainability of human society and the environment from various aspects, which include producers, consumers, public-service sectors, and policy makers.", 
+        "number": "2012", 
+        "subject": "IFS", 
+        "title": "Sustainable Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines Latin America in the international political system, with emphasis on the United States and Latin America.", 
+        "number": "4244", 
+        "subject": "INR", 
+        "title": "Studies in International Politics: Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

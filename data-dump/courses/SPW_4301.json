@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies dramatic works or performances from various Spanish-speaking region within a particular period, including its socio-historical, literary, biographical, and cultural contexts. Students may participate in a workshop production of the work(s) studied. May be repeated to a maximum of six semester hours.", 
+        "number": "4301", 
+        "subject": "SPW", 
+        "title": "Hispanic Culture and Performance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

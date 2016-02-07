@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines procedures for the design and development of instructor-led courses.", 
+        "number": "5604", 
+        "subject": "EME", 
+        "title": "Designing Instructor-Led Courses"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EME 5603 or EDG 6925.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is open to all upper-division organ majors and principles.", 
+        "number": "4260", 
+        "subject": "MUM", 
+        "title": "Organ Design and Maintenance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

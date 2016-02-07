@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses government institutions and current political parties throughout the world, as well as theories that explain similarities and differences among countries. Topics may include electoral systems, parliamentary systems, causes of political change, democratization, political culture, ideologies, and economic and social policy. Examples are drawn from Western democracies and developing countries.", 
+        "number": "2002", 
+        "subject": "CPO", 
+        "title": "Introduction to Comparative Government and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

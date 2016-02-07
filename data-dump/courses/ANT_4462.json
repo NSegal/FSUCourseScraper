@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an investigation of different medical systems and their practitioners, the ecology of health, illness, human adaptation, nutrition, and the life cycle.", 
+        "number": "4462", 
+        "subject": "ANT", 
+        "title": "Introduction to Medical Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

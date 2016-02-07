@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a basic overview of schooling and development in Asia, Africa, and Latin America. While journeying through different countries, school systems, and cultures, this course also focuses on the Third World inside the United States.", 
+        "number": "2082", 
+        "subject": "EDF", 
+        "title": "Schooling and Development in Third World Societies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

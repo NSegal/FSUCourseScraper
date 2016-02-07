@@ -1,0 +1,26 @@
+{
+    "_unique": "0020-DSC (1488)", 
+    "basic": {
+        "class_num": "1488", 
+        "course": "1046", 
+        "season": "Spring", 
+        "solus_id": "0020", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:50:00", 
+            "instructors": [
+                "Michael Roper"
+            ], 
+            "location": "HTL 0219", 
+            "start_time": "18:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

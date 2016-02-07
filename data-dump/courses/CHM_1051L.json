@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory is an opportunity for research-based special projects.", 
+        "number": "1051L", 
+        "subject": "CHM", 
+        "title": "Honors General Chemistry II Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1050 and 1050L, each with a grade of \"C-\" or better. Corequisite: CHM1051.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

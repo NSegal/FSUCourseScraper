@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-LEC (12429)", 
+    "basic": {
+        "class_num": "12429", 
+        "course": "1921", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "HUM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "William Parker"
+            ], 
+            "location": "BRY 0303", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course utilizes a service learning experience in an international social services organization to introduce students to international social work practice and a range of global social issues that shape human welfare and social development.", 
+        "number": "4940", 
+        "subject": "SOW", 
+        "title": "International Community Engagement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

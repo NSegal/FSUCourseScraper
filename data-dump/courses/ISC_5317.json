@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course presents computational methods for evolutionary inferences. Topics include the underlying models, the algorithms that analyze models, and the creation of software to carry out the analysis.", 
+        "number": "5317", 
+        "subject": "ISC", 
+        "title": "Computational Evolutionary Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5224, ISC 5306, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

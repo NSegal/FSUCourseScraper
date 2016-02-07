@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers tone, narration, form, and theme in representative short stories.", 
+        "number": "2020", 
+        "subject": "LIT", 
+        "title": "Introduction to the Short Story"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

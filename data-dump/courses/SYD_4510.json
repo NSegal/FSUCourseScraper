@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the larger social forces that shape our natural environment; the social foundations of environmental problems; and the social responses to environmental issues, conflicts, and movements.", 
+        "number": "4510", 
+        "subject": "SYD", 
+        "title": "Environmental Sociology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

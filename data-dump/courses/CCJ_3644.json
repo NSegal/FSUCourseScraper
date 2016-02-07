@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of major issues in the study of white-collar crime. Topics covered include conceptual and definitional debates; forms of white-collar crime; theories and causes; offenders, victims, and costs; as well as investigation, prosecution, and sentencing.", 
+        "number": "3644", 
+        "subject": "CCJ", 
+        "title": "White Collar Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

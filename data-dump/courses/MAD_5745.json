@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Fourier and orthogonal polynomial spectral methods for the solution of elliptic, parabolic, and hyperbolic equations. Spectral approximation theory. Psuedospectral method and aliasing removal. Applications to fluid flow.", 
+        "number": "5745", 
+        "subject": "MAD", 
+        "title": "Spectral Methods for Partial Differential Equations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 5738. Recommended prerequisite: MAP 5431.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

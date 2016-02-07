@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introductory architectural drafting course encompassing structural information and technical skill building in orthographic, paraline, and perspective views.", 
+        "number": "1406", 
+        "subject": "IND", 
+        "title": "Technical Drawing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

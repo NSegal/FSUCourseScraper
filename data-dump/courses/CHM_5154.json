@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the primary theme of chromatography, including gas-solid, gas-liquid, capillary gas, ion-exchange, and high-performance liquid methods. Emphasis is placed on the fundamental physical processes, modern instrumentation, and response characteristics of detectors relevant to these methods. Ancillary techniques discussed include solvent extraction, thin layer techniques, electrophoresis, field-flow fraction, and chromatographic measurements of physiochemical parameters.", 
+        "number": "5154", 
+        "subject": "CHM", 
+        "title": "Chemical Separations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

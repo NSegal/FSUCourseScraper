@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to quantitative data analysis in political science research. Topics include measurement (reliability and validity), univariate and bivariate descriptive statistics, principles of statistical inference, and computing skills.", 
+        "number": "5737", 
+        "subject": "POS", 
+        "title": "Political Science Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5736 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

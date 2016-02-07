@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-LEC (6193)", 
+    "basic": {
+        "class_num": "6193", 
+        "course": "2460", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Open", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Deloise Lima"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

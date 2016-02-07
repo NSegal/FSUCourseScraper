@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to evaluate and improve healthcare systems and clinical outcomes. With faculty guidance, students\u00a0 synthesize, integrate, and translte newly acquired knowledge and skills in the design and planning of a scholarly project. During this course, students complete any necessary institutional review requirements and select an appropriate design and method. Project options may include: design and testing of a critical pathway; design and testing of an innovative intervention in patient care; and development, testing, or evaluation of a program.", 
+        "number": "6935", 
+        "subject": "NGR", 
+        "title": "DNP Project Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: NGR 6602L or NGR 6779L.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

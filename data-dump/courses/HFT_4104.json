@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to provide the student with an in-depth understanding and appreciation for sustainable business practices within the private club and golf resort industry. Focus is placed on how existing companies operate within the sustainability model.", 
+        "number": "4104", 
+        "subject": "HFT", 
+        "title": "Global Impacts and Sustainability in the Club Industry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

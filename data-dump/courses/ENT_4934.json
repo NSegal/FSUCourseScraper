@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to learn about special topics in entrepreneurship that are not taught as part of the regular major\u00a0 or certificate programs in entrepreneurship. Special topics may include: environmental entrepreneurship, managing high growth, venture and angel capital, international entrepreneurship, and\u00a0 creativity in opportunity recognition.\u00a0 This course is repeatable to a maximum of six semester hours, as topics vary.", 
+        "number": "4934", 
+        "subject": "ENT", 
+        "title": "Special Topics in Entrepreneurship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 2010, ENT 2011 and ENT 3003.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

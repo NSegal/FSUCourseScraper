@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to government information sources and research, with focus on U.S. government information. Students learn about the structure of government and the dissemination of government information resources to the public, including techniques for locating and using government information sources.", 
+        "number": "5661", 
+        "subject": "LIS", 
+        "title": "Government Information"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

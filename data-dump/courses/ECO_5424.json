@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with the tools necessary for working with panel data, in order to evaluate different methods and their applicability to particular estimation problems. Topics are typically not included in econometrics core courses, yet are important in empirical research. Focus is on the analysis of cross-section and panel data, and on the discussion of linear and nonlinear models.", 
+        "number": "5424", 
+        "subject": "ECO", 
+        "title": "Econometric Methods for Panel Data"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5416, ECO 5423, and ECO 5427.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

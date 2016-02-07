@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics in modern molecular biophysics, modeling and simulations of macromolecules, molecules as classical systems, molecular dynamics simulations, free energy calculations, molecular mechanics/quantum mechanics methods.", 
+        "number": "5716", 
+        "subject": "PHZ", 
+        "title": "Biophysics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHZ 5715.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

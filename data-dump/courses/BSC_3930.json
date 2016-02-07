@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a weekly seminar covering topics in biological research. Not repeatable for credit toward major requirements.", 
+        "number": "3930", 
+        "subject": "BSC", 
+        "title": "Seminar in Biological Frontiers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as biochemical functions, physiological actions, and metabolism of the vitamins and minerals. Fundamental concepts underlying human nutrition.", 
+        "number": "5243", 
+        "subject": "HUN", 
+        "title": "Vitamins and Minerals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Biochemistry or HUN 3226.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

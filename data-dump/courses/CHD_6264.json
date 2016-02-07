@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines current child and family assessment techniques. Psychometric characteristics of measurements are reviewed.", 
+        "number": "6264", 
+        "subject": "CHD", 
+        "title": "Assessment Techniques for Children and Families"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Background in child and family study, as well as instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

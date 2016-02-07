@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an overview of the developmental disorders that affect children's speech. Topics include cleft lip, palate and other craniofacial anomalies, developmental apraxia of speech and the dysarthrias.", 
+        "number": "5256", 
+        "subject": "SPA", 
+        "title": "Developmental Speech Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

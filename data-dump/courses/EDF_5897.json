@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to sociological theories of national development and educational change. Examines social and cultural factors that affect education and the purported role of education in the development process.", 
+        "number": "5897", 
+        "subject": "EDF", 
+        "title": "Sociology of Education and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

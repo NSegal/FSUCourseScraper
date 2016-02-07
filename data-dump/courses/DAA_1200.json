@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is suitable for students with little or no previous ballet training. Includes some theoretical study of the history of the art form and comprehension of the vocabulary of ballet technical terms. May be repeated to a maximum of nine semester hours.", 
+        "number": "1200", 
+        "subject": "DAA", 
+        "title": "Beginning Ballet I-Nonmajors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

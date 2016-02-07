@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course develops potential campus student leaders and improves overall peer leadership efficacy. This course also provides an opportunity for students who are preparing for campus leadership and mentoring roles.", 
+        "number": "2160", 
+        "subject": "LDR", 
+        "title": "Peer Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

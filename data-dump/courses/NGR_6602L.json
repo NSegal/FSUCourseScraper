@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with advanced knowledge and skills related to the clinical management of actual and potential health problems across the lifespan in primary care. Emphasis is on promoting health, preventing illness, and managing complex acute and chronic illnesses. The course also explores the role dimensions of manager, collaborator, and teacher within the context of the role of the family nurse practitioner.", 
+        "number": "6602L", 
+        "subject": "NGR", 
+        "title": "Family Nurse Practitioner Practicum II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 6601, NGR 6601L. Corequisite: NGR 6602.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "4.00"
+    }
+}

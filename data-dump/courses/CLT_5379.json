@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a special study in seminar format of topics in ancient myth and its interpretation. May be repeated to a maximum of six semester hours.", 
+        "number": "5379", 
+        "subject": "CLT", 
+        "title": "Seminar in Ancient Mythology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines recent research dealing with adolescents. Emphasis is placed on the influence of growth and on the role of cultural pressures on behavior.", 
+        "number": "3305", 
+        "subject": "DEP", 
+        "title": "Psychology of Adolescent Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

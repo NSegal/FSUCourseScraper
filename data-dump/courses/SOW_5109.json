@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course acquaints students with individual and social factors that affect women throughout the life span using an interdisciplinary approach. Particular attention is given to the intersection of race, age, social class, sexual orientation, and other systems of inequality that impact on women's lives. The role of the social work profession in changing society's view of women and the role of practitioners in enabling or empowering women are also examined.", 
+        "number": "5109", 
+        "subject": "SOW", 
+        "title": "Women's Issues and Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

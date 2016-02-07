@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys major theories with respect to students' learning, motivation, individual differences in abilities, and development of cognitive\u00a0 and social skills as they apply to instructional decision making.\u00a0 The course components enable students to put research into practice and balance theoretical and practical perspectives of students' learning and teachers' practices.", 
+        "number": "5935", 
+        "subject": "EDP", 
+        "title": "Topics in Educational Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

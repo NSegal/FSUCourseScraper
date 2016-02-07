@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the following topics with emphasis on validation of algorithms and derivation of heuristics: linear programming, assignment problems, CPM, network flows, discrete optimization, branch and bound solution method, and dynamic programming. Design exercises.", 
+        "number": "3312C", 
+        "subject": "ESI", 
+        "title": "Operations Research I: Deterministic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

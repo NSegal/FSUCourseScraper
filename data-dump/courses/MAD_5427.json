@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Euler Lagrange equations, adjoint method algorithm. Optimal control of systems governed by elliptic, parabolic, hyperbolic PDEs. Control of initial and boundary conditions. Adjoint sensitivity analysis. Optimal parameter estimation, Kalman filter for parameter identification. Automatic differentiation techniques.", 
+        "number": "5427", 
+        "subject": "MAD", 
+        "title": "Numerical Optimal Control of Partial Differential Equations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 5739 and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

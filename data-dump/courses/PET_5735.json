@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers key topics pertaining to coaching, from developing a coaching philosophy to managing a team effectively. Topics include the eight domains of coaching competencies, thus addressing the National Standards for Sport Coaches.", 
+        "number": "5735", 
+        "subject": "PET", 
+        "title": "Advanced Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

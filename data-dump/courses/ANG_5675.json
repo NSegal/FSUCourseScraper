@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a broad survey of anthropological linguistics, from the origin and characteristics of human language and its relation to other animal communication systems, to language structure nd its description, principles of linguistic fieldwork, and historical/comparative linguistics. Other topics covered include the following: the interaction of language and culture; sociolinguistics; the ethnography of communication; ethnoscience; language acquisition; language policy and bilingual education; and linguistic prehistory.", 
+        "number": "5675", 
+        "subject": "ANG", 
+        "title": "Core Seminar in Linguistic Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

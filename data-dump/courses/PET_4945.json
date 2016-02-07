@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a one semester school experience in the role of a professional educator.", 
+        "number": "4945", 
+        "subject": "PET", 
+        "title": "Student Teaching in Physical Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SPM 4154.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "9.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes representative plays of the period 1660-1800. May include plays by Dryden, Etherege, Wycherley, Otway, Congreve, Farquhar, Steele, Rowe, Gay, Fielding, Goldsmith, and Sheridan.", 
+        "number": "4171", 
+        "subject": "ENL", 
+        "title": "Restoration and 18th-Century Drama"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

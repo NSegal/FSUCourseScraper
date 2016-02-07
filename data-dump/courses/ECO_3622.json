@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the factors in the development of economic forces, resources, institutions, and ideas relating to American economic growth analyzed through growth theories and issue debates on economic history.", 
+        "number": "3622", 
+        "subject": "ECO", 
+        "title": "Growth of the American Economy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

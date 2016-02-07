@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the development of thesis script story ideas, treatments, character biographies, storyboards, step-outline, first drafts, and revisions of both original ideas and adaptations.", 
+        "number": "4135", 
+        "subject": "FIL", 
+        "title": "Screenwriting III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

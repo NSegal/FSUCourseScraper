@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides students with an advanced understanding of both theoretical and practical issues within the domain of strategic management.", 
+        "number": "5296", 
+        "subject": "HMG", 
+        "title": "Business Strategy for the Hospitality Industry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes the problems of developing countries as integral parts of a more general process of the development of human societies on a global scale. The approach to the issues and problems of development is spatial. Such an approach permits consideration of the economic, social, political, and cultural aspects of the development process within an interdisciplinary framework, focusing on urban and regional development as embodiment of concerns with the general quality of human life and the natural environment. The process of development as it goes on in all countries is examined by a focus on the set of conditions leading to problems of development in most societies and on the nature of development paths which have been pursued by other nations as they seek to transform their national spatial structures.", 
+        "number": "5610", 
+        "subject": "URP", 
+        "title": "Introduction to Development Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

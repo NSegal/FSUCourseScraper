@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first in which the student learns to throw on the potter's wheel. From the basic cylinder, the student learns to form a pitcher, covered jar, and other functional shapes. Some alteration of thrown forms is also covered. Experience with clay and glazing is helpful but not required. This course may be repeated to a maximum of nine semester hours, with requirements increasing in difficulty each time.", 
+        "number": "2752C", 
+        "subject": "ART", 
+        "title": "Wheel Throwing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 1203.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

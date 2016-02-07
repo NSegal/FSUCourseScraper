@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of an identification and a discussion of defensible solutions for moral and ethical problems as they arise in the conduct of business and economic transactions. International business settings and the ethical problems arising from the need to design products and services that appeal to diverse national and world populations are considered.", 
+        "number": "3641", 
+        "subject": "PHI", 
+        "title": "Business Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

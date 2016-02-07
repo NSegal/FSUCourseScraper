@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This preliminary examination determines if students have mastered the content area of sport management and are prepared to plan and conduct independent and scholarly research. Upon successful completion of the preliminary examination, students are admitted to candidacy and may begin taking dissertation hours.", 
+        "number": "8968", 
+        "subject": "SPM", 
+        "title": "Preliminary Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

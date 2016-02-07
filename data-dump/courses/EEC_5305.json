@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides direct experiences in working with young children and families and requires seminar attendance and field placement with young children.", 
+        "number": "5305", 
+        "subject": "EEC", 
+        "title": "Methods and Experiences with Young Children and Families"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

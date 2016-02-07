@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on teaching students research skills that allow them to effectively incorporate outside sources in their writing and to compose in a variety of genres for specific contexts.", 
+        "number": "2135", 
+        "subject": "ENC", 
+        "title": "Research, Genre, and Context"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENC 1101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

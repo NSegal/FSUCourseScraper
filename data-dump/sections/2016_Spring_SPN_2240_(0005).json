@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (11389)", 
+    "basic": {
+        "class_num": "11389", 
+        "course": "2240", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "SPN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:00:00", 
+            "instructors": [
+                "Belen Gonzalez"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

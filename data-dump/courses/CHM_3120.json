@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This first course in analytical chemistry covers statistical analysis of analytical data, acid-base equilibria, acid-based titrations, electrochemistry, analytical separations, as well as atomic and molecular optical spectroscopy.", 
+        "number": "3120", 
+        "subject": "CHM", 
+        "title": "Analytical Chemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1046 and 1046L, each with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the application of simulation to complex systems, including material handling systems, real time scheduling, high speed/high volume production, modern manufacturing techniques, health-care delivery and logistics. Concurrent use of simulation and other analysis techniques. Use of experimental design, output analysis and validation techniques. Case\u00a0\u00a0\u00a0 studies.", 
+        "number": "5524", 
+        "subject": "ESI", 
+        "title": "Advanced Simulation Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 4523 or EIN 5524.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on advanced folk guitar styles and techniques.", 
+        "number": "3136", 
+        "subject": "MVS", 
+        "title": "Advanced Class Guitar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MVS 2126 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops technical and communication skills in Internet-based\u00a0 communication technologies. Hands-on survey of Internet technologies with focus on communication issues, problems, and competencies.", 
+        "number": "4330", 
+        "subject": "COM", 
+        "title": "Communication and the Internet"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

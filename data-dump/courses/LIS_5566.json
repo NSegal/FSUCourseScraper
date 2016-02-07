@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies and evaluates multicultural literature and information resources for children and young adults in relation to ethnicity and culture of ethnic minorities in the United States. Students locate, access, read, evaluate, and develop strategies to use multicultural literature and other resources to meet information needs of children and young adults.", 
+        "number": "5566", 
+        "subject": "LIS", 
+        "title": "Multicultural Literature and Information Resources for Children and Young Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

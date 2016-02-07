@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers microphysics of clouds. Development of warm and cold rain processes; hail formation, microphysical parameterizations, microphysical basis for weather modification and electrication.", 
+        "number": "5455", 
+        "subject": "MET", 
+        "title": "Cloud Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 4420, MET 4450, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

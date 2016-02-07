@@ -1,0 +1,37 @@
+{
+    "_unique": "0031-LEC (13853)", 
+    "basic": {
+        "class_num": "13853", 
+        "course": "1121", 
+        "season": "Spring", 
+        "solus_id": "0031", 
+        "status": "Closed", 
+        "subject": "SPN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:10:00", 
+            "instructors": [
+                "Sandra Noriega"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:10:00", 
+            "instructors": [
+                "Sandra Noriega"
+            ], 
+            "location": "TBA", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

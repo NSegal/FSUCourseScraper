@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes creative expression and communication using a variety of black and white media.", 
+        "number": "1300C", 
+        "subject": "ART", 
+        "title": "Drawing Foundations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

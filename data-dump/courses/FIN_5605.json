@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the environment of international markets and institutions, with emphasis on implications of international business on capital budgeting, working capital management, and capital procurement.", 
+        "number": "5605", 
+        "subject": "FIN", 
+        "title": "Multinational Financial Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

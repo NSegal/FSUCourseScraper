@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the basic ecology of agriculture and fisheries and consider how conventional and alternative food-production practices generate and solve ecological problems. The course focuses on several major current issues (e.g. genetically modified organisms, pollinator declines, organic agriculture, and fisheries), and for each students learn the science behind the issue and the social forces shaping the problem. Students also learn through discussions of scientific and popular writings, lectures, hands-on and written projects, oral presentations, local speakers and field trips.", 
+        "number": "2082", 
+        "subject": "IFS", 
+        "title": "The Ecology of Food"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

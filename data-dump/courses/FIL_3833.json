@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to analyze motion picture form and content through the styles of selected filmmakers with emphasis on genres, national movements, and other topics of interest. May be repeated to a maximum of six\u00a0 credit hours.", 
+        "number": "3833", 
+        "subject": "FIL", 
+        "title": "Film Styles"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

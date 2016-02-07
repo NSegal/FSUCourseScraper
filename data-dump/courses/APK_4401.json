@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for students interested in the psychosocial issues related to exercise behaviors. The course introduces both the theories and practices inherent in the field of exercise psychology. In addition, this course covers intervention strategies to promote exercise behaviors and long-term adherence to a physically active lifestyle.", 
+        "number": "4401", 
+        "subject": "APK", 
+        "title": "Introduction to Exercise Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

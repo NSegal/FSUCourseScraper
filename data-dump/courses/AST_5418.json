@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a survey of the physics and phenomenology of galaxies and galaxy structures. Topics include stellar populations, classification systems, interstellar and intergalactic material, chemical abundances and evolution, galaxy formation, structure, dynamics and evolution, extragalactic\u00a0 distance determination, interacting systems, as well as active galactic nuclei.", 
+        "number": "5418", 
+        "subject": "AST", 
+        "title": "Extragalactic Astronomy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: AST 4211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

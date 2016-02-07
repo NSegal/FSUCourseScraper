@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course acquaints students with the design process and the various tools by which a lighting designer researches and expresses his/her art. The course includes script analysis, producing light plots, and basic drafting.", 
+        "number": "4020", 
+        "subject": "TPA", 
+        "title": "Lighting Design I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 2201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

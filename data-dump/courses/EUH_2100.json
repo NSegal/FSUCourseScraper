@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "SURVEY OF WESTERN TRADITIONS FROM BEGINNINGS THROUGH THE END OF THE MIDDLE AGES; EMPHASIS ON PATTERNS OF THINKING AND ON\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 THOSE INSTITUTIONS MOST DISTINCTIVE FOR THE WESTERN TRADITION", 
+        "number": "2100", 
+        "subject": "EUH", 
+        "title": "ANCIENT AND MEDIEVAL CIVILIZATIONS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

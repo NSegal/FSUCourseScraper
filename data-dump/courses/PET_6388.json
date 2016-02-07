@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course in exercise and chronic diseases is designed to provide students with an understanding of recent advances in exercise physiology for clinical populations. Specific topics addressed include pathophysiology of disease process, clinical considerations, and exercise rehabilitation in clinical populations. Particular emphasis is placed on the acute and chronic physiological responses to exercise in healthy older individuals and patients with diabetes, obesity, coronary heart disease, chronic heart failure, hypertension, stroke, and peripheral arterial disease.", 
+        "number": "6388", 
+        "subject": "PET", 
+        "title": "Exercise and Disease"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 3110C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

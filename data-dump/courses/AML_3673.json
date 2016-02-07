@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to selected works of Asian American literature, focusing on Asian Indian, Pacific Islander, Filipino, Chinese, Japanese, Cambodian, and Vietnamese American writers. Common topics include issues of diaspora, dislocation, and cross-culturality.", 
+        "number": "3673", 
+        "subject": "AML", 
+        "title": "Asian American Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

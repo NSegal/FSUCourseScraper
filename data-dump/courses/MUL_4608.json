@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is required of voice performance majors.", 
+        "number": "4608", 
+        "subject": "MUL", 
+        "title": "Vocal Solo Literature: Contemporary Song"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

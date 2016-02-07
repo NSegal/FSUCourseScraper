@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction, representing knowledge, controlling attention, exploiting constraints, basic LISP programming, basic graph searching methods, game-playing and dealing with adversaries, understanding vision, theorem proving by computer, computer programs utilizing artificial intelligence techniques.", 
+        "number": "5605", 
+        "subject": "CAP", 
+        "title": "Artificial Intelligence"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

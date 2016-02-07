@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course teaches how to conduct ethnohistorical research on Native Americans in the United States. The course culminates in the annotation and interpretation of a set of primary sources.", 
+        "number": "2370", 
+        "subject": "HIS", 
+        "title": "Interpreting Native America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

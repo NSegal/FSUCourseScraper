@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines historical, contemporary, and emerging communication patterns and knowledge generation and use in the research, scholarly, and professional communities. Studies the development of communities of practice, their literature structures and communication networks, and information\u00a0\u00a0 behaviors.", 
+        "number": "5105", 
+        "subject": "LIS", 
+        "title": "Communities of Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5603.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

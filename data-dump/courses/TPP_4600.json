@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the craft of playwriting. The course functions as a workshop and focuses on the mechanics of structure, form, and marketing.", 
+        "number": "4600", 
+        "subject": "TPP", 
+        "title": "Fundamentals of Playwriting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

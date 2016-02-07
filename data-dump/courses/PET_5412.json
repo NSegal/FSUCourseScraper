@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores\u00a0 fundamentals of sports sciences organizational, ad\u00a0\u00a0 ministrative, and management practices. Topics include facility organization, risk management, professional ethics, budgeting, staffing, personal advancement, and career development. This course meets specific guidelines and competencies for strength and conditioning professionals.", 
+        "number": "5412", 
+        "subject": "PET", 
+        "title": "Professional Practices for the Sports Scientist"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admitted to the Sports Sciences Major of the MS in Exercise Science.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

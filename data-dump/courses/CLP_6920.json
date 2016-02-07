@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of weekly lectures on research and professional topics in the field of clinical psychology.", 
+        "number": "6920", 
+        "subject": "CLP", 
+        "title": "Current Issues in Clinical Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Clinical psychology majors only.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

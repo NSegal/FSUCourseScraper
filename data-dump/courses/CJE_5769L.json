@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory course empirically applies methodology based on advanced technology to enhance the location and detection of physical evidence used, or intended for use, in the commission of underwater crimes. Emphasis is placed on the use of the Incident Command System and the UCSI Process for management of an underwater crime scene investigation and on the verification of investigative protocols. Additional equipment fee required.", 
+        "number": "5769L", 
+        "subject": "CJE", 
+        "title": "Underwater Crime Scene Investigation Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 5768L. Corequisite: CJE 5769.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

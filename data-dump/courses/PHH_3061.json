@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys Western philosophy from the third to the 16th century, beginning with the work of Christian, Jewish, and Arabic philosophers, and then turning to the rise of humanism, individualism, and science.", 
+        "number": "3061", 
+        "subject": "PHH", 
+        "title": "Medieval and Renaissance Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

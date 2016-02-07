@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to give graduate students an accelerated view of basic concepts and principles in the merchandising field. Students who have taken CTE 3806 and CTE 4822 are not eligible to enroll in this course. Specifically, this course will (1) provide an overview of every aspect of the retailing industry including historical perspectives, analysis of the decades of the twentieth century, the various materials used by fashion innovators, the design process of apparel and accessories, the roles played by the ancillary arms of the industry, and the marketing of collections; and (2) examine the principles of effective quantitative merchandising management.", 
+        "number": "5807", 
+        "subject": "CTE", 
+        "title": "Retail Merchandising Concepts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105, MGF 1106, or MGF 1107.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

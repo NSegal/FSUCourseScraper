@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers life probabilities; tables; mortality laws and contingent payments; life annuities; premium principles and net premium reserves for continuous, descrete and semi-continuous life insurances; multiple life models; multiple decrement theory (theory of competing risks) and applications to pension plans; pricing and nonforfeiture models.", 
+        "number": "5177", 
+        "subject": "MAP", 
+        "title": "Actuarial Models"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 4170 and STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students with competencies in the use and development of assessments and in using assessments to inform instruction. Emphasis is placed on the administration of formal instruments and informal assessment procedures. This course addresses the Florida Educator Accomplished Practices and Competency 3 of the Florida Reading Endorsement.", 
+        "number": "4302", 
+        "subject": "EDE", 
+        "title": "Literacy Assessment and Instruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: RED 4310, MAE 4326, and TSL 4080. Corequisite: RED 4510.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

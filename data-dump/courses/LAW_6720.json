@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of numerous topics including national health care programs, health care financing, reimbursement, licensing and accreditation, hospital organization, physician and patient autonomy, antitrust law, quality of care and medical malpractice, and ethical issues related to availability of health care and services.", 
+        "number": "6720", 
+        "subject": "LAW", 
+        "title": "Health Law and Policy"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

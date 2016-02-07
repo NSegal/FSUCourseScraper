@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a survey from Colonial times to the present, including Byrd, Poe, Simms, Cale, Faulkner, Warren, O'Conner, and others.", 
+        "number": "4261", 
+        "subject": "AML", 
+        "title": "Literature of the South"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

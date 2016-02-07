@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-TCH (11098)", 
+    "basic": {
+        "class_num": "11098", 
+        "course": "5940", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "FRE", 
+        "type": "TCH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:00:00", 
+            "instructors": [
+                "Virginia Osborn"
+            ], 
+            "location": "DIF 0124", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

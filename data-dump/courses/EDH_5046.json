@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to examine historical and contemporary diversity-related issues in higher education. Students explore racial development theories and examine controversies in policy and practice across three major areas in higher education: campus climate, outcomes, and curriculum. Additionally, students increase their knowledge, awareness, and skills related to working with diverse populations.", 
+        "number": "5046", 
+        "subject": "EDH", 
+        "title": "Diversity in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

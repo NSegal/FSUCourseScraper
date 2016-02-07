@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (5168)", 
+    "basic": {
+        "class_num": "5168", 
+        "course": "6917", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MAN", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Chad Vaniddekinge"
+            ], 
+            "location": "RBB 0325", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

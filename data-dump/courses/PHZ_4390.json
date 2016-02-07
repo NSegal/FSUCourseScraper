@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the properties or nuclei and particles, nuclear and particle decays, the Standard Model, and accelarator and detector techniques.", 
+        "number": "4390", 
+        "subject": "PHZ", 
+        "title": "Particle and Nuclear Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302 or MAP 3305, and PHY 3101; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

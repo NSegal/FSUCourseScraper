@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores problems of similarity, difference, divinity, and nature/culture in Amazonia. It addresses the conceptual problem of where one culture ends and another begins with regard to Amazonian peoples. Topics include regional networks of trade, similar knowledge systems, shamanism, rainforest ecosystems, and social organization.", 
+        "number": "4337", 
+        "subject": "ANT", 
+        "title": "Peoples and Cultures of Amazonia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

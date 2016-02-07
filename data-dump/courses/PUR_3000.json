@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the principles and practices of the public relations profession throughout all organizations using public relations.", 
+        "number": "3000", 
+        "subject": "PUR", 
+        "title": "Introduction to Public Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

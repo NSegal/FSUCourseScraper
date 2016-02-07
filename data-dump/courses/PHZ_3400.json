@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as: crystal structures, phonons and thermal properties, electron energy bands, metals, semiconductors, superconductors, and magnetism.", 
+        "number": "3400", 
+        "subject": "PHZ", 
+        "title": "Phenomena in Condensed Matter Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

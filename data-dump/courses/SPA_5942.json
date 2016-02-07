@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This clinical practicum provides students with supervised experiences in a variety of community-based settings. May be repeated to a total of four semester hours.", 
+        "number": "5942", 
+        "subject": "SPA", 
+        "title": "Community Clinical Practicum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

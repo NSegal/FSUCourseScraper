@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the operations and administration of commercial banks and their role in the money and capital markets. Examines banking regulation, the lending function, investments, and the financial decision-making process.", 
+        "number": "4324", 
+        "subject": "FIN", 
+        "title": "Commercial Bank Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518, FIN 3244, and FIN 3403 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

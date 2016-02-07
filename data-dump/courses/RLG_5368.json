@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys in seminar format the manifestations of Islam in the United States, as well as American perceptions of Islam and Muslims. The course begins with the early 18th century and examines early American attitudes toward Muslims, and then moves to the experience of Islam among African-Americans. The latter third of the course is devoted to the assimilation of Muslim immigrants in the US, and how the issues of race, gender, \"trans-nationalism\" and stereotypes impact the American Muslim community.", 
+        "number": "5368", 
+        "subject": "RLG", 
+        "title": "Islam in North America"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (2438)", 
+    "basic": {
+        "class_num": "2438", 
+        "course": "6130", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EAB", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Jon Bailey"
+            ], 
+            "location": "HOL B0103", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

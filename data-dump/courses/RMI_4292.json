@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the composition, financial structure, and operations of the insurance industry. Special consideration is given to consumer problems and solutions.", 
+        "number": "4292", 
+        "subject": "RMI", 
+        "title": "Property and Casualty Insurer Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

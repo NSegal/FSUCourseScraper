@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a practice-oriented land development design course integration geometric\u00a0 layout, earthwork grading, storm water management, potable water distribution, wastewater collection, regulatory compliance, and financial considerations.", 
+        "number": "5825", 
+        "subject": "CGN", 
+        "title": "Site Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CEG 2202, CEG 2202L, CWR 4202, CWR 4203, TTE 3004, TTE 4201, or TTE 4804 or equivalents.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

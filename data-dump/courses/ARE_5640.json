@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course content incorporates the code of ethical responsibility of the American Art Therapy Association. This code addresses the responsibility, competence, qualifications, standards, continuing education, confidentiality, client welfare, use of client expressions, and professional relations in art therapy. Current issues related to the national certification exam and licensure of art therapists in Florida provides insight for professional development.", 
+        "number": "5640", 
+        "subject": "ARE", 
+        "title": "Ethics and Professional Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

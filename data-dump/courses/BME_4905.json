@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a supervised program of study approved by the department chair. May be repeated to a maximum of twelve semester hours. May be repeated within the same semester.", 
+        "number": "4905", 
+        "subject": "BME", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Department chair permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

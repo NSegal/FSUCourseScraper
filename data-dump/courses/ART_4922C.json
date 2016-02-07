@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves intensive studies in sculpture. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4922C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Ceramics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1203 and ART 3764C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

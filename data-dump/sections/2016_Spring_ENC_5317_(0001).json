@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (3389)", 
+    "basic": {
+        "class_num": "3389", 
+        "course": "5317", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ENC", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "20:00:00", 
+            "instructors": [
+                "Robert Shacochis"
+            ], 
+            "location": "WMS 0461", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

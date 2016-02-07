@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, participants develop the knowledge and skills necessary to effectively provide intervention services to the families of infants, toddlers and preschoolers with visual impairments. Activities center on conducting assessments, working with families, and designing and implementing interventions.", 
+        "number": "5318", 
+        "subject": "EVI", 
+        "title": "Special Methods of Working with Preschoolers with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4011 and EVI 4121.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course aims to develop students' Chinese proficiency adequate to the intermediate-high level in reading and writing, grammar, composition, and vocabulary.", 
+        "number": "3422", 
+        "subject": "CHI", 
+        "title": "Grammar and Composition II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHI 3420 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

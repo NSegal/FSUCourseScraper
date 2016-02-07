@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum is designed to provide the student with exposure to hands-on technical problem solving in a variety of settings. Students learn through practical experience to identify common technical problems experienced by end users; assess the scope and severity of user issues; and to develop, communicate, and implement strategies for successful problem resolution. May be repeated to a maximum of six semester hours. Duplicate registration not allowed", 
+        "number": "4941", 
+        "subject": "LIS", 
+        "title": "Information Technology Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

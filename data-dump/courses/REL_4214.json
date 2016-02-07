@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a close and critical reading of the Book of Genesis in terms of its composition, history of its interpretations, its Near Eastern context, its narrative artistry, as well as its relevance for ethics and theology.", 
+        "number": "4214", 
+        "subject": "REL", 
+        "title": "The Book of Genesis: Literary and Historical Approaches"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: REL 2210 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

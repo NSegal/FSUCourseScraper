@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-MEX (6545)", 
+    "basic": {
+        "class_num": "6545", 
+        "course": "8966", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "MEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Matthew Lata"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

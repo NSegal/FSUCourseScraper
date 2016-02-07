@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course students without an undergraduate degree in interior design study the elements and principles of design, color theory, space planning, and technical skills. This is a foundation course", 
+        "number": "5005", 
+        "subject": "IND", 
+        "title": "Survey of Interior Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "5.00"
+    }
+}

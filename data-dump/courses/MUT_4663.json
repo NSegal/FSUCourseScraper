@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the many aspects of jazz performance through the study of sound, rhythm, form, improvisation, and arrangement.", 
+        "number": "4663", 
+        "subject": "MUT", 
+        "title": "Jazz Styles and Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

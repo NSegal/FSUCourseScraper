@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the vices, virtues, and values of capitalism to evaluate its ethical properties. It is designed to raise questions and clearly-structured issues so that the student can make informed and thoughtful decisions.", 
+        "number": "3131", 
+        "subject": "ECO", 
+        "title": "Market Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

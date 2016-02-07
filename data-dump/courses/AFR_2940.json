@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship provides AFROTC field training.", 
+        "number": "2940", 
+        "subject": "AFR", 
+        "title": "Basic Aerospace Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Selection for the professional officer course portion of the AFROTC program and permission of the professor of aerospace studies.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "4.00"
+    }
+}

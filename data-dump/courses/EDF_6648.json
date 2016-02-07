@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive study of the policy analysis process. It illuminates and clarifies theoretical concepts in policy analysis through the discussion of cases and issues pertinent to the field of education.", 
+        "number": "6648", 
+        "subject": "EDF", 
+        "title": "Policy Analysis in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5641.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

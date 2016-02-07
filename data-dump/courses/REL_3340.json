@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the Buddhist tradition from its beginnings through the modern period. Some attention to its contemporary forms.", 
+        "number": "3340", 
+        "subject": "REL", 
+        "title": "The Buddhist Tradition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

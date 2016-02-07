@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the principle technical and creative support positions in motion picture and television production. Delineates the responsibilities and interrelationships of all preproduction, production, and postproduction personnel.", 
+        "number": "5458", 
+        "subject": "FIL", 
+        "title": "Principles and Practices of Technical and Creative Support"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

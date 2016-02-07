@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines leadership theories and evidence based management strategies for application in health care clinical systems. Course content focuses on leadership and management principles, systems thinking and problem solving, organizational structure, and strategic planning to promote quality health care organizations. Strategies for effective communication, conflict resolution, team building and interprofessional collaboration are explored. Emphasis is placed on the student\u2019s professional development as a leader in transforming patient care delivery systems.", 
+        "number": "5770", 
+        "subject": "NGR", 
+        "title": "Nursing Leadership and Resource Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

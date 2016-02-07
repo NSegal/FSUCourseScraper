@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores literary and film studies of the Portuguese-speaking\u00a0\u00a0 world. Taught in English or Portuguese, this course counts toward major or minor credit in Latin American and Caribbean Studies, the minor in Portuguese, and/or world literature/world film. May be repeated to a maximum of six semester hours.", 
+        "number": "3391", 
+        "subject": "PRT", 
+        "title": "Brazilian Literature and Film in Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

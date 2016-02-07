@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the English drama by Shakespeare's contemporaries and successors from Marlowe until the closing of the theatres in 1642.", 
+        "number": "4161", 
+        "subject": "ENL", 
+        "title": "Renaissance Drama"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

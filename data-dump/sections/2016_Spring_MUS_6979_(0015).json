@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-DSS (6661)", 
+    "basic": {
+        "class_num": "6661", 
+        "course": "6979", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DSS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Paul Ebbers"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

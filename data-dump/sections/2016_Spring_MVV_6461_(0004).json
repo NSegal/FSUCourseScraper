@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-PRF (12965)", 
+    "basic": {
+        "class_num": "12965", 
+        "course": "6461", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "David Okerlund"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

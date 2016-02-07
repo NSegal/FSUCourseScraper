@@ -1,0 +1,24 @@
+{
+    "_unique": "0014-LEC (6208)", 
+    "basic": {
+        "class_num": "6208", 
+        "course": "5465", 
+        "season": "Spring", 
+        "solus_id": "0014", 
+        "status": "Open", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

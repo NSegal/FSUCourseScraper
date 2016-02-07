@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces an understanding of normal human behavior and development in social context.", 
+        "number": "4031", 
+        "subject": "CCJ", 
+        "title": "The Individual and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

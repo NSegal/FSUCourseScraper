@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers faculty developed topics of importance to students' interests and needs. May be repeated to a maximum of three semester hours.", 
+        "number": "3930", 
+        "subject": "ART", 
+        "title": "Special Topics in Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

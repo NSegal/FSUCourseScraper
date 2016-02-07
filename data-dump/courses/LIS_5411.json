@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines selected fundamental policy questions regarding information and communications, with special attention to intricate policy issues such as information ownership rights, privacy rights, and public access to information. The course examines such issues by focusing on the underlying constitutional principles, laws and regulations, statutes, and government policies that impact such issues. Specific attention is given to federal policies within the United States but state and local policies are examined as needed.\u00a0 Specific course topics include universal service, information equity, privacy, intellectual property, censorship, e-government, and information management. The course focuses on providing information professionals with a fundamental understanding of the importance and impact of information policy.", 
+        "number": "5411", 
+        "subject": "LIS", 
+        "title": "Introduction to Information Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

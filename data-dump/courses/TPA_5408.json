@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of what is required to start up and operate an arts organization, as well as developing skills in budgeting, forecasting, fiscal management, contract negotiating and working with unions, personnel management, policy development, board relations, and organizational leadership.", 
+        "number": "5408", 
+        "subject": "TPA", 
+        "title": "Business and Legal Issues in the Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 4400 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

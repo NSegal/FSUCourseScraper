@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to examine techniques of cardiovascular, respiratory, and anthropometrical evaluation with a particular emphasis on aerobic capacity and body composition and to design, implement, and administer exercise programs for developing physical fitness.", 
+        "number": "5553", 
+        "subject": "PET", 
+        "title": "Cardiorespiratory and Anthropometric Evaluation and Development of Exercise Programs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 5111C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

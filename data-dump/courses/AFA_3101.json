@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a conceptual, institutional, and historical analysis of the operation and inner logic of racism and oppression.", 
+        "number": "3101", 
+        "subject": "AFA", 
+        "title": "Theory and Dynamics of Racism and Oppression"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

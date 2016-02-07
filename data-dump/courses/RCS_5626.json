@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an overview of rehabilitation administration and supervision both in public and private rehabilitation agencies.", 
+        "number": "5626", 
+        "subject": "RCS", 
+        "title": "Administration and Supervision in Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

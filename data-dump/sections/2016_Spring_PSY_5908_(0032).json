@@ -1,0 +1,26 @@
+{
+    "_unique": "0032-DIS (13128)", 
+    "basic": {
+        "class_num": "13128", 
+        "course": "5908", 
+        "season": "Spring", 
+        "solus_id": "0032", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Jeanette Taylor"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

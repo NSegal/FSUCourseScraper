@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This field study course offers a series of observation and participation activities designed to provide the English education undergraduate with pre-student teaching classroom experiences. This course is to be taken during the final semester of coursework, with LAE 4360.", 
+        "number": "4941", 
+        "subject": "LAE", 
+        "title": "Methods and Observation/Participation in Middle/Secondary English"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 3331 and LAE 4323. Corequisite: LAE 4360.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

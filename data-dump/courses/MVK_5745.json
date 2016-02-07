@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course incorporates techniques and specific skills of accompanying and coaching vocal music, especially art songs.", 
+        "number": "5745", 
+        "subject": "MVK", 
+        "title": "Techniques of Vocal Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

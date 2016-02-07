@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the chemical composition of seawater, carbon dioxide system, nutrients, trace elements, and biogeochemistry.", 
+        "number": "4002", 
+        "subject": "OCC", 
+        "title": "Basic Chemical Oceanography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 1046.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

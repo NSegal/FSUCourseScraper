@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers computational science topics which are not covered by existing courses. May be repeated within the same term, to a maximum of twelve semester hours.", 
+        "number": "4933", 
+        "subject": "ISC", 
+        "title": "Selected Topics in Computational Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 12.00"
+    }
+}

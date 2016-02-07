@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores practical techniques for classroom instruction of basic foreign language skills, teaching intermediate and advanced levels, use and construction of foreign language tests, techniques of planning, classroom management, ethics, and school law.", 
+        "number": "4941", 
+        "subject": "TSL", 
+        "title": "Practicum in Multilingual/Multicultural Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FLE 3033 and acceptable oral-proficiency interview score.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses developments in northern European fifteenth and sixteenth century art with emphasis on painting and printmaking: Flemish, French, German, and Dutch artists.", 
+        "number": "5340", 
+        "subject": "ARH", 
+        "title": "Northern European Renaissance Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

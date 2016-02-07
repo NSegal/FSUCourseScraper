@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course. students explore the factors that structure individual's attitudes towards politics and how the distribution of public opinion on major issues affects government. More specifically, the course has been designed to provide students with a critical examination of the psychology of political attitude formation, the opportunity to gather and analyze - both independently and as a group - data about citizens' political beliefs, and an empirical evaluation of government responsiveness toward citizens' demands", 
+        "number": "2114", 
+        "subject": "IFS", 
+        "title": "Public Opinion and American Democracy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

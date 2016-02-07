@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students apply GIS to a problem from their own research or one supplied by a local government agency. Topics include environmental modeling, GIS spatial analysis and visualization.", 
+        "number": "5100", 
+        "subject": "GIS", 
+        "title": "Advanced Geographic Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GEO 5146.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for master's and doctoral students to expose and discuss controversial topics related to moral education. Course topics include hate crimes, racial issues, gun control, character-values-moral education, and tolerance. This class examines historical, theoretical, and practical issues and applications pertaining to moral education.", 
+        "number": "5246", 
+        "subject": "EDG", 
+        "title": "Moral Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

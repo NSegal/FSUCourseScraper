@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a systematic investigation of the dynamic behavior of geological materials, in the context of continuum mechanics, with emphasis on one-dimensional motions including seismic waves, surface-water waves, tsunamis, river flows, floods, glaciers, sliding and slumping. As time permits, motions involving thermal effects are considered, including lava flows, volcanic eruptions and certain aspects of flow in the earth's mantle.", 
+        "number": "5465", 
+        "subject": "GLY", 
+        "title": "Geomechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302, MAP 3305, and PHY 2048C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

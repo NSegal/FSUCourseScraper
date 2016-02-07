@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers ways to apply statistical process control and methods of planned experimentation to the design of products and processes, as well as to continuous quality improvement. Topics covered include control charts; process-capability studies; loss functions; acceptance sampling; design of experiments for screening studies and response-surface modeling; and analysis of variance. The course also introduces case studies in chemical processes, food engineering, and health care.", 
+        "number": "3330", 
+        "subject": "ECH", 
+        "title": "Statistical Approach to Process Improvement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Completion of the academic requirements through the sophomore year in chemical engineering or in other engineering disciplines.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

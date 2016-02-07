@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates the role music plays worldwide in negotiating, consolidating, and questioning power between powerful macro-reaching political entities (corporations, nation states) and micro-locales (villages, regions, sub-cultures).", 
+        "number": "2059", 
+        "subject": "IFS", 
+        "title": "Music and International Human Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

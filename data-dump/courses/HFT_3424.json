@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a detailed analysis of food, beverage labor, and cash control. In-depth purchasing component including furniture, fixtures, and equipment (FF&E). Computer usage in labor control, cost analysis, and marketing mix analysis. A systems approach to management of quality through the design of appropriate controls.", 
+        "number": "3424", 
+        "subject": "HFT", 
+        "title": "Hospitality Financial Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "ACG2021,P,Y,**ECO2023,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the fundamental concepts employed in federal income taxation, the public policies that underlie the current system, and the impact of the system on individuals and business entities.", 
+        "number": "6600", 
+        "subject": "LAW", 
+        "title": "Taxation I"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 4.00"
+    }
+}

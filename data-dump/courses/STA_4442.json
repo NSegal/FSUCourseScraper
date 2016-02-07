@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers various topics including, but not exclusively: random variables, probability distributions, independence, sums of random variables, generating functions, central limit theorem, and the laws of large numbers.\u00a0 Credit is not given for both STA 4321 and STA 4442, and subsequent credit for STA 5440 is not permitted.", 
+        "number": "4442", 
+        "subject": "STA", 
+        "title": "Introductory Probability I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

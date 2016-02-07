@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to familiarize students with the history, current state of research, and continued relevance of what historian Greg Grandin terms as Latin America's \"long Cold War;\" that is, the political, social, and economic history of Latin America after World War II. It pays special attention to issues of revolution and empire, encouraging students to critically explore and engage the intimate connections between the local, national, and transnational manifestations of the Cold War in Latin America.", 
+        "number": "2011", 
+        "subject": "IFS", 
+        "title": "Empire and Revolution in Cold War Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

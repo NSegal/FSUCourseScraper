@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the acquisition, processing, and presentation of cartographic data.", 
+        "number": "3015", 
+        "subject": "GIS", 
+        "title": "Map Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

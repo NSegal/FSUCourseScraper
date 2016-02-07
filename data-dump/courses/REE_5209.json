@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides advanced treatment of the commercial mortgage and real estate equity markets. Topics include in-depth discussion of financing income-producing properties; commercial mortgage underwriting; real estate investment trusts; and the decisions faced by institutions regarding their property and mortgage portfolios. Emerging topics of special interest also are discussed.", 
+        "number": "5209", 
+        "subject": "REE", 
+        "title": "Advanced Real Estate Finance and Investment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

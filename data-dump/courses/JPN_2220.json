@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course continues to emphasize speaking and listening and introduces more of the essentials of Japanese syntax. In this course more time is devoted to reading and writing. About 400 kanji are introduced. May not be taken concurrently with JPN 1120, 1121 and/or 2300. May not be taken by native speakers.", 
+        "number": "2220", 
+        "subject": "JPN", 
+        "title": "Intermediate Reading and Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: JPN 1121 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

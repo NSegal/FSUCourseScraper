@@ -1,0 +1,26 @@
+{
+    "_unique": "0032-LAB (1420)", 
+    "basic": {
+        "class_num": "1420", 
+        "course": "1045L", 
+        "season": "Spring", 
+        "solus_id": "0032", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:55:00", 
+            "instructors": [
+                "Stephanie Dillon"
+            ], 
+            "location": "HTL 0317", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

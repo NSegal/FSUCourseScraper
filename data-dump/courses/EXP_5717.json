@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies sensory processes in animals using rigorous behavioral techniques.", 
+        "number": "5717", 
+        "subject": "EXP", 
+        "title": "Animal Psychophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (14525)", 
+    "basic": {
+        "class_num": "14525", 
+        "course": "5920", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "COM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "Olivia James"
+            ], 
+            "location": "DIF 0118", 
+            "start_time": "10:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

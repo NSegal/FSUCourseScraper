@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Private instruction. Major instrument. For performance majors.", 
+        "number": "3431", 
+        "subject": "MVV", 
+        "title": "Applied Music Major--Voice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

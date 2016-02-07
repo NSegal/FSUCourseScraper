@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines waves, currents, tides, El Nino, and climate change prediction.", 
+        "number": "4005", 
+        "subject": "OCP", 
+        "title": "Introduction to Physical Oceanography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

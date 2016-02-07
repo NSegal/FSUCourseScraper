@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of state and federal laws relating to the business of amateur and professional sporting competition as entertainment.", 
+        "number": "7840", 
+        "subject": "LAW", 
+        "title": "Sports Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

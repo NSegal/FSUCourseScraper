@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys current materials and teaching techniques in elementary school music.", 
+        "number": "5316", 
+        "subject": "MUE", 
+        "title": "Organizing and Teaching Elementary Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUE 2290, MUE 3210, MUE 3311, or teaching experience.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

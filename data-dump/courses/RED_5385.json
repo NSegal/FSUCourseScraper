@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course applies the reading process to ABE curriculum. Provides practitioners, administrators, and researchers with theoretical knowledge related to whole language and literacy education. Practicum included.", 
+        "number": "5385", 
+        "subject": "RED", 
+        "title": "Teaching Reading to Adult Illiterates"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

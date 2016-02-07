@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves participation in a research project on a selected topic as designated by the directing professor and the student. Participation includes more advanced work than PSY 4920 and a written product, the nature of which is detailed in a written contract between professor and student.", 
+        "number": "4915", 
+        "subject": "PSY", 
+        "title": "Honors Advanced Research Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012, acceptance into the University Honors Program, instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

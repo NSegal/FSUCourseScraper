@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to survey composers, styles and works written for keyboard instruments in the period up to 1828. Required of piano and harpsichord performance majors.", 
+        "number": "3481", 
+        "subject": "MUL", 
+        "title": "Survey of Keyboard Literature: Baroque and Classic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

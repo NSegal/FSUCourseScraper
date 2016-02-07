@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course helps students to further develop the three kinds of communicative skills in Chinese at the intermediate level: interpreting spoken language and written texts, communicating with Chinese speakers on matters in everyday life, and preparing and delivering presentations on sociocultural topics.", 
+        "number": "2243", 
+        "subject": "CHI", 
+        "title": "Intermediate Conversational Chinese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

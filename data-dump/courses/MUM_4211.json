@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines tuning systems and temperaments appropriate for historical instruments and for the modern piano.", 
+        "number": "4211", 
+        "subject": "MUM", 
+        "title": "Applied Piano Tuning II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4210.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

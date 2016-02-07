@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to outdoor games (field games such as cricket, lacrosse, and frisbee). Students become familiarized with basic rules of the sports covered, as well as, improving individual and team skills.", 
+        "number": "1002", 
+        "subject": "PEL", 
+        "title": "Introduction to Outdoor Games"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

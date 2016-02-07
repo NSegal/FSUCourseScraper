@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of issues arising under both the Establishment and Free Exercise clauses of the U.S. Constitution.", 
+        "number": "7512", 
+        "subject": "LAW", 
+        "title": "Church and State"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5501 and LAW 5502.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory course concerned with networking and telecommunications as a means of providing information services to users. From LANs to the information superhighway, it includes an introduction to voice, data, and video telecommunications concepts, technical requirements, and application issues, in addition to techniques and management of such systems.", 
+        "number": "5484", 
+        "subject": "LIS", 
+        "title": "Introduction to Data Networks for Information Professionals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

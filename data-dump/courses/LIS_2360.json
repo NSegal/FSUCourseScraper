@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the concepts and technical needs of client and server side technologies for web applications. The course equips students with resources for design, production, and evaluation of web applications and strategies for locating these resources. Students gain hands-on experience in web application production, including: client-side markup and programming, server-side programming for data processing, code versioning, accessing web services and related authentication techniques.", 
+        "number": "2360", 
+        "subject": "LIS", 
+        "title": "Web Applications Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CGS 2821 or any equivalent course in web design (HTML and CSS) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

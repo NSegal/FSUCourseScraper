@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive review and application of basic and advanced pertinent computer software for construction engineering and management. The course emphasizes practical applications for construction project management.", 
+        "number": "5510", 
+        "subject": "CCE", 
+        "title": "Computer Applications in Construction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CCE 4004.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

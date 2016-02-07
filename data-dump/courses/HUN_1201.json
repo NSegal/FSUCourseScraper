@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the elements of nutrition and factors influencing the ability of individuals to maintain good nutrition status.", 
+        "number": "1201", 
+        "subject": "HUN", 
+        "title": "The Science of Nutrition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the concepts and processes in planning, analyzing, and controlling personal financial resources. Emphasizes financial planning, cash and credit management, managing expenditures, income and asset protection, investment planning, and retirement and estate planning. For nonbusiness majors only. Credit not allowed for business majors.", 
+        "number": "3140", 
+        "subject": "FIN", 
+        "title": "Personal Finance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

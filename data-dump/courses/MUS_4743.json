@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers experience in types of writing that are particularly useful to musicians: analyses, program notes, performance reviews, and research paper.", 
+        "number": "4743", 
+        "subject": "MUS", 
+        "title": "Writing for Musicians"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

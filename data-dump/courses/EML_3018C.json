@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second in a sequence of two courses intended to provide the essential tools for the design and analysis of mechanical systems. Emphasis is on materials; stress analysis; shaft design; bearings and lubrication; fasteners and connectors; joints; clutches, brakes, couplings and flywheels; flexible elements; shafts; computer simulations and models of components and systems; team class projects involving dissection of existing machines and design and manufacture of new mechanical systems.", 
+        "number": "3018C", 
+        "subject": "EML", 
+        "title": "Mechanical Systems II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3017C. Corequisite: EML 3012C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

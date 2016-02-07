@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the career development of individuals and the process of career counseling and guidance.", 
+        "number": "5340", 
+        "subject": "MHS", 
+        "title": "Foundations of Career Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

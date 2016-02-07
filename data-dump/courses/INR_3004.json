@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the impact of geography and history on international relations and considers the ways these forces influence national and international processes. Topics include the role of geography in international economics and trade, regional integration, geopolitics, territorial and resource disputes, and how decision-makers learn from history.", 
+        "number": "3004", 
+        "subject": "INR", 
+        "title": "Geography, History, and International Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

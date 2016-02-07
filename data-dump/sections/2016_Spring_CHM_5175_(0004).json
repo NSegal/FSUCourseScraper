@@ -1,0 +1,24 @@
+{
+    "_unique": "0004-LEC (14699)", 
+    "basic": {
+        "class_num": "14699", 
+        "course": "5175", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:00:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course builds on basic telecommunications and network management concepts. Topics include physical layer propagation, advanced switch operation, wireless environments, LANs, WANs, network applications, and a comparision of client/server versus Web applications.", 
+        "number": "5227", 
+        "subject": "ISM", 
+        "title": "Advanced Telecommunications Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

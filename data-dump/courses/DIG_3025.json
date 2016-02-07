@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the historical development of design styles and techniques and their influences on contemporary culture.", 
+        "number": "3025", 
+        "subject": "DIG", 
+        "title": "Design History and Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C, ART 1203, ART 1300C, ART 1602C, and ART 2003C or ART 2204C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

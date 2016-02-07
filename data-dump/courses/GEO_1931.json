@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a venue for discussing key issues and controversies that students are likely to encounter as they pursue a major in one of the social sciences. Students learn critical skills in debating public policy issues while also gaining an appreciation for topics that shape everyday life. Those topics are impacted by social forces, economic dynamics, and governmental decisions around the world. May be repeated to a maximum of two hours.", 
+        "number": "1931", 
+        "subject": "GEO", 
+        "title": "Colloquium in Social Science and Public Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 2.00"
+    }
+}

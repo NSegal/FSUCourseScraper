@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the basic elements of a robot, robot actuators, and servo control; sensors, senses, vision, and voice; microprocessor system design and computers; kinematic equations; motion trajectories.", 
+        "number": "4800", 
+        "subject": "EML", 
+        "title": "Introduction to Robotics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3014C. Corequisite: EML 4535C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

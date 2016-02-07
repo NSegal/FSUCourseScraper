@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course analyzes personal and business life and health insurance needs, characteristics of plans appropriate to meet needs. Life insurance rating, receiving, underwriting, and financial statement analysis are also studied.", 
+        "number": "4115", 
+        "subject": "RMI", 
+        "title": "Life and Health Insurance Products"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

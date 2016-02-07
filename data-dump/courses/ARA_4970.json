@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours, three hours of which may be applied to the requirements for the minor in Arabic with permission of the department. All honors work is directed by the student's honors committee.", 
+        "number": "4970", 
+        "subject": "ARA", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Optional", 
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

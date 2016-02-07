@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on gender within major current theories, perspectives, and methodologies developed with any combination of the natural and social sciences and the humanities. This course is of value to students approaching gender and women's issues from any disciplinary perspective. May be repeated to a maximum of six semester hours.", 
+        "number": "5936", 
+        "subject": "WST", 
+        "title": "Interdisciplinary Topics in Feminist Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: At least one women's studies course. Corequisite: Program approval.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

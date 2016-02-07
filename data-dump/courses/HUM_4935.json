@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The seminar \"Principles of Criticism and Interpretation of Humanities\" examines a series of perspectives for approaching and applying the kind of knowledge gained from a study in the humanities. May be repeated to a maximum of six semester hours.", 
+        "number": "4935", 
+        "subject": "HUM", 
+        "title": "Seminar in the Humanities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "OCE", 
+        "title": "Studies in Oceanography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

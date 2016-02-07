@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of systems theory applied to instructional systems development and includes principles and procedures for developing total instructional systems. In the course, students learn about the systematic approach to instructional design, the contexts in which this approach is applied, and the roles instructional systems professionals in the instructional design and performance improvement processes.", 
+        "number": "5601", 
+        "subject": "EME", 
+        "title": "Introduction to Instructional Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

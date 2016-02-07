@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses the nude figure as the focus of study. The emphasis shifts towards the development of more personal expressions and personal development in terms of painting style and technique. May be repeated to a maximum of six semester hours.", 
+        "number": "3560", 
+        "subject": "ART", 
+        "title": "Figure Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 2330C, ART 2500C, and ART 3522.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies futures studies perspectives and methods to the study of societal trends and conditions. Emphasis is on the development of anticipatory public policy.", 
+        "number": "3013", 
+        "subject": "PAD", 
+        "title": "Futures Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Optional", 
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

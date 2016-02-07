@@ -1,0 +1,24 @@
+{
+    "_unique": "0031-LAB (11673)", 
+    "basic": {
+        "class_num": "11673", 
+        "course": "2010L", 
+        "season": "Spring", 
+        "solus_id": "0031", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:20:00", 
+            "instructors": [], 
+            "location": "KIN 1061", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

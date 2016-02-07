@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the interrelationship between the legal order and the social order. Limitations of civil and criminal law for conflict management and for implementation of social policy are considered.", 
+        "number": "3540", 
+        "subject": "SYP", 
+        "title": "Sociology of Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

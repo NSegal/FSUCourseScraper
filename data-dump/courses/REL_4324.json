@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies selected readings in Greek of Jewish, Christian and other religious texts from the ancient world. A basic knowledge of Greek grammar is presumed. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4324", 
+        "subject": "REL", 
+        "title": "Tutorial in Greek Religious Texts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

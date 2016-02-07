@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course serves as preparation for many of the executive-level challenges, issues, and practices involved in managing a symphony orchestra in the United States today.", 
+        "number": "5807", 
+        "subject": "MUM", 
+        "title": "Survey of Musical Arts Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

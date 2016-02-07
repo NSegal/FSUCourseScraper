@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is open to students who have completed the core PhD theory courses and are engaged in intensive study for their PhD preliminary examinations.", 
+        "number": "6960", 
+        "subject": "ECO", 
+        "title": "Preliminary Examination Preparation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5115, ECO 5116, ECO 5204 and ECO 5207.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 12.00"
+    }
+}

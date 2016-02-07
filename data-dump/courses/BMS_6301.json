@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the basic principles of medical microbiology and infectious disease. Topics include mechanisms of infectious-disease transmission, principles of aseptic practice, the role of the human body's normal microflora, as well as the biology of bacterial, viral, fungal, and parasitic pathogens and the diseases they cause. The course provides relevant clinical experiences and opportunities to develop informatics and diagnostics skills, including the use and interpretation of laboratory tests in the diagnosis of infectious diseases.", 
+        "number": "6301", 
+        "subject": "BMS", 
+        "title": "Medical Microbiology 201"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

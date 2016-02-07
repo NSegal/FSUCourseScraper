@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a colloquium for the Women in Math, Science and Engineering Living-Learning Community. Students must be members of the WIMSE Living-Learning Community", 
+        "number": "1921", 
+        "subject": "PHY", 
+        "title": "WIMSE Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

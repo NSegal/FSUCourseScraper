@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the implications of the digital revolution: what it means for the publishing industry, books, magazines, copyright, libraries, how we read and write, and how we organize ourselves as a society.", 
+        "number": "2030", 
+        "subject": "IFS", 
+        "title": "Reading, Writing, and Speaking in the Digital Age"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 1101 and ENC 1102.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

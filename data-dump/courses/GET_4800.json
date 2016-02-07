@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced-level skills course. Translating a variety of texts that illustrate important distinctions between German and English grammar, syntax, vocabulary, etc.", 
+        "number": "4800", 
+        "subject": "GET", 
+        "title": "Translation German-English/English-German"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 3400 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the principles and methods of phylogenetic, genetic, and neurophysiological approaches to behavior.", 
+        "number": "5056", 
+        "subject": "PSB", 
+        "title": "Biological Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

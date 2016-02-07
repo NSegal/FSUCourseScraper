@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the evolution of multimedia instruction, with an emphasis on contemporary research and theory. Includes practice in the design and development of multimedia learning systems.", 
+        "number": "6507", 
+        "subject": "EME", 
+        "title": "Development of Multimedia Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EME 6415.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines key issues and controversies that students are likely to encounter as they pursue a major in one of the social sciences. Topics vary, and look at major fields of study within the Social Sciences. Designed for students enrolled in the Social Sciences and Public Policy Living-Learning Community (SSPPLLC).", 
+        "number": "2932", 
+        "subject": "ISS", 
+        "title": "Seminar in Social Science and Public Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisite: Students must enroll in the Social Sciences/Public Policy LLC Program.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

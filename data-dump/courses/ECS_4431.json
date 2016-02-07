@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a detailed introduction to the analysis of economic development of Caribbean countries, including a discussion of the basic characteristics of Caribbean economies, a discussion of alternative theories and models of development, as well as a range of particular economic and social issues of concern to policy makers within Caribbean countries. Focus is on the actions available to Caribbean nations for addressing their development concerns within their region and/or country.", 
+        "number": "4431", 
+        "subject": "ECS", 
+        "title": "Economics of the Caribbean"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

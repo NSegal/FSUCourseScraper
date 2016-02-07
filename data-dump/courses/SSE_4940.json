@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a participant observation field study course in an education setting to be arranged with the instructor. May be repeated to a maximum of three semester hours.", 
+        "number": "4940", 
+        "subject": "SSE", 
+        "title": "Field Study in Social Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDG 4321 and SSE 4362.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

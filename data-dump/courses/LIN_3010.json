@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the relationship between meaning, form, and sound in language, including language acquisition, dialects, and grammar.", 
+        "number": "3010", 
+        "subject": "LIN", 
+        "title": "Introduction to Language Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

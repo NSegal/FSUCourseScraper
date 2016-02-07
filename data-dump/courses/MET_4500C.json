@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the analysis of scalar and vector fields, introduction to the three-dimensional structure of atmospheric systems, and thermodynamic diagrams.", 
+        "number": "4500C", 
+        "subject": "MET", 
+        "title": "Synoptic Lecture-Laboratory I: Basic Analysis Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 2507C (\"C\" or better), MET 3300 (\"C\" or better), or instructor permission. Corequisites: MET 4301 or MET 5311, MET 4420, and CGS 3460 or another programming language.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers Central Asian history through the medieval and modern periods, with special emphasis on the political and ethnic histories of the Central Asian peoples.", 
+        "number": "4261", 
+        "subject": "ASH", 
+        "title": "Central Asia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

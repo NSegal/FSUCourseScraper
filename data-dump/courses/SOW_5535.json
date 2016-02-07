@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is required for advanced graduate students and taken concurrently with Advanced Seminar in Social Work Practice. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5535", 
+        "subject": "SOW", 
+        "title": "Graduate Field Instruction II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "SOW5369,C,Y,**", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00 - 12.00"
+    }
+}

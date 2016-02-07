@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a laboratory course to practice strategies and skills in clinical supervision and counseling. The dyads of clinician-patient, clinician-significant other, and the triad of supervisor, supervisee, and patient are emphasized. May be repeated to a maximum of three semester hours.", 
+        "number": "5554L", 
+        "subject": "SPA", 
+        "title": "Supervision and Counseling in Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00"
+    }
+}

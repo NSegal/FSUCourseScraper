@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers acceleration in rotating curvilinear coordinates; momentum, continuity, and energy equations; geostrophic, gradient, and thermal winds; generalized coordinates; circulation and vorticity theorems; scale analysis; Reynolds stresses; Prandtl and Ekman layers; developing baroclinic systems.", 
+        "number": "4301", 
+        "subject": "MET", 
+        "title": "Atmospheric Dynamics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 3300 with a grade of \"C\" or better. Corequisites: MAP 2302 or MAP 3305; and MET 4420.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

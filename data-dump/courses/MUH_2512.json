@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introductory survey of various musical traditions in a global perspective, exploring music both as a phenomenon of sound and as a phenomenon of culture. The course is for music majors only.", 
+        "number": "2512", 
+        "subject": "MUH", 
+        "title": "Music in World Cultures"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

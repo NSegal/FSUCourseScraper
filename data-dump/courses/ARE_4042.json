@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes the theoretical, historical, philosophical, and sociological underpinnings for the development of curriculum for and the practice of art education in both primary and secondary schools. Observation in the public schools is required.", 
+        "number": "4042", 
+        "subject": "ARE", 
+        "title": "Theory and Practice I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Art Education Teacher Certification program. Corequisite: ARE 4144.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

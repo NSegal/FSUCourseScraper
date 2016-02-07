@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analytically studies masterworks from Bach to Bartok, including consideration of style, harmony, form, scoring, and theory.", 
+        "number": "5618", 
+        "subject": "MUT", 
+        "title": "Analysis of Masterworks 1700-1950"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

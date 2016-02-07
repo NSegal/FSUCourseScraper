@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches the principles and aesthetics of sound and the basic practices involved in creating a motion picture sound track. May be repeated to a maximum of twelve semester hours.", 
+        "number": "2533", 
+        "subject": "FIL", 
+        "title": "Motion Picture Sound"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

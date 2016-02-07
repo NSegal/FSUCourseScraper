@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students an understanding of explanatory and predictive models of the earth's systems and environmental processes therein. Analytical and numerical methods for solving equations are examined and applied. Discussions cover relevant scientific issues, mathematical and computational procedures, visualization techniques, as well as the use of models in research and decision making.", 
+        "number": "4060", 
+        "subject": "OCC", 
+        "title": "Environmental Science Modeling"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311, MAC 2312, and either STA 2122 or STA 4102.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

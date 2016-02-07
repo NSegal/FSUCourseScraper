@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced skills course designed to strengthen students' analytical, writing, and research skills, using appellate advocacy as the\u00a0\u00a0 context.", 
+        "number": "7372", 
+        "subject": "LAW", 
+        "title": "Advanced Writing Skills: Appellate Briefs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5792 and LAW 5793.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

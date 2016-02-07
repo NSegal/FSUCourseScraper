@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, student teachers instruct students with visual disabilities for one semester within a public school or residential school setting, full-time and under the supervision of an experienced, certified teacher of students with visual impairments.", 
+        "number": "4940", 
+        "subject": "EVI", 
+        "title": "Student Teaching in Visual Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EVI 4230.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "12.00"
+    }
+}

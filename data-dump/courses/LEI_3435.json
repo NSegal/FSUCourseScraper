@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to facilitate the understanding of principles and methods of recreation program design and operation. Students apply the processes of goal and objective technology, and selection and sequencing activities in creating a program design within the recreation, tourism and event field.", 
+        "number": "3435", 
+        "subject": "LEI", 
+        "title": "Recreation Program Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: LEI 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

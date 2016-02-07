@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers solid-state physics as applied to electronic devices. The course focuses on semiconductor materials, conduction process in solids, device fabrication, diffusion processes, and negative conduction devices.", 
+        "number": "4351", 
+        "subject": "EEE", 
+        "title": "Solid-State Electronic Devices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 3300 and EEE 3300L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

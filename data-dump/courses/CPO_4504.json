@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines questions about democracy and dictatorship from an institutional perspective. What is democracy and how is it measured, and how does regime affect the welfare of citizens? An emphasis is on the variety of institutional arrangements found in dictatorships.", 
+        "number": "4504", 
+        "subject": "CPO", 
+        "title": "Institutional Approaches to Democracies and Dictatorships"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

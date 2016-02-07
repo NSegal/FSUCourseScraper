@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated within the same term to a maximum of thirty semester hours.", 
+        "number": "4906", 
+        "subject": "MAT", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 4.00"
+    }
+}

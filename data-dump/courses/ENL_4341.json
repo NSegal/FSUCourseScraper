@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on Milton's life and works; emphasis on Lycidas, Paradise Lost, Paradise Regained, Samson Agonistes, and Milton's important libertarian prose.", 
+        "number": "4341", 
+        "subject": "ENL", 
+        "title": "Milton"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

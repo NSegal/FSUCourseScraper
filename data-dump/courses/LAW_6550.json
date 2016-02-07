@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory study of contemporary U.S. antitrust law and federal policy regarding regulatory control of the competitive process in the American economy.", 
+        "number": "6550", 
+        "subject": "LAW", 
+        "title": "Antitrust Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

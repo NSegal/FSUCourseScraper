@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LEC (12059)", 
+    "basic": {
+        "class_num": "12059", 
+        "course": "4001", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "TAX", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Jimmy Woodward"
+            ], 
+            "location": "RBA 0209", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Jimmy Woodward"
+            ], 
+            "location": "RBA 0209", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

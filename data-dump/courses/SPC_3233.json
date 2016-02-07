@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to examine the origins of rhetorical theory during the classical period. The course emphasizes ideas on rhetoric of Plato, Aristotle, Cicero, and Quintillian.", 
+        "number": "3233", 
+        "subject": "SPC", 
+        "title": "Classical Rhetoric"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: SPC 3210.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

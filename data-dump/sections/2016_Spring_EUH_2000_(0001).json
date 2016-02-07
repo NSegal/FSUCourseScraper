@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (3629)", 
+    "basic": {
+        "class_num": "3629", 
+        "course": "2000", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EUH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Robin Bates"
+            ], 
+            "location": "BEL 0033", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Robin Bates"
+            ], 
+            "location": "BEL 0033", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an introductory course in basic heat transfer concepts. Topics include conduction and heat diffusion equation, forced and free convection, radiative heat transfer, boiling heat transfer, and condensation.", 
+        "number": "5152", 
+        "subject": "EML", 
+        "title": "Fundamentals of Heat Transfer"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in mechanical engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

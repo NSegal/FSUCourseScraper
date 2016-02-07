@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the writings of the New Testament in the context of the historical development of early Christianity.", 
+        "number": "2240", 
+        "subject": "REL", 
+        "title": "Introduction to the New Testament"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

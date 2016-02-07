@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LEC (11803)", 
+    "basic": {
+        "class_num": "11803", 
+        "course": "3267", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "LIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Howard Rodriguez-Mori"
+            ], 
+            "location": "LSB 0006", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Howard Rodriguez-Mori"
+            ], 
+            "location": "HCB 0308", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Howard Rodriguez-Mori"
+            ], 
+            "location": "HCB 0308", 
+            "start_time": "13:25:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

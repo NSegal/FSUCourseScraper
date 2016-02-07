@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches basic research concepts and skills through practical experiences. Students apply research techniques while assisting with activities in various research settings, through simulations in the classroom, and through individual projects. May be repeated to a maximum of six semester hours.", 
+        "number": "3801", 
+        "subject": "SPA", 
+        "title": "Applications of Research in Communication Sciences and Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

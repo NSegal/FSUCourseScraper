@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for graduate students who wish to supplement regular course offerings on women/gender by independent reading or research under\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 guidance. May be repeated to a maximum of three semester hours.", 
+        "number": "5905", 
+        "subject": "WST", 
+        "title": "Directed Independent Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: At least one women's studies course.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

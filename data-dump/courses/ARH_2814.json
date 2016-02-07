@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces students to computer-based research, writing, and presentation tools essential in art history.", 
+        "number": "2814", 
+        "subject": "ARH", 
+        "title": "Information Technology for the Art Historian"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Art History major.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

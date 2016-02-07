@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students a framework for understanding how marketing strategies and tactics can be successfully applied within sports, and within recreational and entertainment organizations.", 
+        "number": "3711", 
+        "subject": "MAR", 
+        "title": "Sports, Recreation and Entertainment Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

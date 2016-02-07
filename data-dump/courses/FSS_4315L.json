@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives practical laboratory experience in the application of management concepts to health care and institutional food administration students.", 
+        "number": "4315L", 
+        "subject": "FSS", 
+        "title": "Institutional Organization and Administration Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FOS 3026, FOS 3026L, FSS 4315, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

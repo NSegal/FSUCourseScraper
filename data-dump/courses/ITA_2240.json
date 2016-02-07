@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course stresses development of conversational skills at the third-year level. May not be taken by native speakers.", 
+        "number": "2240", 
+        "subject": "ITA", 
+        "title": "Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

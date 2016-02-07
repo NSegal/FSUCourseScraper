@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the quality of life and individual differences as we age; physical decline of physiological systems (cardiovascular, muscular, joints, bone, neuromuscular); health, exercise, and well-being; and the pathology of aging. Assists students in developing an understanding of the physical aspects of aging to apply to setting such as physical therapy, sports medicine, and health and fitness programs in hospitals and retirement communities.", 
+        "number": "4076", 
+        "subject": "PET", 
+        "title": "Physical Dimensions of Aging"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

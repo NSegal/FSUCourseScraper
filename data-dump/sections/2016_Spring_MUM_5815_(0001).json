@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (6095)", 
+    "basic": {
+        "class_num": "6095", 
+        "course": "5815", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MUM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Anne Hodges"
+            ], 
+            "location": "HMU N0126", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Anne Hodges"
+            ], 
+            "location": "HMU N0126", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

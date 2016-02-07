@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a seminar on methodological issues in historical comparative research, emphasizing principles of research design. The course covers techniques such as archival research, analysis of government documents, and the analysis of household census data. Substantive areas include the family, the welfare state, social movements, class relations, and culture.", 
+        "number": "5355", 
+        "subject": "SYA", 
+        "title": "Comparative Historical Sociology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

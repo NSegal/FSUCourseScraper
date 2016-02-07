@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course creates an awareness of the laws and of the legal, political, and social institutions impacting business activity. The course emphasizes public law and governmental regulation, ethics and corporate governance, as well as landmark legislation and judicial decisions.", 
+        "number": "5810", 
+        "subject": "BUL", 
+        "title": "The Legal and Ethical Environment of Business"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

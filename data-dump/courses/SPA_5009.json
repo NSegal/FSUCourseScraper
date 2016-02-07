@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the fundamental bases of language development and their disorders. The knowledge and skills acquired in this course are pivotal to preparing future professionals for a variety of careers and scientific inquiry. Knowledge of typical language development is essential for a variety of professions such as working in an educational setting or child-care capacity, working with individuals with communication disorders, or conducting related research. This overview serves as a foundation for advanced coursework.", 
+        "number": "5009", 
+        "subject": "SPA", 
+        "title": "Normal Communication Development and Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "4.00"
+    }
+}

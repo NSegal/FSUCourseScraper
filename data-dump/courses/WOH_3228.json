@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course familiarizes the student with the role of business and economics in shaping modern world history since 1500. It explores the themes of commerce, culture, and economic competition. Among the themes covered are industrialization and the development of the global economy, economic imperialism, the rise and spread of big business, and the emergence of Multinational Corporations. The course is oriented toward comparative approaches to these topics as they pertain to the various regions and countries around the world.", 
+        "number": "3228", 
+        "subject": "WOH", 
+        "title": "Business and Globalization in World History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "M.S. candidates in Biomedical Sciences should register for this course\u00a0\u00a0\u00a0\u00a0 after being directed to or electing the M.S. major.\u00a0 A minimum of six\u00a0\u00a0\u00a0\u00a0\u00a0 Thesis hours are required for graduation. S/U grade only.", 
+        "number": "6981", 
+        "subject": "IHS", 
+        "title": "Thesis Research"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

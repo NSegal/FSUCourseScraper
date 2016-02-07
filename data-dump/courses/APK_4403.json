@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for students interested in the psychosocial issues related to performance (e.g., music, dance, military, etc.). The course introduces both the theories and practices inherent in the field of performance psychology. In addition, it covers intervention strategies used in order to combat several mental performance issues.", 
+        "number": "4403", 
+        "subject": "APK", 
+        "title": "Performance Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

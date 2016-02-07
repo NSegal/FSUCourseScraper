@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with current knowledge of interactions between hormones and behavior with emphasis on the brain regulation of hormone-behavior interaction in mammalian species including humans.", 
+        "number": "4461", 
+        "subject": "PSB", 
+        "title": "Hormones and Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and PSB 2000, or PSB 3004C, or three semester hours in biology.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

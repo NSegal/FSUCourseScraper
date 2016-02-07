@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course delves into the legal aspects of medicocriminal entomology with the aim of preparing the student to present entomological evidence in a court of law. Information is covered on how to present evidence in an admissible manner using expert witnesses. The importance of establishing \"chain of custody\" and pitfalls with presenting evidence are explored through case study reviews.", 
+        "number": "5227", 
+        "subject": "CJE", 
+        "title": "Forensic Entomology: Case Studies and Legalities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CJE 5225.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches the properties of trace evidence that are most useful in forensic comparison. It also covers biometric identification through biological characteristics that can be used for recognition.", 
+        "number": "4241", 
+        "subject": "CJE", 
+        "title": "Trace and Biometric Evidence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 4762 and CJE 4762L.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

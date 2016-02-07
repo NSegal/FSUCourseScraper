@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive survey of online video-editing methods and techniques, including a thorough exploration and usage of time-code technologies, A/B roll editing, switchers, digital video effects, and character\u00a0\u00a0\u00a0 generators.", 
+        "number": "5781", 
+        "subject": "FIL", 
+        "title": "Intermediate Television Editing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIL 5774.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

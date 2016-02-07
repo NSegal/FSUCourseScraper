@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab includes instrumentation and measuring techniques; current, voltage, and power measurements; response of passive circuits; AC and DC design; computer application.", 
+        "number": "3112L", 
+        "subject": "EEL", 
+        "title": "Advanced Circuits with Computers Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3111, EEL 4905 (Taken as ECE Engineering Tools Lab). Corequisite: EEL 3112.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

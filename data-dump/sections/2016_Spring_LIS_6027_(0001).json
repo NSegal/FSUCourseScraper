@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (11925)", 
+    "basic": {
+        "class_num": "11925", 
+        "course": "6027", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "LIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:35:00", 
+            "instructors": [
+                "Charles Hinnant"
+            ], 
+            "location": "LSB 0206", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

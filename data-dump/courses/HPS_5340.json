@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores Freud's life, work, and legacy against the backdrop of the histories of science. The course is built around the close reading of key Freudian texts and is divided into three thematic sections. The first section, Freud as Detective, examines Freud's case histories and clinical reflections. The second section, Freud as Archaeologist, studies Freud's attempt to excavate the psychological complexity of everyday life. The third section, Freud as Critic, scrutinizes Freud's macro-sociological theorizing.", 
+        "number": "5340", 
+        "subject": "HPS", 
+        "title": "Freud and the Invention of the Modern Mind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

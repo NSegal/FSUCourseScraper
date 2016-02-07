@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores mechanisms of RNA silencing by the different classes of small RNAs. Topics discussed include how small RNAs are generated, the proteins involved, how small RNAs regulate chromatin formation, gene expression and how they are involved in cancer and disease.", 
+        "number": "5304", 
+        "subject": "GMS", 
+        "title": "RNA Silencing and Disease"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

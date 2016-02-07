@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to methods of data collection: qualitative, participant observation, and ethnographic interviews. Attention to strengths and shortcomings for use in educational research and evaluation.", 
+        "number": "6475", 
+        "subject": "EDF", 
+        "title": "Qualitative Methods in Educational Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5481.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers various approaches to the study of masculinity, femininity, and sexual identity in literary and cultural texts.", 
+        "number": "5517", 
+        "subject": "LIT", 
+        "title": "Studies in Gender in Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

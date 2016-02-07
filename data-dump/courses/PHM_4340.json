@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration of a set of issues, a trend, or a school of thought in contemporary political philosophy. May be repeated to a maximum of nine semester hours.", 
+        "number": "4340", 
+        "subject": "PHM", 
+        "title": "Contemporary Political Thought"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

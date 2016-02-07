@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on problems and issues in religion and culture. Topics vary. Intended for advanced undergraduate students. Permission of the instructor required. May be repeated to a maximum of nine semester hours. May be repeated within the same term.", 
+        "number": "4190", 
+        "subject": "REL", 
+        "title": "Undergraduate Religion and Culture Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

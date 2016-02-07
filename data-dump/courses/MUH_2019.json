@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the development of popular music in America from the early 20th century to the present with a focus on the cultural, social, economic, technological, and political conditions surrounding that music. The course widens student's comprehension of the times, places, cultural contexts, intellectual debates, and economic conditions that foster (or hinder) artistic innovation.", 
+        "number": "2019", 
+        "subject": "MUH", 
+        "title": "Modern Popular Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

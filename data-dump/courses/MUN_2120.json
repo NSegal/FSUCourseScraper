@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides concert experience in a variety of literature for all University students. May be repeated to a maximum of four semester hours.", 
+        "number": "2120", 
+        "subject": "MUN", 
+        "title": "Concert Band"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

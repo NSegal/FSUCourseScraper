@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the formation and transport of atmospheric trace gases and aerosols.", 
+        "number": "5554", 
+        "subject": "OCC", 
+        "title": "Atmospheric Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 4410, OCC 5050, and OCP 5050.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course builds on the base established in the prerequisite course ARE 4930, Museum Education. This course addresses education in the art museum context.", 
+        "number": "4294", 
+        "subject": "ARE", 
+        "title": "Art Museum Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARE 4930.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of mental health assessment and diagnostic tools, including the Diagnostic Statistical Manual categories, and touches on treatment strategies and techniques. Building on the knowledge base acquired in the foundation course, SOW 5105, this course examines the relationship between the biological, psychological, social, environmental, and cultural influences and emotional and mental health from an ecological context. Particular attention is given to variations in the assessment process and access to treatment for populations at social and economic risk. In addition, students examine the political and social implications of mental health and their relations to social work values and ethics.", 
+        "number": "5125", 
+        "subject": "SOW", 
+        "title": "Psychopathology in Clinical Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

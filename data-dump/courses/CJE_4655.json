@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course teaches the various theoretical principles used by crime scene professionals to recreate accurate representations of a crime or accident scene for future use in investigation or for court purposes. Students become familiar with the collection of scientific data, expressing measurement, and interpretation of data.", 
+        "number": "4655", 
+        "subject": "CJE", 
+        "title": "Crime and Accident Scene Imaging and Reconstruction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LAB (5734)", 
+    "basic": {
+        "class_num": "5734", 
+        "course": "4501C", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Robert Hart"
+            ], 
+            "location": "LOV 0305", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Robert Hart"
+            ], 
+            "location": "LOV 0305", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "17:30:00", 
+            "instructors": [
+                "Robert Hart"
+            ], 
+            "location": "LOV 0307A", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

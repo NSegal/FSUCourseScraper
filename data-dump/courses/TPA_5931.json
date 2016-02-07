@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an exploration and practice of advanced/specialized techniques and methods of designing for the stage.", 
+        "number": "5931", 
+        "subject": "TPA", 
+        "title": "Selected Topics in Stage Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

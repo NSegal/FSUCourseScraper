@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a basic understanding of adolescent development as it relates to human growth development and learning through a multi-disciplinary perspective. Biological, cognitive, and psychosocial tasks of adolescence within contexts such as family, peer group, school, community, culture and other learning environments are examined.", 
+        "number": "4251", 
+        "subject": "CHD", 
+        "title": "Adolescent Contexts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status and junior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

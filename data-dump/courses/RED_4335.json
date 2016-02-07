@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces pre-service teachers to the role of literacy in the content areas. Students develop the knowledge, skills, and attitudes needed to meet the literacy needs of students.", 
+        "number": "4335", 
+        "subject": "RED", 
+        "title": "Literacy Across the Content Areas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 3331 and LAE 3333.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

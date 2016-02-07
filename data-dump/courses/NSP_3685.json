@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores similarities and differences among cultures when responding to grief and loss. Topics related to diverse populations and grief practices are examined, as well as personal response to grief, loss, and trauma; not exclusively utilizing death as the only example of loss or trauma. The course allows students to expand their reactions to life and death, plan their own funeral, and at the same time focus on family, community, and worldwide populations.", 
+        "number": "3685", 
+        "subject": "NSP", 
+        "title": "Grief, Loss and Trauma: Ethnic and Individual Variations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

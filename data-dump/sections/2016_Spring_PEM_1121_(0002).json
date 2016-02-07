@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-PRF (8529)", 
+    "basic": {
+        "class_num": "8529", 
+        "course": "1121", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "PEM", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Emily Panciera"
+            ], 
+            "location": "TUL B005", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "09:55:00", 
+            "instructors": [
+                "Emily Panciera"
+            ], 
+            "location": "TUL B005", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

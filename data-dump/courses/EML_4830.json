@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the following topics: analytical dynamic modeling and dynamic simulation of mobile robots; mobile robot sensors; basic computer vision methods; Kalman filtering and mobile robot localization; basic mapping concepts; path planning and obstacle avoidance; and intelligent control architectures.", 
+        "number": "4830", 
+        "subject": "EML", 
+        "title": "Introduction to Mobile Robotics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

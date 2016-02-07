@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces engineering students to engineering principles of the anatomy and physiology of the human body. The lecture portion of the course focuses on relating fundamental biomedical engineering concepts to the human physiological system. The laboratory portion of the course involves a practical, in-depth study of the physical and chemical interrelationships in the form and function of all human anatomical and physiological subsystems.", 
+        "number": "4403C", 
+        "subject": "BME", 
+        "title": "Quantitative Anatomy and Systems Physiology I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BME 3009, ECH 3024, ECH 3301, all with a grade \"C\" or higher; and PHY 2049C. Corequisites: ECH 3101, ECH 3266, and ECH 3854.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

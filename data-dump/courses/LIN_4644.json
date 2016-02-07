@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course combines learning the basics of the Kichwa language with linguistic theory relevant to Kichwa.", 
+        "number": "4644", 
+        "subject": "LIN", 
+        "title": "Kichwa Language and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

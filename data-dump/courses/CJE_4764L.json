@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory applies various techniques for the examination of physical materials generated during the commission of a crime on or under the water in order to produce information that enables the investigation and prosecution of criminal activity. Additional equipment fee required.", 
+        "number": "4764L", 
+        "subject": "CJE", 
+        "title": "Underwater Crime Scene Methodology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 4762 and CJE 4763. Corequisite: CJE 4764.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

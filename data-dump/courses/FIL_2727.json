@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces node-based compositing theory and practice with an emphasis on best practices and professional standards used in the visual effects industry. May be repeated to a maximum of six semester hours.", 
+        "number": "2727", 
+        "subject": "FIL", 
+        "title": "Compositing II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2726 and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

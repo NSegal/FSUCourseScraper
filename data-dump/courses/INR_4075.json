@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the philosophical and legal foundations of the international human rights regime, and explores the development of norms and institutions with special emphasis on the post-World War II era.", 
+        "number": "4075", 
+        "subject": "INR", 
+        "title": "International Human Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

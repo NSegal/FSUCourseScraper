@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students learn pathophysiology, diagnosis, and management of common problems in general surgery, otolaryngology, orthopedics, OB/GYN, urology, and neurosurgery in hospital and out-patient settings.", 
+        "number": "7160", 
+        "subject": "BCC", 
+        "title": "Surgery Clerkship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of all year-one and year-two curricula.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "8.00"
+    }
+}

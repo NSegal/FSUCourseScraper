@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as Deming's ideas, graphical methods, control charts, and design of experiments for product and process improvement.", 
+        "number": "4664", 
+        "subject": "STA", 
+        "title": "Statistics for Quality and Productivity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: An introductory statistics course at or above the 2000 level or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

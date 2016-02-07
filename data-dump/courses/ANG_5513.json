@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a fundamental guide to the nature and progress of physical and biological anthropology, and presents the primary topics. It includes both historic and modern perspectives.", 
+        "number": "5513", 
+        "subject": "ANG", 
+        "title": "Core Seminar in Physical Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

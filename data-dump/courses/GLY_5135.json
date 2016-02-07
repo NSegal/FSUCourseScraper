@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the following subjects: geochronology; paleomagnetism; other nonchronometric dating methods; causes of climate change; alluvial and marine terraces; mean sea-level history; gravity and isostasy (including post-glacial rebound); ice deposits; causes of ice ages.", 
+        "number": "5135", 
+        "subject": "GLY", 
+        "title": "Quaternary Geology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

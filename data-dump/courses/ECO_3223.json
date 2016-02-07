@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the functions of money, bank creation of deposits, and credit; Federal Reserve control of money supply; and monetary theory and policy questions.", 
+        "number": "3223", 
+        "subject": "ECO", 
+        "title": "Financial Markets, the Banking System, and Monetary Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

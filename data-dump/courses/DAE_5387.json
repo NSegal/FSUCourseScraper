@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to basic skills necessary to teach dance history and dance appreciation at the undergraduate level.", 
+        "number": "5387", 
+        "subject": "DAE", 
+        "title": "Dance History Pedagogy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

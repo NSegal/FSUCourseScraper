@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on development of sophisticated story ideas, treatments, character biographies, storyboards, step-outlines, first drafts, and revisions of both original ideas and adaptations.", 
+        "number": "3132", 
+        "subject": "FIL", 
+        "title": "Screenwriting II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

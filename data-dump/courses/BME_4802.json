@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second of a two-semester sequence on the design of biomedical engineering processes and products.\u00a0 The second term focuses on the actual design of a biomedical engineering process or product using computer-aided design calculations.\u00a0 This is the capstone senior design course in biomedical engineering.\u00a0 An individual design project is completed by each student.", 
+        "number": "4802", 
+        "subject": "BME", 
+        "title": "Biomedical Engineering Process Design II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: BCH 4053, BME 4403C, and BME 4801. Corequisite: Senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

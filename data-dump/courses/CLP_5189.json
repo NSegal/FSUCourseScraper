@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a broad examination and investigation of cultural, racial, ethnic, or other individual differences that impact human behavior andthe practice of psychology.", 
+        "number": "5189", 
+        "subject": "CLP", 
+        "title": "Diversity in Individuals and Cultures: Issues for Clinical Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission is required for non-clinical psychology majors.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

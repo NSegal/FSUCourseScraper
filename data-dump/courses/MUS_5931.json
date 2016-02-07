@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide arts administration students with a practical forum to interact with professionals and practitioners who work within and/or with the arts community. It also provides an opportunity for discussions with instructors on a variety of topics and issues that have a significant impact upon the development and effectiveness of arts organizations and arts professionals and for students to communicate with each other to establish the foundation of lasting professional affiliations. May be repeated to a maximum of two semester hours.", 
+        "number": "5931", 
+        "subject": "MUS", 
+        "title": "Arts Administration Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

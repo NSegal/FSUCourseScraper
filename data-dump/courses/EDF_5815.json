@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the history and source materials of comparative education and selected educational issues or problems as discussed in the current social science literature from a comparative perspective. May be repeated to a maximum of ten semester hours.", 
+        "number": "5815", 
+        "subject": "EDF", 
+        "title": "Comparative Studies in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00 - 5.00"
+    }
+}

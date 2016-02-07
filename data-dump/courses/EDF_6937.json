@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of fifteen semester hours. The course is designed for advanced students.", 
+        "number": "6937", 
+        "subject": "EDF", 
+        "title": "Seminar in Advanced Research Problems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course continues the study of the first-year basic skills in speaking for the student actor. All actors who are on a professional track for the Bachelor of Fine Arts degree must have thorough knowledge of their speaking voice for the stage, how to use it in their acting studios and stage performances, and how to be a more effective speaker in their everyday life. May be repeated to a maximum of nine semester hours.", 
+        "number": "3711", 
+        "subject": "TPP", 
+        "title": "Voice II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPP 2710r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

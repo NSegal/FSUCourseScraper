@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the planning, implementation, and evaluation of nutrition programs in the community; public nutrition policy formulation.", 
+        "number": "4310", 
+        "subject": "DIE", 
+        "title": "Community Nutrition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: DIE 3005 and HUN 1201 with a grade of \"B\u2013\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

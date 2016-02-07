@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines advance repair and restoration techniques.", 
+        "number": "4253", 
+        "subject": "MUM", 
+        "title": "Piano Technology III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4252.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

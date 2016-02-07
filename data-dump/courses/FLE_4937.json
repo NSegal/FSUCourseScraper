@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of six semester hours.", 
+        "number": "4937", 
+        "subject": "FLE", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FLE 4941.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

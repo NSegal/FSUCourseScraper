@@ -1,0 +1,35 @@
+{
+    "_unique": "0001-LAB (5825)", 
+    "basic": {
+        "class_num": "5825", 
+        "course": "4400C", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Peter Ray"
+            ], 
+            "location": "LOV 0307", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [], 
+            "location": "LOV 0022", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

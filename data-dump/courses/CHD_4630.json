@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines research methods, concepts, principles, and issues in studying families and children.", 
+        "number": "4630", 
+        "subject": "CHD", 
+        "title": "Methods of Studying Families and Children"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

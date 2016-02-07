@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the history and culture of the religious traditions of South Asia. A study of the manifestations of Hinduism, Buddhism, Jainism, Islam, Sikhism, and Christianity in India, Pakistan, Bangladesh, and Sri Lanka.", 
+        "number": "2315", 
+        "subject": "REL", 
+        "title": "Religions of South Asia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the theories utilized in merchandising, including evaluating the use of these theories in current research.", 
+        "number": "5834", 
+        "subject": "CTE", 
+        "title": "Merchandising Theory and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Merchandising or retailing coursework.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

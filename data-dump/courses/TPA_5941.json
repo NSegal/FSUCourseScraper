@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to develop skills consistent with professional practice in the execution of advanced costume technology projects, including but not limited to: interpreting costume designs for patterning and constructing period garments or costume crafts items, dyeing or painting and creating fabric modification techniques, constructing millinery, or styling, ventilating or constructing wigs or specialty makeup needs for the stage. May be repeated to a maximum of fifteen semester hours.", 
+        "number": "5941", 
+        "subject": "TPA", 
+        "title": "MFA Practicum in Costume Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

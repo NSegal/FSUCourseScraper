@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces basic concepts of sonar systems including acoustic propagation, transducers and projectors, target strength, reverberation, beamsteering, beamforming, beampatterns, and synthetic aperture sonar.", 
+        "number": "4415", 
+        "subject": "EEL", 
+        "title": "Sonar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3473 and EEL 3135. Corequisite: EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

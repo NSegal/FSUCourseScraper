@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches the planning and implementation of appropriate transition services for students with severe and profound disabilities in the schools at the secondary and post-secondary levels.", 
+        "number": "5774", 
+        "subject": "EEX", 
+        "title": "Collaborative Transition and Career Planning for Students with Severe or Profound Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

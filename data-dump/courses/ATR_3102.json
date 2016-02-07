@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers basic topics and issues pertaining to athletic training as established by the National Athletic Trainer's Association. Treatment and rehabilitation of athletic injuries will be introduced.", 
+        "number": "3102", 
+        "subject": "ATR", 
+        "title": "Athletic Training I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 1800.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

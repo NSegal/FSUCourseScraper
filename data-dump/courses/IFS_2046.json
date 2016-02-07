@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the role of the public intellectual. Students read, discuss, and write about texts by, typically, George Orwell, Albert Camus, Susan Sontag, Camille Paglia, Greil Marcus, and Cornell West, in order to: (1) Encounter ideas to which they have not yet been exposed, (2) Become aware of their own heightened ability to work with big ideas and communicate them, and (3) Identify a road map for their own progress toward becoming a public intellectual.", 
+        "number": "2046", 
+        "subject": "IFS", 
+        "title": "The Role of the Public Intellectual"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

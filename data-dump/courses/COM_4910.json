@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers experience in methods and strategies of research in communication concepts. Individually designed to accommodate student's background and objectives. May be repeated to a maximum of four semester hours; duplicate registration allowed.", 
+        "number": "4910", 
+        "subject": "COM", 
+        "title": "Application of Research Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

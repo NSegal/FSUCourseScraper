@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "7189", 
+        "subject": "BMS", 
+        "title": "Special Topics in Clinical Anatomy"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

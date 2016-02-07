@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the crystal chemistry of silicates and other minerals; chemical principles applied to igneous, metamorphic, and sedimentary environments and processes; chemistry of natural aqueous systems; chemical equilibria of geologic systems.", 
+        "number": "4240", 
+        "subject": "GLY", 
+        "title": "Principles of Geochemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 2010C and basic chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

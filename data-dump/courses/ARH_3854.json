@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the philosophy and practice of acquiring, processing, preserving, displaying, and interpreting museum objects. Material culture and the museum objects are addressed from the perspective of various disciplines, such as art history, archaeology, anthropology, history, and the natural sciences. Hands-on experience is gained in designing and executing an exhibition of the students' conception.", 
+        "number": "3854", 
+        "subject": "ARH", 
+        "title": "The Museum Object"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3794.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

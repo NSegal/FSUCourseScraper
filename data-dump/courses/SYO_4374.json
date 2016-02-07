@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the cultural and structural mechanisms that reproduce gendered outcomes in the workplace. It addresses occupational segregation, the wage gap, sex differences in promotions, unpaid family work, explanations of inequality, strategies for change and resistance to change, and the intersections of gender, race, and class.", 
+        "number": "4374", 
+        "subject": "SYO", 
+        "title": "Gender and Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

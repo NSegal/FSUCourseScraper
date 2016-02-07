@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores design of advanced control systems (using time and frequency domains) are emphasized. Implementation of control systems using continuous (operational amplifier) or digital (microprocessor) techniques are addressed and practiced.", 
+        "number": "5317", 
+        "subject": "EML", 
+        "title": "Advanced Design and Analysis of Control Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

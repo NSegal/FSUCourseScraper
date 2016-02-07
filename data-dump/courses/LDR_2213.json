@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to theoretical frameworks in the field of social justice. Through these theories, the notions of privilege, oppression, power and difference are explored. Attention is given to specific social justice issues related to gender, sexual orientation, race, religion, ability, age, and class. Students examine social justice in the context of leadership and come to understand their unique role in creating social change on campus, in their academic discipline, and within our larger society.", 
+        "number": "2213", 
+        "subject": "LDR", 
+        "title": "Leadership for Social Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

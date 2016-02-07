@@ -1,0 +1,26 @@
+{
+    "_unique": "0020-DDF (6606)", 
+    "basic": {
+        "class_num": "6606", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0020", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Denise Von Glahn"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

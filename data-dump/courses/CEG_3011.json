@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers physical, index, hydraulic, and mechanical properties of soils. Topics include classification, compaction, stress distribution, permeability and seepage, consolidation settlement, and shear strength of soil.", 
+        "number": "3011", 
+        "subject": "CEG", 
+        "title": "Soil Mechanics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: EGN 3331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to provide specific knowledge and opportunities to apply skills in preparation for entering the education profession. Topics include classroom management, classroom routines, organizing for instruction, planning for instruction, effective communication, knowledge of legal and ethical responsibilities of teachers, and safe learning environments.", 
+        "number": "4410", 
+        "subject": "EDG", 
+        "title": "Classroom Management and Legal Issues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAE 4326, RED 4310, and TSL 4080. Corequisite: EDE 4907.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys issues and attitudes associated with human sexuality. It is primarily intended for social workers and other helping professionals who currently work with clients or plan to in the future. Using a biopsychosocial perspective, emphasis is placed on the social, cultural, familial, and individual differences in sexual and reproductive attitudes, values, and behavior. Students are introduced to common sex-related issues and to the particular concerns of various sexually discriminated against groups. Information is also provided about childhood sexual abuse and adult victimization and their relationship to intimacy issues clients typically present in direct practice.", 
+        "number": "5153", 
+        "subject": "SOW", 
+        "title": "Human Sexuality"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

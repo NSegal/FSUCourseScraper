@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the principles and techniques of organizing non-bibliographic information sources including unpublished and transitory materials such as archival and manuscript collections, business/office records, ephemera, and local databases. The course focuses on locally produced resources created for a narrowly defined, specific, and possibly restricted information user group.", 
+        "number": "4701", 
+        "subject": "LIS", 
+        "title": "Information Representation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 3267.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

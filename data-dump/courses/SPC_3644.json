@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of drama as an instrument for advancing a political or social thesis.", 
+        "number": "3644", 
+        "subject": "SPC", 
+        "title": "Rhetoric of Didactic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

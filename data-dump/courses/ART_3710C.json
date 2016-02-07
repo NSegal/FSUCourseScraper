@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows continued experience in more complex three-dimensional techniques; emphasis on individual projects and conceptual approach.", 
+        "number": "3710C", 
+        "subject": "ART", 
+        "title": "Sculpture II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2701C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

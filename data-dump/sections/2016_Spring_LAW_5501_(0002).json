@@ -1,0 +1,48 @@
+{
+    "_unique": "0002-LEC (4758)", 
+    "basic": {
+        "class_num": "4758", 
+        "course": "5501", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "09:25:00", 
+            "instructors": [
+                "Mark Seidenfeld"
+            ], 
+            "location": "LAW 0331", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "09:25:00", 
+            "instructors": [
+                "Mark Seidenfeld"
+            ], 
+            "location": "LAW 0331", 
+            "start_time": "08:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "11:55:00", 
+            "instructors": [
+                "Mark Seidenfeld"
+            ], 
+            "location": "LAW 0331", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an extensive introduction for complex multi-modal transportation systems and their components with a focus on transportation planning, economics, modeling, investment, operations and maintenance. Topics covered include network analysis, optimization techniques, demand and supply models, simulation practices, planning and forecasting models and other social, political and economic aspects of the transportation system. Emphasis is given to the tie between the theory and practice with a focus on the sustainability and resiliency of the critical infrastructure.", 
+        "number": "5305", 
+        "subject": "TTE", 
+        "title": "Transportation Systems Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

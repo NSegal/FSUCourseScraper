@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of quantum theory from wave mechanics to matrix mechanics, approximation methods with applications in modern physics, elementary scattering theory, and relativistic quantum theory.", 
+        "number": "5645", 
+        "subject": "PHY", 
+        "title": "Quantum Mechanics A"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

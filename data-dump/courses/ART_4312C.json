@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on creative expression and communication through a variety of drawing tools, media, and processes.", 
+        "number": "4312C", 
+        "subject": "ART", 
+        "title": "Drawing III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2301C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

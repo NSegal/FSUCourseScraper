@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an oral examination and defense of the doctoral proposal; successful completion allows advancement of the student to PhD candidacy.", 
+        "number": "8960", 
+        "subject": "IHS", 
+        "title": "Preliminary Doctoral Examination"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2027)", 
+    "basic": {
+        "class_num": "2027", 
+        "course": "4392", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CLP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Kelley Kline"
+            ], 
+            "location": "HOL B0210", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

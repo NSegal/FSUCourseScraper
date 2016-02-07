@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the sacred vocal literature available for the liturgical year.", 
+        "number": "5609", 
+        "subject": "MUL", 
+        "title": "Survey of Sacred Vocal Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

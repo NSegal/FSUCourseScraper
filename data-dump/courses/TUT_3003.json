@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a comprehensive exploration of Turkish culture and society by foregrounding the many diverse social currents, traditions, and ethnic groups that have shaped its profoundly multicultural identity. Includes topics such as education; public policy; its relations to the EU, the Arab World, and the U.S.; its literary and musical heritage; Islam, religion, and spiritualism; and its everyday cultural and social life such as family traditions, rituals, popular mentalities, holidays, folklore, hospitality, and gastronomy. Taught in English, with all course materials in English.", 
+        "number": "3003", 
+        "subject": "TUT", 
+        "title": "Turkish Culture and Civilization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

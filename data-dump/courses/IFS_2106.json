@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a philosophical investigation into the nature and importance of self-knowledge. It emphasizes close, critical reading of classic and contemporary philosophical texts, together with excerpts from literary works that explore related themes. The course introduces students to some important philosophical concepts and methods of philosophical analysis, and emphasize how philosophical inquiry can be relevant to everyday life.", 
+        "number": "2106", 
+        "subject": "IFS", 
+        "title": "Know Thyself: A Philosophical Investigation of Self-Knowledge"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

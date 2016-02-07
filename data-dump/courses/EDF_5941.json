@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, institutional research majors are assigned to offices or agencies engaged in institutional research. Practical applications related to classroom work.", 
+        "number": "5941", 
+        "subject": "EDF", 
+        "title": "Internship in Institutional Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 8.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies selected readings in Greek of Jewish, Christian and other religious texts from the ancient world.", 
+        "number": "5328", 
+        "subject": "RLG", 
+        "title": "Tutorial in Greek Religious Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

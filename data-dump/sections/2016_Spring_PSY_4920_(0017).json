@@ -1,0 +1,26 @@
+{
+    "_unique": "0017-LAB (9104)", 
+    "basic": {
+        "class_num": "9104", 
+        "course": "4920", 
+        "season": "Spring", 
+        "solus_id": "0017", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Elaine Hull"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

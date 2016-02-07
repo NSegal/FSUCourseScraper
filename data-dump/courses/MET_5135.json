@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of climatology from both a synoptic and dynamic perspective. Regional climates are studied in the context of prevailing synoptic systems and links with general circulation features. Global patterns of climate and forcing mechanisms of climate variability are described.", 
+        "number": "5135", 
+        "subject": "MET", 
+        "title": "Dynamic Climatology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Basic climatology course or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

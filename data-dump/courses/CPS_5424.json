@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores a comparative anaylsis of the political and administraative organization and their implications.", 
+        "number": "5424", 
+        "subject": "CPS", 
+        "title": "Research Seminar in Comparative Managerial and Organizational Policies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

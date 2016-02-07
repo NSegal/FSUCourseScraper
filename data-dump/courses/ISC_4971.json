@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students work closely with a faculty member and investigate an original idea in the area of scientific computing, study the background, implications, implementation, and\u00a0 applications, prepare a final publication-quality thesis based on original research, and defend it orally before a committee. May be repeated to a maximum of nine semester hours.", 
+        "number": "4971", 
+        "subject": "ISC", 
+        "title": "Honors Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: At least sixty hours of college credit, at least two full terms remaining before anticipated graduation date, enrollment in the Honors in the Major program,\u00a0 and identification of a faculty member who has agreed to act as thesis director.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

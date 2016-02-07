@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (10487)", 
+    "basic": {
+        "class_num": "10487", 
+        "course": "3930", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "WOH", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Robinson Herrera"
+            ], 
+            "location": "MON 0004", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role of courts in determining social policy as it relates to criminology. Emphasis is directed toward the political and social inputs that influence judicial decision making and the role of democracy and punishment in the courts. These topics are examined using current social policy. The course satisfies oral competency requirements.", 
+        "number": "4565", 
+        "subject": "CJL", 
+        "title": "Courts and Social Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

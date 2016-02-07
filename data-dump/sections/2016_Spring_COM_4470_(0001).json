@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LAB (2072)", 
+    "basic": {
+        "class_num": "2072", 
+        "course": "4470", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "COM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Jonathan Adams"
+            ], 
+            "location": "KRB 0105", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Jonathan Adams"
+            ], 
+            "location": "UCC C4120B", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

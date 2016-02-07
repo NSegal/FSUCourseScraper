@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses issues of modern cryptography covering theory and practice. Algorithms such as the RSA, EIGamal, and the Digital Signature Standard are covered in depth.", 
+        "number": "5371", 
+        "subject": "CIS", 
+        "title": "Cryptography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

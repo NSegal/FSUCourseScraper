@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the evolving role of information in the \"Information Age.\" The course emphasizes information services in society and contemporary information resources that fulfill society's information needs, and also considers the nature of electronic sources of information as well as other information formats and sources.", 
+        "number": "4410", 
+        "subject": "LIS", 
+        "title": "Societal Implications of the Information Age"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

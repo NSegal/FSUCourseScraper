@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar focuses on research topics dealing with specific aspects of Greco-Roman literature and culture. May be repeated when topics vary to a maximum of twelve semester hours.", 
+        "number": "6932", 
+        "subject": "CLA", 
+        "title": "Seminar in Classics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 12.00"
+    }
+}

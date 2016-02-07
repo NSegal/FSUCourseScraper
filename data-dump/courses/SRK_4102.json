@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the morphology and syntax of Sanskrit and introduction to Sanskrit texts.", 
+        "number": "4102", 
+        "subject": "SRK", 
+        "title": "Elementary Sanskrit I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

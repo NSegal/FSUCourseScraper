@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces groundwater modeling\u00a0 theory and practice, with emphasis on model construction, simulation, as well as calibration, and\u00a0 using state-of-the art modeling tools. Students learn basic concepts and governing equations of fluid flow in porous media, computational algorithms of solving the equations, and mathematical methods of inverse modeling. Essential statistics of evaluating quality of model simulations is introduced and examples of synthetic cases and real-world applications are used for computer labs and course projects.", 
+        "number": "5236", 
+        "subject": "ISC", 
+        "title": "Applied Groundwater Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ISC 5226 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

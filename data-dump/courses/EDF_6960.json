@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This diagnostic exam appraises the student's ability to pursue the doctoral degree and to facilitate advising in the development of the student's program of studies.\u00a0 The diagnostic exam is taken during the second semester or after a doctoral student has completed nine to twelve hours of coursework.", 
+        "number": "6960", 
+        "subject": "EDF", 
+        "title": "Diagnostic Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on research problems of music in therapy and special education.", 
+        "number": "5935", 
+        "subject": "MUY", 
+        "title": "Seminar in Music Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

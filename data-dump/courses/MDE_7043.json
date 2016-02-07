@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The goal of the Medical Spanish elective is to expand the student's knowledge of Medical Spanish through a specific variety of topics relating to health matters. It will be necessary for the students to meet with the instructor beforehand to discuss their Spanish background and develop a course of study specifically designed to fit the student's needs. Medical Spanish will be applied to Family and International Medicine, Pediatrics, OB/GYN Medicine..", 
+        "number": "7043", 
+        "subject": "MDE", 
+        "title": "Medical Spanish"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines infrastructure and housing issues in developing countries, including the relationship between infrastructure and development, demand and supply of new facilities, financing alternatives, squatter housing, and self-help strategies.", 
+        "number": "5615", 
+        "subject": "URP", 
+        "title": "Infrastructure and Housing in Less Developed Countries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

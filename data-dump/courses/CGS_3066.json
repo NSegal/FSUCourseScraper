@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of Internet communications and information services, as well as the technologies on which the Internet and Web are built. The course emphasizes Web design, development, and programming with participants learning the latest tools and techniques for building professional-grade, dynamic, and interactive Web pages and sites.", 
+        "number": "3066", 
+        "subject": "CGS", 
+        "title": "Web Programming and Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

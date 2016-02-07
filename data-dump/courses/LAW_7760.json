@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of accounting concepts and policies and their effect upon rules of law.", 
+        "number": "7760", 
+        "subject": "LAW", 
+        "title": "Accounting and the Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

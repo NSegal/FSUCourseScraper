@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an intermediate level survey of the social and political developments in the fields of crime and law from the end of the Civil War to the present. Its focus is on the changing definitions of criminal behavior, regional patterns of crime, the changing nature of punishment, and Constitutional issues relating to crime.", 
+        "number": "3472", 
+        "subject": "AMH", 
+        "title": "Evolution of Law, Crime, and Justice in American Society: 1865 to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

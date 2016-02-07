@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of doing political science as opposed to reading it. Includes introductory examinations of survey research, computer applications, data analysis, and philosophy of science. Required for all political science majors.", 
+        "number": "3713", 
+        "subject": "POS", 
+        "title": "Understanding Political Science Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or INR 2002 or POS 1041 or PUP 3002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

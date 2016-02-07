@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to build on basic human anatomy and physiological\u00a0 principles to explore neuroscience concepts essential to rehabilitation engineering. In addition, differentiation between developmental changes and pathophysiological changes is discussed.\u00a0 Selected common pathophysiological changes that occur as a result of disease, lifestyle, and homeostatic changes in the body and their clinical presentation are examined. Case studies are used to familiarize the advanced orthotic and prosthetic student with medical cases and language.", 
+        "number": "5143", 
+        "subject": "NGR", 
+        "title": "Neuroscience Concepts in Rehabilitation Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

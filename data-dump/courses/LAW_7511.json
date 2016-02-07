@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of First Amendment principles and their application in modern areas of communications practice. The course will develop theory, explore policy considerations, and expose students to parties that have participated in several significant media law cases.", 
+        "number": "7511", 
+        "subject": "LAW", 
+        "title": "First Amendment"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5501 and LAW 5502.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

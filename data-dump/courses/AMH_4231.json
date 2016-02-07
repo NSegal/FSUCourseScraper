@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of U.S. history from 1920 through 1945. Topics include political, economic, diplomatic, military, social, and cultural and intellectual developments during that period.", 
+        "number": "4231", 
+        "subject": "AMH", 
+        "title": "The United States, 1920-1945: Prosperity, Depression, and World War II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

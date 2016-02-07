@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-LEC (10540)", 
+    "basic": {
+        "class_num": "10540", 
+        "course": "5933", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:15:00", 
+            "instructors": [
+                "Judith Devine"
+            ], 
+            "location": "HCB 0315", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

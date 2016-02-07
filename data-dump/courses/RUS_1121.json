@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of RUS 1120. May not be taken by native speakers. May not be taken concurrently with RUS 1120 and/or 2220.", 
+        "number": "1121", 
+        "subject": "RUS", 
+        "title": "Elementary Russian II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RUS 1120 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

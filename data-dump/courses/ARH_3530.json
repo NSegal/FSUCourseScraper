@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a general introduction to the visual arts of Asia, covering primarily India, central Asia, China, and Japan. The course is organized along thematic lines, with topics such as the ancient world, Buddhism, Chinese aesthetic theory and painting, and native and foreign currents in Japanese art.", 
+        "number": "3530", 
+        "subject": "ARH", 
+        "title": "The Arts of Asia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

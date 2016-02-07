@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary. May be repeated to a maximum of twenty-four semester hours. Maybe repeated within the same semester.", 
+        "number": "4930", 
+        "subject": "PSY", 
+        "title": "Special Topics in Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

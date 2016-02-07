@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on advanced techniques of two-and-three-dimensional fabric modification techniques as they relate to theatrical costumes. Techniques covered include dyes, painting mediums, printing processes (including airbrush and silkscreen), sewing and off-loom techniques.", 
+        "number": "5245", 
+        "subject": "TPA", 
+        "title": "Fabric Modification for Stage Costume"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

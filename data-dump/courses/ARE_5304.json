@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a theoretical examination of the elementary art program; study of significant literature and research in the field; and inquiry into methods and materials.", 
+        "number": "5304", 
+        "subject": "ARE", 
+        "title": "Art in Childhood Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

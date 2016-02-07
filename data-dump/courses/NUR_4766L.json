@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory course focuses on the application of the nursing process, concepts, principles, and technological competencies while providing nursing interventions to adults and their families experiencing complex and multi-system health disorders. Effectiveness of nursing interventions and expected outcomes are evaluated. The application of competencies and skills may occur in a simulated setting.", 
+        "number": "4766L", 
+        "subject": "NUR", 
+        "title": "NURSING CARE OF ADULTS/POPULATIONS WITH COMPLEX HEALTH DISORDERS LAB"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Semester I and II nursing courses. Corequisite: NUR 4766.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

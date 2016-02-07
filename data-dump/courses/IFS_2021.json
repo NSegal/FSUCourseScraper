@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is for students living in the social justice living learning community. It acquaints students with the principles of communication and the role it plays in social justice movements.", 
+        "number": "2021", 
+        "subject": "IFS", 
+        "title": "Social Responsibility (Rhetorically Speaking)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

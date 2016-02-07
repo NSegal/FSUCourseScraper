@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course includes adult CPR, child CPR, and first aid. In addition, OSHA recommendations, blood borne pathogen precautions and injuries are discussed. Successful completion allows students to earn American Red Cross certification as a professional rescuer.", 
+        "number": "2020", 
+        "subject": "ATR", 
+        "title": "First Aid"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

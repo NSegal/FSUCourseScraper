@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of two hours may apply to a master's degree.", 
+        "number": "5910", 
+        "subject": "DAN", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

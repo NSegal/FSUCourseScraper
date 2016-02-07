@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a detailed study of some topic of special interest to biomedical engineers. May be repeated to a maximum of six semester hours in the same term, as topics vary.", 
+        "number": "5937", 
+        "subject": "BME", 
+        "title": "Special Topics in Biomedical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

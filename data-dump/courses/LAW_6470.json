@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of environmental rights, remedies, and policy, with emphasis on the common law, background, the administrative overlay, and federal legislation, including NEPA, Clean Air Act, Water Pollution Control Act, Noise Control Act, and Toxic Substances Control Act.", 
+        "number": "6470", 
+        "subject": "LAW", 
+        "title": "Environmental Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

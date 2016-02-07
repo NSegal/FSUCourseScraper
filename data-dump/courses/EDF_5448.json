@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the skills essential to conceptualizing, designing, producing, administering, and interpreting educational and psychological scales and instruments. Focuses upon measures of achievement, aptitude, attitude, and interest.", 
+        "number": "5448", 
+        "subject": "EDF", 
+        "title": "Scale and Instrument Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

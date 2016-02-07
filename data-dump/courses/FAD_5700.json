@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the use of statistical inference and data analysis for students majoring in human sciences, using unique examples and datasets that are discipline specific. Laboratory experiences emphasize the use of various analytic techniques.", 
+        "number": "5700", 
+        "subject": "FAD", 
+        "title": "Applied Research in Human Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

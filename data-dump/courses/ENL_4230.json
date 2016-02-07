@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies British poetry and prose from 1660 to 1800.", 
+        "number": "4230", 
+        "subject": "ENL", 
+        "title": "Restoration and 18th-Century British Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an introduction to basic food and beverage management concepts. Topics covered include: food and beverage sanitation; production and service equipment; food service equipment; menu planning and costing; and nutrition and safety.", 
+        "number": "3263", 
+        "subject": "HFT", 
+        "title": "Restaurant Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

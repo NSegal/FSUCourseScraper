@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines financial rules and laws, organization of fund-raising, event planning, direct marketing, and other topics. The purpose is to provide students with knowledge and skills that will enable them to successfully direct fund-raising efforts.", 
+        "number": "5096", 
+        "subject": "POS", 
+        "title": "Political Fund-raising"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

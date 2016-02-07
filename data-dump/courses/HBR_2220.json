@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to modern Hebrew prose (fiction and non-fiction) as well as the continued development of speaking, listening, writing, and grammatical skills. May not be taken by native speakers. May not be taken concurrently with HBR 1120 and/or 1121. Completion of this course fulfills the foreign language requirement for the College of Arts and Sciences.", 
+        "number": "2220", 
+        "subject": "HBR", 
+        "title": "Intermediate Modern Hebrew"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: HBR 1120 and HBR 1121 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

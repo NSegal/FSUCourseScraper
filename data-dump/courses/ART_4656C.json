@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to advanced interface design and programming concepts for creating dynamic internet applications for both practical and expressive ends. Students explore themes through readings, discussion, and film that address the public, chaotic, and political space that is the internet. Students also execute culturally-relevant web-based applications using professional tools. May be repeated to a maximum of nine semester hours.", 
+        "number": "4656C", 
+        "subject": "ART", 
+        "title": "Web 2: Art, Design, Code"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 3654.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

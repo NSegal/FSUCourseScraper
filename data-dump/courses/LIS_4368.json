@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a foundation in developing Web applications with an emphasis on server-side concepts, tools and methods. Topics include basic Web application programming, advanced object-oriented PHP and Web application development. Students enrolled in this course develop basic programming skills in a modern Web development environment, understand Web application development principles and are able to find and use Web application development resources on the Internet.", 
+        "number": "4368", 
+        "subject": "LIS", 
+        "title": "Advanced Web Applications Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: COP 2258, LIS 2360, and LIS 2780.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an historical review of thought about crime and punishment with emphasis on the origin and evaluation of basic theories of crime-causation and community response as they arose in the nineteenth and early twentieth centuries.", 
+        "number": "5607", 
+        "subject": "CCJ", 
+        "title": "History of Criminological Thought"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

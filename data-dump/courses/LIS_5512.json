@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an understanding of the attitudes, knowledge, and skills necessary to manage human resources and provide effective leadership in a school library media program. Covers collection development and management in school libraries. Required for school media certification. Students should take this course the semester before taking the State of Florida media-specialist exam.", 
+        "number": "5512", 
+        "subject": "LIS", 
+        "title": "School Collection Development and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses readings and discussions within a small group of advanced undergraduates and discusses specific topics or research problems in classical archaeology. May be repeated to a maximum of six semester hours.", 
+        "number": "4932", 
+        "subject": "ARH", 
+        "title": "Tutorial in Classical Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARH 3130, ARH 3150, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines healthcare organization financial and human resource management within emergent healthcare environments. Students analyze the relationship among process, outcomes, and economic indicators. Effective management of human resources including recruitment, interviewing, hiring, and legal issues is explored. Budget development, accounting principles, distribution of services, cost-benefit analyses, return on investments, and outcomes-based care are examined. The financing of health care is analyzed within the framework of value based service delivery, transparency and interprofessional collaboration.", 
+        "number": "5722C", 
+        "subject": "NGR", 
+        "title": "Financial and Human Resource Management for Nurse Leaders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "5.00"
+    }
+}

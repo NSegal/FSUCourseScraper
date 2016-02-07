@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on research and theory of learning, performance, and related factors as applied to motor skills.", 
+        "number": "5054C", 
+        "subject": "PET", 
+        "title": "Motor Skill Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth analysis of current selected topics in consumer information processing, attitudes, decision making, and social and cultural influences on consumer behavior.", 
+        "number": "6575", 
+        "subject": "MAR", 
+        "title": "Seminar in Marketing: Selected Topics in Consumer Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

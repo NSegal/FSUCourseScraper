@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines Latin American politics after the mid-twentieth century. The course also examines the historical, economic, and international contexts in which Latin American political systems function, and identifies challenges to democracy and development. The specific Latin American countries covered will vary.", 
+        "number": "3303", 
+        "subject": "CPO", 
+        "title": "Politics of Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

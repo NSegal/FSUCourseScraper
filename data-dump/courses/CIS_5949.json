@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This internship is a field placement in an approved industry or government entity having a significant information technology or computer science component. May be taken for variable credit and repeated with departmental approval. Credits do not count towards graduation. Successful completion requires satisfactory job evaluation and demonstration of educational value of placement via a paper. May be repeated to a maximum of thirty-six semester hours.", 
+        "number": "5949", 
+        "subject": "CIS", 
+        "title": "Internship in Computer Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4610.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00 - 9.00"
+    }
+}

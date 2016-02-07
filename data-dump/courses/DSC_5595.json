@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines techniques utilized to collect intelligence from confidential sources, assets and cooperating witnesses through interviewing, interrogation and elicitation. Students are also exposed to various methods to vet Human Sources and to uncover infiltration by hostile agencies and/or criminal organizations.", 
+        "number": "5595", 
+        "subject": "DSC", 
+        "title": "Human Intelligence Collection"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents an introduction to the field of biomedical engineering, building on previous basic coursework in biological science, physics, and calculus. Topics in cell physiology and modeling, bioinstrumentation, biomaterials, tissue engineering, and bioimaging are covered. The course provides sophomore-level biomedical engineering students with both fundamentals and applications in contemporary biomedical science and engineering.", 
+        "number": "3009", 
+        "subject": "BME", 
+        "title": "Introduction to Biomedical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, MAC 2312, and PHY 2048C, all with a grade \"C\" or higher. Corequisites: ECH 3024, ECH 3301, MAC 2313, and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to various aspects of contemporary U.S. transportation problems, sources of funding, and legislation. The course also presents theory and methods employed by planners in the process of resolving transportation problems through investment decision plans.", 
+        "number": "5711", 
+        "subject": "URP", 
+        "title": "The Transportation Planning Process"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

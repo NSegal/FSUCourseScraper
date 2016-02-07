@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to strategic management and performance improvement through strategic planning in the higher education/public sector settings. Students develop knowledge about the theory behind and history of strategic planning, current issues in strategic management in the higher education setting, and survey different strategic planning and performance models currently used on college campuses. Students also learn and practice strategic planning and performance improvement techniques.", 
+        "number": "5095", 
+        "subject": "EDH", 
+        "title": "Strategic Planning and Perfomance Improvement in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to marketing management decision making in international environments through the use of cases and/or business games.", 
+        "number": "4156", 
+        "subject": "MAR", 
+        "title": "Multinational Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023 and MAN 3600.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

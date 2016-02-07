@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course typically emphasizes classroom observation, self-monitoring techniques, and specialized training. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4905", 
+        "subject": "EAP", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 3.00"
+    }
+}

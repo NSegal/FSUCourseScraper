@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the nature and diversity of recreation pursuits and the social and cultural forces that influence leisure related choices. Students examine the various ways in which recreation is organized for delivery by professionals working in the recreation and event industry. Career opportunities in recreation, park, and event management are explored.", 
+        "number": "3004", 
+        "subject": "LEI", 
+        "title": "Introduction to Recreation, Tourism and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the history of Ireland from prehistory and the Celtic-Gaelic settlement to the near-present. Examines the waves of settlers who came to the island since the Celts, and the problem of defining the Irish (i.e. the roles of religion and ethnicity). It cannot avoid treating in depth the tangled and tragic relations of the Irish with the kingdom of England, later Great Britain.", 
+        "number": "3533", 
+        "subject": "EUH", 
+        "title": "History of Ireland"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required of music education instrumental majors.", 
+        "number": "3343", 
+        "subject": "MUE", 
+        "title": "The Instrumental Program Strings and Orchestra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

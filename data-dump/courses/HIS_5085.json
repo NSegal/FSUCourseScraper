@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a professional apprenticeship, usually with the Florida Division of Archives, History, and Records Management, designed to give students a practical introduction to the work of the historian in various fields.", 
+        "number": "5085", 
+        "subject": "HIS", 
+        "title": "Internship in Historical Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

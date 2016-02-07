@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the most current research on what comprises effective literacy instruction, what it means for how we teach, and how to use emerging research to ensure that classroom instruction is as effective as it can be, so that all children have the opportunity to become proficient readers and experience academic success.", 
+        "number": "5744", 
+        "subject": "RED", 
+        "title": "Using Literacy Research to Inform Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

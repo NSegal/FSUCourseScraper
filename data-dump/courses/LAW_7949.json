@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Under the heading LAW 7949, the faculty offers several clinical programs (internships) to selected upperclass students. Enrollment is normally limited and may be competitive. Selection is determined by the several program element directors; these faculty members may impose special course prerequisites, grade point average requirements, and other selection criteria. These programs combine practical experience with scholarship and research. May be repeated within the same term to a maximum of thirty semester hours.", 
+        "number": "7949", 
+        "subject": "LAW", 
+        "title": "Clinical Law Programs"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 15.00"
+    }
+}

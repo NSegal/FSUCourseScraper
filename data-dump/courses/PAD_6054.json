@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the history of the underlying theoretical perspectives of public administration as well as trends and conditions relevant to the future development of public administration theory.", 
+        "number": "6054", 
+        "subject": "PAD", 
+        "title": "Intellectual History and Future of Public Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PhD student or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

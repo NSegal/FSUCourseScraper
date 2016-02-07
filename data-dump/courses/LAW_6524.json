@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on statutory and quasi-statutory legal materials: their use and interpretation.", 
+        "number": "6524", 
+        "subject": "LAW", 
+        "title": "Statutory Interpretation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the impact of society on human food ways, role of food and nutrition in national development and global politics. For nonmajors.", 
+        "number": "2125", 
+        "subject": "HUN", 
+        "title": "Food and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

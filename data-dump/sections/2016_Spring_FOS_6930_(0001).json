@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (3862)", 
+    "basic": {
+        "class_num": "3862", 
+        "course": "6930", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "FOS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Shridhar Sathe"
+            ], 
+            "location": "SAN 0101", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

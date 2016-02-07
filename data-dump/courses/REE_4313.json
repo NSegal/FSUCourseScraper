@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the analytical tools and procedures used to evaluate real estate investments.\u00a0 The course focuses on the topic of real estate investment analysis, primarily from the private investors' perspective.", 
+        "number": "4313", 
+        "subject": "REE", 
+        "title": "Real Estate Investment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: REE 3043 and REE 4103 or REE 4204 or departmental permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

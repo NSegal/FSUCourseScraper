@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-RSR (13691)", 
+    "basic": {
+        "class_num": "13691", 
+        "course": "5912", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "FAD", 
+        "type": "RSR", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Mallory Lucier-Greer"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

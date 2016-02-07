@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is geared to train students to become effective communicators and marketers when reaching out to\u00a0 multicultural society. Marketers, communicators, and service providers interested in being effective in reaching out to culturally diverse groups need to become adept at designing messages and strategies geared to a culturally diverse society.", 
+        "number": "4411", 
+        "subject": "ADV", 
+        "title": "Multicultural Marketing Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

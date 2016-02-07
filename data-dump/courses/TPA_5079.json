@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates the principles and techniques of traditional two-dimensional scenic art.", 
+        "number": "5079", 
+        "subject": "TPA", 
+        "title": "Scene Painting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

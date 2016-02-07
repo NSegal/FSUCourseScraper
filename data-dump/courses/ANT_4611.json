@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces underlying concepts and methodology of cross-disciplinary studies that use linguistic data in the investigation of prehistory. Selected case studies convey some of the results of such research. The development of language families is seen as the result of social processes, which may also be reflected in the archaeological record leading to the possibility of discovering and interpreting correlations between these two (and other) lines of evidence.", 
+        "number": "4611", 
+        "subject": "ANT", 
+        "title": "Linguistic Prehistory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

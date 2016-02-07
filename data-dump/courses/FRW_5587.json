@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on a major figure (e.g., Pascal) or intellectual-religious movement (e.g., Jansenism) or a genre (e.g., novel, poetry), depending on the semester. May be repeated to a maximum of six semester hours.", 
+        "number": "5587", 
+        "subject": "FRW", 
+        "title": "Studies in 17th-Century Literature: Figure or Movement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

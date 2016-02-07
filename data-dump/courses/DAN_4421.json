@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses the representation of dance and dancers in two dimensional non-time based photographic media. It involves hands-on camera work and post-production editing.", 
+        "number": "4421", 
+        "subject": "DAN", 
+        "title": "Photography for Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an advanced doctoral seminar focused on learning procedures for designing and conducting experimental research.", 
+        "number": "6506", 
+        "subject": "MAR", 
+        "title": "Seminar in Consumer Behavior Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of Marketing doctoral program director.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

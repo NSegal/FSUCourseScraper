@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated from term to term to a maximum of nine semester hours.", 
+        "number": "6231", 
+        "subject": "SPA", 
+        "title": "Seminar in Neuropathologies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

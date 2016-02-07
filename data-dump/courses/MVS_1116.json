@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for beginning guitar students. Emphasis on music reading and elementary techniques.", 
+        "number": "1116", 
+        "subject": "MVS", 
+        "title": "Beginning Class Guitar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

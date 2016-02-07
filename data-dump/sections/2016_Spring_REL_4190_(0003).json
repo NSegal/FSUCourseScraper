@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DSC (9277)", 
+    "basic": {
+        "class_num": "9277", 
+        "course": "4190", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "REL", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Sumner Twiss"
+            ], 
+            "location": "BEL 0117", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

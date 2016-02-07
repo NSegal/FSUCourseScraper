@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses the notation, fractionation effects, laboratory techniques and application of stable isotopes to aquatic ecosystems. Discussions include applications for stable isotope tracing techniques for deep sea sediments, estuaries and wetlands. Their uses extend from revealing climatic history to variations in food web dynamics.", 
+        "number": "5457", 
+        "subject": "OCG", 
+        "title": "Stable Isotopes as Tracers in Aquatic Ecosystems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

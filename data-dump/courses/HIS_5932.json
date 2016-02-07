@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This tutorial examines selected topics in history. A maximum enrollment of five students in each tutorial.", 
+        "number": "5932", 
+        "subject": "HIS", 
+        "title": "Graduate Tutorial in History"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate history majors and minors only, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

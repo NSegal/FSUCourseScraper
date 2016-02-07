@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory focuses on techniques in the areas of physiology and biochemistry as related to nutrition and metabolism, exercise physiology, and\u00a0\u00a0\u00a0 food science.", 
+        "number": "5802L", 
+        "subject": "HUN", 
+        "title": "Research Design and Methodology Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

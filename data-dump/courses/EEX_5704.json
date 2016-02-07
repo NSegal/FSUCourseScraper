@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides special educators with knowledge of general early childhood and elementary curriculum. Emphasis is placed on evidence-based supports, modifications, and accommodations to allow the child with disabilities to access the general education curriculum.", 
+        "number": "5704", 
+        "subject": "EEX", 
+        "title": "Early Childhood and Elementary Education Curriculum for Special Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

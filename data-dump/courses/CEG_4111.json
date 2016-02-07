@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the design of spread footing, pile and caisson foundations, as well as retaining and waterfront structures. The course offers an investigation of slope stability and a choice between alternative methods of foundation design.", 
+        "number": "4111", 
+        "subject": "CEG", 
+        "title": "Foundation Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

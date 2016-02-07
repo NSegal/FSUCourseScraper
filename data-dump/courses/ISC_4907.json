@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is available so that a faculty member can design an individualized course of study in an area of computational science for a student, in cases where such a class is not available in the current curriculum. The student and faculty member are responsible for preparing a syllabus of readings, exercises, and evaluations. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4907", 
+        "subject": "ISC", 
+        "title": "Senior Directed Individual Study in Scientific Computation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

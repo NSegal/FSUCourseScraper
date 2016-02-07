@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops basic counseling skills in beginning counselor trainees, with an emphasis on self-awareness. Students receive training in the human services center, through an appropriate combination of direct client counseling, role play, instruction, and observation.", 
+        "number": "5800", 
+        "subject": "MHS", 
+        "title": "Practicum: Counseling Concepts and Case Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MHS 5400.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

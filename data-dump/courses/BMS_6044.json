@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides fundamental medical knowledge of the human hematologic system, with an emphasis on the recognition, diagnosis and treatment of the diseases and disorders that involve it over the lifespan. The course integrates knowledge from across the traditional disciplines in basic, behavioral and clinical sciences and applies that knowledge in understanding and treating patients.", 
+        "number": "6044", 
+        "subject": "BMS", 
+        "title": "Medicine 3 Human Systems in Health and Disease: Hematologic System"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "4.00 - 6.00"
+    }
+}

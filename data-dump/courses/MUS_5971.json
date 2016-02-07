@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Six semester hours credit required.", 
+        "number": "5971", 
+        "subject": "MUS", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

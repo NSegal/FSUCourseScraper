@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores different aspects of the transition to college life. The emphasis is on topics related to wellness, and activities address the health and development of individuals, families, and communities. The course is limited to the College of Human Sciences Reynolds Hall students.", 
+        "number": "1081", 
+        "subject": "PET", 
+        "title": "Living-Learning Center Colloquium"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

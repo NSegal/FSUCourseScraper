@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a reading- and writing-intensive seminar based on writings about music from different cultural perspectives and in a variety genres. Students analyze assigned readings and create their own work in a variety of forms.", 
+        "number": "2067", 
+        "subject": "IFS", 
+        "title": "Writing/s about Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

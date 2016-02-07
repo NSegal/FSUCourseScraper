@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, Arts Administration majors study the broad scope of developing audiences for such musical organizations as symphony orchestras, chamber orchestras, choruses and opera companies. Topics include current audience development, marketing and public relations strategies in place at a variety of musical arts organizations; analyzing these practices; and making recommendations for alternative or additional strategies.", 
+        "number": "5816", 
+        "subject": "MUM", 
+        "title": "Audience Development, Marketing and Public Relations in Musical Arts Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

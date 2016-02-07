@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an introduction to achromatic media used in sketching, rendering, and design drawing, with an emphasis on schematics used in problem solving.", 
+        "number": "2300", 
+        "subject": "IND", 
+        "title": "Graphic Techniques I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: First year review.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

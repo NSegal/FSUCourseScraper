@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar studies the forms, strategies, conventions, and criticism of documentary photography and film in the U.S., from the late 19th century to the present. The course considers the rhetoric of the images and the contemporary circumstances in which that rhetoric is bound, while also locating the tensions between reality and the fictionality of representation.", 
+        "number": "6718", 
+        "subject": "ARH", 
+        "title": "Documentary Photography and Film"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

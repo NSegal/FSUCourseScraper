@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2311)", 
+    "basic": {
+        "class_num": "2311", 
+        "course": "6436", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CTE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "11:35:00", 
+            "instructors": [
+                "Eundeok Kim"
+            ], 
+            "location": "WJB 3004", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

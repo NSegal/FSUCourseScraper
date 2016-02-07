@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-DDF (14491)", 
+    "basic": {
+        "class_num": "14491", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "LIS", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Melissa Gross"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

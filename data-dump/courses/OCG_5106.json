@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the modern approach to understanding Earth's climate history and climate change on a global scale.", 
+        "number": "5106", 
+        "subject": "OCG", 
+        "title": "The Earth System"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

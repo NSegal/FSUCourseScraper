@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates the history of the U.S. and modern East Asia from the mid-nineteenth century to the present, covering political interactions and cultural encounters between Americans and Japanese, Koreans, and Chinese.", 
+        "number": "3382", 
+        "subject": "ASH", 
+        "title": "The History of the U.S. and East Asia: 1850 to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

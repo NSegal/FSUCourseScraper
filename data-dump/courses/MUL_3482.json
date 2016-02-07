@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to survey composers, styles and works written for the piano in the period from 1828 to the present. Required of piano performance majors.", 
+        "number": "3482", 
+        "subject": "MUL", 
+        "title": "Survey of Keyboard Literature: Romantic, 20th and 21st Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

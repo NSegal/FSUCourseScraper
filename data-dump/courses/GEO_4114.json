@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the design and implementation of a field-based project employing field sampling, GIS, GPS, and exploratory statistical methods.", 
+        "number": "4114", 
+        "subject": "GEO", 
+        "title": "Environmental Field Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

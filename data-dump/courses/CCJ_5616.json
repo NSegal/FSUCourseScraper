@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the major issues, influences and trends considered in the behavioral analysis of criminal activity. Specifically students examine offender profiling as an educated attempt to identify the types of individuals that would have committed a certain crime.\u00a0 Behavior profiling methods are explored to identify behavioral characteristics of offenders and the evidence the offenders leave behind.", 
+        "number": "5616", 
+        "subject": "CCJ", 
+        "title": "Profiling Criminal Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

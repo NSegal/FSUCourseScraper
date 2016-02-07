@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This experiential-based course offers participants an opportunity to put into practice the knowledge, theory, and skills they have learned in previous courses in the Certification program. Students select and create an experience, complete an experiential learning contract for the course, and do extensive reflection on their experience throughout the course.", 
+        "number": "3263", 
+        "subject": "LDR", 
+        "title": "Leadership Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LDR 2101, LDR 2162, and LDR 3215 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

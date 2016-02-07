@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a rigorous treatment of elementary calculus. Topics include the completeness of the real numbers, sequences and series, limits and continuity, derivatives, integrals, the Fundamental Theorem of Calculus, and sequences and series of functions. Not open to students with credit in MAA 4226. Students intending graduate study in mathematics should take MAA 4226.", 
+        "number": "4224", 
+        "subject": "MAA", 
+        "title": "Introduction to Analysis I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAS 3105, and prior experience with mathematical proofs (MGF 3301, MAD 2104, or other proving experience).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

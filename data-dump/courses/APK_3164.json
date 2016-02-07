@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents current science based information on the prevention, contributing factors, characteristics and treatment of eating disorders, dieting and body image. Diverse populations with eating disorders, cultural and societal emphasis on thinness, and the role of the media are addressed.", 
+        "number": "3164", 
+        "subject": "APK", 
+        "title": "Eating Disorders and Body Image"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HUN 1201.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

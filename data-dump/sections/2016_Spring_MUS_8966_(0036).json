@@ -1,0 +1,26 @@
+{
+    "_unique": "0036-MEX (6572)", 
+    "basic": {
+        "class_num": "6572", 
+        "course": "8966", 
+        "season": "Spring", 
+        "solus_id": "0036", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "MEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Yuell Chandler"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

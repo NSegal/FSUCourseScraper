@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the historical survey of the film medium worldwide, from its invention to the modern era.", 
+        "number": "5021", 
+        "subject": "FIL", 
+        "title": "History and Criticism I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

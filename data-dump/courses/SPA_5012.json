@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the speech sciences. Information integrates scientific material relating to the acoustics, anatomy, and physiology of speech production and perception. Specific topics include sound, respiration, phonation, articulation, audition, and the nervous system along with clinical cases that affect these areas of speech science. This introductory course is expected to serve as a basis for understanding the science of speech and to provide a foundation for advanced graduate-level coursework in speech functions.", 
+        "number": "5012", 
+        "subject": "SPA", 
+        "title": "Introduction to Communication Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

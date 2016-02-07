@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course exposes students to current issues and trends in the psychology of the gifted. Topics include intelligence and intelligence testing, characteristics of the gifted, creativity, talent development, underachievement, socio-emotional development of the gifted, and policy impacting the gifted. Students formulate a research proposal based on a review of the research literature in one area of giftedness.", 
+        "number": "5496", 
+        "subject": "MHS", 
+        "title": "Current Issues in the Psychology of the Gifted"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

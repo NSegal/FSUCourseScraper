@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a foundation in the use of networking technologies and the management of modern data networks, with emphasis on the building blocks of local area networks. Subjects covered include networking architectures, topologies, models, layers, protocols, IP subnetting, equipment, operating systems, security and various tools/utilities.", 
+        "number": "4482", 
+        "subject": "LIS", 
+        "title": "Introduction to Networks and Telecommunications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 3353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the development of the uses of art in the European Middle Ages, from Barbarian metal work to the acceptance of the classical tradition, to the first mature pan-European art of Romanesque architecture and sculpture. Topics of special interest include pilgrimage, imperial imagery, manuscripts, and monasteries.", 
+        "number": "4211", 
+        "subject": "ARH", 
+        "title": "Early Medieval Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3056 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

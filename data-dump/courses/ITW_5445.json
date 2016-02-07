@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers advanced readings and discussions of the figures and movements of the 18th and 19th centuries, including Goldoni, Alfieri, Foscolo, Manzoni, Leopardi, and Verga. May be repeated to a maximum of six semester hours.", 
+        "number": "5445", 
+        "subject": "ITW", 
+        "title": "18th- and 19th-Century Italian Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Advanced standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

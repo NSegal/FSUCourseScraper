@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, topics offered include strong methodological and theoretical components, combined with in-depth coverage of an area or thematic subject. May be repeated to a maximum of nine semester hours within the same semester.", 
+        "number": "5677", 
+        "subject": "ANG", 
+        "title": "Seminar in Linguistic Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

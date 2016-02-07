@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course combines some classroom lecture with other types of instruction that allows students to apply a variety of communication skills in diverse settings. The course is meant for groups of students rather than individuals. The other types of instruction can be a combination of any or all of the following: internship, directed individual study, project implementation, laboratory, and other instructional modes tailored to the specific topic of the course and the educational goal of the students. May be repeated to a maximum of six semester hours; duplicate registration allowed.", 
+        "number": "3933", 
+        "subject": "COM", 
+        "title": "Application of Communication Skills"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 6.00"
+    }
+}

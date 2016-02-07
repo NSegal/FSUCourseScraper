@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Oral defense of Thesis research. One-time registration during the term in\u00a0 which the student expects to defends their MS thesis. P/F grade only.", 
+        "number": "8951", 
+        "subject": "IHS", 
+        "title": "Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Summer", 
+        "units": "0.00"
+    }
+}

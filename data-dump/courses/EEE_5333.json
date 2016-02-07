@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the fabrication of solid-state sensors, their characterization, operational principles, and applications for acoustic, mechanical, magnetic, radiation, thermal, chemical, and biological sensors.", 
+        "number": "5333", 
+        "subject": "EEE", 
+        "title": "Solid State Sensors"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 3300.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

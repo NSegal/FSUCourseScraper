@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to present structures of the Spanish language and vocabulary to prepare graduate students majoring in other disciplines to read journals, books, and monographs written in Spanish useful to the student's research. May be repeated to a maximum of nine semester hours.", 
+        "number": "5060", 
+        "subject": "SPN", 
+        "title": "Graduate Reading Knowledge in Spanish"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the organizational issues associated with effective information technology-based innovation and the management of information technologies in organizational strategies and operations.", 
+        "number": "6395", 
+        "subject": "ISM", 
+        "title": "Doctoral Seminar in Management Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers age and health demographics, as well as attitudes toward aging and health. Topics include basic cellular or molecular theories of aging, how the human body's organ systems typically change over time, pathologies associated with aging, as well as psychological responses to normal and pathological changes.", 
+        "number": "4647", 
+        "subject": "SOW", 
+        "title": "Physical Aspects of Aging"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

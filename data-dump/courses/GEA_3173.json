@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course uses weekly feature films to investigate how the Third World is constructed as a distinct region; how its geography has influenced its history, cultural systems, and development prospects; and how residents have attempted to redefine the concept of \"development.\"", 
+        "number": "3173", 
+        "subject": "GEA", 
+        "title": "Third World in Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

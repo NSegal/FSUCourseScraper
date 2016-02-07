@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar in ethics and politics that encourages research into the relationships between religion, morality, and the social-political life of persons and groups.", 
+        "number": "6176", 
+        "subject": "RLG", 
+        "title": "Seminar: Ethics and Politics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

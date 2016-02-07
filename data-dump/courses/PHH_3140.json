@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on philosophy from the \"Master of Those Who Knew\" (Aristotle) through the end of the ancient world and the dominance of Christianity. Topics include: the structure of the world order, God, man's place.", 
+        "number": "3140", 
+        "subject": "PHH", 
+        "title": "Aristotle to Augustine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides completion of formal and informal evaluation procedures with adults who have speech and/or language disorders. May be repeated\u00a0\u00a0 to a maximum of twelve semester hours.", 
+        "number": "5528L", 
+        "subject": "SPA", 
+        "title": "Laboratory in Adult Speech/Language Pathology Diagnostics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (11071)", 
+    "basic": {
+        "class_num": "11071", 
+        "course": "6932", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "CLA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:00:00", 
+            "instructors": [
+                "Jessica Clark"
+            ], 
+            "location": "DOD 0205I", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

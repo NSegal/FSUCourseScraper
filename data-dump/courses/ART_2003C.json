@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the theories and creative processes that propel contemporary art and design. The course studies a wide range of media and methods used by visual artists and designers to create meaning in their images, objects, and experiences. Offered to all non-art majors.", 
+        "number": "2003C", 
+        "subject": "ART", 
+        "title": "Contemporary Art Scholarship and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

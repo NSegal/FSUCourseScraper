@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar reviews theories of inequality in contemporary societies.\u00a0 Research on inequality and social mobility in the U.S. and other nations is also reviewed, with a focus on conceptualization and measurement.", 
+        "number": "5535", 
+        "subject": "SYO", 
+        "title": "Inequalities: Race, Class, Gender"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the United States' policymaking process in all its stages including problem identification, agenda setting, policy formation, policy adoption, implementation and evaluation. In so doing, it surveys a broad range of K-12 and postsecondary education policies.", 
+        "number": "5652", 
+        "subject": "EDF", 
+        "title": "Policy Development in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

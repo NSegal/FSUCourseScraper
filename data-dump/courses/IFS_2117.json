@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is intended to help students understand the science behind major issues that are likely to evolve into increasingly important moral, political, and public policy decisions in their lifetime. Topics are discussed such as: choosing the sex or genetic composition of children, human cloning, rebuilding defective organs and tissues from stem cells, and altering genetic constitution.", 
+        "number": "2117", 
+        "subject": "IFS", 
+        "title": "Genetics in Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

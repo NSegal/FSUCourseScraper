@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the design and implementation of model-based control systems for chemical and biochemical systems. Topics include formulation of dynamic models, time and Laplace domain analysis of open-loop and closed-loop systems, and design of single variable and multivariable controllers. MATLAB and SIMULINK are used for dynamic process simulation and control system development. The lab is comprised of experiments designed to illustrate and apply control theory, measurement techniques, calibration, tuning of controls, characterization of sensors, and control circuits.", 
+        "number": "4323", 
+        "subject": "ECH", 
+        "title": "Process Control"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 4404L, ECH 4504, and ECH 4604. Corequisite: ECH 4615.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

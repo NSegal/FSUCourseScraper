@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the new cultural practices being forged in France by writers, filmmakers and musicians mixing elements from African, Caribbean, French, American and other sources. It is taught in French.", 
+        "number": "5535", 
+        "subject": "FRE", 
+        "title": "Post-Colonial Cultures in France"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

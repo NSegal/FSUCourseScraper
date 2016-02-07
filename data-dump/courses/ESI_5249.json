@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores combined statistical experiment designs, empirical model building, and optimization methods. Topics include restrictions on randomization, mixture experiments, and robust design. Emphasis is placed on software tools to build designs and perform appropriate analyses.", 
+        "number": "5249", 
+        "subject": "ESI", 
+        "title": "Response Surfaces and Process Optimization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 5247.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

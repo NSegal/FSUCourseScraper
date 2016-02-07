@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the fundamental questions, topics, and problems that organize contemporary practice in literary and cultural studies.", 
+        "number": "5079", 
+        "subject": "ENG", 
+        "title": "Issues in Literary and Cultural Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers control design for systems with uncertain dynamics; robust H design, structured singular value synthesis; LMI and Riccati equation solution techniques.", 
+        "number": "6365", 
+        "subject": "EML", 
+        "title": "Robust Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 5361.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

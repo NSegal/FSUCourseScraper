@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a doctoral-level seminar devoted to a specific issue in classical archaeology. May be repeated when topics vary to a maximum of twenty-four semester hours.", 
+        "number": "6937", 
+        "subject": "ARH", 
+        "title": "Doctoral Seminar in Classical Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an exploration of the relationship between humans and their environment through the study of personal and social use of space, proxemics, spatial analysis, and the effects of the environment on human behavior.", 
+        "number": "4601", 
+        "subject": "IND", 
+        "title": "Design Process II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: First year review.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

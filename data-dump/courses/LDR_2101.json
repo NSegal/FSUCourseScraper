@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to inspire, teach, and engage students in the process of learning leadership. The course introduces students to leadership theory and helps them understand their unique role in leadership on campus, in their academic discipline, and within our larger society.", 
+        "number": "2101", 
+        "subject": "LDR", 
+        "title": "Leadership Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

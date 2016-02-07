@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the student to articulatory phonetics and the theory of Spanish phonology as a set of phonological rules determining allophonic distribution. The course entails partial analysis of various dialects of Spanish during class and an assignment to make an analysis of the Spanish of some native speakers dialect.", 
+        "number": "5795", 
+        "subject": "SPN", 
+        "title": "Phonology of Spanish"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A working knowledge of spoken Spanish.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

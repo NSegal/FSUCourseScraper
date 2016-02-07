@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers letter writing, business terminology, as well as conducting business in the Hispanic world.", 
+        "number": "4444", 
+        "subject": "SPN", 
+        "title": "Business Writing in Spanish"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

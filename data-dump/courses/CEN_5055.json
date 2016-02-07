@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course deals with the planning, design, validation and implementation of a large-scale project using IEEE deliverables, state-of-the-art software engineering techniques, analysis and design project reviews, and evaluations prior to implementation in the Graduate Software Project.", 
+        "number": "5055", 
+        "subject": "CEN", 
+        "title": "Project Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEN 5035.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

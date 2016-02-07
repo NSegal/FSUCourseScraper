@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on psychosocial and environmental factors influencing various health behavior patterns.", 
+        "number": "5603", 
+        "subject": "HSC", 
+        "title": "Models of Health Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

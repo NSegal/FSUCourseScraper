@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the use of probability theory and descriptive and inferential statistics in geographic research, including chi-square tests, logit models, correlation techniques, geo-statistics, analysis of variance, simple and multiple regression, and factorial analysis.", 
+        "number": "5165C", 
+        "subject": "GEO", 
+        "title": "Quantitative Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on ethics and service leadership and how it intersects areas of life. Students read and discuss both primary and secondary sources and critically reflect on those sources in an effort to understand questions about the meaning and purpose of work and their implications for business leadership and decision making.", 
+        "number": "3602", 
+        "subject": "HFT", 
+        "title": "Ethics and Service Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

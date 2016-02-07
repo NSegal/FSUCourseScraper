@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides understanding of objective oriented acting techniques and develops effective methods for working with actors in rehearsal and on set. Requires directing a short film project.", 
+        "number": "3433", 
+        "subject": "FIL", 
+        "title": "Filmmaking II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the biopsychosocial model of health care, integrating knowledge of basic, behavioral and clinical sciences for understanding and treating patients. The principles of the patient-centered clinical method provide the context for learning the physical exam, structure and function of the human body, basic diagnostic imaging, and analysis of ethical issues in medicine.", 
+        "number": "6037", 
+        "subject": "BMS", 
+        "title": "Medicine I: Foundations"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine M.D. program or the FSU College of Medicine Bridge to Clinical Medicine major of the M.S. Program in Biomedical Sciences.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "10.00 - 13.00"
+    }
+}

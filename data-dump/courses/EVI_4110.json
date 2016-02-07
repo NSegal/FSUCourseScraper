@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces basic concepts, principles, and procedures of assessment and applied behavior analysis in the practice of providing services to students with visual impairments, their families, and educational personnel.", 
+        "number": "4110", 
+        "subject": "EVI", 
+        "title": "Assessment of Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides instruction in oral presentation and communication skills for professional settings in the motion picture industry. May be repeated to a maximum of three semester hours.", 
+        "number": "2090", 
+        "subject": "FIL", 
+        "title": "Professional Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

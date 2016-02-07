@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides the application component of NUR 4445. Under the guidance of clinical instructors, the student is given opportunities to integrate theoretical knowledge from NUR 4445 in both simulated and clinical sessions. Deliberate practice, debriefing, and reflective instructional approaches are used in both settings.", 
+        "number": "4555L", 
+        "subject": "NUR", 
+        "title": "NURSING CARE OF WOMEN, CHILDREN AND FAMILIES LAB"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Semester I and II Nursing courses. Corequisites: Semester III Nursing courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

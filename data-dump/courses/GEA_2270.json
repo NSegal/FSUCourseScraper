@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the physical, social, and economic geography of the state, including growth, and environmental issues.", 
+        "number": "2270", 
+        "subject": "GEA", 
+        "title": "Florida"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

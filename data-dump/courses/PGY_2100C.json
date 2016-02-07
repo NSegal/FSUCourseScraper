@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to camera operation and image making, with discussion of contemporary and historical work. Emphasis on 35mm slide projects rather than printing techniques. (This course may be offered as part of FSU International Programs curriculum.)", 
+        "number": "2100C", 
+        "subject": "PGY", 
+        "title": "Photography for Non-Art Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

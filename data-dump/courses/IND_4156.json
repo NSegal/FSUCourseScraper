@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes study, research, and documentation of restoration and preservation procedures, sources of antiquities, and reproductions. Includes field trips. May be repeated to a maximum of six semester hours.", 
+        "number": "4156", 
+        "subject": "IND", 
+        "title": "Historical Restoration, Research and Documentation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the visual communication skills and techniques required for the development and previsualization of narrative motion pictures.", 
+        "number": "2710", 
+        "subject": "FIL", 
+        "title": "Visualization I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

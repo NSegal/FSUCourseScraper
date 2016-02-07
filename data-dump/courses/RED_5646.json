@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an exploration of current issues and recent trends in the teaching of reading with emphasis on developmental aspects, present practices, and implications of research in reading.", 
+        "number": "5646", 
+        "subject": "RED", 
+        "title": "Trends and Issues in Reading"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RED 4510 or RED 5147.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews various types of reading problems and techniques for\u00a0\u00a0\u00a0 diagnosing these problems. This course also studies a variety of model diagnostic cases.", 
+        "number": "5546", 
+        "subject": "RED", 
+        "title": "Diagnosis of Reading Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: RED 5147.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

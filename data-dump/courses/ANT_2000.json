@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This introductory course offers a holistic approach to understanding what it means to be human, studying humans and human behavior from the perspectives of evolution and genetics, the archaeological record, and language and culture.", 
+        "number": "2000", 
+        "subject": "ANT", 
+        "title": "Introduction to Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

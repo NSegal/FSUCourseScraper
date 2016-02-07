@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-PRF (7907)", 
+    "basic": {
+        "class_num": "7907", 
+        "course": "5451", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:50:00", 
+            "instructors": [
+                "Shirley Close"
+            ], 
+            "location": "TBA", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

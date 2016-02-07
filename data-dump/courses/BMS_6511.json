@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies cardiovascular, respiratory, renal, and gastrointestinal physiology; physiology of the adrenal and thyroid gland; metabolism.", 
+        "number": "6511", 
+        "subject": "BMS", 
+        "title": "Organ Physiology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "6.00"
+    }
+}

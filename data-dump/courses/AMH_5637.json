@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an online course that applies the methods and approaches of environmental history to Florida and the southeastern United States.", 
+        "number": "5637", 
+        "subject": "AMH", 
+        "title": "The Nature of Florida"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

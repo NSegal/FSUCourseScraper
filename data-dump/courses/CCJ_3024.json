@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an advanced overview of principles and practical applications of criminal law, criminal procedure, and criminological theory. Special emphasis is placed on how the components of the criminal justice system: the prosecutorial and defense function, the judiciary, and the field of corrections are synthesized into a functioning process of public safety and security.", 
+        "number": "3024", 
+        "subject": "CCJ", 
+        "title": "The Criminal Justice System"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

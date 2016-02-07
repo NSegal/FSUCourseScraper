@@ -1,0 +1,37 @@
+{
+    "_unique": "0009-LEC (4464)", 
+    "basic": {
+        "class_num": "4464", 
+        "course": "1201", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Open", 
+        "subject": "HUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Negin Navaei"
+            ], 
+            "location": "SAN 0407", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Negin Navaei"
+            ], 
+            "location": "SAN 0407", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

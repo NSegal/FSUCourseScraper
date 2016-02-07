@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the basic concepts of optical sensors and essential optics. Topics include intensity, phase, and frequency modulated optical fiber sensors and their applications, distributive sensing systems, and optical fibers in signal processing.", 
+        "number": "4452", 
+        "subject": "EEL", 
+        "title": "Optical Sensors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3473.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

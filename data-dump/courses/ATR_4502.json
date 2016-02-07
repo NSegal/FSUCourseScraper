@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the cognitive, affective, and motor skills required to perform athletic-training techniques in practice, non-traditional settings. Techniques reflect those presented in previous athletic-training administration lecture/lab courses. This course prepares students for the Board of Certification (BOC) examination and provides information on how the BOC examination is developed and scored.", 
+        "number": "4502", 
+        "subject": "ATR", 
+        "title": "Athletic Training Professional Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 4852.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

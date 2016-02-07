@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Each semester a number of courses labelled PHY 6938r may be scheduled. The exact content of each of these courses will depend on the interests and needs of the students and faculty. Proposals for special topics courses will be submitted by individual faculty members to the Graduate Affairs Committee three months prior to the scheduling of these courses. Student or faculty groups are encouraged to approach an appropriate faculty member and persuade him or her to submit a proposal for a course they feel is needed. The following titles reflect potential offerings: Models and Reactions in Nuclear Physics, Experimental Methods in Nuclear Physics, Theoretical Nuclear Physics, Intermediate Energy Nuclear Physics, Quantum Field Theory, Phenomenological Theories in Particle Physics, Experimental Methods in Particle Physics, Solid State Theory, Theory of Magnetism, Advanced Quantum Mechanics, Molecular Quantum Mechanics, Advanced Statistical Physics, Atomic Structure, Theory of Infrared Spectra, Electron and Atom Collisions, Molecular Collisions, General Relativity and Cosmology, Astrophysics, Magnetic Resonance.", 
+        "number": "6938", 
+        "subject": "PHY", 
+        "title": "Special Topics in Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

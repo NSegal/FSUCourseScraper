@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed for the graduate student who plans to use SCUBA diving as a tool for underwater research. Skills covered include dive planning, emergency management, underwater navigation, survey techniques, and instrument deployment and recovery. Students learn to plan and lead scientific expeditions in any environment and to write proposals that effectively outline using diving as a tool in research.", 
+        "number": "5476C", 
+        "subject": "BSC", 
+        "title": "Introduction to Scientific Diving"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Open water diver certified by national organization, clear diving medical exam, and ability to pass swimming exam.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

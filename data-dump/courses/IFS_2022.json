@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students engage in critical and creative thinking about contemporary problems and solutions in intercultural business communication. Students also grapple with these issues in both an international and domestic context.", 
+        "number": "2022", 
+        "subject": "IFS", 
+        "title": "When Culture and Business Collide: Communication in an International Context"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

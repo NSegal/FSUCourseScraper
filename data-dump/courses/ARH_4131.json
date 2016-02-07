@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys the accomplishments of classical Greek art through an examination of the monuments, works, and archaeological evidence.", 
+        "number": "4131", 
+        "subject": "ARH", 
+        "title": "Greek Art and Archaeology of the Fifth and Fourth Centuries BC"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

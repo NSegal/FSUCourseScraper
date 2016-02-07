@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the field of compressed-gas diving, that exposes students to the use of underwater technology and techniques in support of science.", 
+        "number": "1136", 
+        "subject": "PEN", 
+        "title": "Theory and Practice of Compressed-Gas Diving"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the knowledge and skills necessary to understand the effects of severe cognitive disabilities (SCD) and autism spectrum disorder (ASD) on development and learning. Participants learn to assess academic and functional achievement of\u00a0 individuals with SCD and ASD in a variety of areas that impact academic and functional outcomes for these individuals.", 
+        "number": "5234", 
+        "subject": "EEX", 
+        "title": "Development and Assessment of Individuals with Severe Cognitive Abilities/Autism Spectrum Disorder"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

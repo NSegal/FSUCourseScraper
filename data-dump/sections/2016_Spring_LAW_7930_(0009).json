@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-LEC (4724)", 
+    "basic": {
+        "class_num": "4724", 
+        "course": "7930", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Open", 
+        "subject": "LAW", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:05:00", 
+            "instructors": [
+                "Frederick Abbott"
+            ], 
+            "location": "LAW 0326", 
+            "start_time": "15:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

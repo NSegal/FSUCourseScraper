@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, an understanding of a certain period or movement investigated is determined by the student's needs and by faculty expertise. May be repeated provided the course materials are different from previous materials presented under the course title. Examples of period literatures are 17th century and Post-World War II literature in a comprehensive approach. Examples of movement literatures are Romanticism and Expressionism, literatures that are concurrent with other types of literature at a given time period. The course is conducted in German. Verbal participation (class discussion and/or reports) and written participation (examination and/or term paper) are required. May be repeated to a maximum of six semester hours.", 
+        "number": "5597", 
+        "subject": "GEW", 
+        "title": "Studies in a Period: Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses advanced issues relevant to athletic training and sports medicine. Current topics include athletic training administration, athletic training pharmacology, advanced assessment techniques, orthopedic surgical observation, and general medical conditions.", 
+        "number": "4932", 
+        "subject": "ATR", 
+        "title": "Issues in Sports Medicine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 1810.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

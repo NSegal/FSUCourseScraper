@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on a wide-ranging selection of ten of the most influential algorithms in use today: what they are, how they work, and their impact on modern life.", 
+        "number": "4401", 
+        "subject": "COT", 
+        "title": "Top 10 Algorithms"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

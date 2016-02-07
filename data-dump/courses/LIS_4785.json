@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents how theory and practice in health care, strategy, information technology, communications, and law are integrated in the management and delivery of health care in various situations. Focus is on the emerging specialization in the health-care industry that combines expertise in health care, information technology, and information management.", 
+        "number": "4785", 
+        "subject": "LIS", 
+        "title": "Introduction to Health Informatics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

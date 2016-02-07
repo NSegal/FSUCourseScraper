@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the aspects of athletic training organization and administration. Topics include program management, human resource management, athletic insurance, risk management, ethical considerations, pre-participation physical exams, and facility design.", 
+        "number": "3512", 
+        "subject": "ATR", 
+        "title": "Administration of Athletic Training Programs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 4842.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

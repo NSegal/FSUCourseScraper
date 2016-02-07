@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with a broad introduction to both illicit and licit drug usage and their impact on the justice system. Drugs and behavior are examined from various perspectives including historical, criminal justice, sociological, and biological perspectives. Emphasis is placed on analyzing the logic of the discourse surrounding drug policy by the opposing advocates.", 
+        "number": "3651", 
+        "subject": "CCJ", 
+        "title": "Drugs and Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a historical and topical survey of Islam as a religion and civilization, focusing on the formative and classical periods of its history. The course is primarily concerned with the life and career of Muhammad, the Prophet of Islam; the scriptural sources of Islam (i.e., the Qur'an and the Sunna); and the development of the Muslim community and its principal institutions (schools of thought, law, theology, cultural life, and mystical traditions).", 
+        "number": "3363", 
+        "subject": "REL", 
+        "title": "Islamic Traditions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

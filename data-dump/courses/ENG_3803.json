@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the history of the changing technologies that humans have used to record and transmit their experiences across time and space. It surveys the variety of forms this effort has taken, including tattoo, scroll, manuscript, print, illustration, musical notation, phonograph, photograph, film, and digital multimedia. Students investigate how such technologies have shaped the way we produce, transmit, and receive texts and other creative representations of human experience, as well as each technology's social and cultural conditions.", 
+        "number": "3803", 
+        "subject": "ENG", 
+        "title": "History of Text Technologies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

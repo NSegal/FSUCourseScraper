@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to Structural Equation Model (SEM) theory and method, and the application of Structural Equation Modeling to research problems in sport management. Students gain an understanding of common Structural Equation Modeling techniques that are applicable in sport management research.", 
+        "number": "6736", 
+        "subject": "SPM", 
+        "title": "Applied Statistics in Sport Management II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: EDF 5409.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

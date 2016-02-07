@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to institutional research as a discipline in higher education. Course content is addressed within the context of organizational, administrative, political and ethical issues in institutional research. Practical experience with research databases and insights from current practitioners in the field are integrated into the course content.", 
+        "number": "5055", 
+        "subject": "EDH", 
+        "title": "Introduction to Institutional Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

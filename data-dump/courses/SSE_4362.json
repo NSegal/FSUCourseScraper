@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores rationale for social studies instruction and an examination of traditional social science instructional methods.", 
+        "number": "4362", 
+        "subject": "SSE", 
+        "title": "Fundamentals in Teaching Social Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: EDG 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

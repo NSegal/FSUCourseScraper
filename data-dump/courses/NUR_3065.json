@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the nursing student to concepts and models of wellness and health promotion for individuals, families, and communities. Included are communication and interview techniques in compiling a health history, technical skills in performing a physical exam, clinical reasoning skills in doing a health risk appraisal, formulating nursing diagnoses appropriate to identified problems, and understanding the role of the nurse in patient education. Client's cultural differences, development stage, family structure, economic situation, and health behaviors are considered when evaluating health status. In addition, the role of the nurse in patient education is emphasized.", 
+        "number": "3065", 
+        "subject": "NUR", 
+        "title": "Health Assessment, Wellness and Prevention Across the Lifespan"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Nursing major. Corequisite: Semester I Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

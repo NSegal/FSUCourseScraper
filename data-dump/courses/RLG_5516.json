@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers major developments in the history and theology of Christianity in the first three centuries of the common era.", 
+        "number": "5516", 
+        "subject": "RLG", 
+        "title": "Christianity after the New Testament"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: REL 2240 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

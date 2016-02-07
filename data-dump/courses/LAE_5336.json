@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to enhance student knowledge of how we perceive and use language. Topics covered include: the history of English as a language, the ways we produce spoken language (physically, instinctually, and intellectually), the ways that language is represented in popular culture, and the arguments and justifications given regarding popular and traditional approaches to teaching language and grammar.", 
+        "number": "5336", 
+        "subject": "LAE", 
+        "title": "Applied Linguistics for Teachers of English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

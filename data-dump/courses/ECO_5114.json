@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a beginning graduate-level course in microeconomic analysis. The course is designed to prepare students for subsequent work in microeconomic analysis and in applied microeconomics' courses such as public finance, industrial organization, and labor economics.", 
+        "number": "5114", 
+        "subject": "ECO", 
+        "title": "Applied Microeconomics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

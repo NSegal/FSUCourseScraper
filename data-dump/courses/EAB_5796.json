@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course details practical methods for designing and executing successful behavior analysis research. Reviews current methodology and critiques studies in the literature.", 
+        "number": "5796", 
+        "subject": "EAB", 
+        "title": "Research Methods in Applied Behavior Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course establishes the skillset of students who served as Corpsman and Medics within the context of professional nursing and to facilitate their transition to the Registered Nurse role. The course uses a body systems based approach to introduce assessment and fundamental aspects of nursing care. Each week, a new body system is introduced, along with the elements of practice and clinical decision-making dictated by the nursing process. The course also serves to prepare the veteran student for future clinical experiences.", 
+        "number": "3033C", 
+        "subject": "NUR", 
+        "title": "Transition to Professional Nursing Practice for Veterans"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Undergraduate Nursing Program.", 
+        "grading_basis": "Graded", 
+        "units": "6.00"
+    }
+}

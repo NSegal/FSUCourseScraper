@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the traditional music of Japan, emphasizing historical background and cultural contexts, instruments and ensembles, structures and styles, theatrical and dance forms, and contemporary music.", 
+        "number": "5577", 
+        "subject": "MUH", 
+        "title": "Music of Japan"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

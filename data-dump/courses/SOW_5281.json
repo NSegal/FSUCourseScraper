@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a framework of knowledge and skills to prepare them for effective ethical decision-making which adheres to the NASW Code of Ehtics.", 
+        "number": "5281", 
+        "subject": "SOW", 
+        "title": "Ethics in Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, current topics in early childhood are studied in depth. May be repeated to a maximum of nine semester hours. May be repeated during the same semester.", 
+        "number": "4930", 
+        "subject": "EEC", 
+        "title": "Special Topics in Early Childhood"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

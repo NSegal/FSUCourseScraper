@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores conventional and alternative forms of language and literacy assessment. Provides practice doing portfolio and performance assessments.", 
+        "number": "5515", 
+        "subject": "LAE", 
+        "title": "Language and Literacy Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

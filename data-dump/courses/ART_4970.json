@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the capstone course for all BFA students in the Department of Art. Students develop and execute a capstone thesis project to be exhibited publicly. Additionally, students organize an artist's talk to be delivered to an audience.", 
+        "number": "4970", 
+        "subject": "ART", 
+        "title": "BFA Thesis Project and Exhibition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Pre- or corequisites: This course is taken in the students final semester. Therefore, all degree requirements are pre- or corequisites. Any remaining art courses for the degree must be taken during the semester this course is taken.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

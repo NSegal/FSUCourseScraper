@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "2211L", 
+        "subject": "CHM", 
+        "title": "Organic Chemistry II Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 2210 with a grade of \"C-\" or better. Corequisite: CHM 2211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

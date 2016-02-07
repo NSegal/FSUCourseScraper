@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the measurement of corruption; its economic costs; its causes, based on theory and on macro-based, micro-based, and experimental studies; and the effectiveness of different anti-corruption interventions. This course also defines corruption, studies how to measure it, and asks why some countries are systematically corrupt while others have escaped the corruption trap and why, facing the same incentives, some individuals are\u00a0\u00a0 corrupt and others are not.", 
+        "number": "5457", 
+        "subject": "ECP", 
+        "title": "Economics of Corruption"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

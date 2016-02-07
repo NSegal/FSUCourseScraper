@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (11823)", 
+    "basic": {
+        "class_num": "11823", 
+        "course": "2015", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "IFS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Mary Stewart"
+            ], 
+            "location": "HSF 2008", 
+            "start_time": "12:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

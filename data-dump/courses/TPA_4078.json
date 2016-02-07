@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This advanced studio course helps develop skills introduced in TPA 4077 with non-traditional scenic techniques and non-traditional materials.", 
+        "number": "4078", 
+        "subject": "TPA", 
+        "title": "Advanced Scene Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

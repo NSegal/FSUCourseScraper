@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with WWII on a global basis while avoiding the common Eurocentric approach. It also analyzes the character of the Pacific theater as well as that of the European war, presenting the student with insights into and contrasts between the various belligerents.", 
+        "number": "4244", 
+        "subject": "WOH", 
+        "title": "World War II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

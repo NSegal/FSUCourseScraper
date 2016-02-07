@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of 20th-century literature from Modernism through the Soviet period to the glasnost era.", 
+        "number": "5579", 
+        "subject": "RUW", 
+        "title": "Modern Russian Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

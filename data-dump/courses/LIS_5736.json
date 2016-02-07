@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course takes a practical approach to indexing and abstracting, covering manual and automatic processes and methods, as well as database organization and design. Emphasis is on indexing and abstracting in an online environment with attention to production rules, standards, markup languages, and file organization.", 
+        "number": "5736", 
+        "subject": "LIS", 
+        "title": "Indexing and Abstracting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

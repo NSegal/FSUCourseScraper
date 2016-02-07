@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to acquaint students with a variety of electronic hardware and software alternatives that are utilized by individuals with visual impairments to access information in school, home and vocational environments. This course includes lecture, demonstration, peer-teaching and hands-on activities.", 
+        "number": "5325", 
+        "subject": "EVI", 
+        "title": "Technology for Individuals with Visual Impairment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

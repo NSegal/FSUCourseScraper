@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This seminar covers selected primary-source readings in classical Chinese about Chinese religions. Readings are drawn from a sampling of historical peeriods and genres, including canonical literature, philosophical treatises, ritual manuals, poetry, hagiography, and local gazetteers. Students learn to use lexical and bibliographic references, digital resources, and other research tools. May be repeated to a maximum of twelve credit hours.", 
+        "number": "5318", 
+        "subject": "RLG", 
+        "title": "Tutorial in Classical Chinese Religious Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One year of Chinese language or familiarity with written Chinese.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 12.00"
+    }
+}

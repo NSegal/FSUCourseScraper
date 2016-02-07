@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates the meaning and the role of archaeology in shaping our past and present lives. In particular, we ask questions about the purpose, the means, and the agencies behind the excavation process, and thus touch upon the theoretical underpinnings of archaeology as a science. The course is a comprehensive survey that begins with the basics of human evolution and covers the history and material culture of key ancient civilizations, including those that populated the Mesopotamian and Mediterranean basins.", 
+        "number": "2090", 
+        "subject": "ARH", 
+        "title": "Great Discoveries in World Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

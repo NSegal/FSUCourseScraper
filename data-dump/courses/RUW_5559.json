@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the development of Russian literature through its golden age and of the representative works of Pushkin, Lermontov, Gogol, Turgenev, Goncharov, Leskov, Tolstoy, Dostoevsky, and Chekhov. May be repeated to a maximum of nine semester hours.", 
+        "number": "5559", 
+        "subject": "RUW", 
+        "title": "Seminar in 19th-Century Russian Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

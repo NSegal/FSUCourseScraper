@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to creation, interpretation, and application of statutes and regulations, and explains the central role that they play in modern American governance.", 
+        "number": "5522", 
+        "subject": "LAW", 
+        "title": "Legislation and Regulation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

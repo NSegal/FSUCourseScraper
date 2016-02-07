@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an interdisciplinary study of American thought from the Puritans to the late 19th century, asking, among other questions, what mission America assigned to itself. Topics include Puritanism, the Revolutionary ideology, federalism, the American Enlightenment, romanticism, individualism, and manifest destiny.", 
+        "number": "4331", 
+        "subject": "AMH", 
+        "title": "US Intellectual History I: Beginning to 1880"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

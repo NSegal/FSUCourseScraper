@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses various models of games, including incomplete information, signaling games, bargaining models, repeated games, cheap talk models, evolutionary game theory, and behavioral/experimental game theory. This course assumes some knowledge of calculus and probability and distribution theories. May be repeated to a maximum of six semester hours.", 
+        "number": "5727", 
+        "subject": "POS", 
+        "title": "Advanced Game Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5723 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

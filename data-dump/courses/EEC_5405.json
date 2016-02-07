@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the effects of parental involvement on children's educational development and achievements; designing/implementing strategies for enhancing parent-teacher partnership in education.", 
+        "number": "5405", 
+        "subject": "EEC", 
+        "title": "Teachers and Parents: Partners in Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

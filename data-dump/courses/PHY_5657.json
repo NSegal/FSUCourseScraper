@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the following: symmetries and group theory; permutation groups and crystallographic groups; continuous groups and Lie algebras; SU(2) and angular momentum; SU(3) flavor and color; SU(N) Lie algebras and examples.", 
+        "number": "5657", 
+        "subject": "PHY", 
+        "title": "Group Theory and Angular Momentum"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 5645. Corequisite: PHY 5646.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

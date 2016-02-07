@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides basic computational algorithms including interpolation, approximation, integration, differentiation, and linear systems solution presented in the context of science problems. The laboratory component includes algorithm implementation for simple problems in the sciences and applying visualization software for interpretation of results.", 
+        "number": "4220C", 
+        "subject": "ISC", 
+        "title": "Algorithms for Science Applications I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312. Corequisite: ISC 3222.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

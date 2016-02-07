@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores basic rhythmic, spatial, and dynamic materials in the designing of dance movements; improvisation and exploration of various ideological and aesthetic sources.", 
+        "number": "2610", 
+        "subject": "DAA", 
+        "title": "Dance Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: DAN 2610 and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

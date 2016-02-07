@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course in communications, information resource management, and information technologies is aimed at administrators in the public and not-for-profit sectors. It deals with the basics of information technologies, organizational and other communications or information exchange networks; the interaction of government and non-profits with clients, citizens, other agencies or institutions; and the virtual state.", 
+        "number": "4712", 
+        "subject": "PAD", 
+        "title": "Information Resource and Communication Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

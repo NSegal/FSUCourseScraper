@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves the production of a distilled-spirit sample at a commercial facility, followed by an in-depth chemical analysis of the product through the use of sophisticated instrumentation located at a university chemistry laboratory in Scotland. This intensive course takes place over a two-week period in which students are instructed in the operational procedure of the plant and given hands-on involvement in an actual production run. Lecture and laboratory sessions following the production run focus on a detailed chemical and physical analysis of the distilled spirit sample using spectroscopic, chromatographic, and NMR techniques.", 
+        "number": "4800C", 
+        "subject": "ECH", 
+        "title": "Distilled Spirits Processing and Properties"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Completion of sophomore-year academic requirements in chemical engineering, other engineering discipline, or in a related science; and instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

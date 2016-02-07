@@ -1,0 +1,26 @@
+{
+    "_unique": "0010-LEC (11903)", 
+    "basic": {
+        "class_num": "11903", 
+        "course": "4938", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Open", 
+        "subject": "CCJ", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Krista Flannigan"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

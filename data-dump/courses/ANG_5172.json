@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course serves as an introduction to the goals, methods, and theoretical base of this relatively new subfield of archaeology. Particular emphasis is placed on acculturation, ethnicity, archaeological methodology, and documentary research. Regional emphasis is on North America and the Caribbean.", 
+        "number": "5172", 
+        "subject": "ANG", 
+        "title": "Historic Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

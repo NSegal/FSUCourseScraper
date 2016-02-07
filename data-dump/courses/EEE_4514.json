@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to Fourier analysis of noise and signals; information transmission; modulation techniques; AM, FM, and pulse; as well as analog multiplexing.", 
+        "number": "4514", 
+        "subject": "EEE", 
+        "title": "Principles of Communications Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3135.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

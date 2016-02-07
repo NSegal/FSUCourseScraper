@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LEC (10057)", 
+    "basic": {
+        "class_num": "10057", 
+        "course": "4081", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "TSL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:20:00", 
+            "instructors": [
+                "Arzu Leushuis"
+            ], 
+            "location": "STB G150", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

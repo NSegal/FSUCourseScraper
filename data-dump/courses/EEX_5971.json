@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A minimum of six semester hours are required.", 
+        "number": "5971", 
+        "subject": "EEX", 
+        "title": "Thesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

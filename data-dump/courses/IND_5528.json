@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A faculty review of all graduate student work after completion of the foundation course IND 5005, or on admittance to the program if the student has an undergraduate design degree. Continuation in the degree program is dependent upon a satisfactory grade in this review.", 
+        "number": "5528", 
+        "subject": "IND", 
+        "title": "Graduate Portfolio Review I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

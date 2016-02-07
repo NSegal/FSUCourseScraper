@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the fundamental concepts, theories, principles, and practices of administering, marketing, and budgeting for leisure service agencies.", 
+        "number": "4551", 
+        "subject": "LEI", 
+        "title": "Administration of Recreation, Tourism, and Event Organizations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LEI 3435.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

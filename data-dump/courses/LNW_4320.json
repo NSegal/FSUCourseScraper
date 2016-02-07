@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the translation, commentary, and interpretation of poetry selected from the Roman elegists, the lyric tradition, and Roman pastoral. May be repeated to a maximum of six semester hours.", 
+        "number": "4320", 
+        "subject": "LNW", 
+        "title": "Roman Lyric, Elegiac, and Pastoral Poetry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

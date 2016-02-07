@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This is a special topics course in computational science. May be repeated one time to a maximum of four semester hours, with a maximum of only one semester hour credit allowed to be applied to the Computational Science degree.", 
+        "number": "4932", 
+        "subject": "ISC", 
+        "title": "Senior Seminar in Scientifc Computing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing (ninety plus hours).", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00 - 2.00"
+    }
+}

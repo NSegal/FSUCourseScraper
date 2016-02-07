@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines controversies over the use, transformation, and destruction of nature, including political ecology.", 
+        "number": "5358", 
+        "subject": "GEO", 
+        "title": "Environmental Conflict and Economic Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

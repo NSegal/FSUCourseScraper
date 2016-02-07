@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to print and electronic sources of business information, covers effective methods of access and evaluation of business information, and helps students acquire problem-solving skills and collection-development techniques suitable in business and related disciplines.", 
+        "number": "5474", 
+        "subject": "LIS", 
+        "title": "Business Information Needs and Sources"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

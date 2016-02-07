@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses risk management and insurance from an international\u00a0 perspective.", 
+        "number": "5087", 
+        "subject": "RMI", 
+        "title": "International Risk Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: BUL 5810.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

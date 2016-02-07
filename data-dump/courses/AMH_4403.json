@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course views the South both as a distinct region and as an area gradually coming back into \"regular\" American life after the Civil War. The unique problems of adjusting to defeat, the revolution in the labor system, and troubled race relations are considered.", 
+        "number": "4403", 
+        "subject": "AMH", 
+        "title": "The South Since 1865"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

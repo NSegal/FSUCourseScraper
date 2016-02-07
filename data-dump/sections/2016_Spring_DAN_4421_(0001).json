@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (12995)", 
+    "basic": {
+        "class_num": "12995", 
+        "course": "4421", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "DAN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Kenneth McCullough"
+            ], 
+            "location": "MON 0006", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

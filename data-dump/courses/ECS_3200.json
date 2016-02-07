@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of economic development in the economies of East Asia. The course includes an economic analysis of the factors that contributed to the substantial growth in East Asia from 1960-1989 and the subsequent financial crisis that ensued in the 1990s.", 
+        "number": "3200", 
+        "subject": "ECS", 
+        "title": "Economics of Asia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

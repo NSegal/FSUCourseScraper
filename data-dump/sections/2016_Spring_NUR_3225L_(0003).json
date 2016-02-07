@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LAB (8229)", 
+    "basic": {
+        "class_num": "8229", 
+        "course": "3225L", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 7, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Stacy Wheeler"
+            ], 
+            "location": "CLO 0001", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-02-26", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 6, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Stacy Wheeler"
+            ], 
+            "location": "CLO 0001", 
+            "start_time": "06:30:00", 
+            "term_end": "2016-02-26", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses upon developing an understanding of the goals, objectives, and philosophy of leisure education. It also includes the methods and techniques utilized to educate for leisure as well as planning and implementing leisure education in a variety of settings.", 
+        "number": "4816", 
+        "subject": "LEI", 
+        "title": "Leisure Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

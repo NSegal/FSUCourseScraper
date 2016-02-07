@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on developing intermediate level skills necessary for management of golf operations. For professional golf management majors only.", 
+        "number": "3353", 
+        "subject": "HFT", 
+        "title": "Intermediate Professional Golf Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 2352.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

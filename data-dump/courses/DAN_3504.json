@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the technical aspects of production.", 
+        "number": "3504", 
+        "subject": "DAN", 
+        "title": "Dance Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

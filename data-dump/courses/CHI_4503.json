@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces a sketch of Chinese history. Students are taught to read the text in Chinese so they can expand their vocabulary to include those words necessary to understand Chinese culture and tradition.", 
+        "number": "4503", 
+        "subject": "CHI", 
+        "title": "Readings in Chinese History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

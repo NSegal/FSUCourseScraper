@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course applies the tools of modern economics (e.g., game theory, econometrics, lab and field experiments) to the traditional topics of human resource management. Topics cover the design of optimal incentive mechanisms, but also norms, teamwork, and peer relationships at the workplace.", 
+        "number": "6105", 
+        "subject": "ECP", 
+        "title": "Personnel Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

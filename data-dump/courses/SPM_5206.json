@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the relationship between sport, corporate sponsorship, and strategies for selling sponsorship packages.", 
+        "number": "5206", 
+        "subject": "SPM", 
+        "title": "Sport Sponsorship and Sales"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

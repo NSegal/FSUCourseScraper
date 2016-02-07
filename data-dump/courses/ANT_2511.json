@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces theory and principles of genetically based evolution. It reviews fossil evidence for human evolution and competing ideas about the specific pathways to modern humans. It emphasizes the genetic unity of humankind and the universal features that underlie individual and cultural diversity.", 
+        "number": "2511", 
+        "subject": "ANT", 
+        "title": "Introduction to Physical Anthropology and Prehistory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

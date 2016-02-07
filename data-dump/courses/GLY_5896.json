@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of special topics on demand in the theory and application of groundwater flow equations, rock-water reactions, and radioactive tracers. May be repeated to a maximum of six semester hours.", 
+        "number": "5896", 
+        "subject": "GLY", 
+        "title": "Advanced Topics in Hydrology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course continues the themes and concepts learned in ARE 5358 and ARE5046. The practice of teaching art is studied in combination with studio practice and methods within the context of environment and culture. The course requires extensive field components and prepares students for their student teaching experience.", 
+        "number": "5047", 
+        "subject": "ARE", 
+        "title": "Art Education Theory and Practice II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARE 5358 and ARE 5046. Corequisite: ARE 5940.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "6.00"
+    }
+}

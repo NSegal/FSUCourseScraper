@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes instruction and practice in solving advanced, calculus-based, multi-step problems in classical mechanics and E&M.", 
+        "number": "3045", 
+        "subject": "PHY", 
+        "title": "Physics Problem Solving"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 2048C and PHY 2049C. Corequisites: PHY 3101 and MAP 2302, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

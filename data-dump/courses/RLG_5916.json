@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies readings in Latin of selected religious texts. Topics vary by semester. A basic knowledge of Latin grammar is presumed.", 
+        "number": "5916", 
+        "subject": "RLG", 
+        "title": "Tutorial in Latin Religious Texts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

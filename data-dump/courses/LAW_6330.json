@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the rules of evidence developed by common law courts and legislatures; rules of evidence, federal and state; special emphasis on judicial notice, examination of witnesses, privilege and competency, constitutional provisions, relevancy, remote and prejudicial evidence, best evidence rule, opinion and expert testimony, hearsay rule and its exceptions, burden of proof and presumptions, judge and jury.", 
+        "number": "6330", 
+        "subject": "LAW", 
+        "title": "Evidence"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

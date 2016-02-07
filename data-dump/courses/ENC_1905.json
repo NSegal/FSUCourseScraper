@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an individualized program of instruction in writing, including CLAS skills. Open to students from all levels and major areas. May be repeated to a maximum of three semester hours.", 
+        "number": "1905", 
+        "subject": "ENC", 
+        "title": "Improving College-Level Writing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

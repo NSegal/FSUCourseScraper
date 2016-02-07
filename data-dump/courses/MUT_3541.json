@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the larger forms and procedures as expressed in the musical language of the Classic period.", 
+        "number": "3541", 
+        "subject": "MUT", 
+        "title": "Form and Style: Classic"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 2117 and MUT 2247.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

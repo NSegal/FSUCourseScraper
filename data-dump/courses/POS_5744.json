@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces and/or reviews the mathematical tools underlying most work in quantitative political science, including both statistical and formal modeling techniques. Topics include calculus, probability, linear algebra, and optimization theory.", 
+        "number": "5744", 
+        "subject": "POS", 
+        "title": "Fundamentals of Political Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers statistical techniques commonly employed in financial studies. Students examine actual applications within a variety of financial studies in order to learn how to conduct statistical tests and interpret their results, and also familiarize themselves with WRDS and a variety of databases in order to learn how to conduct research.", 
+        "number": "5840", 
+        "subject": "FIN", 
+        "title": "Applied Econometrics in Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIN 4504 or FIN 4424 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

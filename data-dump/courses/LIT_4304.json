@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory course treating the wide variety of literary manifestations of American popular culture as reflections and symptoms of the concerns of modern American society.", 
+        "number": "4304", 
+        "subject": "LIT", 
+        "title": "The Literary Expression of American Popular Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

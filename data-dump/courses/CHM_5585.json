@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a comprehensive survey of modern physical experimental techniques, including fundamental principles underlying the methodology and current applications of the techniques.", 
+        "number": "5585", 
+        "subject": "CHM", 
+        "title": "Experimental Methods in Physical Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

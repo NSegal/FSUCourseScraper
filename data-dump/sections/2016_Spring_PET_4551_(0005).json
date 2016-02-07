@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (8604)", 
+    "basic": {
+        "class_num": "8604", 
+        "course": "4551", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Jeremiah Campbell"
+            ], 
+            "location": "WJB 4015", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

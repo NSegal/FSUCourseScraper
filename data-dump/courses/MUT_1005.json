@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a practical, analytical, and performance-oriented application of the fundamental materials of music theory to song composition. The course culminates in the composition and performance of an original song, in correct musical notation. Not open to students who have successfully completed one or more semesters of music theory.", 
+        "number": "1005", 
+        "subject": "MUT", 
+        "title": "The Art of Songwriting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

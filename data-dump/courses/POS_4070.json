@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines how race and ethnicity are interwoven in American politics by viewing the role of African-American, Latino, and Asian-American voters, candidates, and public officials, and looking at the political attitudes of these groups.", 
+        "number": "4070", 
+        "subject": "POS", 
+        "title": "Race, Ethnicity, and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the principles, practices, and economics of insurance. The focus of the course is the relationship of fire, life and casualty contracts to business and contingency risks.", 
+        "number": "2662", 
+        "subject": "RMI", 
+        "title": "Introduction to Risk Management and Insurance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

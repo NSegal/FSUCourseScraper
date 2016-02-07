@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on techniques of using music in counseling juveniles and adults.", 
+        "number": "5411", 
+        "subject": "MUY", 
+        "title": "Music in Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

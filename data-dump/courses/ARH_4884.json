@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers Disney and his company in relation to art, society, and politics during the twentieth century. Special attention is paid to Disney's contributions in the realms of film, architecture, and the theme park. Through assigned readings and visual material such as cartoons, slides, and documentaries, the course assesses the relationship between high art and popular art and evaluates Disney's impact on the production and consumption of leisure.", 
+        "number": "4884", 
+        "subject": "ARH", 
+        "title": "Walt Disney and the American Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

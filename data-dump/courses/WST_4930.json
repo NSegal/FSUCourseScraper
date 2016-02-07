@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores specific topics or themes in gender/women's studies based on a feminist approach. A variety of topics from different fields of study are offered from an interdisciplinary perspective. Topics of material not covered in the regular curriculum are offered. May be repeated to a maximum of nine semester hours.", 
+        "number": "4930", 
+        "subject": "WST", 
+        "title": "Topics in Women's Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

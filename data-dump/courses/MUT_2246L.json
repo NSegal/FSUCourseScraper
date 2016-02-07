@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the development of skills in sight singing and ear training.", 
+        "number": "2246L", 
+        "subject": "MUT", 
+        "title": "Sight Singing and Ear Training III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 1112, MUT 1241L, and MUT 1242L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

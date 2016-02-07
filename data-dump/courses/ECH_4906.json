@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves the completion of an Honors Undergraduate Research Program (URP) for six hours with a minimum grade of \"C\". This program requires independent student research on a topic relevant to biomedical engineering and may be used to satisfy the Chemical Engineering Elective requirement. May be repeated to a maximum of six semester hours.", 
+        "number": "4906", 
+        "subject": "ECH", 
+        "title": "Honors URP in Chemical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "BME4403C,P,Y,**CHM4410,P,Y,**ECH3101,P,Y,**ECH3266,P,Y,**ECH3274L,C,Y,**ECH3418,C,Y,**ECH3854,P,Y,**ECH4267,C,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

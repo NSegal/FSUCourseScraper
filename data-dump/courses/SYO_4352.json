@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers a detailed examination of major events and processes of the 1960's, especially the civil rights struggle, the Vietnam War and antiwar movement, and the counter culture, from a historical-sociological perspective that features the interplay of social change and social movements.", 
+        "number": "4352", 
+        "subject": "SYO", 
+        "title": "The Sixties: Social Change, Social Movement"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

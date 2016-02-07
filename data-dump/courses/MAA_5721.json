@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers automatic differentiation, automatic integration, indefinite summation; applications to partial differential equations; advanced topics in complex analysis.", 
+        "number": "5721", 
+        "subject": "MAA", 
+        "title": "Computer Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAA 4227 or MAA 5307; and MAA 4402 or MAA 5406.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

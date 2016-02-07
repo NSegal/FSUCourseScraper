@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of Greco-Roman myth and legend, readings from illustrative ancient authors in English translation, approaches to the study of ancient myth.", 
+        "number": "3370", 
+        "subject": "CLT", 
+        "title": "Classical Mythology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

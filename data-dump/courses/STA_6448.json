@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers unbiased and locally most powerful tests (including the multiparameter case); envelope power function; best average power test; Bayes and empirical Bayes procedures; likelihood, quasi likelihood, and profile likelihood; order statistics and empirical distributions; general central limit theorems; variance stabilizing transformations; U-statistics; least squares, weighted least squares, and generalized least squares estimation; generalized estimating equations, asymptotic theory for BAN estimators; asymptotic theory for likelihood ratio, Wald, and score tests; log-linear models; asymptotics for linear inference; as well as robust statistical inference.", 
+        "number": "6448", 
+        "subject": "STA", 
+        "title": "Advanced Probability and Inference II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5326 and STA 5327.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_unique": "0001-DSC (10935)", 
+    "basic": {
+        "class_num": "10935", 
+        "course": "5737", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "POS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:30:00", 
+            "instructors": [
+                "William Berry"
+            ], 
+            "location": "BEL 0113", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "09:00:00", 
+            "instructors": [], 
+            "location": "HCB 0219", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

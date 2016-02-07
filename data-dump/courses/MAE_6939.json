@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines issues in mathematics teacher education at both the pre-service and in-service levels from theoretical and practical perspectives.", 
+        "number": "6939", 
+        "subject": "MAE", 
+        "title": "Seminar in Mathematics Teacher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an advanced undergraduate studio experience, where students direct their semester projects. This course is designed for students in the BFA program with a concentration in 2-D art. Each student is provided with opportunities to expand their understanding, production, and quality of their work through critique, group discussion, lectures, and presentations. May be repeated to a maximum of six semester hours.", 
+        "number": "4520", 
+        "subject": "ART", 
+        "title": "Advanced Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 2500C and ART 3522.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

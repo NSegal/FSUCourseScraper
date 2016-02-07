@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces modern biomedical research to the graduate students. The students gain general knowledge of the most common human diseases and their molecular pathology. In addition, the attempts to find the cure and the challenges that lay ahead are discussed.", 
+        "number": "5303", 
+        "subject": "GMS", 
+        "title": "Molecular Mechanism of Common Human Diseases"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Medical Science": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

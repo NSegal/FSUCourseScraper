@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a broad overview of pharmacology using a lifespan approach. Special consideration is given to professional and statutory issues related to prescribing. A broad overview of agents commonly used in primary care is provided, following a system-specific approach, with special attention paid to issues specific to the various stages of the lifespan. The course covers concepts of compliance and collaboration in the context of effecting positive changes for the patient. Emphasis is placed on facilitating pharmacologic management of patients for advanced practice nurses in independent and collaborative practice.", 
+        "number": "5172", 
+        "subject": "NGR", 
+        "title": "Pharmacology for Advanced Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on electromagnetic wave solutions to Maxwell's equations; reflection, transmission, dispersion, and absorption of electromagnetic waves; scalar and vector potentials; electromagnetic dipole radiation; electrodynamics; and relativity.", 
+        "number": "4324", 
+        "subject": "PHY", 
+        "title": "Electricity and Magnetism II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

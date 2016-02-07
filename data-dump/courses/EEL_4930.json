@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers special topics in electrical engineering with emphasis on recent developments. Topics and credit vary; consult the instructor. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4930", 
+        "subject": "EEL", 
+        "title": "Special Topics in Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

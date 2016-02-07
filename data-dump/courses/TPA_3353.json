@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth exploration of technology behind the realization of lighting and sound design, including understanding of the intermediate technologies associated with successful design.", 
+        "number": "3353", 
+        "subject": "TPA", 
+        "title": "Lighting Sound and Technology for the Theatre"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 2201.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

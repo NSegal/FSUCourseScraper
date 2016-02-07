@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the development of Arab education focusing on curriculum and problems of learning and instruction. Patterns of language teaching and multiculturalism are carefully described and analyzed.", 
+        "number": "5885", 
+        "subject": "EDF", 
+        "title": "Education in the Arab World"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

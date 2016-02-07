@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines engineering thermodynamics and physical chemistry of living systems, as well as biochemical pH monitoring and analysis.", 
+        "number": "5620", 
+        "subject": "BME", 
+        "title": "Biophysical Chemistry and Biothermodynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 4410, CHM 4411, and ECH 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

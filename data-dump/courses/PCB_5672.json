@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides instruction in evolution as a unifying framework for biological science. The course shows how two primary aspects of evolution, shared phylogenic history and the modification of populations and species, interact to produce the similarities and differences among all organisms.", 
+        "number": "5672", 
+        "subject": "PCB", 
+        "title": "Evolution"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PCB 3063 or equivalent undergraduate coursework.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

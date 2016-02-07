@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines perspectives that shape undergraduate and graduate college curricula. Students in this course analyze the structure and content of curriculum, how faculty teach, how students approach learning, and the dynamics of the curricular change process.", 
+        "number": "6206", 
+        "subject": "EDH", 
+        "title": "College Curriculum: Issues of Philosophy and Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDH 5051 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

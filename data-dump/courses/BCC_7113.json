@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This clerkship allows students the opportunity to participate in the management of patients with common clinical presentations encountered in the practice of hospital-based internal medicine.\u00a0 Each student has the opportunity to experience a broad range of illness severity ranging from acute care upon presentation to the emergency department to life-threatening processes in the intensive care unit.\u00a0 Students also have the opportunity to improve their basic clinical skills, learn new inpatient procedures and examination\u00a0 techniques, and assess the effectiveness of their clinical interventions.", 
+        "number": "7113", 
+        "subject": "BCC", 
+        "title": "Internal Medicine Sub-Internship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Directed Individual Study": "Optional", 
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Completion of 3rd year of medical school, including completion of M3 IM Clerkship.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

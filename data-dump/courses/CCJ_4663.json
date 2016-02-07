@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a flexible forum for the study and discussion of female crime and delinquency and gender issues in the criminal justice system.", 
+        "number": "4663", 
+        "subject": "CCJ", 
+        "title": "Women, Crime,and Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

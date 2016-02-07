@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course concentrates on language structure analysis, scansion, and scoring a text. Dialect training (spoken and transcription) is studied with emphasis on the in-depth process of learning dialects. Advanced work on vocal production gives the actor a fully expressive, skillful vocal instrument on stage. May be repeated to a maximum of six semester hours.", 
+        "number": "5716", 
+        "subject": "TPP", 
+        "title": "Voice II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

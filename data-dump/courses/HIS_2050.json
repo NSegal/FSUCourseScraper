@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students learn how to conduct primary source historical research, and turn their research findings into a high-quality paper based on professional history standards.", 
+        "number": "2050", 
+        "subject": "HIS", 
+        "title": "The Historian's Craft"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

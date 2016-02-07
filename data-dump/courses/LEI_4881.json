@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to assess, research, and evaluate the functions, participant interests, and behaviors in recreation, tourism and event organizations.", 
+        "number": "4881", 
+        "subject": "LEI", 
+        "title": "Assessment, Research and Evaluation in Recreation, Tourism, and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

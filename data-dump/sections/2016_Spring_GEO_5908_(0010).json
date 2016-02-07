@@ -1,0 +1,26 @@
+{
+    "_unique": "0010-DIS (3952)", 
+    "basic": {
+        "class_num": "3952", 
+        "course": "5908", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Closed", 
+        "subject": "GEO", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "James Elsner"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

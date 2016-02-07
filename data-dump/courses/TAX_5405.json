@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to develop a comprehensive mastery of concepts, problems, and authorities related to federal estate and gift taxation.", 
+        "number": "5405", 
+        "subject": "TAX", 
+        "title": "Seminar in Federal Taxation of Estates and Gifts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

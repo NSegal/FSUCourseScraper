@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents economic development as a process, description and\u00a0\u00a0\u00a0 analysis; alternative overall theories of development; particular problems and policy responses to them; strategic choices in development policy. Main focus on third world economies.", 
+        "number": "4013", 
+        "subject": "ECS", 
+        "title": "Economics of Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

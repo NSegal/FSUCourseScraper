@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to basic makeup for the stage. Emphasis is on modeling of the face with makeup.", 
+        "number": "2248", 
+        "subject": "TPA", 
+        "title": "Stage Makeup"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar on one or more main topics in contemporary analytic epistemology, such as skepticism, the definition of knowledge, theories of justification, the internalism/externalism debate, naturalized epistemology, virtue epistemology and contextualism.", 
+        "number": "6306", 
+        "subject": "PHI", 
+        "title": "Epistemology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

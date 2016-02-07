@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an investigation of non-traditional painting materials and approaches in the context of \"hybridization.\" Over the course of the semester, several topics in the use of new technologies of production are covered.", 
+        "number": "3561", 
+        "subject": "ART", 
+        "title": "Experimental Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

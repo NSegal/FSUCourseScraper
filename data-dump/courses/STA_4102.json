@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course utilizes Matlab and a programming language (C/Fortran). The course focuses on topics such as floating point arithmetic, numerical matrix analysis, multiple regression analysis, non-linear optimization, root finding, numerical integration, Monte-Carlo sampling, and surveys of density estimation.", 
+        "number": "4102", 
+        "subject": "STA", 
+        "title": "Computational Methods in Statistics I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: At least one statistics above STA 1013, some programming experience, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

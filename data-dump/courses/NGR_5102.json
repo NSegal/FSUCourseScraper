@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to assist the learner in analyzing and evaluating selected theories appropriate for advanced-practice nursing. Topics cover the relationship between theory, practice, and research; sources of theory for the discipline; contributions and philosophies of early nurse leaders and theorists, as well as those from other disciplines that are appropriate to health care; the development and evaluation of nursing knowledge and theory; as well as the analysis and application of theories and models in nursing practice, education, administration, and research.", 
+        "number": "5102", 
+        "subject": "NGR", 
+        "title": "Theoretical Constructs for Nursing Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the MSN or DNP program or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

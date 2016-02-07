@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces the student to anthropological approaches to the study of technology and examines the relationship between technology and social change throughout human prehistory and history. The course explores the systemic relationship between technological developments and economics, politics, and social structure both in the past and present, using technology as a reference point for discussing important themes of anthropological and archaeological interest.", 
+        "number": "5471", 
+        "subject": "ANG", 
+        "title": "Technology and Social Change"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

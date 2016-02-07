@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to theatre scenery and scenery painting practices. Students participate in at least one front-of-house assignment.", 
+        "number": "2323", 
+        "subject": "TPA", 
+        "title": "Technical Theatre Practices II: Scenery, Scene Painting, and Front-of-House"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

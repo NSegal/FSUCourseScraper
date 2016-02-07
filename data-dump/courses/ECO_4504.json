@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the logic of collective actions, principles of government expenditures, theory and practice in taxation, shifting and incidence of taxes.", 
+        "number": "4504", 
+        "subject": "ECO", 
+        "title": "Public Sector Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

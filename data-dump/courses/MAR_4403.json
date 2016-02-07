@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course exposes the student to concepts, activities, and analysis pertaining to sales and the management of the sales force.", 
+        "number": "4403", 
+        "subject": "MAR", 
+        "title": "Sales Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 2023 and MAR 3400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a close look at some of the crucial philosophical problems of the sciences as they have developed throughout history, from Aristotle through Galileo, Pasteur, and Einstein, including what methods count as scientific, along with a consideration of how science has changed the world and the role of values.", 
+        "number": "3400", 
+        "subject": "PHI", 
+        "title": "History and Philosophy of Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

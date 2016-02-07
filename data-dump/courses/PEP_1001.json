@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated during the same semester.", 
+        "number": "1001", 
+        "subject": "PEP", 
+        "title": "Contemporary Activities Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

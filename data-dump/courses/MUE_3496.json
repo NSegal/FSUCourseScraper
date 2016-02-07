@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required of all music education majors. May be repeated to a maximum of four semester hours.", 
+        "number": "3496", 
+        "subject": "MUE", 
+        "title": "Music Education Laboratory: Instrumental"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

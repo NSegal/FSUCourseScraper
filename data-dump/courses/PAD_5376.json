@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the fundamental concepts, theories, principles, and practices of terrorism and terrorist events.", 
+        "number": "5376", 
+        "subject": "PAD", 
+        "title": "Introduction to Terrorism: Preparedness and Response"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

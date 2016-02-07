@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course heightens students' awareness of their minds and bodies in relation to performing on a musical instrument, addressing such topics as muscle balancing, concentration, and performance anxiety.", 
+        "number": "4801", 
+        "subject": "MUS", 
+        "title": "Dynamic Integration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

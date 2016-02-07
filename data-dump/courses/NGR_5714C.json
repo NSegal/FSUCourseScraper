@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces the graduate nursing student to instructional design and strategies for both classroom and clinical Instruction.\u00a0 Emphasis is placed on the relationship among learning theories, the population of interest to be educated, the learning environment, and the evidence-based instruction strategies. The course provides teaching opportunities in the classroom and in nursing-education laboratory settings.", 
+        "number": "5714C", 
+        "subject": "NGR", 
+        "title": "Instruction in Nursing Education:\u00a0 Design and Strategies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 5713C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

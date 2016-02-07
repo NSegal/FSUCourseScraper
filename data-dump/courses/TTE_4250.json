@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers operation of transportation systems, monitoring, regulation, and control traffic.", 
+        "number": "4250", 
+        "subject": "TTE", 
+        "title": "Traffic Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TTE 3004.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

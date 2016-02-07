@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys and applies selected techniques for generating effective oral communication using standard American English. Course topics include listening and speaking skills, vocal health, interpersonal communication, public speaking, speaking apprehension, and dialect/accent differences. Speaking activities are designed to meet the student's professional goals.", 
+        "number": "2020", 
+        "subject": "SPA", 
+        "title": "Effective Oral Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

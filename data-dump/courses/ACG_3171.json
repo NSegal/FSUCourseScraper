@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an analysis of the assumptions and procedures underlying financial statements and the impact of accounting policies on the use of financial disclosures made by business enterprises. Credit not allowed for\u00a0 accounting majors.", 
+        "number": "3171", 
+        "subject": "ACG", 
+        "title": "Analysis of Financial Statement Presentation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 2021 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

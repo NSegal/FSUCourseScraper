@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first semester of a two-semester sequence for life-sciences students and is intended to provide a general knowledge of the basic concepts of physics relating to mechanics, energy, gravity, rotational motion, fluids, heat, thermodynamics, vibrations and waves. Physics is based on problem solving and this class involves both solving word problems and performing laboratory exercises. The level of mathematical skill necessary to complete this course is a strong proficiency with algebra (especially word problems) and trigonometric functions; calculus is not used", 
+        "number": "2053C", 
+        "subject": "PHY", 
+        "title": "College Physics A"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1114 and MAC 1140 with grades of \"C-\" or better or suitable mathematics placement examination score. Corequisite: PHY 2053L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

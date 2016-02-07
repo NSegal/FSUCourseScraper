@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed as a workshop for advanced actors who are preparing to enter graduate study programs or seek professional work in theatre with some attention paid to work in film and television. The course examines the audition process from the perspectives of both the aspiring performer and the prospective employer.", 
+        "number": "4224", 
+        "subject": "TPP", 
+        "title": "Audition Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

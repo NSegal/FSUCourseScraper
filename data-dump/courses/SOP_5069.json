@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of the content areas in social and personality psychology. The primary goals of the course are to acquaint students with the major topics, issues, and methods used in these fields and the importance of considering the joint influence of the person and situation on behavior.", 
+        "number": "5069", 
+        "subject": "SOP", 
+        "title": "Personality and Social Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the elements of form and composition. For composition majors only.", 
+        "number": "1211", 
+        "subject": "MUC", 
+        "title": "Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 1111, MUT 1241, and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

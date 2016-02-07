@@ -1,0 +1,37 @@
+{
+    "_unique": "0003-LAB (431)", 
+    "basic": {
+        "class_num": "431", 
+        "course": "4053L", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "BCH", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Brian Miller"
+            ], 
+            "location": "HTL 0407", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Brian Miller"
+            ], 
+            "location": "HTL 0407", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

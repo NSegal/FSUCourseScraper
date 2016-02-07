@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces future school librarians to the educational concepts and strategies necessary to function successfully in schools. It examines basic language and concepts of human growth and development, teaching and learning, classroom management, individual differences, standards and observations, as well as contemporary issues related to the field. Relationships with other members of the learning community are examined.", 
+        "number": "5025", 
+        "subject": "LIS", 
+        "title": "Educational Concepts and Strategies for School Librarians"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

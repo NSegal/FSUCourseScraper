@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of recent advances in earth sciences, for secondary school earth science teachers. May be repeated to a maximum of six semester hours. May not be taken for major credit in earth science.", 
+        "number": "5215", 
+        "subject": "ESC", 
+        "title": "Current Topics in Earth Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

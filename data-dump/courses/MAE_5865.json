@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the historical origins and evolution of key mathematics concepts. Topics are chosen from number systems, numeration, computation, number theory, algebra, geometry, analytic geometry, and calculus.", 
+        "number": "5865", 
+        "subject": "MAE", 
+        "title": "Using History in the Teaching of Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

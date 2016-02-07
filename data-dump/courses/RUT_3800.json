@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the essentials of translation techniques. Requires grade of B or better in RUS2220 (or equivalent) or permission of the instructor.", 
+        "number": "3800", 
+        "subject": "RUT", 
+        "title": "Introductory Russian to English Translation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

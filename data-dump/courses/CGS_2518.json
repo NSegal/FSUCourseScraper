@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth study of spreadsheets utilizing a problem-solving approach. Spreadsheet-based solutions are explored for common business tasks and problems. The course presents a thorough coverage of spreadsheet functions and tools, along with a deep understanding of their purpose in a business environment. The course is ideal for students with professional interests related to business and economics, as well as for students wishing to obtain a deeper understanding of spreadsheets in general.", 
+        "number": "2518", 
+        "subject": "CGS", 
+        "title": "Spreadsheets for Business Environments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

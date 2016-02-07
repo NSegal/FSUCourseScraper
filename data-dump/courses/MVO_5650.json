@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the principles and techniques of wind and percussion pedagogy.", 
+        "number": "5650", 
+        "subject": "MVO", 
+        "title": "Pedagogy for Winds and Percussion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

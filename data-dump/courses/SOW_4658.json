@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with knowledge and skills related to the theory, research, and implications of child and adolescent maltreatment for child development and psychopathology.", 
+        "number": "4658", 
+        "subject": "SOW", 
+        "title": "Mental Health and Child Welfare"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

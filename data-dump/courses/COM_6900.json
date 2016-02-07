@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Doctoral students only. To be taken in the semester preceding preliminary examination.", 
+        "number": "6900", 
+        "subject": "COM", 
+        "title": "Preparation for the Preliminary Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: School approval.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

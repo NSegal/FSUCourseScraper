@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the process of designing and conducting research projects on information systems phenomena. Students will gain an appreciation for the challenges and issues associated with the application of different research methodologies to MIS phenomena.", 
+        "number": "6885", 
+        "subject": "ISM", 
+        "title": "Doctoral Seminar on Applied MIS Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

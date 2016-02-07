@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of patent, trademark, and unfair competition law.", 
+        "number": "6750", 
+        "subject": "LAW", 
+        "title": "Patent Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

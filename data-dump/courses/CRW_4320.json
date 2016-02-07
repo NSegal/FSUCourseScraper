@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is for poets who approach excellence and aspire toward\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 publication. May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "4320", 
+        "subject": "CRW", 
+        "title": "Poetry Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory applies traditional underwater measurement methodology used for the examination of physical materials generated during the commission of a crime on or under the water, in order to produce information that enables the investigation and prosecution of criminal activity.\u00a0 Special emphasis is placed on evaluating the reliability of the underwater examination protocols. Additional equipment fee required.", 
+        "number": "5768L", 
+        "subject": "CJE", 
+        "title": "Underwater Crime Scene Methodology Laboratory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 5766 and CJE 5767. Corequisite: CJE 5768.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

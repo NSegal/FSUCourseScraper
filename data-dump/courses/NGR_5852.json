@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This capstone course allows students to synthesize and integrate concepts developed in previous graduate courses, with emphasis on evidence-based practice of selected issues. The course culminates in the utilization of evidence-based methods for the development of a scholarly paper, with recommendations for improving practice.", 
+        "number": "5852", 
+        "subject": "NGR", 
+        "title": "Evidence Based Practice Appraisal and Application"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "NGR6601C,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

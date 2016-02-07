@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a diachronic study of short works written in Old French. The goal is to introduce students to major genres and authors and to increase their reading knowledge of the language.", 
+        "number": "5756", 
+        "subject": "FRE", 
+        "title": "Readings in Old French Language"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 5755.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

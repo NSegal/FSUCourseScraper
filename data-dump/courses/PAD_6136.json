@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a seminar on management studies in state or local governments. It focuses on development of detailed plans for management study, methods, and source materials.", 
+        "number": "6136", 
+        "subject": "PAD", 
+        "title": "Seminar: Management Studies in Government"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5700 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

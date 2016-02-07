@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced exploration into the costume design process for the theatre, including researching, script analysis, design problems, and the costume designers role throughout the production process. May be repeated once when content varies to a maximum of six semester hours.", 
+        "number": "5042", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Design for the Stage"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

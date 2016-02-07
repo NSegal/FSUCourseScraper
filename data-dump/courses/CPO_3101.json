@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the historical development, political institutions, and philosophical underpinnings of the European Union. Topics include federalism, different notions of sovereignity, contemporary decision-making in the EU, assessments of democratic institutions in Europe, and prominent points of debate, such as monetary union, trade policies, environmental policies, and enlargement policies.", 
+        "number": "3101", 
+        "subject": "CPO", 
+        "title": "European Union"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

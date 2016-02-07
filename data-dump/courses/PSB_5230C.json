@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course gives beginning graduate students a foundation in neuroanatomy, which aids in understanding and conducting neuroscience research. Focus is on (1) the #-D anatomy of the brain and spinal cord in sheep, human, and rodent (2) the location of selected subregions, and (3) the fine structure (neuronal morphology and connections) of selected brain regions. Also included to a limited extent is neuroanatomy of other species (e.g. birds), neurotransmitter systems, principles of stereotaxic surgery, and evidence of function from experimental and clinical neuroanatomy. A sheep brain lab accompanies the course.", 
+        "number": "5230C", 
+        "subject": "PSB", 
+        "title": "Vertebrate Neuroanatomy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: PCB 5845 or instructor permission. Corequisite: PSB 5341 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

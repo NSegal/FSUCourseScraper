@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches principles of stop-motion and forward-animation. Through the creation of original animations, it also explores stop-motion cinematography, claymation armature and set-construction.", 
+        "number": "3725", 
+        "subject": "FIL", 
+        "title": "Stop Motion Animation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FIL 2043, FIL 2726 and major status.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

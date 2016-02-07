@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to several emerging technologies and briefly examines social, political, or legal issues surrounding the development and use of these technologies in various contexts. Students engage in structured learning activities to learn the basics about the use of selected technologies from set up to the completion of a basic project.", 
+        "number": "2097", 
+        "subject": "IFS", 
+        "title": "Exploring Emerging Technologies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

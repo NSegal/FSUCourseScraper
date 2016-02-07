@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second of a two-part sequence presenting an integrated treatment of traditional topics on thermodynamics, fluid mechanics and heat transfer. The essential role of each of these related elements and their connections is examined in the context of real-world systems.", 
+        "number": "3016C", 
+        "subject": "EML", 
+        "title": "Thermal-Fluids II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3015C. Corequisite: EML 4304L", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

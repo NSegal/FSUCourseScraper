@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a detailed review of the theoretical approaches, methods and statistical procedures used in the study of the interactions of people and the environment and the effects on human health status.\u00a0 Attention is given to both traditional and emerging concerns related to the environment and the behavioral and societal factors leading to the risk of health problems related to environmental factors.", 
+        "number": "5134", 
+        "subject": "SYD", 
+        "title": "Environmental Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

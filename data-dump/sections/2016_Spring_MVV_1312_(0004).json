@@ -1,0 +1,24 @@
+{
+    "_unique": "0004-PRF (12989)", 
+    "basic": {
+        "class_num": "12989", 
+        "course": "1312", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "MVV", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:50:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

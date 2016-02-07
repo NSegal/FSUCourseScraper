@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines international relationships between terrorists and governments in the context of global relations, politics, policy and finance. Terrorism is examined as a global phenomenon in order to understand how new policies are being developed to combat the threat it poses.", 
+        "number": "5837", 
+        "subject": "PAD", 
+        "title": "International Terrorism Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: PAD 5837.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

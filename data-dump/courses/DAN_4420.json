@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes the study of camera techniques for the screen and projection design for stage. The course is conducted in two units. The first unit explores concert dance documentation and videodance production. The second unit explores visual media design for the theater. These units may be taken concurrently in the same semester or sequentially for two credits each to a maximum of eight credit hours.", 
+        "number": "4420", 
+        "subject": "DAN", 
+        "title": "Dance and Video"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 4418.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

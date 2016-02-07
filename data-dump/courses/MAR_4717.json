@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course enables students to conduct strategic analyses relating to the marketing of sports. Topics include a wide range of issues within the realm of professional sports, in an interactive seminar and a workshop-like environment.", 
+        "number": "4717", 
+        "subject": "MAR", 
+        "title": "Strategic Sports Marketing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 3023 and MAR 3711.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

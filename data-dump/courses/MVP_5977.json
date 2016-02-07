@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is required of master's performance majors in lieu of thesis.", 
+        "number": "5977", 
+        "subject": "MVP", 
+        "title": "Master's Recital"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

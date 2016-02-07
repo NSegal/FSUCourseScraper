@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course combines formal lectures, student-teacher discussions, and student presentations to understand what we currently know and how we can increase our knowledge about the multifaceted (genetic, biological, physiological, psychological, sociocultural) mechanisms underlying pain.", 
+        "number": "4641", 
+        "subject": "PSB", 
+        "title": "Pain and Suffering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

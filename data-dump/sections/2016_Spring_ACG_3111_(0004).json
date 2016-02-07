@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (12606)", 
+    "basic": {
+        "class_num": "12606", 
+        "course": "3111", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "ACG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Charles Jordan"
+            ], 
+            "location": "HOL B0301", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

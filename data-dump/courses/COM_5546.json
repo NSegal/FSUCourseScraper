@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the relationships between politics in the US and internationally and the media. Considering the interdisciplinary nature of political communication, a field at the intersection of sociology, psychology, rhetoric, political science, and media effects, the overarching methodological approach may encompass qualitative and/or quantitative emphases. The course both outlines the main theoretical frameworks used in the scholarship, as well as addressing methodological concerns and current topical issues.", 
+        "number": "5546", 
+        "subject": "COM", 
+        "title": "Political Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

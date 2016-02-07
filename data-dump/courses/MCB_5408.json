@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces graduate level general microbiology, including material on prokaryotic cell structure and function, the molecular biology and genetics of microorganisms including viruses, and biotechological applications of microbial physiology.", 
+        "number": "5408", 
+        "subject": "MCB", 
+        "title": "Prokaryotic Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PCB 3063 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: legal ideas and frameworks conditioning the administrator, liability, disclosing information, rulemaking, policy change, discretion, investigation, and adjudication. Model State Administrative Procedure Act.", 
+        "number": "5605", 
+        "subject": "PAD", 
+        "title": "Administrative Law"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

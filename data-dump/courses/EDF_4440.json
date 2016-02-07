@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course prepares teachers for activities in testing, grading, test construction, and the interpretation and use of test scores.", 
+        "number": "4440", 
+        "subject": "EDF", 
+        "title": "Measurement and Evaluation in the Classroom"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

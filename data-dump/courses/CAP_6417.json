@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers theoretical foundations of computer vision. By formulating vision as an inference process, approaches to vision are presented and analyzed systematically. Topics include Marr's computational vision paradigm, regularization theory, Bayesian inference framework, pattern theory, and visual learning theories.", 
+        "number": "6417", 
+        "subject": "CAP", 
+        "title": "Theoretical Foundations of Computer Vision"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CAP 5415.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

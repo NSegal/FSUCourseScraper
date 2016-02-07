@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This emphasizes speaking and listening, although an acquisition of reading and writing skills is also an integral part of the course. Some fundamental syntactic constructions introduced are: word order, nominal classifiers, verb classification, and formation of complex sentences. May not be taken by native speakers. May not be taken concurrently with CHI 1121 and/or 2220.", 
+        "number": "1120", 
+        "subject": "CHI", 
+        "title": "Elementary Chinese I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies all phases of operatic production, with emphasis on and participation in staged operatic excerpts. May be repeated to a maximum of four semester hours.", 
+        "number": "3503", 
+        "subject": "MUO", 
+        "title": "Opera Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

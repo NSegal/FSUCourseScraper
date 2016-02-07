@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the study and practice of selected works of dance repertory. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "3654", 
+        "subject": "DAA", 
+        "title": "Choreography-Repertory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

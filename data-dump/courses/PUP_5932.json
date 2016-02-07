@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Topics vary.", 
+        "number": "5932", 
+        "subject": "PUP", 
+        "title": "Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

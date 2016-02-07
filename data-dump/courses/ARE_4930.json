@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar style course introduces students to arts administration by exploring basic administration and management principles as they relate to the visual and performing arts. The course also features off-campus site visits to local arts and culture organizations and applied hands-on interactions. May be repeated to a maximum of six semester hours.", 
+        "number": "4930", 
+        "subject": "ARE", 
+        "title": "Introduction to Arts Administration"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

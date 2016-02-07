@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a comprehensive review of laws, rules, and regulations affecting both the advertising and broadcast industries as well as other forms of mass media. Topics include libel, slander, invasion of privacy, gathering of information, and copyright laws.", 
+        "number": "3352", 
+        "subject": "ADV", 
+        "title": "Mass Media Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

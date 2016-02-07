@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on many topics including autoregressive, moving average and mixed models, autocovariance and autocorrelation functions, model identification, forecasting techniques, seasonal model identification, estimation and forecasting, intervention and transfer function model identification, estimation and forecasting. Subsequent credit for STA 5856 is not\u00a0 permitted.", 
+        "number": "4853", 
+        "subject": "STA", 
+        "title": "Time Series and Forecasting Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: QMB 3200 or equivalent, STA 2122, STA 2171, STA 3032, and knowledge of PCs or UNIX.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

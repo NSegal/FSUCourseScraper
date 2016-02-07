@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the electrostatic field-Gauss's law; boundary conditions; capacitance; Laplace's and Poisson's equations; energy, forces, and torques. The steady electric current. The magnetostatic field-vector potential; Amper's and Biot-Stavart laws; inductance, energy, forces and torques. Quasistatic fields; electromagnetic induction.", 
+        "number": "3472", 
+        "subject": "EEL", 
+        "title": "Electromagnetic Fields I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3112, MAP 2302 or MAP 3305, MAS 3105 or MAP 3306, and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

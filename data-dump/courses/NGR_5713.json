@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This initial course in the Nursing Educator sequence introduces the graduate nursing student to the historical and theoretical foundation of nursing\u00a0 education in relation to present day curriculum development in nursing education. In addition, the roles of the nurse educator in academia versus the nurse educator in staff development and patient/community education is explored. Prerequisite: Admission to College of Nursing Graduate Program.", 
+        "number": "5713", 
+        "subject": "NGR", 
+        "title": "Curriculum Development in Nursing Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the graduate program.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

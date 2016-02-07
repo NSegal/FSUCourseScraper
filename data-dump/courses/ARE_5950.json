@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course enables students to engage in professional development and critical reflection assignments, document their progress in mastering the twelve Florida Educator Accomplished Practices (FEAP) by preparing professional portfolios for both the elementary and secondary art teaching, modify curricula for diverse learners and contexts, and participate in online peer discussions. The class meets on campus during the first and eighth semester weeks.", 
+        "number": "5950", 
+        "subject": "ARE", 
+        "title": "Seminar and Professional Practices in Art Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ARE 5358 and ARE 5047. Corequisite: ARE 5940.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

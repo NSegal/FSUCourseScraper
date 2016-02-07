@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Exposure is provided to many common pediatric skin diseases and some less common and rarer congenital dermatoses.", 
+        "number": "7500", 
+        "subject": "MDE", 
+        "title": "Pediatric Dermatology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Satisfactory completion of the FSU College of Medicine third year curriculum.", 
+        "grading_basis": "Medical School Grades", 
+        "units": "2.00 - 4.00"
+    }
+}

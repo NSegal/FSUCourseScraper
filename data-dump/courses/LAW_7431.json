@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on donative arrangements for the disposition of property, including the income, estate, and gift tax consequences, and the effect of the law of future interests.", 
+        "number": "7431", 
+        "subject": "LAW", 
+        "title": "Estate Planning"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

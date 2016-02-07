@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the role and status of women in ancient Greek society, as depicted in its literature, art, law, and religion.", 
+        "number": "3501", 
+        "subject": "CLA", 
+        "title": "Gender and Society in Ancient Greece"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

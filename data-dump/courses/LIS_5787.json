@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces students to the basic theories and principles of metadata design and creation using ER modeling, XML and RDF. The course reviews major conceptual frameworks, ontologies and metadata schemas used in libraries, archives, museums, and digital data repositories. Real-life scenarios and collections are used to highlight and gain understanding of the issues related to metadata creation, aggregation, and reuse.", 
+        "number": "5787", 
+        "subject": "LIS", 
+        "title": "Fundamentals of Metadata Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5703.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

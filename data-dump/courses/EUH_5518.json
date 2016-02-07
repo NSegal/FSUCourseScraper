@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of England and Scotland under their joint sovereigns, the Stuart kings, from 1603 to 1714, as well as the parallel period of English rule in Ireland and the culture of the period.", 
+        "number": "5518", 
+        "subject": "EUH", 
+        "title": "Stuart England"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

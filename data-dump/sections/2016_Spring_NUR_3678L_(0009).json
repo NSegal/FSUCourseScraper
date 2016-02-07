@@ -1,0 +1,37 @@
+{
+    "_unique": "0009-LAB (8247)", 
+    "basic": {
+        "class_num": "8247", 
+        "course": "3678L", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Laurie Abbott"
+            ], 
+            "location": "CLI 0008", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-02-29"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:30:00", 
+            "instructors": [
+                "Laurie Abbott"
+            ], 
+            "location": "CLI 0008", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-02-29"
+        }
+    ]
+}

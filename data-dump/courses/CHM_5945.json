@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is preparation for supervised teaching. Topics include safety, how to conduct classes and laboratories, exam construction, ethics of teaching, legal implications, written and oral communication of scientific material.", 
+        "number": "5945", 
+        "subject": "CHM", 
+        "title": "Seminar on Chemical Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Limited to chemistry graduate students new to Florida State University.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a thorough one-dimensional treatment of compressible flows and applications to nozzle, diffuser, sound waves, tunnel, and shock tube flows.", 
+        "number": "4711", 
+        "subject": "EML", 
+        "title": "Introduction to Gas Dynamics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 3016C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

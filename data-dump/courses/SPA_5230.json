@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers diagnostic and therapeutic procedures employed in the management of speech and language problems of neurologically impaired\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 persons.", 
+        "number": "5230", 
+        "subject": "SPA", 
+        "title": "Motor Speech Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

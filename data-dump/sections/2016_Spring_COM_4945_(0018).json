@@ -1,0 +1,26 @@
+{
+    "_unique": "0018-INT (14887)", 
+    "basic": {
+        "class_num": "14887", 
+        "course": "4945", 
+        "season": "Spring", 
+        "solus_id": "0018", 
+        "status": "Closed", 
+        "subject": "COM", 
+        "type": "INT", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "J Rayburn"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

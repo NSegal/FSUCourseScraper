@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses competitive general equilibrium (theory and applications); fundamental results of welfare economics; market failure (externalities and public goods); game and decision theory; the economics of uncertainty (theory and applications).", 
+        "number": "6936", 
+        "subject": "ECO", 
+        "title": "Topics in Microeconomics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 5115, ECO 5116, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students discuss staff organization, functions, and processes, analyze counseling responsibilities and methods, and apply leadership and problem solving principles to a complex case study/simulation.", 
+        "number": "4301", 
+        "subject": "MSL", 
+        "title": "Leadership and Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MSL 3202 or instructor permission. Corequisite: MSL 4301L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses principles and applications of spectroscopic methods to polymers and biological macromolecules including electronic, vibrational electron spin and nuclear magnetic resonance spectroscopy; and spectroscopic studies of dynamic systems. Cross-listed under Biochemistry.", 
+        "number": "5507", 
+        "subject": "CHM", 
+        "title": "Physical Chemistry of Macromolecules II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

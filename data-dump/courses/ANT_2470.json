@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the topic of globalization as conceptualized by cultural anthropologists, examining the spread of capitalist economic principles into cultures in which other logics regulate economic and social life. The course draws on ethnography, political economy, public health, and ecology to explore how populations resist, appropriate and exploit the perils and opportunities of globalization.", 
+        "number": "2470", 
+        "subject": "ANT", 
+        "title": "The Anthropology of Globalization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

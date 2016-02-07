@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the strategies, theories, and concepts of the supply chain activities in both the business and the international markets.", 
+        "number": "6979", 
+        "subject": "MAR", 
+        "title": "Seminar in Marketing: Research Methodology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

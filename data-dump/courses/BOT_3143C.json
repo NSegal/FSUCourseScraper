@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to plant taxonomy with emphasis on laboratory and field study. Orientation to principles of identification, classification, and rules of botanical nomenclature.", 
+        "number": "3143C", 
+        "subject": "BOT", 
+        "title": "Field Botany"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

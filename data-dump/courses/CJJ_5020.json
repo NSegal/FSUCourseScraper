@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the processing of offenders through the juvenile justice system. It investigates the special forms of justice applied to non-adults by arrest, detention, adjudication and juvenile corrections.", 
+        "number": "5020", 
+        "subject": "CJJ", 
+        "title": "Juvenile Justice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

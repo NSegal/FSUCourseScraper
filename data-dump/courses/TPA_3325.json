@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course refines the skills and techniques necessary for proficiency at the intermediate level of technical production, including the construction of scenery for the stage, rigging, standard technical theatre vocabulary, and safe work habits. Specific assignments depend upon the School of Theatre production season. May be repeated to a maximum of nine semester hours.", 
+        "number": "3325", 
+        "subject": "TPA", 
+        "title": "Intermediate Technical Theatre Practices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 2323.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course investigates the effects of urban stormwater runoff on surface and ground water resources. Topics include legal and regulatory requirements, methods of engineering analysis and design of storm water systems.", 
+        "number": "5305", 
+        "subject": "CWR", 
+        "title": "Urban Stormwater Runoff"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CWR 3201. Corequisite: CWR 4101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

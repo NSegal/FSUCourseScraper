@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the following topics utilizing the SAS software: ANOVA, linear modeling, logistic regression, bootstrap sampling, simulation using the data step, and some additional analytic topics.", 
+        "number": "3064", 
+        "subject": "STA", 
+        "title": "Introduction to Statistical Modeling with SAS"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 2122 and STA 3024.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

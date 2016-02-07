@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies current issues in clinical psychology. May be repeated to a maximum of six semester hours.", 
+        "number": "4343", 
+        "subject": "CLP", 
+        "title": "Current Issues in Clinical Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012 and junior or senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

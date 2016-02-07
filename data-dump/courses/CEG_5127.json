@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on analysis of materials used for highway and runway pavements; design of rigid and flexible pavements and sub-bases for highways and airports; geotechnical considerations.", 
+        "number": "5127", 
+        "subject": "CEG", 
+        "title": "Highway and Airport Pavement Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 4801.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

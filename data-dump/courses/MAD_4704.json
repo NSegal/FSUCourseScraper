@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers approximation theory, numerical solution of nonlinear systems, boundary value problems and initial value problems for ordinary differential equations.", 
+        "number": "4704", 
+        "subject": "MAD", 
+        "title": "Numerical Analysis II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 3703 and MAP 2302.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

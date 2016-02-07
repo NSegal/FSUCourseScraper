@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies biological and sociocultural determinants of sexual development particularly as it relates to sexual orientation, sexual preference, and purported gender differences in personality, cognition, and mental disorders.", 
+        "number": "4731", 
+        "subject": "PSB", 
+        "title": "Biopsychology of Sexual Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and PSB 2000, or PSB 3004C, or three semester hours in biology.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

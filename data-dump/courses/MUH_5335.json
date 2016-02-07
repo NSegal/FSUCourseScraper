@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Renaissance.", 
+        "number": "5335", 
+        "subject": "MUH", 
+        "title": "History of Music: Renaissance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

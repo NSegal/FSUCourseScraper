@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship in an approved organization provides practical experience in a number of fields, in which the student may apply interdisciplinary knowledge of the region and specific disciplinary training.", 
+        "number": "4940", 
+        "subject": "LAS", 
+        "title": "Internship in Latin American and Caribbean Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Completion of sixty semester hours, completion of fifteen semester hours in LACS, an overall or LACS GPA of 3.0, advisor permission one semester in advance.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

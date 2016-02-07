@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers how formal institutional arrangements and constraints innfluence and structure policy choices and administrative decisions. It exa mines the consequences of organizational arrangements and policy instrumenits for policy and management.", 
+        "number": "6108", 
+        "subject": "PAD", 
+        "title": "Institutions, Policy & Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5053.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

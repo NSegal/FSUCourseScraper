@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students engage in appropriately directed patient history and physical exams, physical diagnoses, medical decision making, acquisitionof procedural skills, and exposure to a broad base of undifferentiated patients with a wide variety of personal, social, and cultural issues that influence patient care. This environment places a premium on physical exam skills, diagnostic reasoning, recognition of life-threatening situations, and\u00a0 initiation of resuscitation in a wide range of diseases with varying degrees of urgency. Students are taught to appreciate the dynamic state of emergency medicine knowledge, the necessity for maintaining currency, and the means to do it.", 
+        "number": "7180", 
+        "subject": "BCC", 
+        "title": "Emergency Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of three years of medical school.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

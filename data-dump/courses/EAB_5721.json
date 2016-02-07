@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers two content areas: applications of behavior principles in education and in business and organizational settings. Methods of improving performance using behavioral goals and objectives, performance feedback and reinforcing consequences are stressed.", 
+        "number": "5721", 
+        "subject": "EAB", 
+        "title": "Behavioral Analysis in Education and Performance Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

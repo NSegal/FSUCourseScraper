@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2424)", 
+    "basic": {
+        "class_num": "2424", 
+        "course": "3005", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "DIE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "08:50:00", 
+            "instructors": [
+                "Christine Stapell"
+            ], 
+            "location": "SAN 0209", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the historical development of work and employment relations in the United States. Topics covered include some of the persistent challenges of work, such as the balance between work and family life; inequalities in wages and employment; the struggle to find meaningful work; and the opportunities and challenges presented by the new economy, marked by a combination of high-end professional and technical occupations and low-wage service jobs.", 
+        "number": "4370", 
+        "subject": "SYO", 
+        "title": "The Changing Workplace"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

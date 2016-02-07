@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables graduate students to develop an understanding of psychological models and how they apply to teaching and learning of school\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 science.", 
+        "number": "6345", 
+        "subject": "SCE", 
+        "title": "Teaching and Learning Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

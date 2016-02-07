@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide an introduction to the economic and managerial aspects of American theatre especially as they apply to nonprofit and professional theatre.", 
+        "number": "4400", 
+        "subject": "TPA", 
+        "title": "Theatre Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

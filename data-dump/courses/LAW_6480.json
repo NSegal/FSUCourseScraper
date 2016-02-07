@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of natural resources law, emphasizing water resources management and pollution control, wetlands regulation, and wildlife law. May be repeated up to a maximum of five semester hours.", 
+        "number": "6480", 
+        "subject": "LAW", 
+        "title": "Natural Resources Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

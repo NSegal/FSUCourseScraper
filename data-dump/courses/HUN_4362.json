@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on what makes a food or a food product functional, chemistry, bioavailability, and health benefits of various functional foods.", 
+        "number": "4362", 
+        "subject": "HUN", 
+        "title": "Functional Foods and Human Health"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HUN 1201.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

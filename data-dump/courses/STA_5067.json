@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents additional methods\u00a0 for managing and analyzing data with the SAS system. It covers as many of the following topics as time permits: Advanced Data step Topics, Manipulation of Data with Proc SQL, the SAS Macro Facility, and Analyses with Proc IML.", 
+        "number": "5067", 
+        "subject": "STA", 
+        "title": "Advanced Data Management and Analysis with SASS"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5066 or permission of instructor.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

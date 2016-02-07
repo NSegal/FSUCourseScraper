@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, seminar topics vary from semester to semester. Past topics have included paleodemography, quantitative methods, research design, and others. May be repeated to a maximum of six semester hours.", 
+        "number": "5115", 
+        "subject": "ANG", 
+        "title": "Seminar in Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

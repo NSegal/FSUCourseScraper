@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines global climate system from radioactive and surface exchange processes. Their role in climate dynamics and climatic change is considered.", 
+        "number": "5105", 
+        "subject": "MET", 
+        "title": "Global Climate System"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Basic climatology course or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

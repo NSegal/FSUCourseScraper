@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the application of genetic methods to human and animal behavior. Genetic methods discussed include twin and adoption as well as molecular studies. Behaviors to be examined include personality, intelligence, and psychopathology.", 
+        "number": "4304", 
+        "subject": "CBH", 
+        "title": "Behavioral Genetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and STA 2122 or STA 2171 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

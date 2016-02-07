@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces the general concepts of chemical engineering. In this course, the applications of mass and energy balances are extended to include reactive systems, and systems undergoing phase changes as well as transient processes. Computational tools such as Excel and MATLAB are used to demonstrate the use of a structured programming language for material and energy balances.", 
+        "number": "3024", 
+        "subject": "ECH", 
+        "title": "Mass and Energy Balances II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequistes: CHM 2210, MAC 2313, and PHY 2048C; as well as ECH 3023 with a grade \"C\" or higher. Corequisites: BSC 2010, ECH 3301, and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

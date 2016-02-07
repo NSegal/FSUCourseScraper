@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the major issues, influences, and trends considered in the behavioral analysis of criminal and delinquent activity. Course material includes explanation and analysis of theory as it applies to human behavior. A theoretical tool is offered as a method of understanding the interaction of the individual with the environment.", 
+        "number": "3612", 
+        "subject": "CCJ", 
+        "title": "Behavioral Science in Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

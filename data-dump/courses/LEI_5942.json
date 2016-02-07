@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with an opportunity to apply knowledge, skills, and attitudes developed during their academic preparation. It is also aimed at helping students gain valuable experience in management of events. Students complete a minimum of 150 hours over an extended period of time, but not less than twelve weeks.", 
+        "number": "5942", 
+        "subject": "LEI", 
+        "title": "Practicum in Events Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LEI 5316, LEI 5317, and LEI 5563.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

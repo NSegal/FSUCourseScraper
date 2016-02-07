@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare non-ESOL teachers to instruct English language learners in public school content areas (i.e., science, math, social studies) and non-content areas (i.e., art, physical education). Emphasis is on language-sensitive instructional planning and delivery, adaptation of instructional materials for enhanced comprehension, testing and placement of students, and cross-cultural awareness. It satisfies the teacher certification requirements for content area teachers. It is not part of the ESOL Endorsement required of primary language providers.", 
+        "number": "5325", 
+        "subject": "TSL", 
+        "title": "English to Speakers of Other Languages (ESOL) Instruction in the Content Areas"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

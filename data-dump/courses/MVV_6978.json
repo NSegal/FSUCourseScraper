@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on exploration, selection, and preparation of voice recital repertoire. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6978", 
+        "subject": "MVV", 
+        "title": "Doctoral Voice Recital and Repertoire Coaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Permission of voice faculty by successful audition into MVO 6065 or MVV 6461r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

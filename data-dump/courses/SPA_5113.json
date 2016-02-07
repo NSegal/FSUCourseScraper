@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on learning to phonetically transcribe spoken language. Students learn and frequently practice transcription of vowels and consonants at the levels of isolation, syllables, words, phrases, and connected speech. The course also incorporates relevant material covering phonetics as a science, the similarities and differences between spelling and sound, anatomy and physiology of the speech mechanism, clinical phonetics, and dialectal variation in spoken language.", 
+        "number": "5113", 
+        "subject": "SPA", 
+        "title": "Clinical Phonetics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a lecture-laboratory on the structure and dynamics of middle-latitude atmospheric systems.", 
+        "number": "5510C", 
+        "subject": "MET", 
+        "title": "Midlatitude Synoptic Scale Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4501C or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

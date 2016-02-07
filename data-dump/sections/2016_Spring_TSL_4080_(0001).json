@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (10054)", 
+    "basic": {
+        "class_num": "10054", 
+        "course": "4080", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "TSL", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Laura Ballard"
+            ], 
+            "location": "STB 3305", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

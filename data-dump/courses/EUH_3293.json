@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses film in combination with texts to introduce questions about some of the main themes in 20th-century European history. The course uses film to explore the relationship between modernity and 20th-century Europe, particularly the changing relationship of individuals to state and society, and attitudes about ethnicity, class, and gender. Topics include the possibilities and limitations of the individual in mass society, paying particular attention to themes of heroism, depotism, war, and lifestyle values.", 
+        "number": "3293", 
+        "subject": "EUH", 
+        "title": "Twentieth-Century Europe Through Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

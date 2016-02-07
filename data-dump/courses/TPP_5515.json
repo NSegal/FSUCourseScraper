@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores and expands the actor's movement choices and his ability to express himself non-verbally. The course emphasizes developing a strong, expressive, dramatic imagination. May be repeated to a maximum of six semester hours.", 
+        "number": "5515", 
+        "subject": "TPP", 
+        "title": "Movement I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

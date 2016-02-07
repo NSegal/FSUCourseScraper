@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the traditions and culture of Islamic peoples as reflected in the archaeological record. Issues related to the impact of religion on daily life, nationalism, and the development of archaeology in the Middle East are considered.", 
+        "number": "4175", 
+        "subject": "ANT", 
+        "title": "Archaeology of the Islamic World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

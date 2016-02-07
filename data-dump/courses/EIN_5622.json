@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as computer-aided process planning, programmable automation, CAD/CAM, Numerical Control (NC), and Computer Numerical Control (CNC).", 
+        "number": "5622", 
+        "subject": "EIN", 
+        "title": "Computer-aided Manufacturing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 3390C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

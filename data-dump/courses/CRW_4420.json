@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to write, revise, and prepare for submission a one to three-act play; playing time: not less than one hour. May be repeated to a maximum of twenty-four semester hours.", 
+        "number": "4420", 
+        "subject": "CRW", 
+        "title": "Drama Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

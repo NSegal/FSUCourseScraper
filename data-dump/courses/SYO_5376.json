@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a political-economic analysis of the organization of work, production and reproduction of labor, and linkages between work in the market and work in the home relative to gender. Topics include occupational sex segregation, segmented labor markets, dialectics of paid and unpaid labor, comparable worth, bureaucracy, emotional work, domestic labor, and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 strategies for change.", 
+        "number": "5376", 
+        "subject": "SYO", 
+        "title": "Sociology of Gender and Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

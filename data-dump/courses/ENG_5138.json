@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses various approaches to the study of film, including but not limited to filmic genres, and other issues in film theory and criticism.", 
+        "number": "5138", 
+        "subject": "ENG", 
+        "title": "Studies in Film"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

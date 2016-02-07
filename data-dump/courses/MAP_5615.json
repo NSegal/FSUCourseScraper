@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines how the theory of Monte Carlo Methods is developed in the context of topics selected from computational finance, such as pricing exotic derivatives, American option pricing, and estimating sensitivities. The theory includes pseudorandom numbers, generation of random variables, variance reduction techniques, low-discrepancy sequences, and randomized\u00a0\u00a0\u00a0 quasi-Monte Carlo methods.", 
+        "number": "5615", 
+        "subject": "MAP", 
+        "title": "Monte Carlo Methods in Financial Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 5601 and competence in a programming language for scientific computing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

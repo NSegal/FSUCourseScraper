@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of the applicability of modeling approaches within marketing contexts. Reviews of the modeling based literature forms the cornerstone of the class, with extensive discussion and analysis. Doctoral standing and consent of instructor are required for admission.", 
+        "number": "6665", 
+        "subject": "MAR", 
+        "title": "Seminar in Marketing Models"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

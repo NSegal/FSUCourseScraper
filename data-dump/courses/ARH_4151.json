@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines Roman art and archaeology from Augustus through the Antonines with a survey of the major artistic accomplishments and the archaeological remains.", 
+        "number": "4151", 
+        "subject": "ARH", 
+        "title": "Art and Archaeology of the Early Roman Empire"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

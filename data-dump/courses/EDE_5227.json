@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course analyzes the reasons for integrating the curriculum and teaches how to implement an integrated approach in the elementary and middle schools.", 
+        "number": "5227", 
+        "subject": "EDE", 
+        "title": "The Integrated Curriculum in the Elementary and Middle School"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

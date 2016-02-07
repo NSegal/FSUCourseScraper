@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers techniques of definition and logical argument, graphs and diagraphs, relations, Boolean algebra, and applications.", 
+        "number": "3105", 
+        "subject": "MAD", 
+        "title": "Discrete Mathematics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 2104 or MGF 3301. Recommended prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

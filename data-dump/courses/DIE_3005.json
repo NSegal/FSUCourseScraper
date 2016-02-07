@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to dietetics, the professional opportunities for registered dietitians, the importance of public policy, and the role of the American Dietetic Association in dietetics education and practice.", 
+        "number": "3005", 
+        "subject": "DIE", 
+        "title": "Introduction to Dietetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

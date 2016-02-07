@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the laboratory application of MUS 5345. May be repeated to a maximum of six semester hours.", 
+        "number": "5346", 
+        "subject": "MUS", 
+        "title": "Laboratory for Music Instrument Digital Interface"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MUS 5345.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

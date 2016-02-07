@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the behavior and design of prestressed concrete structures. Topics include the design of prestressed concrete beams for flexure and shear, the design of slabs, pretesting losses, serviceability of prestressed concrete members, and precast members.", 
+        "number": "4711", 
+        "subject": "CES", 
+        "title": "Prestressed Concrete"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 3100 and EGN 3331. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

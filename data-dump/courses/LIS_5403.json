@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides education and information relevant to real life and dynamic organizational events confronting human resource (HR) managers working in a 21st century information provision environment (IPE). The overall intent of the course is to facilitate optimal human resource management in the IPE.", 
+        "number": "5403", 
+        "subject": "LIS", 
+        "title": "Human Resource Management for Information Professionals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5408.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

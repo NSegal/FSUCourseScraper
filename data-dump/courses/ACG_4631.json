@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the student to fundamental concepts of auditing and explains the various stages of the audit process. The course familiarizes the student with such concepts as audit standards and auditor responsibilities, audit risk, materiality, and audit evidence. How to audit specific business cycles and accounts are identified and how to prepare audit reports are covered. Internal control concepts are also introduced to the student.", 
+        "number": "4631", 
+        "subject": "ACG", 
+        "title": "Auditing Theory for Non-Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 3171.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

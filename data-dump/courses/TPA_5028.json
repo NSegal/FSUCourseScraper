@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of intensive study in research, process, script interpretation and design presentation. Emphasis is placed on problem solving and professional conduct.", 
+        "number": "5028", 
+        "subject": "TPA", 
+        "title": "Lighting Design IV"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "TPA5027,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

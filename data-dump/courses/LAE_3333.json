@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the attitudes, materials, and procedures for teaching written composition, language, and grammar; planning instruction and evaluating student writing.", 
+        "number": "3333", 
+        "subject": "LAE", 
+        "title": "Teaching Writing and Language in High Schools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the English Education program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

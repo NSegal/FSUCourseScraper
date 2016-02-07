@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the study of the processes of pollutant chemicals transformation in and transport between air, water, and soil or sediments. Use and development of predictive mathematical models for the remediation of existing contaminated sites or prevention of future contamination from new sources.", 
+        "number": "5055", 
+        "subject": "ENV", 
+        "title": "Chemical Fate and Transport in the Environment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3201, EES 3040 or equivalent, and MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

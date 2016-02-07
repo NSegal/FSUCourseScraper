@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the behavior of complex steel elements and structures. Topics include analysis and design of columns and beams under combined effects of flexure, shear and torsion. Lateral torsional buckling, plastic analysis, design of plate girders. and design of frames.", 
+        "number": "5606", 
+        "subject": "CES", 
+        "title": "Advanced Steel Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and CES 4605.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of private instruction of the major instrument for performance majors. May be repeated to a maximum of twenty-four semester hours. Credit may be modified by electing MVO 5450r (2), All Instruments. Credit for MVV 5451r is for three semester hours.", 
+        "number": "5459", 
+        "subject": "MVJ", 
+        "title": "Applied Music Major, Percussion, Jazz"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

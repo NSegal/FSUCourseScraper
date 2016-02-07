@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides supervised therapy practice in therapy procedures with school-aged persons presenting various communication problems. Seminar covers educational and therapy topics relative to public professional activities.", 
+        "number": "5500", 
+        "subject": "SPA", 
+        "title": "Clinical Practicum in the Schools"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPA 4503.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the development of basic performance skills on the Baroque flute and commensurate stylistic techniques through a graduated study of available 18th-century pedagogic and performance materials. May be repeated to a maximum of four semester hours.", 
+        "number": "3700", 
+        "subject": "MVW", 
+        "title": "Introduction to Baroque Flute"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

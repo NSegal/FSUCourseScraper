@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of works in Old French organized around a specific topic.", 
+        "number": "5415", 
+        "subject": "FRW", 
+        "title": "Old French Literature I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 5755. Recommended prerequisite: FRE 5756.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

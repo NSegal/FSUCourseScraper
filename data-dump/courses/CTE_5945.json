@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This is an internship at an institution approved by the Museum Studies program. The emphasis must be on historic clothing, textiles, or accessories. The experience provides an opportunity to apply and expand knowledge in areas of museum studies such as storage, display, education, informatics, and management. May be repeated to a maximum of six semester hours.", 
+        "number": "5945", 
+        "subject": "CTE", 
+        "title": "Museum Studies Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 3512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

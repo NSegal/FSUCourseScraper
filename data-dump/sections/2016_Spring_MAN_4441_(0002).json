@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (5144)", 
+    "basic": {
+        "class_num": "5144", 
+        "course": "4441", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "MAN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "20:30:00", 
+            "instructors": [
+                "Zachary Russell"
+            ], 
+            "location": "RBA 0212", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

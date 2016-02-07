@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course content is comprised of practicum experiences in school, community, or clinical settings. These work experiences are supervised by on-site personnel (i.e. art therapists, special educators, psychologists, counselors) and by university faculty with ATR-BC credentials. Supervision, equivalent to ten hours for every one hundred hours of field work, is integral to this practicum.", 
+        "number": "5942", 
+        "subject": "ARE", 
+        "title": "Practicum II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

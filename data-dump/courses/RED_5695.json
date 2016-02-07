@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Federal education policy has targeted reading achievment through initiatives such as Reading Excellence, Reading First, Early Reading First, and the response-to-intervention approach of the Individuals with Disabilities Act of 2004. This course examines the role of reading research in these initiatives and discusses the challenges and potential solutions to implementing these policy initiatives in schools.", 
+        "number": "5695", 
+        "subject": "RED", 
+        "title": "Policy Issues in Reading"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

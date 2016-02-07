@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study and comparison of the founding and development of the English colonies in North America.", 
+        "number": "5116", 
+        "subject": "AMH", 
+        "title": "Colonial American History to 1763"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth exploration and practice of techniques and methods of construction and execution of solutions to advanced problems in costuming and make-up technology. May be repeated once with new content to a maximum of six semester hours.", 
+        "number": "5235", 
+        "subject": "TPA", 
+        "title": "Selected Topics in Stage Costuming and Make-Up Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: THE 4260, TPA 3230C, and TPA 3248, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

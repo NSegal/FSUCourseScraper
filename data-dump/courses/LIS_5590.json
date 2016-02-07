@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the study of how technical innovations influence the social world of museums by exploring the nature of information technology in museums and the way modern information systems have shaped the museum environment.", 
+        "number": "5590", 
+        "subject": "LIS", 
+        "title": "Museum Informatics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

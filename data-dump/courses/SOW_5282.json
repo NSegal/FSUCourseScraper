@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes graduate students to the skills necessary to become effective human service advocates dealing with unmet needs, resolving social problems, or working to ameliorate unjust or inequitable conditions in society. As more decisions about social welfare programs have shifted from the federal to the state and local community levels, it is increasingly importatnt for social workers to develop lobbying and advocacy skills to ensure social and economic justice. Such skills can help bring about much-needed policy changes for clients, promote and protect social work ethics and values, and positively affect human service funding during the budget appropriation process.", 
+        "number": "5282", 
+        "subject": "SOW", 
+        "title": "Legislative Advocacy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

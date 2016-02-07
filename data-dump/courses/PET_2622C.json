@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses specific sport injuries, their treatment, and preventive procedures.", 
+        "number": "2622C", 
+        "subject": "PET", 
+        "title": "Care and Prevention of Sport Injuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PET 2303C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews Skinner's theory of bahaviorism in depth and addresses its implications for the science of human behavior and contemporary applications in society.", 
+        "number": "6130", 
+        "subject": "EAB", 
+        "title": "Seminar on Skinner's Theory of Behaviorism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703 and EXP 3422 (or equivalents) or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

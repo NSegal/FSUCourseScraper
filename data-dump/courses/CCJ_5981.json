@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a course with contents determined by the student in consultation with the instructor, with whom the student meets regularly for supervision of the study. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5981", 
+        "subject": "CCJ", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

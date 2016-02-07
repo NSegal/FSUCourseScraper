@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys musical activities in the United States from the close of the Civil War to the present.", 
+        "number": "5636", 
+        "subject": "MUH", 
+        "title": "Music in the United States II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to mediation theory and practice and development of basic mediation skills using role-playing exercises and simulations.", 
+        "number": "6312", 
+        "subject": "LAW", 
+        "title": "Mediation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

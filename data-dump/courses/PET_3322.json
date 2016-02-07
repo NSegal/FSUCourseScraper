@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The first part of a two-semester sequence, this course covers the functional anatomy and physiology of the skeletal, muscular, cardiovascular, respiratory, digestive, urinary, and endocrine systems, as well as part of the nervous system.", 
+        "number": "3322", 
+        "subject": "PET", 
+        "title": "Functional Anatomy and Physiology I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045 and HUN 1201. Corequisite: PET 3322L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

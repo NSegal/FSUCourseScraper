@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers basic leadership theories, motivation, group dynamics, planning, and change processes in educational settings. The course emphasizes knowledge, analysis, and applications that draw from multidisciplinary perspectives, including organizational analysis, psychology, anthropology, and sociology.", 
+        "number": "5192", 
+        "subject": "EDA", 
+        "title": "Educational Leadership"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

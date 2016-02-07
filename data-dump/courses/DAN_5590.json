@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses current issues in dance technology. Students develop fundamentals in media technologies while broadening their appreciation for technology in dance. This course facilitates the students' ability to expand creative expression, as well as enhance their ability to promote themselves as artists. Guest speakers offer exposure to technology applications in a number of related arts areas. Course topics are supported by video viewings, related readings, critiques and group discussions. Value is placed on developing one's ability to speak and write about the creative process utilizing technology, as well as planning and executing technology-enhanced projects.", 
+        "number": "5590", 
+        "subject": "DAN", 
+        "title": "Studies in Dance Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

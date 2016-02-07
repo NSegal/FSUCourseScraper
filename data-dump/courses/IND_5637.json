@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to give students a basic introduction to the fundamentals of research in interior design. Included in this course are a surveyof the major types of research and an overview of what is involved in the\u00a0 inception, planning, and conduction of a research project.", 
+        "number": "5637", 
+        "subject": "IND", 
+        "title": "Graduate Seminar: Research Methods in Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

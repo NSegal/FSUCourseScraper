@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces a basic study of acoustics, the ear and hearing, musical systems, and the processes involved in musical behavior.", 
+        "number": "5616", 
+        "subject": "MUS", 
+        "title": "Psychology of Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the legal setting in which business operates. Emphasis is on public and regulatory law and on the social, political, and ethical aspects of legal issues in business. Subjects include the nature of law and legal process, administrative law, business and the Constitution, statutory and common law, and related topics.", 
+        "number": "3310", 
+        "subject": "BUL", 
+        "title": "The Legal and Ethical Environment of Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

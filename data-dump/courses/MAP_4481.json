@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the use of mathematical models in biology. Linear and nonlinear difference and ordinary differential equations, linear stability analysis, phase plane analysis. Applications may include population biology, infectious diseases, chemical kinetics, and physiology.", 
+        "number": "4481", 
+        "subject": "MAP", 
+        "title": "Mathematical Modeling in Biology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312. Recommended prerequisite: MAP 2480.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

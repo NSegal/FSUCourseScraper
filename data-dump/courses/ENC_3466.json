@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is intended to develop the writing, analytical, and critical reading skills of students in geography and other social science programs. It focuses on how language conveys information about place and the subject as well as about the speaker; it considers the conscious choices writers make to reach specific audiences.", 
+        "number": "3466", 
+        "subject": "ENC", 
+        "title": "Writing in Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

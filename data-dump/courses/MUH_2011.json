@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys musical expression in relation to the background of the life and art that created it, encompassing the great periods of music history of the 18th and 19th centuries, composers and their musical masterpieces, styles, and forms. For non-music majors. Meets liberal studies requirements.", 
+        "number": "2011", 
+        "subject": "MUH", 
+        "title": "Introduction to Music History-Music Appreciation: 18th & 19th Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

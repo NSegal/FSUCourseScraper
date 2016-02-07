@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course deals with issues in money, banking, and monetary policy in the United States and other countries. A major theme is how the monetary and financial organizations can be improved.", 
+        "number": "4307", 
+        "subject": "ECO", 
+        "title": "Monetary Thought and History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-DSC (10879)", 
+    "basic": {
+        "class_num": "10879", 
+        "course": "4540", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "SPN", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Enrique Alvarez"
+            ], 
+            "location": "BEL 0045", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Enrique Alvarez"
+            ], 
+            "location": "BEL 0045", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

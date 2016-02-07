@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the methods and theories associated with cultural anthropological field work, from research design and project preparation to the presentation of reports based on research. Includes supervised field work projects.", 
+        "number": "5801", 
+        "subject": "ANG", 
+        "title": "Field Methods in Cultural Anthropology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

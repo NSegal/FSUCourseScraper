@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an in-depth examination of the physiological principles and mechanisms of endocrinology as related to exercise and overall health. Students gain an understanding of the endocrine organs, hormone classifications, and detailed mechanisms of action for selected hormones. The influence of exercise and disease on acute and chronic human endocrine function is investigated. In addition, the role of chemical mediators and nutrition in coordinating the function of the endocrine system is investigated.", 
+        "number": "6387", 
+        "subject": "PET", 
+        "title": "Endocrinology in Health and Exercise"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 5111C or equivalent level of Exercise Physiology course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

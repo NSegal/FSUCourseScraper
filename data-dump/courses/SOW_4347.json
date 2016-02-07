@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history, theoretical underpinnings, and strategies of case management in various service delivery systems.\u00a0 Contemporary issues and implications for the changing practice environment are highlighted.", 
+        "number": "4347", 
+        "subject": "SOW", 
+        "title": "Social Networking and Case Management in Social Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

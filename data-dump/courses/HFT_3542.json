@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for students to learn the important aspects of planning and managing events, with an emphasis on social events such as educational, fundraising, reunions, religious, weddings, fraternal, political, and others.", 
+        "number": "3542", 
+        "subject": "HFT", 
+        "title": "Event Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

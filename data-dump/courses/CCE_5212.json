@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a comprehensive overview of the basic principles of sustainability and green construction. The course provides detailed background about the green building (LEED) certification, as well as energy calculations and cost-benefit analysis.", 
+        "number": "5212", 
+        "subject": "CCE", 
+        "title": "Sustainable and Green Construction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CCE 4004.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

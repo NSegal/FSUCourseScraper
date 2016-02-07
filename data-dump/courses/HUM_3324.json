@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of the significant works of literature and the other arts created under the dominant \"imperial\" cultures. The course focuses upon themes relating to colonial subjugation. Works are analyzed from the perspective of the dominating culture and from the contrasting vision of the subjugated colonial cultures.", 
+        "number": "3324", 
+        "subject": "HUM", 
+        "title": "Cultural Imperialism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

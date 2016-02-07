@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an inclusive synopsis of the central issues confronting the hospitality industry regarding the economic, environmental, and social effects of facility development and operations in the hospitality field. In the course, students are introduced to diverse theoretical thought and practical applications as they relate to sustainable practices.", 
+        "number": "5292", 
+        "subject": "HMG", 
+        "title": "Sustainable Hospitality Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

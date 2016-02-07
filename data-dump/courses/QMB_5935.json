@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of current topics in quantitative methods in business.", 
+        "number": "5935", 
+        "subject": "QMB", 
+        "title": "Special Topics in Quantitative Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

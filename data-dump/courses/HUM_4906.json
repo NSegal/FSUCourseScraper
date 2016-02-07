@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A student registered for an individual study course must schedule at least one conference a week on campus. The student should bear in mind that the DIS requirements are the same as if he or she were attending a class for three hours a week for ten weeks. The minimum length of the paper is thirty pages excluding footnotes and bibliography. This course cannot count toward major course work. May be repeated to a maximum of nine semester hours.", 
+        "number": "4906", 
+        "subject": "HUM", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

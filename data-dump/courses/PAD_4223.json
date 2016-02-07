@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on concepts and practices in budgeting and financial processes such as planning, goal setting, and implementation.", 
+        "number": "4223", 
+        "subject": "PAD", 
+        "title": "Budgets and Finances in Managing Public Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-LEC (12422)", 
+    "basic": {
+        "class_num": "12422", 
+        "course": "4930", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "OCE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Doron Nof"
+            ], 
+            "location": "OSB 0327", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

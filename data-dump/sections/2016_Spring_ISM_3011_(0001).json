@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (14956)", 
+    "basic": {
+        "class_num": "14956", 
+        "course": "3011", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ISM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Melissa Carlton"
+            ], 
+            "location": "HOL A0210A", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

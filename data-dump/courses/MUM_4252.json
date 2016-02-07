@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of projects that include highlighting beginning restoration techniques and introduction to action regulation.", 
+        "number": "4252", 
+        "subject": "MUM", 
+        "title": "Piano Technology II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUM 4251.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

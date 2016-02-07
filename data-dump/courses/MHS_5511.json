@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers introductory group leader training; theoretical and experiential components.", 
+        "number": "5511", 
+        "subject": "MHS", 
+        "title": "Group Counseling: Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

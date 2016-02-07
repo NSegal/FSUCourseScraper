@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines case studies emphasizing elements of public practice, standards of professional conduct, fraud issues, systematic controls, auditing principles and standards, and communication of findings.", 
+        "number": "5695", 
+        "subject": "ACG", 
+        "title": "Challenges in Professional Accounting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: ACG 4642 or ACG 5635.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

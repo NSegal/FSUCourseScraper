@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the Catholic Church from the Council of Trent to the present day; special consideration given to Vatican II, current problems, and leading thinkers.", 
+        "number": "4562", 
+        "subject": "REL", 
+        "title": "Modern Roman Catholicism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

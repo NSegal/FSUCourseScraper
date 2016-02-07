@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the classification of elementary particles, particle detectors and accelerators, invariance principles and conservation laws, hadron-hadron interactions, static quark model of hadrons, electromagnetic interactions, and the unification of electroweak and other interactions.", 
+        "number": "5354", 
+        "subject": "PHZ", 
+        "title": "High-Energy Physics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

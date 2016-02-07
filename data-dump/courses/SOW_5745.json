@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for students who wish to increase their knowledge and understanding of issues around loss, bereavement, dying, and death, and how we can live life to the fullest while addressing these challenges both personally and with our clients. The primary focus is on six topics: 1) theories of loss and grief; 2) personal feelings, fears, and expectations of the inevitable; 3) death and dying rituals from a cross-cultural perspective; 4) responses to loss and bereavement throughout the life cycle; 5) understanding different bereavement situations, such as suicide, SIDS, etc.; and 6) assessment and intervention strategies with individuals, families, and groups.", 
+        "number": "5745", 
+        "subject": "SOW", 
+        "title": "Seminar on Loss and Bereavement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

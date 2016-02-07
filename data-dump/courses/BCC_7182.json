@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course enhances students' clinical knowledge and skills and provide them opportunities to explore issues that extend across all medical disciplines.", 
+        "number": "7182", 
+        "subject": "BCC", 
+        "title": "Doctoring 3"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Medical Science": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of all year-one and year-two curricula.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Summer", 
+        "units": "6.00"
+    }
+}

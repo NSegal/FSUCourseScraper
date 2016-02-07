@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves participation in a supervised research problem. May be repeated to a maximum of nine semester hours, of which six semester hours may be applied to biological science major credit.", 
+        "number": "4970", 
+        "subject": "BSC", 
+        "title": "Honors Work in Biological Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L; as well as admission to the department's honors-in-the-major program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

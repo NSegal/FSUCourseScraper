@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces techniques in instruction and administration of music programs. May be repeated to a maximum of six semester hours.", 
+        "number": "5929", 
+        "subject": "MUS", 
+        "title": "Workshop in Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

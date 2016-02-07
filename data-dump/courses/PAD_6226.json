@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students experiential learning in public budgeting through individual and team simulation, preparation of reports, and inquiry into selected issues.", 
+        "number": "6226", 
+        "subject": "PAD", 
+        "title": "Public Budgeting Simulation and Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5227 and PAD 5701, or equivalents.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

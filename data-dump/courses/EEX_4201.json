@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines typical and atypical learning and development throughout the lifespan.", 
+        "number": "4201", 
+        "subject": "EEX", 
+        "title": "Typical and Atypical Development and Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

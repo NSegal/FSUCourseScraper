@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (11990)", 
+    "basic": {
+        "class_num": "11990", 
+        "course": "5936", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "INR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Christopher McMullen"
+            ], 
+            "location": "BEL 0001", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

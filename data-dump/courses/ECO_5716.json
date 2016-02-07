@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines institutional characteristics of international financing of trade, relations between money flows and real trade, theories of foreign exchange and short-term capital flows, long-term capital flows, alternative exchange rate systems. Contemporary international monetary problems and the role of aid in economic development also are discussed.", 
+        "number": "5716", 
+        "subject": "ECO", 
+        "title": "Seminar in the Theory and Policy of International Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

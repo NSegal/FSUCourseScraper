@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course stresses speaking and listening, although the acquisition of reading and writing skills is also an integral part of the course. Some fundamental syntactic and morphological points introduced are word order, nominal particles, verbal endings, verb classification, speech levels, and the formation of some complex sentences. In addition, an introduction is given to the Japanese syllabaries and kanji. May not be taken by native speakers. May not be taken concurrently with JPN 1121, 2220 and/or 2300.", 
+        "number": "1120", 
+        "subject": "JPN", 
+        "title": "Elementary Japanese I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as response surface methods, repeated measures and split-plot designs, basic\u00a0 log-linear and logit models for two-way and multiway tables, and multinomial response models.", 
+        "number": "5168", 
+        "subject": "STA", 
+        "title": "Statistics in Applications III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5167.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

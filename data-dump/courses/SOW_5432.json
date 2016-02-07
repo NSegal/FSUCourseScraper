@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, major emphasis is given to the use of single systems designs in client assessment and evaluation. Students consider the philosophical and ethical aspects of an evaluative appraoch to treatment and examine the policy implications of professional participation (or lack thereof) in evaluation processes. Topics include the operational \"diagnosis\" of client problems, measurement and monitoring of symptoms, goals, and interventions, and analysis, interpretation, and reporting of case material for accountable social work practice. Issues of ethnicity, gender, sexual orientation, and disability are also explored through application of course content to\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 appropriate case examples.", 
+        "number": "5432", 
+        "subject": "SOW", 
+        "title": "Evaluation of Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5404 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

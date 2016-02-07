@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the theoretical underpinnings related to the storytelling process and educational benefits of storytelling/storywriting. The course also focuses on storytelling as an excellent vehicle for promoting and integrating the language processes of listening, speaking, reading, and writing in the classroom setting. Digital storytelling (technology integration) strategies are included.", 
+        "number": "5349", 
+        "subject": "LAE", 
+        "title": "Language and Literacy Development through Storytelling/Storywriting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

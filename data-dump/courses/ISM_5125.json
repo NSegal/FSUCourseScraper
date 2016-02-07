@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course builds on basic system analysis and design concepts, including distributed systems analysis design. Use cases, quality assurance, performance metrics, and current trends are investigated.", 
+        "number": "5125", 
+        "subject": "ISM", 
+        "title": "Advanced Systems Analysis and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

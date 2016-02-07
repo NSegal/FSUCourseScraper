@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the areas of responsible conduct of research in the human sciences and the management principles for sponsored research.", 
+        "number": "6366", 
+        "subject": "HOE", 
+        "title": "Research Best Practices in Human Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds and extends the foundations presented in LIS 4785, while introducing practical solutions for the health IT professional. Students apply IT knowledge to address real-life problems in the medical community. The course provides students with a solid practical set of skills to enter the health industry.", 
+        "number": "4776", 
+        "subject": "LIS", 
+        "title": "Advanced Health Informatics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 4785.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

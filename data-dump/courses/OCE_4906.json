@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated, subject to limitations that may apply from the individual student's major departments, to a maximum of eighteen semester hours.", 
+        "number": "4906", 
+        "subject": "OCE", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

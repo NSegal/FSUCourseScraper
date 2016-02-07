@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses how colonialism and post-colonialism are shaped and mediated through images and the gaze.", 
+        "number": "2049", 
+        "subject": "IFS", 
+        "title": "Third World Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

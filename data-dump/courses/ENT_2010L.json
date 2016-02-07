@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory allows students to develop mini-business plans to be funded by the Jim Moran Insitute for Global Entrepreneurship. Students actually launch and manage the business.", 
+        "number": "2010L", 
+        "subject": "ENT", 
+        "title": "Creating and Managing New Ventures Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the major. Corequisites: ACG 2021 and ENT 2010.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

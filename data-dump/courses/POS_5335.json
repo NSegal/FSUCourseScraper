@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to prepare students to use research techniques and strategies. Students learn how to understand political situations and how to exploit these situations to the client's advantage. Topics include data resources and collection, statistical analysis and utilization, opposition research, and campaign strategy.", 
+        "number": "5335", 
+        "subject": "POS", 
+        "title": "Political Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

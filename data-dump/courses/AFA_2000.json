@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an interdisciplinary examination of African-American culture and socio-economic status. This course also explores elements of the African Diaspora.", 
+        "number": "2000", 
+        "subject": "AFA", 
+        "title": "Introduction to the African-American Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the causes of local and global environmental problems and their impacts, including resource use, pollution, ecosystems, and population growth.", 
+        "number": "1330", 
+        "subject": "GEO", 
+        "title": "Environmental Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

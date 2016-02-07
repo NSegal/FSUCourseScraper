@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the exploration and development of a range of fundamental tools of the acting process, with particular emphasis on vocal production and physical expression in the context of creating and rehearsing scenes and monologues drawn from significant modern and contemporary playwrights, ending with an introduction to the performance of classical\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Shakespearean texts.", 
+        "number": "3103", 
+        "subject": "TPP", 
+        "title": "Performance II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPP 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

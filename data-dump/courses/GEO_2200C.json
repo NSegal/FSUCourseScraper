@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of earth-sun relations, weather, climate, landforms, water systems, soils, and vegetation.", 
+        "number": "2200C", 
+        "subject": "GEO", 
+        "title": "Physical Geography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course seeks to enhance the student's ability to analyze, research, a nd develop public policies.", 
+        "number": "5035", 
+        "subject": "PAD", 
+        "title": "Policy Development and Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5700, PAD 5701, and PAD 5050, or equivalents.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

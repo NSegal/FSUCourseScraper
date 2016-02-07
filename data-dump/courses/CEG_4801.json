@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers geotechnical investigation, analysis, and design of different geotechnical structures, including earth retaining structures, slopes and embankments, earthwork with geosynthetics, as well as shallow foundations.", 
+        "number": "4801", 
+        "subject": "CEG", 
+        "title": "Geotechnical Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CEG 3011. Pre- or Corequisite: CGN 3508L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

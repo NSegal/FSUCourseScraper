@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of musical theatre in America since the 1940s, including Rodgers and Hammerstein, Weill, Lerner and Loewe, Loesser, Bernstein, Sondheim, the Black musical, and the rock musical.", 
+        "number": "4245", 
+        "subject": "THE", 
+        "title": "Musical Theatre History II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 3214, MUL 2211, DAN 4115, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

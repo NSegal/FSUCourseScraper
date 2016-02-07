@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an online course that explores the history of Florida from its pre-Columbian origins to the present.", 
+        "number": "4420", 
+        "subject": "AMH", 
+        "title": "The History of Florida"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

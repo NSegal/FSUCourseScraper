@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course gives graduate students a greater understanding of the process of public policy-making and the impact of public policy on higher education. Topics include the interaction between the states and the federal government and the interconnections between K-12 and higher education.", 
+        "number": "6401", 
+        "subject": "EDH", 
+        "title": "Public Policy in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDH 5051.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

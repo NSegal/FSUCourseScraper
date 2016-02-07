@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (1293)", 
+    "basic": {
+        "class_num": "1293", 
+        "course": "4802", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "CGN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Wei-Chou Ping"
+            ], 
+            "location": "CE1 P0412", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Wei-Chou Ping"
+            ], 
+            "location": "CE1 P0412", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

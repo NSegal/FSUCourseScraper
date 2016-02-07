@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the foreign/second language educator with information related to crosscultural communication. Students explore the relationship between language and culture and focus on methods for fostering understanding between different cultural and subcultural groups. Educators gain understanding in major theories related to sociolinguistics and related implications for teaching a multilingual, multicultural student body.", 
+        "number": "5525", 
+        "subject": "TSL", 
+        "title": "Crosscultural Communication for Foreign/Second Language Teachers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

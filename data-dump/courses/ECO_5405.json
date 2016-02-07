@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the use of mathematical economic models, equilibrium analysis, linear algebra, comparative static analysis, optimization problems, and dynamic problems.", 
+        "number": "5405", 
+        "subject": "ECO", 
+        "title": "Introduction to Mathematical Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

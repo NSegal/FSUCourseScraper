@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on planning, instruction, learning, and classroom environment. There is extensive fieldwork (thirty hours) and students work with a teacher in an area high school.", 
+        "number": "4362", 
+        "subject": "SCE", 
+        "title": "Teaching and Learning Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

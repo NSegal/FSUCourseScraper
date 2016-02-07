@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines various topics, including data collection, analysis, and interpretation, as well as preparation of designs for conducting individual research in information studies. May be repeated to a maximum of six\u00a0\u00a0\u00a0 semester hours.", 
+        "number": "6279", 
+        "subject": "LIS", 
+        "title": "Research in Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

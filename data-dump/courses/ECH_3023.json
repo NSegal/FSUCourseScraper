@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers mass and energy balances related to chemical process systems and measurements, as well as to the development of problem-solving methodologies in mass and energy balances.", 
+        "number": "3023", 
+        "subject": "ECH", 
+        "title": "Mass and Energy Balances I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1046 and MAC 2312. Corequisites: CHM 2210, MAC 2313, and PHY 2048C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the student to the design, creation and management of standards-based, ADA-compliant web sites using HTML, CSS, and JavaScript. Other topics include acquiring domain names and Web hosting agencies. The principles of user accessibility and user-centered design are emphasized, as is a focus on the implementation of modern web standards and coding, including search engine optimization.", 
+        "number": "5362", 
+        "subject": "LIS", 
+        "title": "Design and Production of Networked Multimedia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

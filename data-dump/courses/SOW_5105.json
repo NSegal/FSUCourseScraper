@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on reciprocal relationships between human behavior and social environments. Content includes empirically-based theories and knowledge that focus on the interactions between and among systems of all sizes, including individuals, groups, societies, and economic systems. Theories and knowledge of biological, psychological, sociological, cultural, and spiritual development across the life span are critiqued, especially as they relate to populations at risk. In addition, theories and knowledge about the range of social systems (individual, family, group, organizational, and community) in which people live are examined, including the ways social systems promote or deter people in maintaining or achieving health and well-being.", 
+        "number": "5105", 
+        "subject": "SOW", 
+        "title": "Human Behavior and the Social Environment I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

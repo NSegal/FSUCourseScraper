@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers analytic functions, Cauchy-Riemann conditions; complex integration, Cauchy's theorem and integral formula; power series, analytic continuation, Riemann surfaces; residues and applications; conformal\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 mapping.", 
+        "number": "4402", 
+        "subject": "MAA", 
+        "title": "Complex Variables"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

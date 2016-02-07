@@ -1,0 +1,26 @@
+{
+    "_unique": "0016-DSC (1532)", 
+    "basic": {
+        "class_num": "1532", 
+        "course": "2211", 
+        "season": "Spring", 
+        "solus_id": "0016", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "09:50:00", 
+            "instructors": [
+                "Lei Zhu"
+            ], 
+            "location": "HTL 0219", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

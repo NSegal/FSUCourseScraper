@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (5693)", 
+    "basic": {
+        "class_num": "5693", 
+        "course": "1000", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MDU", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Elizabeth Foster"
+            ], 
+            "location": "TBA", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

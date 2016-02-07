@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is intended to provide a comprehensive introduction to the field of financial economics. The class focuses on static and dynamic consumption based on asset pricing models and a few elementary applications. The class is designed to set up the framework for models with production, financial institutions and monetary policy issues, which is the basis for more advanced work.", 
+        "number": "5281", 
+        "subject": "ECO", 
+        "title": "Financial Economics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches students how to program mobile devices. Students use event-based models to write and deploy an intent based application using a mobile computing software framework. May be repeated to a maximum of nine semester hours.", 
+        "number": "5659", 
+        "subject": "COP", 
+        "title": "Mobile Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

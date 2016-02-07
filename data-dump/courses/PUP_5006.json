@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the place of implementation in the policy process, the tools and methods available and the difficulties in terms of measuring the effectiveness of public policies and their effect on the political system and the distribution of power in society.", 
+        "number": "5006", 
+        "subject": "PUP", 
+        "title": "Policy Implementation and Evaluation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PUP 5005.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of thermodynamics and basic concepts of quantum and classic statistical mechanics, thermodynamic functions from spectroscopic data, and gas imperfections.", 
+        "number": "5460", 
+        "subject": "CHM", 
+        "title": "Thermodynamics and Statistical Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate physical chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an internship in a collaborative museum to provide students with firsthand knowledge of, and practical experience in, museums. Concurrent registration is permitted. May be repeated to a maximum of nine semester hours within the same term.", 
+        "number": "5942", 
+        "subject": "ARH", 
+        "title": "Internship in Museum Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

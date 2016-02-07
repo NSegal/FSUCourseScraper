@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the processes by which various cultural features have diffused throughout the world. Emphasis is on the contemporary cultural landscape, particularly that of the United States.", 
+        "number": "5425", 
+        "subject": "GEO", 
+        "title": "Cultural Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

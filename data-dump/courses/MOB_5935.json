@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "Special Topics.", 
+        "number": "5935", 
+        "subject": "MOB", 
+        "title": "Special Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

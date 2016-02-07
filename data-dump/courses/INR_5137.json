@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores terror and foreign policy with particular emphasis on U.S. foreign policy since September 11, 2001.", 
+        "number": "5137", 
+        "subject": "INR", 
+        "title": "Politics of Terror"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

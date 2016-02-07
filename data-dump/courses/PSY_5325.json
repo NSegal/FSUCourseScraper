@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course and associated lab provide instruction and practice in developing foundational competencies in the administration, scoring, and interpretation of individual cognitive, intellectual, and academic tests.", 
+        "number": "5325", 
+        "subject": "PSY", 
+        "title": "Cognitive Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CLP 6169 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

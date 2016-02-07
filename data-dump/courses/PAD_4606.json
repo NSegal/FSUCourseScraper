@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of American legal systems. Topics include the interrelationships between law and social sciences, the nature of legal systems, how to read and analyze a court case, interpret statutes, and analysis of important legal controversies.", 
+        "number": "4606", 
+        "subject": "PAD", 
+        "title": "American Legal Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

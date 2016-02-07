@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (10978)", 
+    "basic": {
+        "class_num": "10978", 
+        "course": "6065", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "CCJ", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "14:30:00", 
+            "instructors": [
+                "Carter Hay"
+            ], 
+            "location": "EPS 0214", 
+            "start_time": "12:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

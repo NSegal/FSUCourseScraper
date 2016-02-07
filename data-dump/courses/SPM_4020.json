@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a discussion of current issues impacting the international sport industry. The course includes site visits and discussions of issues that industry professionals in international settings face.", 
+        "number": "4020", 
+        "subject": "SPM", 
+        "title": "Current Issues in International Sport"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Interdisciplinary special topics of current interest or utilizing special competencies of faculty. Content varies from semester to semester. May be repeated with the permission of the Director of the Interdisciplinary Program in Social Sciences.", 
+        "number": "5930", 
+        "subject": "HSC", 
+        "title": "Special Topics in Social Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

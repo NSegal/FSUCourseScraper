@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the special role of franchising as a form of entrepreneurship in the U.S. and international economies. Topics include success rates of franchisors and franchisees, advantages and disadvantages of franchising for both franchisors and franchisees, the process of franchising a business idea, and the process of selecting and working with a franchisor.", 
+        "number": "3173", 
+        "subject": "ENT", 
+        "title": "Franchising"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 or both ENT 2010 and ENT 2011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

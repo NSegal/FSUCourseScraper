@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is an advanced study of financial institutions and markets, monetary theory and policy, economic forecasting, and domestic and international capital markets.", 
+        "number": "6709", 
+        "subject": "FIN", 
+        "title": "Seminar in Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

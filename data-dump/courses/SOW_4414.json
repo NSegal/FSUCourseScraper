@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to quantitative tools used to describe and interpret data used in social work practice, research, and policy formation. The course content prepares students to understand, interpret, and conduct the statistical analyses necessary for the evaluation of effective social work practice, social policies, and social programs. Students learn to plan and conduct analyses guided by an understanding of social work values and ethics. Specific topics to be covered in class include descriptive statistics, basic probability, confidence intervals, hypothesis testing, analysis of variance, correlation, and regression.", 
+        "number": "4414", 
+        "subject": "SOW", 
+        "title": "Statistics for Social Workers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

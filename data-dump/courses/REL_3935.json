@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics and themes in the academic study of Buddhism. The course may explore key subjects and theories in Buddhist studies, including philosophy, history, sociology, anthropology, literature, and art history intended to introduce students to the diversity of Buddhist traditions throughout Asia, Europe, and North America and to help them develop critical skills necessary for evaluating a variety of scholarly approaches to the subject. May be repeated to a maximum of nine semester hours. May be repeated within the same semester.", 
+        "number": "3935", 
+        "subject": "REL", 
+        "title": "Topics in Buddhism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides knowledge of a scripting language that serves as a front-end to many popular packages and frameworks, along with a compiled language such as C++.\u00a0 Topics include the practical use of an object-oriented scripting and compiled language for scientific programming applications. There is a laboratory component for the course; concepts learned are illustrated in several science applications.", 
+        "number": "4304C", 
+        "subject": "ISC", 
+        "title": "Programming for Science Applications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312, COP 3014 or ISC 3313 or approved programming course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

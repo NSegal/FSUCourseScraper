@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines legal relations and problems incident to the creation, preservation, and dissolution of the family unit. The course includes marital affairs and actions, adoption, child custody, and criminal and tortious conduct pertaining to domestic relations. Emphasis is placed on possible conflicts between the interests of the state in this area and the private interests of the individuals concerned.", 
+        "number": "7710", 
+        "subject": "LAW", 
+        "title": "Family Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

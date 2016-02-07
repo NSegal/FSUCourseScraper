@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an intermediary-level instruction in the visual devel-opment skills required for the preproduction and previsualization of narrative motion pictures.", 
+        "number": "3711", 
+        "subject": "FIL", 
+        "title": "Visualization II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

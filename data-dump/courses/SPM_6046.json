@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar draws upon foundational theories from economics, law, and political science to explain how political institutions, the political environment, and the economic system influence, and are influenced by, various practices and conceptions of play. Students develop an in-depth understanding of not only how political economics systems work, but how, and where we play within them.", 
+        "number": "6046", 
+        "subject": "SPM", 
+        "title": "Political Economy of Play"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

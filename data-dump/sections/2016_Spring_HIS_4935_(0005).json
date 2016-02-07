@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-DSC (4206)", 
+    "basic": {
+        "class_num": "4206", 
+        "course": "4935", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "HIS", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Edward Gray"
+            ], 
+            "location": "BEL 0404", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

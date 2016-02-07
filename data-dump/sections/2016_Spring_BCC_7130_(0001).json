@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-MED (417)", 
+    "basic": {
+        "class_num": "417", 
+        "course": "7130", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "BCC", 
+        "type": "MED", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Suzanne Bush"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-05-27", 
+            "term_start": "2016-01-04"
+        }
+    ]
+}

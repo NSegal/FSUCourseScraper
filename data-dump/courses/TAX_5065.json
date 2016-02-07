@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a critical examination of the legal aspects of taxation and the development\u00a0 of federal tax law as a basis for planning business decisions.", 
+        "number": "5065", 
+        "subject": "TAX", 
+        "title": "Research in Federal Taxation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

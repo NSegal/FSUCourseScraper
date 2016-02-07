@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course discusses how having language influences other cognitive processes, such as vision and memory.", 
+        "number": "2104", 
+        "subject": "IFS", 
+        "title": "Thinking About Language: How Cognition and Language Interact"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

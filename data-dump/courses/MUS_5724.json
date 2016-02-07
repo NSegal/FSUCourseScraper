@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides basic information about and techniques used in the measurement of music behavior. The course consists of demonstrations and discussion of the measurement of physical elements of music performance, expressive aspects, music preference, emotional and physiological responses to music. Additional areas of discussion include the role, development and use of standardized testing and observation measures in music.", 
+        "number": "5724", 
+        "subject": "MUS", 
+        "title": "Music Measurement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

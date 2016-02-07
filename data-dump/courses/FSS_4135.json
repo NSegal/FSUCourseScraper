@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses cost analysis, cost containment, organizational structure, food laws, and food and beverage procurement in health care settings.", 
+        "number": "4135", 
+        "subject": "FSS", 
+        "title": "Institutional Food Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: DIE 3005, ECO 2000 or ECO 2013, FOS 3026 and FOS 3026L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, which consists of outdoor and indoor labs, provides a hands-on introduction to astronomy as an observational science. In the outdoor labs students learn how to make observations and measurements of planetary, stellar and galactic objects using either your unaided eyes, binoculars or a telescope. The indoor labs acquaint them with the telescope, the coordinate system used to locate astronomical objects on the sky, the motion of objects in the sky and other basic concepts of astronomy.", 
+        "number": "1002L", 
+        "subject": "AST", 
+        "title": "Planets, Stars, and Galaxies Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: AST 1002.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

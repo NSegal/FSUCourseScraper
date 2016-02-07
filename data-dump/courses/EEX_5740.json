@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the topic of child maltreatment and its impact on students with disabilities.", 
+        "number": "5740", 
+        "subject": "EEX", 
+        "title": "Cognitive and Social Implications of Maltreatment of Students with Exceptional Needs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

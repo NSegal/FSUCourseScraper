@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "3949", 
+        "subject": "AMS", 
+        "title": "Cooperative Education Work Experience"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a review of the characteristics of basic optical components for optical communications systems. Topics include optical fibers, light sources, optical detectors and fiber connectors; signal degradation in optical fibers, optical analog and digital communication systems; and coherent optical fiber communications.", 
+        "number": "4566", 
+        "subject": "EEL", 
+        "title": "Optical Fiber Communications"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEL 3473 and EEL 3135. Corequisite: EEL 4021.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

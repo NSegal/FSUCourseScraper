@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the methods of weighted residuals, finite element analysis of one and two-dimensional problems, isoparametric elements, time dependent problems, algorithms for parabolic and hyperbolic problems, applications, advanced Galerkin techniques.", 
+        "number": "5395", 
+        "subject": "MAP", 
+        "title": "Finite Element Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 5738 and C++ or Fortran.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

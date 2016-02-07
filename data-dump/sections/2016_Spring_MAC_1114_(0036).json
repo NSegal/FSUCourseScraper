@@ -1,0 +1,26 @@
+{
+    "_unique": "0036-LEC (11351)", 
+    "basic": {
+        "class_num": "11351", 
+        "course": "1114", 
+        "season": "Spring", 
+        "solus_id": "0036", 
+        "status": "Open", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Francis Burrows"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

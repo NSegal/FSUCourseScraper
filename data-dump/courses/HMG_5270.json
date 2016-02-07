@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course helps students gain a thorough understanding of the foundational metrics and definitions that are used by the hotel industry. Students analyze various types of hotel industry data and make strategic inferences based upon that analysis and a comprehensive understanding of benchmarking and performance reports.", 
+        "number": "5270", 
+        "subject": "HMG", 
+        "title": "Lodging and Resort Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes graduate students to a broad array of current techniques and methodologies in the neurosciences from a molecular to a behavioral level of analysis.", 
+        "number": "5057", 
+        "subject": "PSB", 
+        "title": "Neuroscience Methods: Molecules to Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

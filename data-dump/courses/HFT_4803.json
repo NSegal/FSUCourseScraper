@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course uses the University Center Club (ClubCorp. Inc) to provide a study of advanced food-and beverage-establishment management. Students work with live operations managers to design and manage scheduling, menus, profit and loss statements, labor, events, budgets, and overall corporate goal expectations. Students also experience human resource management, safety and security, and facility maintenance. Students are assigned to individually managed events under the supervision of events managers.", 
+        "number": "4803", 
+        "subject": "HFT", 
+        "title": "Advanced Food and Beverage Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

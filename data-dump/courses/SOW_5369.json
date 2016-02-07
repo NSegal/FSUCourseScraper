@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This coure integrates theoretical models and concepts with practice gained in internships. The course utilizes an ecosystems perspective, focusing on the dynamic interaction between the individual, family, communities, organizations, and other social systems. A major focus is on the social worker's role in responding effectively to the challenges of working with these systems, and exploring their own personal views of such issues as ethics, gender, ethnic minorities, gays, lesbians, and disabled people.", 
+        "number": "5369", 
+        "subject": "SOW", 
+        "title": "Integrative Seminar in Advanced Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SOW 5535.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

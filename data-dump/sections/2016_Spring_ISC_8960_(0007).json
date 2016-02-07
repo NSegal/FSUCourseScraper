@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-DEX (14184)", 
+    "basic": {
+        "class_num": "14184", 
+        "course": "8960", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Open", 
+        "subject": "ISC", 
+        "type": "DEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Irinel Chiorescu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

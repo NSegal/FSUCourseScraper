@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes readings and discussion of the great prose works from La Celestina to El Criiticon. All Golden Age prose on the Spanish division graduate reading lists, with the exception of Cervantes works, are covered.", 
+        "number": "5216", 
+        "subject": "SPW", 
+        "title": "Spanish Golden Age Prose"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

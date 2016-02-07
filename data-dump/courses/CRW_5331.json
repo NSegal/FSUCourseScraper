@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to write and revise poetry. Students are expected to work toward publication. May be repeated up to twenty-seven semester hours.", 
+        "number": "5331", 
+        "subject": "CRW", 
+        "title": "Poetry Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

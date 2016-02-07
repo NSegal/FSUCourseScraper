@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of theological and anti-theological elements in twentieth and twenty-first century fantasy literature from authors Lewis, Tolkien, Rowling, and Pullman.", 
+        "number": "3112", 
+        "subject": "REL", 
+        "title": "Religion and 20th Century Fantasy Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

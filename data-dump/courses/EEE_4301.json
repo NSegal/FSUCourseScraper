@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses computer-aided design programs and covers multistage amplifier analysis and design. The course focuses on feedback and operational amplifiers, A-to-D and D-to-A converters, and waveshaping and waveforming generators, including oscillators, voltage regulators, and power circuits.", 
+        "number": "4301", 
+        "subject": "EEE", 
+        "title": "Electronic Circuits and Systems Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EEE 3300 and EEE 3300L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

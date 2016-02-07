@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the most inclusive type of data analysis known in statistics; examples of such data in astronomy, biology, digital imagery, medical imaging, computer vision, pattern recognition, astrophysics, learning, Earth sciences including meteorology and geology; introduction to abstract manifolds, tangent bundles, embedding, Riemannian structures; sample spaces with a manifold structure; foundations of nonparametric statistics on manifolds: location and spread parameters for distributions on manifolds; large sample theory on manifolds, density, and function estimation on manifolds; nonparametric inference on manifolds; statistical analysis on special manifolds arising in statistics: directional and axial data analysis, projective, affine, and similarity shape data analyses, size-and-shape data analysis, diffusion tensor image analysis; concrete case studies in astronomy, image analysis, medical imaging: MRI, CT, Confocal Laser Tomography, eye imaging, brain imaging, bioinformatics, computer vision, and 3D scene recognition.", 
+        "number": "6557", 
+        "subject": "STA", 
+        "title": "Object Data Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One of STA 5707, STA 5327, or STA 5746.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

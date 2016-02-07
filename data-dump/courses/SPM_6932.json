@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an analysis of selected topics in sport management. May be repeated to a maximum of twelve semester hours.", 
+        "number": "6932", 
+        "subject": "SPM", 
+        "title": "Advanced Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

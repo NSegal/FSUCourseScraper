@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an analysis of the complexity of algorithms, including sorting, searching, and graph algorithms; use and implementation of graphs.", 
+        "number": "4531", 
+        "subject": "COP", 
+        "title": "Complexity and Analysis of Data Structures and Algorithms"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: COP 4530 and MAD 3105. Corequisite: STA 3032 or STA 4321; and STA 4442.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

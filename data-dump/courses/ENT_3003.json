@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a broad survey of entrepreneurship. It exposes students to different types of entrepreneurship and covers an array of topics that span from idea generation through venture formation, financing, and management while helping students build knowledge and skills to be a successful entrepreneur.", 
+        "number": "3003", 
+        "subject": "ENT", 
+        "title": "Introduction to Entrepreneurship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course establishes the conceptual and theoretical framework for organizing and retrieving information, including the study of systems, their objectives and structures, formats, standards, and vocabularies. The course also covers the information object and its relationship to organizing systems and to other information objects.", 
+        "number": "5703", 
+        "subject": "LIS", 
+        "title": "Information Organization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

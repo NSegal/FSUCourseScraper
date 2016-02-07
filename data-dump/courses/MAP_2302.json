@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers differential equations of the first order, linear equations of the second, systems of first order equations, power series solutions, Laplace transforms, numerical methods. Not open to students having credit in MAP 3305.", 
+        "number": "2302", 
+        "subject": "MAP", 
+        "title": "Ordinary Differential Equations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312 with a grade of \"B-\" or MAC 2313 with a grade of \"C-\".", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a continuation of general chemistry for honors students. Topics include solution equilibria; acid/base chemistry; oxidation, reduction, and electrochemical cells; chemical analysis; hydrides and oxides of the elements; kinetics; advanced bonding and structure.", 
+        "number": "1051", 
+        "subject": "CHM", 
+        "title": "Honors General Chemistry II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1050 and 1050L, each with a grade of \"C-\" or better, or CHM 1045 and 1045L, each with a grade of \"C-\" or better and instructor permission. Corequisite: CHM1051L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

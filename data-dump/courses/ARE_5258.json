@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth investigation of exemplary practices in contemporary museum education. Students study educational materials produced by exemplary museums, their use as models, current and potential uses of technology in the museum for interactive learning, researching of museum-school partnerships, including outreach and networking procedures and preparation of appropriate educational programming materials.", 
+        "number": "5258", 
+        "subject": "ARE", 
+        "title": "Museum Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be currently enrolled in a graduate degree program in a department participating in the Museum Studies Certificate Program, or have a graduate degree in a related discipline.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

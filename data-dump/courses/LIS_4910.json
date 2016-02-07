@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of students working in teams and individually to manage, design, implement, and evaluate an information technology project. Students are also given evaluation and guidance on improving artifacts from projects entered into their degree portfolio during other courses within the degree program.", 
+        "number": "4910", 
+        "subject": "LIS", 
+        "title": "Information Technology Project"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

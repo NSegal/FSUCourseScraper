@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is practice-oriented to develop group leaders who have an understanding of group dynamics and possess effective leadership skills to facilitate group development and work. The course focuses on both task and treatment groups. Majors only.", 
+        "number": "4323", 
+        "subject": "SOW", 
+        "title": "Social Work Practice with Groups"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SOW 3350 and SOW 4341.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

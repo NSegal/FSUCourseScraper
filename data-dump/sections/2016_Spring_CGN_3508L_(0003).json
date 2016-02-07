@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LAB (1304)", 
+    "basic": {
+        "class_num": "1304", 
+        "course": "3508L", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "CGN", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "10:50:00", 
+            "instructors": [
+                "Korhan Adalier"
+            ], 
+            "location": "HOL C0116", 
+            "start_time": "08:50:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents techniques for the analysis and simulation of nanometric-scale semiconductor devices (SDs), and focuses on the analysis of quantum-induced effects on the electronic transport and characteristics of SDs. The course covers generation-recombination processes in semiconductors, quantum and semiclassical modeling of SDs, noise and fluctuations in SDs, and numerical techniques for the simulation of SDs.", 
+        "number": "5452", 
+        "subject": "EEE", 
+        "title": "Analysis of Quantum Scale Semiconductor Devices"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

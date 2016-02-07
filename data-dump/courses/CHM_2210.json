@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the first in a sequence of courses for chemistry majors, premedicine students, biologists, or any other majors requiring a good background in organic chemistry, the course covers the fundamentals of structure and chemical behavior of organic molecules.", 
+        "number": "2210", 
+        "subject": "CHM", 
+        "title": "Organic Chemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 1046 and CHM 1046L, each with a grade of \"C-\" or better. Students who complete CHM 1045 or CHM 1050 with a grade of \"B\" or better and have instructor permission may take this course simultaneously with either CHM 1046 or CHM 1051.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

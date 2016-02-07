@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students the opportunity to experience a range of possibilities with the profession from box office and publicity to Fine Arts Council and foundation programs. May be repeated to a maximum of sixty semester hours.", 
+        "number": "5470", 
+        "subject": "TPA", 
+        "title": "MFA Practicum in Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 15.00"
+    }
+}

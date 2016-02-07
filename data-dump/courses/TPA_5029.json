@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course centers on non-theatrical lighting, including tours, industrials and architectural, as well as cross-over areas of projection, sound and video. Emphasis is on how the implementation of this technology affects design approaches.", 
+        "number": "5029", 
+        "subject": "TPA", 
+        "title": "Lighting Design V"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "TPA5028,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

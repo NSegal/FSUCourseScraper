@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the use of art therapy with various special populations. Observation and participation opportunities are afforded so that students can develop skills in human relations, art therapy assessment and art therapy treatment planning for children and adolescents with special needs.", 
+        "number": "5554", 
+        "subject": "ARE", 
+        "title": "Special Populations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

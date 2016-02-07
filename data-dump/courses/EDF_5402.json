@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as multiway ANOVA, covariance, repeated measures designs, nested designs, and generalizability theory.", 
+        "number": "5402", 
+        "subject": "EDF", 
+        "title": "Advanced Topics in Analysis of Variance Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5400 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

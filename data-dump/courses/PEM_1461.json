@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to Olympic Fencing, including rules, history, and equipment. Beginning with safety practices, students attain a basic orientation of fencing rules and an overview of competitive fencing. The class focuses on fundamental footwork and movement as well as basic equipment use.", 
+        "number": "1461", 
+        "subject": "PEM", 
+        "title": "Introduction to Fencing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

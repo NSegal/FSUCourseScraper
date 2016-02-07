@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to prepare concrete and asphalt specimens; test construction materials under compression, tension, torsion loading; and write formal laboratory reports.", 
+        "number": "3101L", 
+        "subject": "CCE", 
+        "title": "Construction Materials Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CCE 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

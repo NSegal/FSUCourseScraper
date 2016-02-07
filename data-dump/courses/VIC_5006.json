@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory focuses on the creation and analysis of visual messages. Emphasis is placed on visual literacy, message construction and interpretation, as well as on design principles.", 
+        "number": "5006", 
+        "subject": "VIC", 
+        "title": "Visual Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

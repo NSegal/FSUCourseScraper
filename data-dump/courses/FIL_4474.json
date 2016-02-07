@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces advanced lighting techniques and allows hands-on exercises emphasizing the creative use of lighting for mood and storytelling.", 
+        "number": "4474", 
+        "subject": "FIL", 
+        "title": "Production: Advanced Cinematography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

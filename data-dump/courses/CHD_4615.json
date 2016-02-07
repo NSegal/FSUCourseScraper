@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course uses readings, lecture, discussion, guest speakers, field work, research, and writing, for students to become familiar with the process of formulating, implementing, and evaluating public policy. Family and child issues that have resulted in policy decisions at every level are identified, and current issues that are in need of attention by policy makers are explored. Research related to family issues and its impact on family policy is analyzed with emphasis on enhancing the role of family and child professionals in policy process.", 
+        "number": "4615", 
+        "subject": "CHD", 
+        "title": "Public Policy: Child and Family Issues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

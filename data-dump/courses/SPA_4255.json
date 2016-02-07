@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course places disorders in perspective, defines basic theories of causation, introduces identifying characteristics, and presents an overview of procedures for evaluation and treatment. Topics include cultural and linguistic diversity, evidence-based practice, and current trends in the discipline.", 
+        "number": "4255", 
+        "subject": "SPA", 
+        "title": "Developmental Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

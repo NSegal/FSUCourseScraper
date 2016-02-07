@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents the basic fundamentals underlying the mechanics of gas, air, and fluid flows. Discussion of the possible methods of estimating and predicting the characteristics and parameters governing those flows.", 
+        "number": "5810", 
+        "subject": "EGM", 
+        "title": "Viscous Fluid Flows"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 5709.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

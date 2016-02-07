@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth overview of the history of higher education in the role of higher education in society over the last two centuries, the expansion of higher education in the twentieth century to include various groups such as women, African-Americans, and the working-class; tensions between the traditional, liberal arts curriculum and multicultural offerings; and governmental roles in the transformation of modern higher education.", 
+        "number": "5519", 
+        "subject": "EDF", 
+        "title": "History of Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

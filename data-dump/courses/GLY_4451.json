@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores plate tectonics and earth structure. Current methods of probing the interior: seismology and seismic tomography, geomagnetics, geoid and gravity, geochemistry and geochronology, heat flow, mantle convection, core convection and the geodynamo.", 
+        "number": "4451", 
+        "subject": "GLY", 
+        "title": "Introduction to Geophysics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302 and PHY 2049; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

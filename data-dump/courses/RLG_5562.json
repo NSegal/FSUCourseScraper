@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the Catholic Church from the Council of Trent to the present day; special consideration given to Vatican II, current problems, and leading thinkers.", 
+        "number": "5562", 
+        "subject": "RLG", 
+        "title": "Modern Roman Catholicism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

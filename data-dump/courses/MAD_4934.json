@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Special topics course. May be repeated to a maximum of twelve semester hours. May be repeated within the same semester.", 
+        "number": "4934", 
+        "subject": "MAD", 
+        "title": "Topics in Discrete or Computational Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

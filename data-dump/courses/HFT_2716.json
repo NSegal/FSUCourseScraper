@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to contemporary tourism through a geographical and multicultural perspective of worldwide travel. The course emphasizes the most popular travel destinations and provides information about the physical and cultural characteristics of major cities, states, and countries. The course offers basic facts about travel destinations, the environment , and the people of many regions around the world, and it presents the nature of cultural diversity reflecting both Western and non-Western cultures with special emphasis on ethnic background, race, religion, values, tradition, language, material goods, and inter-relationships among local cultures.", 
+        "number": "2716", 
+        "subject": "HFT", 
+        "title": "International Travel and Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

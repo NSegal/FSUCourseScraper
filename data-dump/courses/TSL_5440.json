@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course acquaints students with principles of second language assessment at the classroom and program levels and standardized testing. This course informs students of general principles of second language test construction and administration, including traditional and nontraditional assessment, and provides practical experiences in preparing valid items and analyzing tests.", 
+        "number": "5440", 
+        "subject": "TSL", 
+        "title": "Foreign/Second Language Testing and Evaluation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

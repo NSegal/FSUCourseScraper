@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores theory in the field of environmental sustainability and green engineering: material also covers sustainability in relation to other disciplines, but focuses on environmental and engineering concepts.", 
+        "number": "5617", 
+        "subject": "ENV", 
+        "title": "Environmental Engineering Sustainability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

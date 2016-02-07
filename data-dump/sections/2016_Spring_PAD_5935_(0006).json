@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DSC (10745)", 
+    "basic": {
+        "class_num": "10745", 
+        "course": "5935", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "PAD", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Robert McDaniel"
+            ], 
+            "location": "TBA", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

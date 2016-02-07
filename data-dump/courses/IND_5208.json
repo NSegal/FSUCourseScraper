@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course centers on the study and development of two- and three-dimensional design products using the elements and principles of design.", 
+        "number": "5208", 
+        "subject": "IND", 
+        "title": "Design Fundamentals"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

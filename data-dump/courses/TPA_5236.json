@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a further exploration of various advanced costume craft techniques and materials. Topics include mechanical moveable parts, electrical lightpacks, and fog packs. Each class research project must address the proper fit, comfort, movement, weight, and sight consideration needed for successful theatrical craft apparel.", 
+        "number": "5236", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Crafts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

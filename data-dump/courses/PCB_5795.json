@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: mechanisms of sensory transduction; higher level processing of sensory information; comparative aspects of sensory physiology.", 
+        "number": "5795", 
+        "subject": "PCB", 
+        "title": "Sensory Physiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: General physiology/cell biology background.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

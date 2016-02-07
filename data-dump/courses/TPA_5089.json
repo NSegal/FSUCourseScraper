@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies topics such as painting scenery for the stage, handling of various paint media, effects of lighting on colors. The course involves intensive study of master draftsmen and artists and ways of imitating artistic styles on stage.", 
+        "number": "5089", 
+        "subject": "TPA", 
+        "title": "Selected Topics in Advanced Technical Theatre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

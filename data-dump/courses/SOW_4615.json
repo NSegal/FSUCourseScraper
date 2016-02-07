@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course looking at violence across the life-span, provides an ecological perspective emphasizing the interconnections between individuals experiencing violence and their social environments. Emphasis is placed upon broad coverage of all important aspects of child abuse, incest, intimate partner violence, rape, and elder abuse. This course is appropriate for students who wish to gain skill in detecting and responding to incest situations for clients and sexual assault survivors, and victims of intimate partner violence or elder abuse.", 
+        "number": "4615", 
+        "subject": "SOW", 
+        "title": "Family Violence Across the Life Span"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

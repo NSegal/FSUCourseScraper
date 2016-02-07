@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides science teachers with a basic understanding of statistical procedures used in educational research, scientific studies, and reform documents. The course focuses on producing and critiquing statistical-graphing displays and on applying statistical procedures to classroom teaching and school data to enhance the understanding of scientific and educational research.", 
+        "number": "5745", 
+        "subject": "SCE", 
+        "title": "Statistical Applications to Science Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

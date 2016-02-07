@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar analyzes the social institutions that structure the lives of the elderly in modern society. The topics include age status and stratification, labor-force participation and retirement, structures of dependency, political participation and mobilization, and social policy and reform.", 
+        "number": "5735", 
+        "subject": "SYP", 
+        "title": "Sociology of Aging"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

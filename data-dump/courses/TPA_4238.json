@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced practice in constructing specialized costumes for stage use. Students gain practical, hands-on experience in theatrical sewing techniques in creating projects such as period corsets, historically based costumes constructed to reflect various period details, and beginning tailoring techniques.", 
+        "number": "4238", 
+        "subject": "TPA", 
+        "title": "Advanced Costume Construction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPA 3230 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

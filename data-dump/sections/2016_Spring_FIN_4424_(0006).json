@@ -1,0 +1,37 @@
+{
+    "_unique": "0006-LEC (3793)", 
+    "basic": {
+        "class_num": "3793", 
+        "course": "4424", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "FIN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Lin Sun"
+            ], 
+            "location": "RBA 0206", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Lin Sun"
+            ], 
+            "location": "RBA 0206", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

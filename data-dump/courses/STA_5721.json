@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers a range of modern statistical topics in high dimensional modeling and analysis. The course teaches methods, theory and computation with rich high-dimensional data applications from signal processing, machine learning, bioinformatics and econometrics.", 
+        "number": "5721", 
+        "subject": "STA", 
+        "title": "High-Dimensional Statistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5167 and STA 5326. Recommended prerequisite: STA 5168.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

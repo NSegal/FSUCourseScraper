@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a practicum intended to provide each student with practical experience in the field of literary editing. Students work under the direction of the Senior Editor throughout the process of soliciting, judging, and editing manuscripts for the Kudzu Review. Students also work together throughout the process of magazine lay-out as well as magazine printing and distribution. May be repeated to a maximum of six semester hours.", 
+        "number": "3943", 
+        "subject": "ENG", 
+        "title": "Kudzu Review Undergraduate Magazine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "0.00 - 3.00"
+    }
+}

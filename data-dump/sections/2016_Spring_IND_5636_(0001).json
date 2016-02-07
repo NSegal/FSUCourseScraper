@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (12109)", 
+    "basic": {
+        "class_num": "12109", 
+        "course": "5636", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "IND", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "13:00:00", 
+            "instructors": [
+                "Jill Pable"
+            ], 
+            "location": "WJB G0041", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

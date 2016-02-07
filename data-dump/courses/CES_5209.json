@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers analysis and design of single- and multi-degree-of- freedom structures subjected to various types of excitations and initial conditions. Topics include computational aspects of dynamic analysis, including approximate methods of analysis, and introduction to earthquake loading and design.", 
+        "number": "5209", 
+        "subject": "CES", 
+        "title": "Structural Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CES 4101 and MAP 3305 or MAP 2302.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

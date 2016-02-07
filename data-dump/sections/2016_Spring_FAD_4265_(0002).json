@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (13659)", 
+    "basic": {
+        "class_num": "13659", 
+        "course": "4265", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "FAD", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Jose Tovar-Aguilar"
+            ], 
+            "location": "SAN 0101", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

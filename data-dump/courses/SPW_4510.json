@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, which is taught in Spanish, explores the literary and humanistic implications of Latin American Indigenous mythology. The course focuses on the ancestral, indigenous cultures of Amazonia but also looks at myths from various groups throughout the Americas.", 
+        "number": "4510", 
+        "subject": "SPW", 
+        "title": "Latin American Indigenous Mythology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

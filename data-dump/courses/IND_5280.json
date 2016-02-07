@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This studio culminates in the creation of student-generated design projects focused on the conceptual and schematic phases of project development.", 
+        "number": "5280", 
+        "subject": "IND", 
+        "title": "Graduate Studio V"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5258.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

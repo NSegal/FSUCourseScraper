@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on project analysis and evaluation, utilizing networks and graph theory, advanced engineering economy, simulation procedures and other evaluation software. Project implementation topics, including resourceshortfalls and expediting. Case studies and design exercises.", 
+        "number": "5451", 
+        "subject": "ESI", 
+        "title": "Project Analysis and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3613 and ESI 3312C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

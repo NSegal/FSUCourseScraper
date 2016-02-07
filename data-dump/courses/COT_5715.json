@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides a graduate-level examination of all aspects of random number generation as used in simulation; specifically, the course concentrates on pseudorandom number generation and quasi-random number generation theory and practice.", 
+        "number": "5715", 
+        "subject": "COT", 
+        "title": "Random Number Generation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4531.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

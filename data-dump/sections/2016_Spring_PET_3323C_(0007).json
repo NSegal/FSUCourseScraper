@@ -1,0 +1,24 @@
+{
+    "_unique": "0007-LAB (8588)", 
+    "basic": {
+        "class_num": "8588", 
+        "course": "3323C", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:50:00", 
+            "instructors": [], 
+            "location": "HCB 0301", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

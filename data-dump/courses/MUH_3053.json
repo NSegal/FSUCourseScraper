@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the diverse musics of North American minority groups, with an emphasis on Native American, African-American, Latin American, Asian, Jewish, and certain Euro-American traditions.", 
+        "number": "3053", 
+        "subject": "MUH", 
+        "title": "American Roots Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

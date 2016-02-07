@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (3030)", 
+    "basic": {
+        "class_num": "3030", 
+        "course": "3601", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EEX", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Gregory Taylor"
+            ], 
+            "location": "STB G158", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

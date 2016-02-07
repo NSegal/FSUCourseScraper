@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This advanced course in language education considers the psycholinguistic and sociolinguistic bases of language and the various methods for studying language; reading, writing, listening, and speaking.", 
+        "number": "6746", 
+        "subject": "LAE", 
+        "title": "Theory and Research in Language Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

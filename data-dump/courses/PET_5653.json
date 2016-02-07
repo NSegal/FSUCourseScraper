@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a concentrated study of the assessment, evaluation and design of cardiovascular program development for the competitive athlete including those with selected medical conditions or concerns. This course meets specific guidelines and competencies for strength and conditioning\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 professionals.", 
+        "number": "5653", 
+        "subject": "PET", 
+        "title": "Cardiovascular Program Development for Competitive Athletes and Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admitted to the Sports Sciences Major of the MS in Exercise Science or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

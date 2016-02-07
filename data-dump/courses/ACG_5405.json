@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the design and operation of accounting systems as well as the relevance of data processing and statistical methods to the system of financial information and control.", 
+        "number": "5405", 
+        "subject": "ACG", 
+        "title": "Advanced Accounting Information Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 4401.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

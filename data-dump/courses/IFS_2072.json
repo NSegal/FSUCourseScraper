@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys the development of popular music from the 1950s to the present, examining the music and the cultural, social, economic, technological, and political conditions surrounding that music. The course widens student's comprehension of the times, places, cultural contexts, intellectual debates, and economic conditions that foster (or hinder) artistic innovation.", 
+        "number": "2072", 
+        "subject": "IFS", 
+        "title": "A Social History of America's Popular Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

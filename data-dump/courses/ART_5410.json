@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course leads to extensive development of printmaking techniques, concepts, and presentation strategies in support of personal aesthetic development.", 
+        "number": "5410", 
+        "subject": "ART", 
+        "title": "Graduate Printmaking"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

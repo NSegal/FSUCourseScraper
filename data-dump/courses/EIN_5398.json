@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review of basic concepts and fundamental results of materials science. Fundamentals of casting processes, and applications. Nontraditional methods in materials processing. Microscale material processing, withapplications to microelectronics and similar structures. Industrial byproduct processing. Automation issues. Case studies and design exercises.", 
+        "number": "5398", 
+        "subject": "EIN", 
+        "title": "Manufacturing Materials Processing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 5392.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

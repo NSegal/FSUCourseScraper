@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides theoretical grounding in management and link theory to practice and introduces students to performance competencies related to essential management skills in organizing, planning, and understanding their work environment. Students have an opportunity to utilize management tools and techniques for decision making, structuring and coordinating work groups, and for implementing change in higher-education organizations.", 
+        "number": "5639", 
+        "subject": "EDH", 
+        "title": "Management in Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

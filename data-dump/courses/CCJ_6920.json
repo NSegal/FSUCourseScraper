@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "For this course, contents vary as instructors present different developments, problems, and controversies. May be repeated to a maximum of twelve semester hours as content varies.", 
+        "number": "6920", 
+        "subject": "CCJ", 
+        "title": "Seminar in Theoretical Criminology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

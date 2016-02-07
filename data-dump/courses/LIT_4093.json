@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers diverse, resurgent, and oppositional trends in literature since 1945; Mailer, Brautigan, Bellow, and others.", 
+        "number": "4093", 
+        "subject": "LIT", 
+        "title": "Currents in Contemporary Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

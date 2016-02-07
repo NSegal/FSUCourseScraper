@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This lab is advanced, specialized production training in the student's primary area of production. May be repeated to a maximum of fifteen semester\u00a0\u00a0 hours.", 
+        "number": "5636L", 
+        "subject": "FIL", 
+        "title": "Advanced Workshop in Area of Specialization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 12.00"
+    }
+}

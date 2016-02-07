@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an introduction that surveys the way in which the arts and popular culture (including literature, fine arts, performance, advertising, documentary film, and video) have both refelcted and contributed to attitudes in public policy concerning people with disabilities. The course takes a disability-studies approach, which considers the social and cultural aspects of disability.", 
+        "number": "4064", 
+        "subject": "THE", 
+        "title": "Disability and Representation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: THE 2020, THE 2313, or THE 3214.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

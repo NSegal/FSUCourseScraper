@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides participants with the knowledge and skills necessary to manage the successful integration of students with visual impairments into the general education environment. Legal, ethical, and safety issues related to the education of students with visual impairments are explored. In addition, students are assisted as they prepare for their student teaching experience.", 
+        "number": "4230", 
+        "subject": "EVI", 
+        "title": "Educational Management of Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4211, EVI 4212, and EVI 4312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

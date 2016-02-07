@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies British poetry and prose from 1785 to 1832.", 
+        "number": "4240", 
+        "subject": "ENL", 
+        "title": "British Romantic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

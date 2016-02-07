@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar covers current topics in the field of visual disabilities. May be repeated to a maximum of six semester hours.", 
+        "number": "5931", 
+        "subject": "EVI", 
+        "title": "Seminar in Visual Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

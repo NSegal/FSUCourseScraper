@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of a written report and an oral presentation discussing research work done under PHY 4910. The grade is assigned by a committee of three faculty members.", 
+        "number": "4975", 
+        "subject": "PHY", 
+        "title": "Senior Thesis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: PHY 4910.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

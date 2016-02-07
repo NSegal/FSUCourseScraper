@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides numerical discretization of differential equations and implementation for case studies drawn from several science areas.\u00a0 Finite\u00a0 difference, finite element, and spectral methods are introduced and standard software packages are used.\u00a0 The laboratory component is used to illustrate the concepts learned on a variety of application problems.", 
+        "number": "4232C", 
+        "subject": "ISC", 
+        "title": "Computational Methods for Continuous Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 4304C and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

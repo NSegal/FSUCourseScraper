@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the first part of a two-part sequence integrating concepts of mechanics and principles of materials. It provides the student with a broad based introduction to, and understanding of the application of materials in structural design, the processing of mechanical components, and the manufacture of high technology products.", 
+        "number": "3011C", 
+        "subject": "EML", 
+        "title": "Mechanics and Materials I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045, CHM 1045L, EML 3002, EML 3004, and MAC 2313.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to music as a manifestation of human culture, as an expressive art form, and as an intellectual discipline. The course also develops a knowledge of a variety of significant musical repertoire, skills for perceptive listening, and the ability to respond to musical expression with critical insight.", 
+        "number": "2010", 
+        "subject": "MUL", 
+        "title": "Music Literature, Listening, and Understanding"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies policy alternatives and the policy-making process on a specific contemporary policy question in America, e.g., science research and development, energy, regulation, taxes, environment. Varies with the instructor and semester. May be repeated to a maximum of nine semester hours.", 
+        "number": "4931", 
+        "subject": "PUP", 
+        "title": "Special Topics in Public Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PUP 3002.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

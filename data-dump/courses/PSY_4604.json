@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the philosophical and scientific antecedents of modern psychology and the history of psychology as an independent scientific discipline.", 
+        "number": "4604", 
+        "subject": "PSY", 
+        "title": "History and Systems of Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSY 2012 and junior or senior standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

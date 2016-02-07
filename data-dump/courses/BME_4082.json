@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the key theories, concepts, principles, and methodology relevant to the development of biomedical engineering professional ethics. The student is facilitated in his/her development of a code of professional ethics through written work, class discussion, and case analysis.", 
+        "number": "4082", 
+        "subject": "BME", 
+        "title": "Biomedical Engineering Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BME 4404C, ECH 3274L, ECH 3418, and ECH 4267.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

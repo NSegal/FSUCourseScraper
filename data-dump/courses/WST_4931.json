@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This senior seminar examines how cultures structure and represent gender in a variety of arenas. Through critical reading of key contemporary works of feminist theory and intensive investigation of multidisciplinary case studies, students study the variety of representations of women's experience.", 
+        "number": "4931", 
+        "subject": "WST", 
+        "title": "Seminar in Women's Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Two core courses in women's studies. Corequisite: Permission from the program director.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

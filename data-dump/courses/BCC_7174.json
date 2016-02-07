@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This required fourth year clerkship provides varied primary care experiences with older adult patients. The major goal is to provide an in-depth exposure of the medical student to the intricacies, subtleties, barriers and obstacles to be overcome in providing quality primary care to older patients the settings where that care most frequently occurs. Emphasis is placed on the physician's role in maintaining, restoring, and rehabilitating the olderadult patient to achieve the most independent function possible. Consistentwith a \"school without walls\" concept, students follow assinged patients inan effort to explore how continuous and coordinated geriatric care might beprovided. Competency in the identification, evaluation and treatment of common geriatric problems and syndromes is pursued.", 
+        "number": "7174", 
+        "subject": "BCC", 
+        "title": "Primary Care Geriatrics"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of all year-one, year-two, and year-three courses.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

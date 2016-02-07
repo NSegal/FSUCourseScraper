@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (11171)", 
+    "basic": {
+        "class_num": "11171", 
+        "course": "5845", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "RUS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Robert Romanchuk"
+            ], 
+            "location": "DIF 0116", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers both the principles of and the practical experience of public speaking with an emphasis on personal responsibility.", 
+        "number": "2078", 
+        "subject": "IFS", 
+        "title": "Communication Matters: Personal Responsibility in Public Speaking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

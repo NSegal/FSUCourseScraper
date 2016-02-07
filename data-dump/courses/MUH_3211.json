@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys music history from antiquity to 1750. Required of music majors.", 
+        "number": "3211", 
+        "subject": "MUH", 
+        "title": "Survey of Music History-Antiquity to 1750"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUL 2110 and MUH 2512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

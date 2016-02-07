@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to multilevel models. Through this course, students learn about a variety of multilevel or hierarchical models appropriate for a broad range of applications. Topics discussed within the context of each multilevel model include hypothesis testing, evaluation of model fit, and computer packages that can be used to estimate the various multilevel models.", 
+        "number": "7418", 
+        "subject": "EDF", 
+        "title": "Multilevel Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5401.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course aims to heighten students' awareness of the critical issues in instructional systems. It examines how research methodologies have been used to study these issues, explores how research programs and theories are progressively honed, and defines programmatic areas of disciplined inquiry.", 
+        "number": "6362", 
+        "subject": "EDG", 
+        "title": "Instructional Systems Research Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

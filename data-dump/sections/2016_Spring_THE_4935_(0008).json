@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-LEC (13592)", 
+    "basic": {
+        "class_num": "13592", 
+        "course": "4935", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Open", 
+        "subject": "THE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Mark Wheatley"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

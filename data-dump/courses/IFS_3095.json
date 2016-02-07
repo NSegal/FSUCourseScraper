@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "In this course, students are guided through original empirical research to appreciate the sources of changes across contrasting generations, and to follow up the impact of generational change for a wide range of social, economic and political dimensions of everyday life. Research projects compare different generations at equivalent points in the life cycle.", 
+        "number": "3095", 
+        "subject": "IFS", 
+        "title": "Boomers and Millennials: Changing Generations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

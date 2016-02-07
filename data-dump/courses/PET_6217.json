@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes the importance of stress within motor performance. It examines various physiological, cognitive, and behavioral correlates of psychologically induced stress as well as contemporary treatment modalities for managing stress.", 
+        "number": "6217", 
+        "subject": "PET", 
+        "title": "Stress and Motor Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

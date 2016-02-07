@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the advanced treatment of crustal deformation in mountains; the sequence of events and evaluation of deformation styles.", 
+        "number": "5425", 
+        "subject": "GLY", 
+        "title": "Tectonics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 3400C or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

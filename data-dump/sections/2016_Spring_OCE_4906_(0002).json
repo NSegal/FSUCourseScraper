@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-DIS (11862)", 
+    "basic": {
+        "class_num": "11862", 
+        "course": "4906", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "OCE", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Amy Baco-Taylor"
+            ], 
+            "location": "OSB 0327", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "10:45:00", 
+            "instructors": [
+                "Amy Baco-Taylor"
+            ], 
+            "location": "OSB 0327", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

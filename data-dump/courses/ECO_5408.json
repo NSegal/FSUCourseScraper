@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include solutions of linear and nonlinear systems of equations, numerical integration and differentiation, optimization, Monte\u00a0 Carlo and stochastic simulation, finite element and spectral solution methods for ordinary and partial differential equations, dynamic programming and stochastic optimal control, and asymptotic perturbation methods.", 
+        "number": "5408", 
+        "subject": "ECO", 
+        "title": "Computational Economics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 5423.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

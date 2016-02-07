@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides the essentials basic to managing public health programs. Administrative content includes an overview of targeted programs, communications, and planning, budgeting, implementing, and evaluating public health programs.", 
+        "number": "5104", 
+        "subject": "PHC", 
+        "title": "Public Health Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

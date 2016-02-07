@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LAB (12207)", 
+    "basic": {
+        "class_num": "12207", 
+        "course": "3112L", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "EEL", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:45:00", 
+            "instructors": [
+                "Sastry Pamidi"
+            ], 
+            "location": "CE1 0325", 
+            "start_time": "15:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

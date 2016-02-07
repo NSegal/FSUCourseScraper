@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers molecular absorption, band models, solar and terrestrial radiative fluxes, and heating rates in the troposphere and stratosphere. Radiative properties of atmospheric aerosols.", 
+        "number": "5421", 
+        "subject": "MET", 
+        "title": "Radiative Transfer"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4450 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

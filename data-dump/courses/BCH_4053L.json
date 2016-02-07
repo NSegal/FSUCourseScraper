@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This lab explores laboratory methods in biochemistry including electrophoresis, chromatography, cell fractionation, enzyme assays, ligand interactions, and recombinant DNA technology.", 
+        "number": "4053L", 
+        "subject": "BCH", 
+        "title": "General Biochemistry I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: BCH 4053.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is a discussion of the role of research in the academic community, the basis and principles of systems modeling, and the methods of social science research. The seminar also nurtures the motivation to become a contributor to the organizational sciences and information systems research communities by examining research processes, methodologies, and strategies, the information systems research context, concepts, theories, the application of systems modeling, and the nature of organizational sciences research.", 
+        "number": "6979", 
+        "subject": "ISM", 
+        "title": "Doctoral Seminar in Research Methods and the Philosophy of Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

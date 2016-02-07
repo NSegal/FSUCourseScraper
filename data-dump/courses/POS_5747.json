@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on a variety of advanced techniques for quantitative political science research, including recursive and nonrecursive structural equation models, factor analysis and covariance structure models, and methods for time-series analysis.", 
+        "number": "5747", 
+        "subject": "POS", 
+        "title": "Advanced Quantitative Analysis in Political Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5746 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

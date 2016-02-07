@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the development of health policy and its practice in\u00a0 American health organizations. Topics include costs, prices, and expenditures, insurance, programs (Medicare, Medicaid, SCHIP, and long-term care),\u00a0\u00a0 and reforms in the American system.", 
+        "number": "4604", 
+        "subject": "PUP", 
+        "title": "Health Services Organization and Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

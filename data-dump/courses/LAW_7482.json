@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the protection of at-risk species under the Endangered Species Act, and of contemporary law and policy regarding ecosystem management and biodiversity conservation.", 
+        "number": "7482", 
+        "subject": "LAW", 
+        "title": "Endangered Species Protection Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

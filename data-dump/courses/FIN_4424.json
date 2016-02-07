@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of financial management that relates the underlying principles of finance to the decision-making perspective of the financial manager. Selected topics include cash budgeting, working capital management, capital budgeting, risk analysis, valuation, long- and short-term financing, dividend decision, and financial forecasting. Case analyses are included.", 
+        "number": "4424", 
+        "subject": "FIN", 
+        "title": "Problems in Financial Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518, FIN 3244, and FIN 3403 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

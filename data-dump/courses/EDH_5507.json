@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course facilitates development of the knowledge and skills needed to\u00a0 become a constructive participant in a college or university budgeting process. Students are exposed to representative institutional budgets and budgetary processes, the budget's role in policy making, the broader economics\u00a0 and political context of budgeting, the role of institutional culture in\u00a0\u00a0 the budgeting process, and budgetary planning for reallocation and retrenchment.", 
+        "number": "5507", 
+        "subject": "EDH", 
+        "title": "College and University Budgeting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

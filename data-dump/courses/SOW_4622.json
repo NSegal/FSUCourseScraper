@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course critically analyzes African-American/black family life, culture, structure, and functioning. The focus is on knowledge and skill development for family intervention. Specifically, students review the historical development of black families in America, evaluate and analyze major family theoretical models, identify practice strategies and gaps and/or deficiencies in the existing social work practice literature, and focus on the advantages and disadvantages of utilizing these models in practice with black families.", 
+        "number": "4622", 
+        "subject": "SOW", 
+        "title": "Social Work with Black Families"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides teacher candidates with information related to cross cultural communication to prepare them to work with linguistically and culturally diverse learners in K-12 settings. Students explore the relationships between language and culture and focus on methods for fostering understanding between different cultural and subcultural groups.", 
+        "number": "4520", 
+        "subject": "TSL", 
+        "title": "Crosscultural Communication for Foreign/Second Language Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

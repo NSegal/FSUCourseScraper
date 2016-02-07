@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course involves analysis and evaluation of a research literature in education. The course also includes the selection of a significant research\u00a0 topic and preparation of a literature review.", 
+        "number": "5050", 
+        "subject": "EDH", 
+        "title": "Seminar in Graduate Inquiry Resources"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

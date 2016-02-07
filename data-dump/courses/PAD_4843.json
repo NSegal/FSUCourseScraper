@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with the U.S. Intelligence community, the processes and platforms for information/data gathering and analysis, and how the subsequent \"intelligence\" is used by policy/decision-makers. Throughout the course, students are given opportunities to gather, analyze, and report their findings to case-studies and then compare their conclusions to real-world outcomes. Students gain a broad knowledge of U.S. Intelligence operations and the social, economic, military, and covert actions resulting from Intelligence recommendations.", 
+        "number": "4843", 
+        "subject": "PAD", 
+        "title": "U.S. Intelligence Gathering and Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

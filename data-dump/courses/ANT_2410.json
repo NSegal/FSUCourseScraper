@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the origin and development of human lifeways with emphasis on non-Western societies. A comparative perspective is used to examine language, social organization, religion, values, and technology. Attention is also given to contemporary world problems.", 
+        "number": "2410", 
+        "subject": "ANT", 
+        "title": "Introduction to Cultural Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

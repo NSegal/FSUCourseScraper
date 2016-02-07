@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers UNIX and C standards, file I/O, file access and attributes, directories, the standard I/O library, systems administration files, the process environment, process control, process relationships, signals, terminal I/O, daemon processes, interprocess communication, and pseudo terminals.", 
+        "number": "5570", 
+        "subject": "COP", 
+        "title": "Concurrent, Parallel, and Distributed Programming"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

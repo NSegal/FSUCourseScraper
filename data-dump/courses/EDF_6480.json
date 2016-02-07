@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on applied statistics in the social sciences and how to use these tools to construct research reports specific to education.\u00a0 The goal of the course is for students to be more comfortable working with applied statistics and begin to apply the skills acquired to their own research.", 
+        "number": "6480", 
+        "subject": "EDF", 
+        "title": "Applied Quantitative Methods for Educational Practitioners"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

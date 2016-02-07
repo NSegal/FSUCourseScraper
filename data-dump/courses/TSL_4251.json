@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for pre-service teachers in the Elementary, Early Childhood, and English Education programs who will teach limited English proficiency and other linguistic minority students pre-K-12.", 
+        "number": "4251", 
+        "subject": "TSL", 
+        "title": "Applied Linguistics for Second Language Learning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

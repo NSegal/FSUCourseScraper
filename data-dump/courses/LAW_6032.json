@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the principles of commercial paper; system of bank deposits and collections, including the relationship of the commercial bank and its customer. The use of commercial paper in documentary exchanges is also covered.", 
+        "number": "6032", 
+        "subject": "LAW", 
+        "title": "Commercial Paper"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the history of Russia from 1801 to the beginning of the twentieth century, with emphasis on foreign relations and the development of the political and social conflicts that resulted in the revolutions of 1917.", 
+        "number": "5578", 
+        "subject": "EUH", 
+        "title": "19th-Century Russia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

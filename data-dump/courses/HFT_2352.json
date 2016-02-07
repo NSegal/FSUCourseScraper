@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on preparing students for the management of golf operations. For professional golf management majors only.", 
+        "number": "2352", 
+        "subject": "HFT", 
+        "title": "Introduction to Professional Golf Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 1382.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

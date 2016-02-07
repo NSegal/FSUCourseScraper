@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a forum for the in-depth examination of topics related to interpersonal communication theory and research. Topics include self-concept, verbal and nonverbal coding, listening, etc.", 
+        "number": "6306", 
+        "subject": "SPC", 
+        "title": "Contemporary Topics in Interpersonal Communication"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

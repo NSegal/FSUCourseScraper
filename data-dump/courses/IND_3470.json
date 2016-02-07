@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This lecture course focuses on general construction techniques and terminology, integrating the building systems of structure, plumbing, and mechanical and fire safety.", 
+        "number": "3470", 
+        "subject": "IND", 
+        "title": "Construction Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 3217.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

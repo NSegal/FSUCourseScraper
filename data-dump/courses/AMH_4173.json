@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyses post-Civil War America with emphasis on the Black role in American society and the attempt to heal the wounds of the Civil War. Topics include the rise of big business, labor unions, and the last frontier.", 
+        "number": "4173", 
+        "subject": "AMH", 
+        "title": "Post-Civil War America, 1865-1890"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

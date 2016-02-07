@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This tutorial consists of small group discussions or project work. Topics selected in contemporary issues or current research. Maximum enrollment of ten students per tutorial. May be repeated when topics change to a maximum of four semester hours.", 
+        "number": "4914", 
+        "subject": "HUN", 
+        "title": "Tutorial in Nutrition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

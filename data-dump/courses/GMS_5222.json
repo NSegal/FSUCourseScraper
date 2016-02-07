@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced biomedical sciences course for graduate students to introduce the recent developments in chromatin and epigenetics research in the context of human health. The course involves lectures and student-driven presentation and discussion. May be repeated to a maximum of six semester hours.", 
+        "number": "5222", 
+        "subject": "GMS", 
+        "title": "Chromatin Structure, Epigenetics and Human Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: PCB 5595, PCB 5137 or BMS 5525.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

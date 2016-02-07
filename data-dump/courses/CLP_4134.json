@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the development, maintenance, assessment and treatment of various psychological disorders of childhood and adolescence. Theoretical perspectives and research findings are discussed pertaining to anxiety, depression, autism, conduct disorder, attention-deficit/hyperactivity disorder, and learning disabilities.", 
+        "number": "4134", 
+        "subject": "CLP", 
+        "title": "Abnormal Child Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DEP 3103.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

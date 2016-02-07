@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to behavioral principles and procedures useful for managing the behavior of students with handicaps. For majors only.", 
+        "number": "3601", 
+        "subject": "EEX", 
+        "title": "Applied Behavior Analysis for Special Educators"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EEX 3831.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

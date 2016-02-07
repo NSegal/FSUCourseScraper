@@ -1,0 +1,37 @@
+{
+    "_unique": "0005-LEC (13991)", 
+    "basic": {
+        "class_num": "13991", 
+        "course": "4143", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "CLP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Milena Van Der Laat"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Milena Van Der Laat"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

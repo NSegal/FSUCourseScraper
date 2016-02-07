@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the coordination of advertising and marketing research, planning, creative strategy, and selection of media and production activities leading to the development of advertising campaigns.", 
+        "number": "4300", 
+        "subject": "ADV", 
+        "title": "Media Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ADV 3008.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

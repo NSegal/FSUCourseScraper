@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as enforcement of attachments, garnishments, debtors exemptions, fraudulent conveyances, and rights of debtors to be relieved of obligations; emphasis on bankruptcy jurisdiction, procedures, and administration.", 
+        "number": "7050", 
+        "subject": "LAW", 
+        "title": "Bankruptcy"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

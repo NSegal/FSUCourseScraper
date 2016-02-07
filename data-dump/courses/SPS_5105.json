@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an overview of emotional, social, and behavioral disorders of children and adolescents with a focus on characteristics, classification, issues, and strategies in assessment.", 
+        "number": "5105", 
+        "subject": "SPS", 
+        "title": "Social-Emotional Disorders of Children and Adolescents: Characteristics and Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

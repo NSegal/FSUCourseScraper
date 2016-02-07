@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of the development of a creative film project under the direction of a faculty member or industry professional in various areas. May be repeated to a maximum of six semester hours.", 
+        "number": "4923", 
+        "subject": "FIL", 
+        "title": "Undergraduate Film Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course completes the intermediate Spanish skills sequence and finishes the review of the grammar sequence begun in SPN 2220. Students deepen their functional skills in comprehending, speaking, reading, and writing Spanish, and gain an overview of Hispanic culture in various countries. Not open to native or heritage speakers of Spanish.", 
+        "number": "2240", 
+        "subject": "SPN", 
+        "title": "Intermediate Spanish II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPN 2220 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

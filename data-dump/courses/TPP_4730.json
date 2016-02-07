@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the techniques of acquiring a dialect for stage\u00a0\u00a0\u00a0\u00a0 performance. Scene study and monologues performed in dialects. Content may vary from semester to semester. May be repeated to a maximum of six semester hours.", 
+        "number": "4730", 
+        "subject": "TPP", 
+        "title": "Dialects for Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 2110r, TPP 3710r, TPP 3711, and/or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

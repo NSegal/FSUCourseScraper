@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to underlying concepts and methodology of cross-disciplinary studies that use linguistic data in the investigation of prehistory. Selected case studies convey some of the results of such research.", 
+        "number": "5611", 
+        "subject": "ANG", 
+        "title": "Linguistic Prehistory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

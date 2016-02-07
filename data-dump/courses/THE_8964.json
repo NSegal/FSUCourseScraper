@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is to be taken after the student has registered for or already taken a minimum of forty-eight hours.", 
+        "number": "8964", 
+        "subject": "THE", 
+        "title": "Preliminary Doctoral Exam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

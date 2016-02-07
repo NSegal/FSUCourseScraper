@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a basic understanding of the entire body and serves as a foundation for the remainder of the student's medical education. It is designed to present the applications of anatomy and embryology to the clinical sciences, and for the use of radiologic imaging in the diagnosis of clinical disorders. Students are introduced to anatomical terminology commonly used in medicine today, which, in conjunction with the acquired anatomical knowledge base is reinforced in the integrated format of the full four-year curriculum.", 
+        "number": "6115C", 
+        "subject": "BMS", 
+        "title": "Clinical Anatomy, Embryology and Imaging"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Summer", 
+        "units": "10.00"
+    }
+}

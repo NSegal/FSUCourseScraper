@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history, theory, and literature of ethnomusicology.", 
+        "number": "5580", 
+        "subject": "MUH", 
+        "title": "Introduction to Ethnomusicology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUH 2512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

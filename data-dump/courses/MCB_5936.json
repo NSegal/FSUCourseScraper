@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of sixteen semester hours.", 
+        "number": "5936", 
+        "subject": "MCB", 
+        "title": "Selected Topics in Microbiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 4.00"
+    }
+}

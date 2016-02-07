@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides observation and participation with LD/ED children in public and private settings.", 
+        "number": "5941", 
+        "subject": "EBD", 
+        "title": "Parcticum in Emotional Disturbance/Learning Disability"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

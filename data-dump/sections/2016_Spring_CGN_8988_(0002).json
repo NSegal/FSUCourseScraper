@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DEX (14053)", 
+    "basic": {
+        "class_num": "14053", 
+        "course": "8988", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "CGN", 
+        "type": "DEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "John Sobanjo"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

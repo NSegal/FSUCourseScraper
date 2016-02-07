@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers theory and practice of teaching undergraduate world music survey courses, including knowledge of and critical approaches to teaching materials in various media.", 
+        "number": "4591", 
+        "subject": "MUH", 
+        "title": "World Music Pedagogy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUH 2512 and MUH 4582.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of the history of Western clothing and its relationship to the stage.", 
+        "number": "4260", 
+        "subject": "THE", 
+        "title": "Historic Costume for the Stage"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: THE 3214.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

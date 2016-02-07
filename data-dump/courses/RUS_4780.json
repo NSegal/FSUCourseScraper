@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an understanding of the phonetic and phonemic structure of Russian with extensive oral practice.", 
+        "number": "4780", 
+        "subject": "RUS", 
+        "title": "Phonetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RUS 2220 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

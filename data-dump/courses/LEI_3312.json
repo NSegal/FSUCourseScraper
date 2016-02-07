@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to special event planning and prepares them to design and implement a variety of special events for leisure, recreation and park organizations, community organizations, non-profit agencies, associations, corporations, and other organizations.", 
+        "number": "3312", 
+        "subject": "LEI", 
+        "title": "Introduction to Special Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the history of Mexico, Central America, and the Caribbean nations of Cuba, Dominican Republic, Haiti, and Puerto Rico from the Indian civilizations of the remote past to the social conflicts of the present.", 
+        "number": "3411", 
+        "subject": "LAH", 
+        "title": "History of Mexico, Central America, and the Caribbean"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

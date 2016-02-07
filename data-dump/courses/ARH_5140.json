@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of classical Greek architecture, painting, sculpture, and other arts, and of the archaeological evidence for the chronology and cultural history of the early Imperial period.", 
+        "number": "5140", 
+        "subject": "ARH", 
+        "title": "Greek Art and Archaeology of the Fifth and Fourth Centuries BC"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

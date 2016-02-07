@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the assumptions underlying arguments about culture, gender and human rights. In particular, students explore, compare, and evaluate fundamental issues in the philosophy of human rights.", 
+        "number": "2031", 
+        "subject": "IFS", 
+        "title": "Who is Human? Culture, Gender and Human Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

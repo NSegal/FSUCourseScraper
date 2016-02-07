@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Production management for BFA thesis films. May be repeated to a maximum of fifteen semester hours.", 
+        "number": "4972", 
+        "subject": "FIL", 
+        "title": "Thesis Film Production Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

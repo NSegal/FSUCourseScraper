@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is an introduction to personal expression in painting medium; emphasizes color, composition, and painting techniques through historical examples and technical demonstrations.", 
+        "number": "2500C", 
+        "subject": "ART", 
+        "title": "Beginning Painting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

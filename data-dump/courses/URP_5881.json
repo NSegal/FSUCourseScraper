@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students the knowledge and skills necessary to understand and determine the physical planning and design of urban places. Topics cover key issues in contemporary urban design, planning, and architecture, with a focus on the form of the city and current trends in urban design practice. The course also provides students with a critical understanding of the wider social and environmental impacts on the shape, structure, and design of historic and contemporary urban projects and developments.", 
+        "number": "5881", 
+        "subject": "URP", 
+        "title": "Urban Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

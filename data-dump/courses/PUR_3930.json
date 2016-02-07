@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For this course, public relations majors must register for the proseminar on admission to t he program. They are to become active in FPRA, PRSSA, or WIC and remain active during undergraduate work.", 
+        "number": "3930", 
+        "subject": "PUR", 
+        "title": "Public Relations Proseminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: PUR 3000.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the foundational aspects of application design using procedural and object-oriented programming (OOP) concepts and techniques, employing various application development tools.", 
+        "number": "4369", 
+        "subject": "LIS", 
+        "title": "Extensible Enterprise Solutions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SOP 2258, LIS 2360, and LIS 2780, each with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

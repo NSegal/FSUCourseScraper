@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the opportunity for analysis and evaluation of current anesthesia literature through student presentations and discussion and anesthesia related guest lectures. May be repeated to a maximum of five semester hours.", 
+        "number": "6929C", 
+        "subject": "NGR", 
+        "title": "Clinical Correlation Conference"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to the nurse anesthesia program and successful completion of each Clinical Correlation Conference course in the series.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

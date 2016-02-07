@@ -1,0 +1,26 @@
+{
+    "_unique": "0052-DIS (14925)", 
+    "basic": {
+        "class_num": "14925", 
+        "course": "4905", 
+        "season": "Spring", 
+        "solus_id": "0052", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Mykhailo Shatruk"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

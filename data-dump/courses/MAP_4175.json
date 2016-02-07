@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers single- and multiple-life survival analysis; mortality laws, deterministic methods, and contingent payments and annuities; premium principles and reserves for continuous, discrete, and semi-continuous insurance products; as well as multiple decrement theory (competing risks) and applications.", 
+        "number": "4175", 
+        "subject": "MAP", 
+        "title": "Actuarial Models"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 4170 and STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

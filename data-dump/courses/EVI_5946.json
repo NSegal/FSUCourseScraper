@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, interns teach rehabilitation skills within a federal, state, or private not-for-profit agency to adults with visual disabilities. They do so under the supervision of an experienced, Certified Vision Rehabilitation Therapist (CVRT).", 
+        "number": "5946", 
+        "subject": "EVI", 
+        "title": "Internship in Rehabilitation Teaching of Adults with Visual Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 5019 and EVI 5255.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is required of guitar performance majors. May be repeated to a maximum of two semester hours.", 
+        "number": "3536", 
+        "subject": "MVS", 
+        "title": "Guitar Repertory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission. Corequisite: MVS 3436.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

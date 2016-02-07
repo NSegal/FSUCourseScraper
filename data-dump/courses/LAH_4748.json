@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a thematic coverage of the history of social revolutionary movements in Latin America, using specific case studies drawn from, among others, the Mexican, Bolivian, and Cuban revolutions.", 
+        "number": "4748", 
+        "subject": "LAH", 
+        "title": "Social Revolutionary Movements in Latin America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

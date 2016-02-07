@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to explore knowledge of practices that promote health and well-being. Emphasis is on stress management and body-mind-spirit communication. A variety of holisitc and complementary approaches to health and healing are explored.", 
+        "number": "3177", 
+        "subject": "NUR", 
+        "title": "Holistic and Complementary Approaches to Health and Healing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of the philosophical foundations of bioethical theory and an exploration of the trenchant issues in contemporary bioethics with a concentration on discussions of race, gender, and vulnerable populations (e.g. the poor, immigrants). The course employs tools of ethical theory, philosophical analysis, and analytic writing to examine a number of moral issues arising in health care including justice in health care, experimentation and research on human subjects, reproductive technology, aging, organ donation, and euthanasia. Throughout the course we examine assumptions about rights, persons, and ethical principles at work in medical decisions.", 
+        "number": "2635", 
+        "subject": "PHI", 
+        "title": "Bioethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

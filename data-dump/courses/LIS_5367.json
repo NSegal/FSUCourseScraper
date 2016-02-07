@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course aims to explore, discuss, and research emerging technologies in the area of Web application development. Emphasis is placed on standards and exposure to more recent technologies relating to the Web, providing hands-on experience, and discussion of practical implications of these emerging fields.", 
+        "number": "5367", 
+        "subject": "LIS", 
+        "title": "Advanced Web Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 5362 and LIS 5364.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on marriage and family relationships over the life course. Topics covered include dating, love, sexuality, cohabitation, marriage, divorce, reconstituted families, parenting, and marital and family relationships in later life. The major course objective is to critically analyze some of our most private social relationships from a sociological perspective.", 
+        "number": "2430", 
+        "subject": "SYG", 
+        "title": "Sociology of Marriage and the Family"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

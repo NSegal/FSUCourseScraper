@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "1001L", 
+        "subject": "EVR", 
+        "title": "Environmental Science Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EVR 1001.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines mathematical modeling of continuous physical systems. Frequency and time domain analysis and design of control systems. State variable representations of physical systems.", 
+        "number": "5311", 
+        "subject": "EML", 
+        "title": "Design and Analysis of Control Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAP 3306.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

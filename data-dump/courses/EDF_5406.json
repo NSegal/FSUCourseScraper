@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines design and analysis of research studies with multiple independent and dependent variables including path analysis, confirmatory factor analysis, and exploratory factor analysis.", 
+        "number": "5406", 
+        "subject": "EDF", 
+        "title": "Multivariate Analysis Applications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5401.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

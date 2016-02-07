@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "A variable content research seminar on selected philosophical problems.\u00a0\u00a0\u00a0 cted to bringing a student's work to the publishable stage.", 
+        "number": "5934", 
+        "subject": "PHI", 
+        "title": "Topics in Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

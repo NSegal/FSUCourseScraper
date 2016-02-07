@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-PRF (11865)", 
+    "basic": {
+        "class_num": "11865", 
+        "course": "2330C", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "ART", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:35:00", 
+            "instructors": [
+                "Noah Verrier"
+            ], 
+            "location": "FAB 0330", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "11:35:00", 
+            "instructors": [
+                "Noah Verrier"
+            ], 
+            "location": "FAB 0330", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

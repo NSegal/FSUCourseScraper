@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the philosophy and practice of acquiring the museum object; the processing of the object in an institutional setting; research methods and interpretation; philosophy in methods of presenting the object and its interpretation through exhibition and display; and various forms of publications and dissemination.", 
+        "number": "5838", 
+        "subject": "ARH", 
+        "title": "The Museum Object"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Must be currently enrolled in a graduate-degree program in a department participating in the Museum Studies Certificate Program or have a graduate degree in a\u00a0 related discipline.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

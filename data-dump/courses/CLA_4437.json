@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on specified periods of Greek history, whether Archaic, Classical, or Hellenistic. May be repeated to a maximum of six semester hours.", 
+        "number": "4437", 
+        "subject": "CLA", 
+        "title": "Studies in Greek History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

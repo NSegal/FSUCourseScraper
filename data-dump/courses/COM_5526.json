@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses the principles and procedures for communications planning for marketing and culminates in the development of an integrated marketing plan for e-business.", 
+        "number": "5526", 
+        "subject": "COM", 
+        "title": "Marketing Communication Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

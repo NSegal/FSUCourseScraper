@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on individuals and their families during the childbearing and childrearing phases of family development. Physiologic, psychological, sociocultural, and pathophysiologic processes and environmental issues associated with childbearing and childrearing are presented. The nurse's role in health promotion is emphasized. Illness and complications are examined. Issues related to preserving, promoting, and restoring health status of family members are emphasized. The application of competencies and skills may occur in a simulated setting", 
+        "number": "4445", 
+        "subject": "NUR", 
+        "title": "Nursing Care of Women, Children and Families"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Semesters I and II Nursing courses. Corequisites: Semester III Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

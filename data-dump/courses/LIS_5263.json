@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This coursecovers the theory if information retrieval for text, images, and sound. Discussion of various retrieval, query, and knowledge representation methods beyond Boolean models, including vector, probabilistic, and associative network models. Elaboration of concepts of retrieval performance efficiency and effectiveness beyond precision and recall. Relevant issues of user interfaces and hypertext are explored.", 
+        "number": "5263", 
+        "subject": "LIS", 
+        "title": "Theory of Information Retrieval"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LIS 5703.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

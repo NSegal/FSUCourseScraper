@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide students the opportunity to develop an initial theoretical framework in which to analyze mathematics curricula from a philosophical and psychological basis.", 
+        "number": "6148", 
+        "subject": "MAE", 
+        "title": "Curriculum in Mathematics Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

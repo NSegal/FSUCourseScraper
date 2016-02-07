@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course varies in content as student's needs are addressed. May be repeated to a maximum of nine semester hours.", 
+        "number": "5900", 
+        "subject": "FRE", 
+        "title": "Studies in French Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

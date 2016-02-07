@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides in-depth exposure to the forensic accounting process and related audit topics, including identification of fraud risk factors and development of skills in detecting fraud.", 
+        "number": "5685", 
+        "subject": "ACG", 
+        "title": "Forensic Accounting"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 4632 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a comprehensive survey of the structure and function of human-resource development in organizations. Focus is on alternative perspectives, professional roles and competencies, as well as on the organizational features affecting Human-Resource Development operations and programs.", 
+        "number": "5083", 
+        "subject": "ADE", 
+        "title": "Human Resource Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

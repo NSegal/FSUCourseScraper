@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include leadership theories, motivation, goal setting, planning, proposal writing and technical presentations. Presentations given by business leaders are planned.", 
+        "number": "5931", 
+        "subject": "EIN", 
+        "title": "Leadership and Communications"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing and EGN 3613.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

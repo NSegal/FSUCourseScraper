@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores topics such as current, voltage, and power; resistors, inductors, and capacitors; network theorems and laws; operational amplifiers, phasors; impedances; sinusoidal steady-state analysis.", 
+        "number": "3111", 
+        "subject": "EEL", 
+        "title": "Introductory Circuit Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312. Corequisites: MAC 2313 and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

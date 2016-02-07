@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores areas of biology popularized in the media, politics and global health policies. Students determine strengths and weaknesses of opposing arguments of controversial current biological issues using information found in the scientific literature to support or critique positions. Popular biological issues such as pros and cons of vaccination, the use of stem cells, or the dangers of genetically modified organisms are studied.", 
+        "number": "2081", 
+        "subject": "IFS", 
+        "title": "Busting Common Biology Myths"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers group theory and vibrational spectroscopy. May be repeated to a maximum of nine semester hours.", 
+        "number": "5680", 
+        "subject": "CHM", 
+        "title": "Current Topics in Inorganic Chemistry"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores Byzantine art and architecture from the rise of Christianity in the second and third centuries to the end of the sixth century. Emphasis is placed on how imperial rulers used art to further their political and religious agendas.", 
+        "number": "5220", 
+        "subject": "ARH", 
+        "title": "Early Christian and Byzantine Art"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

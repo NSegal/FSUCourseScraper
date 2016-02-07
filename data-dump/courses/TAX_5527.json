@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth examination of multijurisdictional tax issues including U.S. federal income taxation of inbound and outbound\u00a0 transactions, state and local taxation, and multijurisdictional tax policy issues.", 
+        "number": "5527", 
+        "subject": "TAX", 
+        "title": "Multijurisdictional Tax Issues"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TAX 4001.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

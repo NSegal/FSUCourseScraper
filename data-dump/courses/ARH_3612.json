@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introductory survey of the visual and material culture of the Americas from the archaic period to the present.", 
+        "number": "3612", 
+        "subject": "ARH", 
+        "title": "Visual Cultures of the Americas"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

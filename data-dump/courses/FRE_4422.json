@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, intended for students with a thorough grounding in French grammar, aims at developing writing and speaking ability through the reading of a variety of sophisticated French prose works and the compositions of essays based on these model texts.", 
+        "number": "4422", 
+        "subject": "FRE", 
+        "title": "Advanced Grammar and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 3421 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

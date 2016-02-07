@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course brings together microhistory, urban history, and digital history. Students collect comprehensive data about the events in a single city in a single year, through close reading of an English-language daily newspaper published in that city. They gather much of this data using digital methods and then work together to represent those events in a Web site that employs a variety of digital communication tools.", 
+        "number": "2116", 
+        "subject": "IFS", 
+        "title": "Digital Microhistory Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

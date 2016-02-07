@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course exposes students to the concepts, policies and procedures encountered in medical settings. The primary goal is to make students more comfortable upon entering the medical setting in offsite practicums.", 
+        "number": "5522", 
+        "subject": "SPA", 
+        "title": "Medical Speech Pathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course delves fully into Fitzmaurice Voicework: destructuring to release breath, creative impulses, and the voice; and restructuring which allows the actor to bring breath and impulse work skillfully onto the stage. The speech work for this class includes training of the articulators, speech production, IPA, and mastery of the standard American dialect. May be repeated to a maximum of six semester hours.", 
+        "number": "5715", 
+        "subject": "TPP", 
+        "title": "Voice I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

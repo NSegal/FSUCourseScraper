@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an overview of acting as an art and craft.", 
+        "number": "2100", 
+        "subject": "TPP", 
+        "title": "Performance I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches aspects of feature screenwriting format, pitching ideas, creating and developing character, story, and dialogue.", 
+        "number": "4160", 
+        "subject": "FIL", 
+        "title": "Feature Screenwriting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

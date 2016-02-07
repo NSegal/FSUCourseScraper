@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes feasibility science, mathematics and engineering focused on the engineering economic analysis of design and system alternatives for high technology operations.", 
+        "number": "5353", 
+        "subject": "EIN", 
+        "title": "Engineering Economic Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3443 and MAP 3305.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

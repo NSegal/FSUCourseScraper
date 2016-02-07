@@ -1,0 +1,26 @@
+{
+    "_unique": "0008-LAB (4039)", 
+    "basic": {
+        "class_num": "4039", 
+        "course": "1000L", 
+        "season": "Spring", 
+        "solus_id": "0008", 
+        "status": "Closed", 
+        "subject": "GLY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Stephanie McColaugh"
+            ], 
+            "location": "CAR 0109", 
+            "start_time": "09:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

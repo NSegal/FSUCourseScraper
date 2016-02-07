@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on knowing and learning in secondary science and mathematics as understood from a multidisciplinary perspective. The primary goal of this course is not simply to offer a general survey of theories of scientific and mathematical knowing and learning, but also to provide students with the opportunity to identify theories of knowing and learning and to employ these theories in their own practice of science and mathematics teaching.", 
+        "number": "3100", 
+        "subject": "SMT", 
+        "title": "Knowing and Learning in Science and Mathematics (FSU-Teach)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: SMT 1043 and SMT 1053, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

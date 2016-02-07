@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the ethics of money, wealth, and poverty from the perspective of religious communities.", 
+        "number": "2007", 
+        "subject": "IFS", 
+        "title": "Need and Greed (Is Money the Root of All Evil?)"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

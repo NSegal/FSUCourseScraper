@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the African-American experience in the U.S. with the goal of understanding how historical conditions and events shaped current circumstances. Focus is on African-Americans as situated in all major institutions (economy, polity, family, education, religion, welfare, military, criminal justice) and the consequences of their placement. The course applies sociological theories of race/ethnicity to past and current developments.", 
+        "number": "4730", 
+        "subject": "SYD", 
+        "title": "African-Americans in Modern Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

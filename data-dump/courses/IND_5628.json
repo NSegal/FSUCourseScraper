@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course gives students a basic introduction to the fundamentals of sustainable design in order to better understand the interrelationships betweenthe built environment and nature.", 
+        "number": "5628", 
+        "subject": "IND", 
+        "title": "Prinicples of Sustainable Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

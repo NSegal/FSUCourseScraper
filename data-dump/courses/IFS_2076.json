@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores entrepreneurship from antiquity to contemporary society. In particular, the course examines how contemporary entrepreneurship is undergoing a fundamental shift towards a powerful new kind of consumer called the \"prosumer.\" Additionally this course seeks to explore how innovation and lean concepts are leading to successful commerce and how that commerce impacts culture and daily lives.", 
+        "number": "2076", 
+        "subject": "IFS", 
+        "title": "The Lean Machine: The 21st Century Entrepreneur"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

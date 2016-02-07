@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers topics such as structured programming techniques; numerical techniques useful in the solution of chemical engineering processes: root-finding techniques, direct and iterative approaches to solve linear systems, linear and nonlinear regression, interpolation, numerical differentiation and integration, statistical analysis of data; solutions of ordinary differential equations.", 
+        "number": "3854", 
+        "subject": "ECH", 
+        "title": "Chemical Engineering Computations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 3024, ECH 3301, and PHY 2049C, all with a grade of \"C\" or higher. Corequisites: ECH 3101 and ECH 3266.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

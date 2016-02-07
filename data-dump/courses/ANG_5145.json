@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the evolution of ancient complex societies and theories of state origins using a comparative method involving ecological, economic and social approaches to investigate the origins, collapse and sustainability.", 
+        "number": "5145", 
+        "subject": "ANG", 
+        "title": "Origins of Complex Society"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

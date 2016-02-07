@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar course covers higher education at multiple levels.", 
+        "number": "5005", 
+        "subject": "EDH", 
+        "title": "Sociology of Higher Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

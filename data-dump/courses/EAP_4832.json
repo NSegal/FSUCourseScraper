@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a systematic coverage of the sounds of modern American English. Emphasis is on the role of prosodic features in comprehensibility, development of critical listening, activities for developing self-monitoring competencies.", 
+        "number": "4832", 
+        "subject": "EAP", 
+        "title": "American Pronunciation for International Teaching Assistants"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

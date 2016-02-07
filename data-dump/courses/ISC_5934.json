@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar is a series of lectures given by faculty on research being conducted in the School of Computational Science.", 
+        "number": "5934", 
+        "subject": "ISC", 
+        "title": "Introductory Seminar on Research in Computational Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

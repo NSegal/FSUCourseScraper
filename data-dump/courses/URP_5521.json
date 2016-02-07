@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "The course covers selected information, concepts, and methods from the field of epidemiology, with emphasis on the methods by which risk factors are identified and evaluated as potential causes of health-related events. The course is geared toward providing students with a basic understanding of epidemiology, its role as the foundation for public health, and how it is practiced.", 
+        "number": "5521", 
+        "subject": "URP", 
+        "title": "Public Health Epidemiology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines lyric poetry and prose from Wyatt and Spenser to Shakespeare and the metaphysicals: Donne, Herbert, Marvell, and Vaughan.", 
+        "number": "4220", 
+        "subject": "ENL", 
+        "title": "Renaissance Poetry and Prose"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

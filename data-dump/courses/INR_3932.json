@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Topics vary. May be repeated as topics change to a maximum of fifteen semester hours.", 
+        "number": "3932", 
+        "subject": "INR", 
+        "title": "Special Topics in International Affairs"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

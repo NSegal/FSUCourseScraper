@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the many issues related to being blind in a society predicated on the presumption that people can use vision to manage societal demands.\u00a0 The losses unique to visual impairment are explored, and students are provided instructional strategies to assist individuals in living with visual impairment in a world designed for sighted people.", 
+        "number": "5355", 
+        "subject": "EVI", 
+        "title": "Issues of Blindness in Society"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

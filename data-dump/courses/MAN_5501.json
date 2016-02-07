@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops a conceptual framework which is useful in describing the nature of the operations function, with emphasis on identifying basic issues in managing the operations of a service organization.", 
+        "number": "5501", 
+        "subject": "MAN", 
+        "title": "Operations Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

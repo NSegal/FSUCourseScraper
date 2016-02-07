@@ -1,0 +1,33 @@
+{
+    "_unique": "0006-LAB (1021)", 
+    "basic": {
+        "class_num": "1021", 
+        "course": "3402L", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:45:00", 
+            "instructors": [], 
+            "location": "KIN 1058", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [], 
+            "location": "KIN 2071", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

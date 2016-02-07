@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course may be repeated to a maximum of twelve semester hours.", 
+        "number": "6408", 
+        "subject": "MAD", 
+        "title": "Advanced Topics in Numerical Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

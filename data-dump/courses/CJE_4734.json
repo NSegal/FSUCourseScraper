@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the formal intelligence collection process with emphases on Open Source and Human Intelligence. Students become familiar with the process, developing comprehensive strategies for the production of intelligence by satisfying levied requirements using a variety of intelligence sources available to local public safety and security personnel.", 
+        "number": "4734", 
+        "subject": "CJE", 
+        "title": "Intelligence Collection Strategies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 3732 and STA 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches microscopy as it relates to trace evidence and the different types of trace evidence and the techniques used to recover, store and analyze the evidence using various techniques like microanalysis, gas chromatography and mass spectrometry. It also looks at the quickly evolving area of biometrics and how computer software is used to make identifications in areas like fingerprints and facial recognition.", 
+        "number": "4241L", 
+        "subject": "CJE", 
+        "title": "Trace and Biometric Evidence Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CJE 4241.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

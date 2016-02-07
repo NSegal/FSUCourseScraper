@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for students completing the LLM in Environmental Law and Policy to remain matriculated at the College while completing their capstone project.", 
+        "number": "7805", 
+        "subject": "LAW", 
+        "title": "LLM Writing Project"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

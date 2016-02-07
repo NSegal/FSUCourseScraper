@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the clinical practice of speech-language pathology. Students become acquainted with the principles of assessment, application of diagnostic information, intervention planning, intervention strategies and techniques, service delivery options, and data collection. Students also gain an understanding of team membership and are introduced to the skills necessary for team building.", 
+        "number": "4056", 
+        "subject": "SPA", 
+        "title": "Clinical Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

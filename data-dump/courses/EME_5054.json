@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the current theories and practices of using technology in teaching and learning. Students participate in a computer supported learning environment and integrate theory and technology into their practices.", 
+        "number": "5054", 
+        "subject": "EME", 
+        "title": "Educational Technology: Theory and Practice in Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

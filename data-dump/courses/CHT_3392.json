@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to Chinese women's writings up to the 19th century. Readings also include some men's writings on women to assist students with the exploration of women's culture in pre-modern society, especially how women negotiated gender power as active agents rather than passive victims. The course can be taken to fulfill the requirements for Chinese or Asian Studies major/minor, liberal studies, and multicultural awareness. This course is taught in English. May be repeated to a maximum of six semester hours.", 
+        "number": "3392", 
+        "subject": "CHT", 
+        "title": "Writing Women in Pre-Modern China"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

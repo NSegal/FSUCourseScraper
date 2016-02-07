@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for MFA degree candidates in dance only. The development and production of he graduate concert. May be repeated to a maximum of nine semester hours. A minimum of six semester hours is required.", 
+        "number": "5972", 
+        "subject": "DAN", 
+        "title": "Creative Thesis: Graduate Concert"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Thesis": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 6.00"
+    }
+}

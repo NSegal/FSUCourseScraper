@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the functions and roles of the different players within the U.S. Intelligence Community. Additionally students are acquainted with the processes and platforms for information gathering and analysis and how the developed intelligence is used by policy makers.", 
+        "number": "5848", 
+        "subject": "PAD", 
+        "title": "U.S. Intelligence Gathering and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

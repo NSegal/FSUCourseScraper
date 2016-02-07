@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected federal statues enacted to remedy violations of federal constitutional rights. The principal Reconstruction Era Statues, 42 U.S.C. Sections 1981, 1982, and 1983, are examined in depth.", 
+        "number": "7510", 
+        "subject": "LAW", 
+        "title": "Civil Rights"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5501 and LAW 5502.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

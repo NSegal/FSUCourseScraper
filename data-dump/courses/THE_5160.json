@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics include Romanticism, Realism, Modernism, Postmodernism, and Postcolonialism.", 
+        "number": "5160", 
+        "subject": "THE", 
+        "title": "Advanced Theatre History III: 19th and 20th Centuries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

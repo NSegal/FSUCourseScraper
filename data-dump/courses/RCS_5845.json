@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course consists of individualized practicum experience in administration, teaching, or research. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5845", 
+        "subject": "RCS", 
+        "title": "Leadership Practicum in Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 6.00"
+    }
+}

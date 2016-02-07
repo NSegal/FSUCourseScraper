@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines world cinema with a focus on the elusive and continually shifting boundary between reality and illusion. The course investigates creative approaches to storytelling and the craft of filmmaking not typically seen in traditional Hollywood or American independent film productions.", 
+        "number": "2013", 
+        "subject": "IFS", 
+        "title": "Reality and Illusion in World Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

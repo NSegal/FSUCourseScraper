@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a seminar on special topics in classical archaeology with emphasis on understanding the workings of the discipline. May be repeated to a maximum of six semester hours.", 
+        "number": "5799", 
+        "subject": "CLA", 
+        "title": "Seminar in Classical Archaeology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers management methods and concepts utilized in the administration of food and beverage functions.", 
+        "number": "4802", 
+        "subject": "HFT", 
+        "title": "Catering Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: HFT 3806.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

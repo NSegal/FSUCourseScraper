@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an examination of current and future issues in business and society with emphasis on the social responsibility of business and future challenges for business in a pluralistic society.", 
+        "number": "4701", 
+        "subject": "MAN", 
+        "title": "Business and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

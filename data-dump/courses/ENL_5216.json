@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores various approaches to the study of the languages and literary texts from the twelfth to the fourteenth century.", 
+        "number": "5216", 
+        "subject": "ENL", 
+        "title": "Studies in Middle English Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

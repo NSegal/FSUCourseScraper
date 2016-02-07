@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews rationales for performing sociological research and examines the relationship between sociological theory and research design. It also reviews the dimensions of research, e.g., measurement theory, definition and concept formation, strategies of theory testing, inadequacies and deficiencies of different research designs, statistical and causal inference.", 
+        "number": "5305", 
+        "subject": "SYA", 
+        "title": "Introduction to Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

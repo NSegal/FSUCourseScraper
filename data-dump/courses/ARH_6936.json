@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This advanced seminar covers specific and variable topics within the area of World Arts. May be repeated to a maximum of nine semester hours.", 
+        "number": "6936", 
+        "subject": "ARH", 
+        "title": "Topics in World Arts: Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

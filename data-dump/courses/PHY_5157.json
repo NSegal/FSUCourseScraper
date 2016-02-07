@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to a variety of numerical techniques for the solution of differential equations (D.E.) as well as an exploration of some of the power behind Monte Carlo (M.C.) methods.", 
+        "number": "5157", 
+        "subject": "PHY", 
+        "title": "Advanced Numerical Applications in Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 4151C and PHY 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to financial strategies related to sport entities and organizations.", 
+        "number": "4505", 
+        "subject": "SPM", 
+        "title": "Sport Finance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

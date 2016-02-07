@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of contemporary tort law and policy, focusing in depth on the jurisprudential and economic foundations of injury compensation generally and in the context of several particular tort law doctrines.", 
+        "number": "6703", 
+        "subject": "LAW", 
+        "title": "Advanced Torts"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

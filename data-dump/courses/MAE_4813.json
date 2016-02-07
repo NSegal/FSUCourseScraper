@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates, compares, and contrasts principles and operations related to finite and infinite subsets of real numbers with an emphasis on understanding. Not open to students majoring in mathematics.", 
+        "number": "4813", 
+        "subject": "MAE", 
+        "title": "Number Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

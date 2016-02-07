@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the social and cultural worlds of the great eighteenth-century British navigator, James Cook. Specifically, the course explores the places where Cook went, the social world of the British Navy, the ethno-historical dynamics of British-Native interactions in the Pacific, as well as Cook's legacy for the British and for the peoples of the Pacific.", 
+        "number": "5226", 
+        "subject": "WOH", 
+        "title": "The Worlds of Captain Cook"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents state-of-the-art methods in the design, implementation, interpretation, and reporting of randomized clinical trail (RCT) research applicable to marriage and therapy. Methodological controversies, proposed solutions, and ethical issues are discussed.", 
+        "number": "6607", 
+        "subject": "FAD", 
+        "title": "Randomized Clinical Trials"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing and graduate courses in research methods and statistics.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

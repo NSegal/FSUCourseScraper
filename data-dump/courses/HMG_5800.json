@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an advanced investigation into restaurant operations and management.\u00a0 It includes research as to how restaurants are licensed, evaluated, inspected, and approved according to state regulations. Students produce research, study trends, and learn how to work with state officials for the opening of new facilities that meet state expectations.", 
+        "number": "5800", 
+        "subject": "HMG", 
+        "title": "Food and Beverage Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

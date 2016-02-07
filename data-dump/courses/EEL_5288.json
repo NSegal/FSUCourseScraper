@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the concept of integration of alternate renewable resource based power generation technologies known as \u2018Distributed Generation\u2019. The course familiarizes students with various DG sources such as Wind, Solar, Hydro, Wave and Tidal, Geothermal, and Bio-fuel based energy generation technologies, however, PV and wind technologies are studied in details. The course also covers the modeling and simulation of distribution networks, modeling of PV and wind technologies, their integration technologies with the grid, possible impacts on grid due to the integration of DG, tariffs (feed-in tariff, net-metering etc.) for DG integrations, impact of variability, microgrids and its controls, IEE interconnection standards etc.", 
+        "number": "5288", 
+        "subject": "EEL", 
+        "title": "Integration of Distributed Generation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3216.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the history of immigration to the United States. Topics include the evolution of ethnic cultures and the role of race in adjustment, and related conflicts from colonial times to the present. The course does not count as credit toward the history major.", 
+        "number": "2097", 
+        "subject": "AMH", 
+        "title": "Nationality, Race, and Ethnicity in the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students a perspective on the critical relations between class and gender in industrializing England, 1750-1914. Examines the lives and activities of English women, from the poorest to the wealthiest classes, against the background of the major dislocations occurring in British society during this period.", 
+        "number": "4544", 
+        "subject": "EUH", 
+        "title": "Sex and Class in England, 1750-1914"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

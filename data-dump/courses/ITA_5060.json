@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to present structures of the Italian language and vocabulary to prepare graduate students majoring in other disciplines to read learned journals, books, and monographs written in Italian useful for the student's research in humanities, natural or social sciences.", 
+        "number": "5060", 
+        "subject": "ITA", 
+        "title": "Graduate Reading Knowledge in Italian"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

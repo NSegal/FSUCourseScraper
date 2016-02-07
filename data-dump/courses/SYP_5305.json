@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar discusses theories and research about collective behavior and social movements. In the course, particular movements are studied relative to competing theories of mobilization.", 
+        "number": "5305", 
+        "subject": "SYP", 
+        "title": "Collective Behavior and Social Movements"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

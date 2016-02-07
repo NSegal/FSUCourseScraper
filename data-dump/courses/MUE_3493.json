@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines communication in the conducting of instrumental music in public schools. It emphasizes verbal and non-verbal rehearsal techniques and the application of pedagogical skills in the classroom.", 
+        "number": "3493", 
+        "subject": "MUE", 
+        "title": "Communication Skills for the Musician: Instrumental"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

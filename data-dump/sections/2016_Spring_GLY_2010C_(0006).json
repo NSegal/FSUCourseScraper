@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-LAB (4041)", 
+    "basic": {
+        "class_num": "4041", 
+        "course": "2010C", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Open", 
+        "subject": "GLY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "14:20:00", 
+            "instructors": [
+                "Scott Byfield"
+            ], 
+            "location": "CAR 0315", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

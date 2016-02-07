@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Examples of topics in this course are: item bias, adaptive testing, decision theory.", 
+        "number": "6933", 
+        "subject": "EDF", 
+        "title": "Measurement Seminar: Decision Processes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 5434.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

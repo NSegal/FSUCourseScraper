@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a marketing internship designed for marketing majors who want to gain real world experience in the marketing field through on-the-job practice. Students work under the direction of an approved industry professional, a faculty advisor and the internship director.", 
+        "number": "4941", 
+        "subject": "MAR", 
+        "title": "Marketing Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 3023 and six hours of additional coursework in Marketing; consent of internship director or sales program director.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Through a variety of readings and written and oral activities, this course provides students with knowledge about modern Spanish America, from 1800 to the present. Topics may include indigenous and Afro-Caribbean cultures, multiculturalism, revolutions, globalization, and border issues.", 
+        "number": "3493", 
+        "subject": "SPW", 
+        "title": "Readings from Modern Spanish America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPW 330 and SPN 3400; or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

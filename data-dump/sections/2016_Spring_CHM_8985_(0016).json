@@ -1,0 +1,26 @@
+{
+    "_unique": "0016-DDF (12366)", 
+    "basic": {
+        "class_num": "12366", 
+        "course": "8985", 
+        "season": "Spring", 
+        "solus_id": "0016", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "DDF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Kenneth Knappenberger"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

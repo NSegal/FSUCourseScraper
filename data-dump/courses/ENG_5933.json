@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics vary.", 
+        "number": "5933", 
+        "subject": "ENG", 
+        "title": "Topics in English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

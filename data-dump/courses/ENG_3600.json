@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys central problems in the study of mainstream U.S. cinema. Topics include major historical developments, arguments over social and aesthetic value, and close examination of critically important films.", 
+        "number": "3600", 
+        "subject": "ENG", 
+        "title": "Hollywood Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

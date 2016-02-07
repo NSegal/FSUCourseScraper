@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to the central theories of non-profit enterprise, and the implications of various management practices for nonprofit organizations. The course also introduces students to the major aspects of nonprofits and voluntary organizations that distinguish them from public and private organizations \u2013 i.e. mission/vision; legal definitions/IRS rulings; voluntary governance structures and a social change agenda.", 
+        "number": "4144", 
+        "subject": "PAD", 
+        "title": "Managing the Nonprofit Organization"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

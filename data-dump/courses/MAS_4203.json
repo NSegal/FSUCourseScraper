@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the Euclidean algorithm; congruencies, quadratic residues, the law of quadratic reciprocity, and an elementary discussion of arithmetic functions and distribution of primes.", 
+        "number": "4203", 
+        "subject": "MAS", 
+        "title": "Theory of Numbers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAS 3105 and prior experience with mathematical proofs (MGF 3301, MAD 2104 or other proving experience).", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students the opportunity to develop a working knowledge of the materials and structures of tonal and post-tonal music through reading, listening, model composition, and music analysis, and to be able to demonstrate mastery of these materials orally and in writing.", 
+        "number": "2117", 
+        "subject": "MUT", 
+        "title": "Music Theory IV"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUT 2116. Corequisite: MUT 2247.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

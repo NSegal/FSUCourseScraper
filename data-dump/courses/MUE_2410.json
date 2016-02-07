@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines individual and group vocal techniques for the non-voice music education major.", 
+        "number": "2410", 
+        "subject": "MUE", 
+        "title": "Choral Techniques for Non-Voice Principals"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Non-vocal music education majors or instructor permission. Corequisite: University Chorale (Summer) or approved substitute.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00"
+    }
+}

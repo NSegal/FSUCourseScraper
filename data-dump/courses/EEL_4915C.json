@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows senior students to work in teams to propose, design, build, and test electrical engineering devices or systems under the direction of a faculty member. Open-ended design experience with a practical problem applies a broad spectrum of engineering knowledge. Periodic written reports and oral presentations and a final written report are required. The lecture material and texts provide instructions on general project execution, technical writing, and engineering economics.", 
+        "number": "4915C", 
+        "subject": "EEL", 
+        "title": "Electrical Engineering Senior Design Project II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 4911C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

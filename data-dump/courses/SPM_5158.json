@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed provide information regarding the various components and activities in the organization and administration of athletic programs for prospective athletic administrators.", 
+        "number": "5158", 
+        "subject": "SPM", 
+        "title": "Athletic Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

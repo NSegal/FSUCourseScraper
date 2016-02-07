@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers linear perturbation theory; sound, gravity, and Rossby waves; numerical weather prediction; baroclinic and barotropic instability; energetics. An introduction to theory of partial differential equations applied to meteorological problems is also presented.", 
+        "number": "4302", 
+        "subject": "MET", 
+        "title": "Atmospheric Dynamics II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 2302 or MAP 3305 with a grade of \"C-\" or better, and MET 4301 with a grade of \"C-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

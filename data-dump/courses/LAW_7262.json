@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the law and policy of international trade and economic integration, with an emphasis on regional economic integration in the Americas.", 
+        "number": "7262", 
+        "subject": "LAW", 
+        "title": "International Trade"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "2.00 - 3.00"
+    }
+}

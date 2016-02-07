@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course traces the historical development of policies concerning natural resources from the colonial period to the present. Current issues in conservation and environmental management are discussed.", 
+        "number": "5377", 
+        "subject": "GEO", 
+        "title": "Natural Resource Assessment and Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

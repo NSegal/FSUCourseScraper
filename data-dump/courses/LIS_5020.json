@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides background information about the information profession and aims to facilitate optimal information management. Topics include librarianship, the disciplines of library-information science (LIS) and of information technology (IT), the organizations and institutions of the information-provision environment, as well as the applications of technology to information provision.", 
+        "number": "5020", 
+        "subject": "LIS", 
+        "title": "Foundations of the Information Professions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

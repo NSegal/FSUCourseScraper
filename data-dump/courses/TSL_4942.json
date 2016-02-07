@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "4942", 
+        "subject": "TSL", 
+        "title": "Associate Teaching in a Foreign Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: FLE 3003, FLE 4941, and passing score on the Florida Teaching Certification Exam.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "10.00"
+    }
+}

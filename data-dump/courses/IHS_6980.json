@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "PhD candidates in Biomedical Sciences should register for this course after passing the Preliminary Examination. A minimum of twenty-four dissertation hours is required for graduation.", 
+        "number": "6980", 
+        "subject": "IHS", 
+        "title": "Dissertation Research"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to doctoral candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

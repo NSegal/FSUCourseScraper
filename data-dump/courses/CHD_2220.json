@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is the study of children from birth through middle childhood.", 
+        "number": "2220", 
+        "subject": "CHD", 
+        "title": "Child Growth and Development: The Foundation Years"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

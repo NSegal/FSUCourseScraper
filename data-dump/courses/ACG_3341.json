@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the planning and control of economic entities through cost-volume-profit relationships, job order, as well as process and standard cost accounting. Emphasis is placed on the relationship between accounting systems and decision making.", 
+        "number": "3341", 
+        "subject": "ACG", 
+        "title": "Cost Accounting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ACG 2071 with a grade of \"B\" or better and QMB 3200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

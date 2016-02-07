@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is professional course is designed to give students on-air experience in an educational environment, while promoting FSU athletics. Students produce features for Seminole Sports Magazine, a thirty-minute show that airs weekly on Sun Sports.", 
+        "number": "4686", 
+        "subject": "RTV", 
+        "title": "Advanced Feature Reporting"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: RTV 3602.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

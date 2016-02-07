@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of three semester hours may apply to the masters degree.", 
+        "number": "5915", 
+        "subject": "LEI", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

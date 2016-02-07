@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the history and current organization of Florida government - the executive, legislative, and judicial branches. Considers such topics as the Florida Constitution, how Florida compares to other state governments, and the effects of interests outside state government.", 
+        "number": "3182", 
+        "subject": "POS", 
+        "title": "Florida Government"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

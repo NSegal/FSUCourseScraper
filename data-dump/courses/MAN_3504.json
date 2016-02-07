@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers methodology and theory of the design and management of productive systems, especially in the services industry. Includes quantitative techniques and procedures for process analysis.", 
+        "number": "3504", 
+        "subject": "MAN", 
+        "title": "Service Operations Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2100 and QMB 3200.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

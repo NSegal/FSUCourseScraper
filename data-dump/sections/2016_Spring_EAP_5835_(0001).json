@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (13742)", 
+    "basic": {
+        "class_num": "13742", 
+        "course": "5835", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EAP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Maria Mendoza"
+            ], 
+            "location": "HEC 0310", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "18:30:00", 
+            "instructors": [
+                "Maria Mendoza"
+            ], 
+            "location": "HEC 0310", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

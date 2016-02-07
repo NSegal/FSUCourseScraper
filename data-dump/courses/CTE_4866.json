@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares students to assume a professional role in retail, merchandising, product development, or the industry support services through developing career strategies that emphasize solid management and leadership concepts and principles. The course provides exposure to retail and manufacturing industry leaders, and assistance in preparing for the role of an intern.", 
+        "number": "4866", 
+        "subject": "CTE", 
+        "title": "Executive Perspectives on Retail Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CTE 3835, CTE 4822, and MAR 3023. COrequisites: CTE 4811, CTE 4826, and CTE 4882.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the concepts, principles, and best practices for leading and supervising employees of recreation, tourism, and event organizations.", 
+        "number": "4524", 
+        "subject": "LEI", 
+        "title": "Leadership and Supervision in Recreation, Tourism and Events"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LEI 3004, LEI 3140, LEI 3435, and LEI 3403. Corequisite: LEI 4930.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

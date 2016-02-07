@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the vocabulary, grammar, and non-verbal aspects of American Sign Language with an emphasis on basic dialogue skills.", 
+        "number": "1140C", 
+        "subject": "ASL", 
+        "title": "Beginning American Sign Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

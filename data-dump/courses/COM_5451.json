@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the theories of several important project managers of the late twentieth and early twenty-first centuries, including Edward Deming, Peter Drucker, Thomas Peters, Eli Goldratt, Philip Crosby, and others.", 
+        "number": "5451", 
+        "subject": "COM", 
+        "title": "Advanced Topics in Project Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

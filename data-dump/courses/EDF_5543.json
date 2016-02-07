@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of contemporary approaches to philosophy of education, such as neo-pragmatism, post-structuralism, feminist theory, critical theory, existentialism and analytic philosophy, emphasizing their perspectives on current educational problems and practices and their methods of investigation.", 
+        "number": "5543", 
+        "subject": "EDF", 
+        "title": "Introduction to Philosophy of Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

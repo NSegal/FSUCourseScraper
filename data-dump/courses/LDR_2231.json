@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course helps students develop the skills necessary to interact globally whether at home or abroad. It leads students to develop a sense of curiosity for diverse cultures and understanding the various behaviors, attitudes, and emotions which are found globally and impact our daily lives. The knowledge gained about global leadership allows students to recognize and respect cultural differences and be able to maneuver situations more accurately as well as gain insight and understanding of recent world leaders.", 
+        "number": "2231", 
+        "subject": "LDR", 
+        "title": "Global Leadership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

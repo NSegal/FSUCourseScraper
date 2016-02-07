@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of small group discussions or project work. Topics selected in contemporary issues or current research. Maximum enrollment of ten students per tutorial. Repeatable when the topic changes.", 
+        "number": "4914", 
+        "subject": "APK", 
+        "title": "Tutorial in Exercise Physiology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

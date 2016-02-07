@@ -1,0 +1,26 @@
+{
+    "_unique": "0040-LAB (11337)", 
+    "basic": {
+        "class_num": "11337", 
+        "course": "1045L", 
+        "season": "Spring", 
+        "solus_id": "0040", 
+        "status": "Open", 
+        "subject": "CHM", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Davide Ghazal"
+            ], 
+            "location": "TBA", 
+            "start_time": "13:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to some of the key concepts of what is known as the \"First Wave\" of Feminist Theory in the 19th century.", 
+        "number": "4533", 
+        "subject": "LIT", 
+        "title": "Feminisms: The Long 19th Century"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

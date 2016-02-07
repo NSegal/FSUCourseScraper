@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with a cultural and linguistic awareness of the Spanish language and of the various and numerous societies in which it is spoken. Topics that relate to Spanish may include linguistic variation, language and gender, the sociology of language, the rights of linguistic minorities, language movements, and language policy.", 
+        "number": "4740", 
+        "subject": "SPN", 
+        "title": "Hispanic Sociolinguistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400, or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

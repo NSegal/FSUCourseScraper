@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines steps in the problem-solving process as it applies to the RtI/MTSS approach utilizing supplemental materials (e.g., assessment tools) and case studies based on real students. Existing skills in behavioral observation, interviewing, problem analysis, intervention selection, data graphing, assessing treatment integrity, and data-based decision making are refined and applied to the process of consultation within the schools. Furthermore, the course examines why problem-solving and RtI are natural extensions of school-based consultation, and the role of student support personnel (e.g., school psychologists) within RtI.", 
+        "number": "5207", 
+        "subject": "SPS", 
+        "title": "Advanced School-Based Consultation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPS 5205.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

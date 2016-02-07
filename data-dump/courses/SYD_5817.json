@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines contemporary gender theories, explores how feminist theorizing affects mainstream social theory, and asks how gender intersects with other forms of structured inequality (race, ethnicity, sexuality, social class).\u00a0 Topics include core themes in gender scholarship, affinities and dialogues with other traditions, origins of feminist theories, conceptualizing gender and the field of gender relations, and theorizing on substantive and political issues.", 
+        "number": "5817", 
+        "subject": "SYD", 
+        "title": "Contemporary Theories of Gender"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

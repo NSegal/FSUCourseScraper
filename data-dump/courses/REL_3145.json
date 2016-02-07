@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course considers the impact of gender on religion. Includes cross-cultural studies, theoretical works, and gender issues within religious traditions.", 
+        "number": "3145", 
+        "subject": "REL", 
+        "title": "Gender and Religion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

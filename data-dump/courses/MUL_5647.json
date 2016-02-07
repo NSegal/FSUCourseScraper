@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys sacred choral literature suitable for medium size choirs in churches and synagogues embracing Catholic, Protestant, or Jewish faiths.", 
+        "number": "5647", 
+        "subject": "MUL", 
+        "title": "Survey of Sacred Choral Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

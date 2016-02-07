@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "", 
+        "number": "8964", 
+        "subject": "ACG", 
+        "title": "Doctoral Preliminary Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Doctoral Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Summer", 
+        "units": "0.00"
+    }
+}

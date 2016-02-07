@@ -1,0 +1,26 @@
+{
+    "_unique": "0021-DIS (8880)", 
+    "basic": {
+        "class_num": "8880", 
+        "course": "5909", 
+        "season": "Spring", 
+        "solus_id": "0021", 
+        "status": "Open", 
+        "subject": "PHY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "David Larbalestier"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

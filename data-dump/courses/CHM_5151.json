@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the fundamentals of optics (lens, prism, grating), spectroscopic instrumentation, spectroscopic techniques for chemical analysis, including atomic emission and absorption spectroscopy, molecular absorption and luminescence, infrared and Raman spectroscopy.", 
+        "number": "5151", 
+        "subject": "CHM", 
+        "title": "Optical Methods of Chemical Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

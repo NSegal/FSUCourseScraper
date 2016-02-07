@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a careful study of historical texts in Latin from the historians or Cicero. May be repeated to a maximum of six semester hours.", 
+        "number": "5385", 
+        "subject": "LNW", 
+        "title": "The Roman Historians and Cicero"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

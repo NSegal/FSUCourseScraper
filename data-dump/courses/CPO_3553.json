@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines Japanese society and culture, political behavior, and political institutions since World War II. Emphasis is placed on political transformation since the early 1990s.", 
+        "number": "3553", 
+        "subject": "CPO", 
+        "title": "Politics of Japan"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

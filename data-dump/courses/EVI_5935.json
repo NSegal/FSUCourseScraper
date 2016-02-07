@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to familiarize students with the published literature related to providing services to individuals with visual impairments and to furnish students with a basic knowledge of the purposes of research in this field, common design strategies, research and analysis tools used, and methods for analyzing the quality of published research.", 
+        "number": "5935", 
+        "subject": "EVI", 
+        "title": "Studies in Research on Individuals with Visual Impairment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

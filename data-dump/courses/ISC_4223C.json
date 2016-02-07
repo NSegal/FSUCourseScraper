@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course describes several discrete problems arising in science applications, a survey of methods and tools for solving the problems on computers, and detailed studies of methods, and their use in science and engineering. The laboratory component illustrates the concepts learned in the context of science problems.", 
+        "number": "4223C", 
+        "subject": "ISC", 
+        "title": "Computational Methods for Discrete Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 4304C and MAS 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

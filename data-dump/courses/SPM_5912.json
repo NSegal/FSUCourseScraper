@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to work with faculty supervision to complete research pertaining to a particular topic of interest. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "5912", 
+        "subject": "SPM", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Optional", 
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course presents a sociological approach to the study of education as a social institution, its structure, functions, and role in contemporary life.", 
+        "number": "4250", 
+        "subject": "SYO", 
+        "title": "Sociology of Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

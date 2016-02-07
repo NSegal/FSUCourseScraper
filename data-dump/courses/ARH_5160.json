@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of Roman architecture, painting, sculpture, and other arts from Augustus through the Antonines, and of the archaeological evidence for the chronology and cultural history of the early Imperial period.", 
+        "number": "5160", 
+        "subject": "ARH", 
+        "title": "Art and Archaeology of the Early Roman Empire"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

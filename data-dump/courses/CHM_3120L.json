@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is the laboratory portion of Analytical Chemistry I. Experiments include: potentiometric titration of acid mixtures, spectrophotometric determination of pH, spectrophotometric determination of iron in drinking water, lithium by flame emission, fluoride ion-selective electrodes, copper in metal alloys by liquid-liquid extraction, and quantitative analysis of hydrocarbons by gas chromatography.", 
+        "number": "3120L", 
+        "subject": "CHM", 
+        "title": "Analytical Chemistry I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CHM 3120", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses statistics for quality control and productivity; graphical methods; control charts; design and experiment for product and process improvement.", 
+        "number": "5666", 
+        "subject": "STA", 
+        "title": "Statistics for Quality and Productivity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5167 or instructor permission, and either STA 4322 or STA 5126.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

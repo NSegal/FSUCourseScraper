@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the laboratory portion of CHM 4130, Advanced Analytical Chemistry. Experiments include: signal enhancement by filtering and ensemble averaging, flame spectroscopy determination of Li and Mg, spectroflurometric determination of quinine, UV-visible spectroscopy, high-performance liquid chromatography (HPLC) simulations, Raman spectroscopy, solvent extraction and gas chromatography, as well as HPLC determination of analgesics. It is recommended that students complete CHM 4130 with a grade of \"C\u2013\" or better before taking CHM 4130L, although the courses can be taken simultaneously.", 
+        "number": "4130L", 
+        "subject": "CHM", 
+        "title": "Advanced Analytical Chemistry Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: CHM 4130 (recommended before CHM 4130L.)", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

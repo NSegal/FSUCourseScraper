@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey introduction to real estate, real estate evaluation, and real estate investment decision making. The course, in addition to REE 4433, meets the FREC educational requirement for real estate sales licensing.", 
+        "number": "3043", 
+        "subject": "REE", 
+        "title": "Real Estate"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

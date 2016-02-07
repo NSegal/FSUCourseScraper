@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers theory and hypothesis testing, measurement of constructs, publication strategies, and various special topics in empirical research.", 
+        "number": "6917", 
+        "subject": "MAN", 
+        "title": "Doctoral Seminar in Management Research: Research Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

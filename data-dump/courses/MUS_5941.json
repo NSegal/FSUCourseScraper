@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers advanced performance activities in an internship setting. May be repeated to a maximum of twenty-four hours.", 
+        "number": "5941", 
+        "subject": "MUS", 
+        "title": "Internship in Music Performance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

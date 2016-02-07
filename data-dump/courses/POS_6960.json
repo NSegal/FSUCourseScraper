@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "All graduate course requirements must be satisfied before enrolling.", 
+        "number": "6960", 
+        "subject": "POS", 
+        "title": "Preliminary Examination Preparation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

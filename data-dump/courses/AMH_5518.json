@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course enables students to become acquainted with the major schools of interpretation regarding American foreign policy in the twentieth century and gain research and writing experience.", 
+        "number": "5518", 
+        "subject": "AMH", 
+        "title": "Twentieth-Century United States Foreign Relations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

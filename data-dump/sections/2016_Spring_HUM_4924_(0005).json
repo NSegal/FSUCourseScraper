@@ -1,0 +1,24 @@
+{
+    "_unique": "0005-LEC (13704)", 
+    "basic": {
+        "class_num": "13704", 
+        "course": "4924", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "HUM", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [], 
+            "location": "HSF 4003", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

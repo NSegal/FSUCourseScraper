@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines functional demands that emergency managers should be aware of in crafting emergency management, policies and programs. Students explore how public policy choices impact emergency planning and the consequences of a disaster event.", 
+        "number": "5398", 
+        "subject": "PAD", 
+        "title": "Emergency Management Programs, Planning, and Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

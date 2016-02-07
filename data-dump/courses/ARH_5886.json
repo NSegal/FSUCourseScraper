@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course follows the US Government Uniform Standards of Professional Appraisal Practice as it applies to the fine arts.", 
+        "number": "5886", 
+        "subject": "ARH", 
+        "title": "Uniform Standards for Professional Appraisal Practice (USPAP)"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "4.00"
+    }
+}

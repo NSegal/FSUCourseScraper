@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an advanced biomedical sciences course for PhD students. This course revolves around student-driven presentations and discussions of the primary research literature. Students learn how to evaluate the scientific literature in their own field. Issues such as authorship, funding sources, citation index, journal quality, etc., are introduced as criteria for judgment.", 
+        "number": "5098", 
+        "subject": "GMS", 
+        "title": "Critical Review of the Scientific Literature"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00 - 2.00"
+    }
+}

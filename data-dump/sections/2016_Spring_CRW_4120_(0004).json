@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DSC (2273)", 
+    "basic": {
+        "class_num": "2273", 
+        "course": "4120", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "CRW", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [
+                "Mark Winegardner"
+            ], 
+            "location": "WMS 0461", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

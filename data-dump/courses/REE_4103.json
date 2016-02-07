@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course acquaints students with the valuation process and the basics of valuation terminology. It also demonstrates the application of a variety of valuation techniques to both residential and income properties.", 
+        "number": "4103", 
+        "subject": "REE", 
+        "title": "Real Estate Valuation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: REE 3043.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

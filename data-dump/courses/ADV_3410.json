@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course prepares undergraduate students to become educated decision makers and consumers of information regarding U.S. Hispanic marketing communication issues.", 
+        "number": "3410", 
+        "subject": "ADV", 
+        "title": "Hispanic Marketing Communication"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

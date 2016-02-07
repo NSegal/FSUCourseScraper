@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students perform a research project required for the non-thesis MS degree.", 
+        "number": "5910", 
+        "subject": "ECH", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

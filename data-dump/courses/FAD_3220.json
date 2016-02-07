@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of individual and family development as it applies to professional application in human services.", 
+        "number": "3220", 
+        "subject": "FAD", 
+        "title": "Individual and Family Life Span Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

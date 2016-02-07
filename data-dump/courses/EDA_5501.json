@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of research on the position of the K-12 Assistant Principal. The course addresses issues of role ambiguity, socialization, ethics, discipline, instruction, and various aspects of personnel management.", 
+        "number": "5501", 
+        "subject": "EDA", 
+        "title": "The Assistant Principal"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0009-LAB (8613)", 
+    "basic": {
+        "class_num": "8613", 
+        "course": "3323C", 
+        "season": "Spring", 
+        "solus_id": "0009", 
+        "status": "Closed", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "18:50:00", 
+            "instructors": [
+                "Brittany Allman"
+            ], 
+            "location": "HCB 0301", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

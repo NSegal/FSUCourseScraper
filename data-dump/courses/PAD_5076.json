@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores best practices and theories regarding emotional intelligence, communication, behavior and ethics in professional emergency management. Students gain the knowledge and skills necessary to be successful in a professional emergency management setting.", 
+        "number": "5076", 
+        "subject": "PAD", 
+        "title": "Professional Pathways in Emergency Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5397.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

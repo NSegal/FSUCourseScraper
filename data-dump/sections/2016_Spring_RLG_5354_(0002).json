@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LEC (9315)", 
+    "basic": {
+        "class_num": "9315", 
+        "course": "5354", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "RLG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Bryan Cuevas"
+            ], 
+            "location": "DOD 0207", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

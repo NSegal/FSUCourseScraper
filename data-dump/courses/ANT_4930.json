@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with specialized subjects and topics in anthropology. Topics may vary. May be repeated to a maximum of nine semester hours. May be repeated within the same semester.", 
+        "number": "4930", 
+        "subject": "ANT", 
+        "title": "Special Topics in Anthropology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the theoretical foundations and practice techniques of couple/marital counseling. The major models of couple/marital counseling are examined. Particular emphasis is placed on having each student integrate a theory and method of couple/marital counseling within social work practice. Students examine a wide range of populations including minorities, gay and lesbian persons, and persons with disabilities. This course contains a predominant experiential component, and therefore students are expected to take a very active role in their learning.", 
+        "number": "5353", 
+        "subject": "SOW", 
+        "title": "Marital and Couple Counseling in Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 5311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

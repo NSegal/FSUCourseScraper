@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on scientific criticism through evaluation of the strengths and weaknesses of grant applications and of published research articles. In the course, students develop enhanced capacity to conduct funded research and publish the results.", 
+        "number": "5645", 
+        "subject": "SYA", 
+        "title": "Critical Thinking and Proposal Preparation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

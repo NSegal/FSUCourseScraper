@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses basic counseling skills for persons who, by nature of their work, are called upon to provide counseling. May be taken for graduate credit.", 
+        "number": "4601", 
+        "subject": "FAD", 
+        "title": "Foundations of Counseling"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Senior standing and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

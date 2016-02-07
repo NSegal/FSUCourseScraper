@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies choral compositions from Palestrina to the present day, with special attention to the larger forms. May be repeated to a maximum of six semester hours.", 
+        "number": "5645", 
+        "subject": "MUL", 
+        "title": "Choral Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in music.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

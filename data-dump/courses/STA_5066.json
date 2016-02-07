@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces SAS software in lab-based format.\u00a0 SAS is the world's most widely used statistical package for managing and analyzing data. The objective of this course is for the student to develop the skills necessary to address data management and analysis issues using SAS. This course includes a complete introduction to data management for scientific and industrial data, an overview of SAS statistical procedures including statistical graphics, an introduction to SAS's macro capabilities for automating repeated analyses, and an introduction to IML Plus, SAS's recently released interface to its interactive matrix language.", 
+        "number": "5066", 
+        "subject": "STA", 
+        "title": "Data Management and Analysis with SAS"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Some exposure to introductory statistics or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

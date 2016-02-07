@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This class introduces students to a range of theories and models of social work practice within an ecological systems framework. The empirical bases of each theory and model are examined, along with applications to generalist social work practice with various size systems. Attention is given to how theories and models incorporate working with ethnic minorities, women, gays and lesbians, and disabled people.", 
+        "number": "5335", 
+        "subject": "SOW", 
+        "title": "Theories and Models of Social Work Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

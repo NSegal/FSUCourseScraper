@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (3571)", 
+    "basic": {
+        "class_num": "3571", 
+        "course": "5933", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "ENG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:20:00", 
+            "instructors": [
+                "Deborah Teague"
+            ], 
+            "location": "WMS 0013", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

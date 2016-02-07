@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to promote interest in sports, an understanding of game play, and the ability to play games for a lifetime of physical activity. Students of all levels learn sport tactics and strategies for a variety of sports and games.", 
+        "number": "4020", 
+        "subject": "PEO", 
+        "title": "Sport Tactics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

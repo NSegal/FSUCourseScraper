@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to health care, grounding in health\u00a0\u00a0 policy, health reform, and patient safety. A great deal of attention is\u00a0\u00a0\u00a0 devoted to epidemiology and biostatistics, as well as research design, and preventive medicine. The critical appraisal of recent medical literature isalso emphasized.", 
+        "number": "6060", 
+        "subject": "BMS", 
+        "title": "Health Issues in Medicine II"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

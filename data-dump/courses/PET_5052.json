@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course deals with behavioral theories, models, and related research on motor memory. Analyses made of the research evidence related to encoding, capacity, forgetting, storage mechanisms, control processes, organization, and error scores. Offered alternate years.", 
+        "number": "5052", 
+        "subject": "PET", 
+        "title": "Motor Memory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

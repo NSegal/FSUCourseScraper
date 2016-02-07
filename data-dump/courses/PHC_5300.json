@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the science behind the basic elements of environmental health and its centrality to human health. It includes the basics of providing a pure water supply, sanitation of waste matters, and common field procedures needed for environmental surveillance.", 
+        "number": "5300", 
+        "subject": "PHC", 
+        "title": "Environmental Health"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

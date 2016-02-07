@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course integrates DOE requirements of ESOL Standards for School Administrators with a) an understanding of the Consent Decree, accountability and equity issues related to LEP students; b) an understanding of compliance with federal and state regulations; and c) an understanding of cultural proficiency in the school environment.", 
+        "number": "5191", 
+        "subject": "EDA", 
+        "title": "Leadership for Diversity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

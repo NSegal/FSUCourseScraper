@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a basic introduction to the law and process of arbitration.", 
+        "number": "6315", 
+        "subject": "LAW", 
+        "title": "Arbitration"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This elective gives students responsibilities, supervision, and performance expectations comparable to those of a beginning first-year EM resident. Instruction is centered around debside clinical supervision by faculty and residents in two busy Emergency departments. May be repeated within the same term to a maximum of eight semester hours. MD grade only.", 
+        "number": "7710", 
+        "subject": "MDI", 
+        "title": "Emergency Med Sub-Internship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

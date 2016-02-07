@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is intended to cover a wide spectrum of topics on wireless networks, including the physical layer, the medium access control layer, and the network layer. The focus is on understanding, implementing, and experimenting with various wireless networking technologies in different layers with software.", 
+        "number": "5529", 
+        "subject": "CNT", 
+        "title": "Wireless Networking"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

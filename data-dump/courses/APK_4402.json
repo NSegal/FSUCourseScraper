@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines current research and practice in applied sport psychology settings (e.g., athletes, coaches, athletic trainers), and the application of these concepts. The approach taken in the course is a scientist-practitioner approach; the course relies on the \u201cscience of practice.\u201d The primary goal is to acquire the skills of a proficient and skilled practitioner, athlete, or coach that relies on a sound conceptual-theoretical foundation.", 
+        "number": "4402", 
+        "subject": "APK", 
+        "title": "Applied Sport Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 4400.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

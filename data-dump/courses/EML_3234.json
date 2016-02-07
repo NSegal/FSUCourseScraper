@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes concepts of materials science and their relevance to engineering design. Recent advances in engineering materials science.", 
+        "number": "3234", 
+        "subject": "EML", 
+        "title": "Materials Science and Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHM 1045.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

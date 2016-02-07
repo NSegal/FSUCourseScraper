@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores how changing life course patterns have influenced retirement, health care, politics, and family structure. It also considers the policy choices that have to be made in the twenty-first century as the baby boom generation reaches retirement age.", 
+        "number": "3730", 
+        "subject": "SYP", 
+        "title": "Aging and the Life Course"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

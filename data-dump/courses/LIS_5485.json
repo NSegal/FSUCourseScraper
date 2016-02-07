@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to Information Technology (IT) on a theoretical and practical level. The course reviews the underlying concepts of IT as embodied in operating systems, hardware, application software, Web site creation, and networks. It ensures that all students have mastered minimum sill and knowledge sets and are prepared to carry out assignments requiring IT skills through the program.", 
+        "number": "5485", 
+        "subject": "LIS", 
+        "title": "Introduction to Information Technologies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores topics such as the legal aspects of plan making, implementation politics, policy implementation, interorganization cooperation, and public participation, under the general rubric of plan adoption and implementation strategies.", 
+        "number": "5125", 
+        "subject": "URP", 
+        "title": "Plan Implementation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

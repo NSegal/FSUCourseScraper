@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps students develop broad knowledge of the research in reading and the ability to critically analyze and interpret studies in the field of reading.", 
+        "number": "6747", 
+        "subject": "RED", 
+        "title": "Theory and Research in Reading"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RED 5147.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

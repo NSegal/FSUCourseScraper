@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers retrosynthetic analysis and synthetic strategy. Applications of the following topics to total synthesis: enolate chemistry; Diels-Alder; Claisen, Cope reactions; fragmentation reactions; photochemical reactions; stereochemistry and conformational analysis; blocking and protecting groups.", 
+        "number": "5250", 
+        "subject": "CHM", 
+        "title": "Advanced Organic Synthesis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Mastery of undergraduate organic chemistry.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

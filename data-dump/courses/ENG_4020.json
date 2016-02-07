@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes contemporary developments in rhetoric and their applicability to writing. For upper-division students who intend to teach English composition.", 
+        "number": "4020", 
+        "subject": "ENG", 
+        "title": "Rhetorical Theory and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 3310 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

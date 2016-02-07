@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to demonstrate effective use of diagnostic skills. For majors only.", 
+        "number": "4223", 
+        "subject": "EEX", 
+        "title": "Individualized Educational Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

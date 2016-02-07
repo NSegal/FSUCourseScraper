@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the relationship between education and economic development, especially in the developing world. Students examine theoretical and empirical arguments for human-capital theory, as well as alternative viewpoints challenging the human-capital perspective. Students also evaluate empirical evidence regarding the most effective and efficient educational inputs in developing countries.", 
+        "number": "5625", 
+        "subject": "EDF", 
+        "title": "Education and Economic Development"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines political institutions (including executive, legislative, judicial, as well as electoral systems) and evaluates their importance and role in democratic societies.", 
+        "number": "3703", 
+        "subject": "CPO", 
+        "title": "Comparative Democratic Institutions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor's permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DEX (10122)", 
+    "basic": {
+        "class_num": "10122", 
+        "course": "8969", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "URP", 
+        "type": "DEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "John Felkner"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

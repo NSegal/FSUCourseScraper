@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the development of the generalist practice skills of engagement, assessment, intervention, and evaluation with individuals and families in social work. The empirical bases of a range of theories and models of social work practice are examined, along with applications to generalist social work practice. Ways to promote social and economic justice while practicing as a social worker are also discussed.", 
+        "number": "4341", 
+        "subject": "SOW", 
+        "title": "Social Work Practice with Individuals and Families"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SOW 3203 and SOW 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

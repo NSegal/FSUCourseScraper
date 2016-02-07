@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers engineering problem formulation, algorithm development and programming, measurement and computational-error assessment, as well as application of statistical and numerical modeling tools for data analysis. Mathcad software is used.", 
+        "number": "2400", 
+        "subject": "EGN", 
+        "title": "Engineering Statistics and Computation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

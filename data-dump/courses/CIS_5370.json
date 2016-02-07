@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, topics include computer security threats and attacks, covert channels, trusted operating systems, access control, entity authentication, security policies, models of security, database security, administering security, physical security and TEMPEST, and brief introductions to network security and legal and ethical aspects of security. A research paper or project is required.", 
+        "number": "5370", 
+        "subject": "CIS", 
+        "title": "Computer Security"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 4610.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

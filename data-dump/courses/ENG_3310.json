@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses film as a means of exploring the problems of genre studies: relationship to literary genres, historical continuity, transformation of genre in the film medium.", 
+        "number": "3310", 
+        "subject": "ENG", 
+        "title": "Film Genres"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

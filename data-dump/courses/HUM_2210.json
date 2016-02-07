@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the thought, literature, and arts of Western culture from prehistoric times to about 400 A.D.", 
+        "number": "2210", 
+        "subject": "HUM", 
+        "title": "Humanities: Pre-History to Late Antiquity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

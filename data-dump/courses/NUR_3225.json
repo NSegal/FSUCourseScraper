@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on nursing care of adults and their families with acute and chronic health disorders. Pathophysicologic, psychological, and sociocultural processes and environmental issues associated with acute and chronic health disorders in adults are presented. Critical reasoning and problem solving skills are used in designing care to promote positive health outcomes.", 
+        "number": "3225", 
+        "subject": "NUR", 
+        "title": "Nursing Care of the Audult with Acute and Chronic Health Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Semester I Nursing courses. Corequisite: Semester II Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the nature of the student learning and mathematics curricula in grades five through nine. Appropriate pedagogical strategies for the mathematical content of the middle grades are considered.", 
+        "number": "4320", 
+        "subject": "MAE", 
+        "title": "Teaching Mathematics in the Middle School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311, MAE 4816, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

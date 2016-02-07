@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines techniques and theories of retail buying, concentrating on buying functions and the strategic role of the buyer in retail management. This course is part of the intern block for Merchandising majors only.", 
+        "number": "4826", 
+        "subject": "CTE", 
+        "title": "Merchandising Buying"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: A 2.50 GPA as well as a grade of \"C\" or better in CTE 3835, CTE 4822, and MAR 3023. Corequisites: CTE 4811, CTE 4866, and CTE 4882.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

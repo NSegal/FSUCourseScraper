@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the U.S. history from 1920 through 1945 and focuses on the political, economic, diplomatic, social, cultural, and intellectual developments during that period.", 
+        "number": "5239", 
+        "subject": "AMH", 
+        "title": "The United States, 1920-1945: Prosperity, Depression, and World War II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

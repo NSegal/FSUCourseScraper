@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This seminar provides students with exposure to standards of practice in professional psychology, to ethical and legal issues in the provision of psychological services, and to clinical supervision. Students supervise beginning-level graduate students who are counseling clients in the on-campus Human Services Center.", 
+        "number": "6803", 
+        "subject": "MHS", 
+        "title": "Seminar in Ethics, Law and Clinical Supervision"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MHS 5801.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

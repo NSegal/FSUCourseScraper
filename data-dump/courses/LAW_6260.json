@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on problems of jurisdiction on an international level with emphasis on the role of law in an orderly world society. Also examined is the status of individuals and associations operating across national and other territorial boundaries.", 
+        "number": "6260", 
+        "subject": "LAW", 
+        "title": "Public International Law"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course develops students' skills in personnel management in human service organizations to ensure effective service delivery to clients. Attention is given to staff management approaches, staff supervision, employee recruitment and retention, motivation, job design, staff development, and issues of diversity.", 
+        "number": "5377", 
+        "subject": "SOW", 
+        "title": "Personnel Administration in the Social Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

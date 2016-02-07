@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an evaluation of textile materials for specific end users, industry compliance, certified performance, and government standards.", 
+        "number": "4443", 
+        "subject": "CTE", 
+        "title": "Quality Assurance for Textiles and Apparel"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CTE 1401C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

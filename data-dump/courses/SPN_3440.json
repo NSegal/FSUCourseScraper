@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This intermediate-level language course is aimed at raising cross-cultural awareness in international business. It is also designed to better prepare students to meet the challenges of a global economy.", 
+        "number": "3440", 
+        "subject": "SPN", 
+        "title": "Language and Culture in Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: SPN 3300 and SPN 3400, or SPN 3350.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

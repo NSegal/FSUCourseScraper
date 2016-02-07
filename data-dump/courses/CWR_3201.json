@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental concepts of fluid properties, hydrostatics, kinematics, ideal flow viscous effects, transport phenomena; drag, laminar, and turbulent flow in pipes and channels; and dimensional analysis.", 
+        "number": "3201", 
+        "subject": "CWR", 
+        "title": "Hydraulics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGM 3512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

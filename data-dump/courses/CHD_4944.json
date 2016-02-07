@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised practical experience in various professional settings serving children, youth, and families, including hospitals, education facilities, human service agencies, and government agencies. May be repeated to a maximum of twelve semester hours. Child development majors only.", 
+        "number": "4944", 
+        "subject": "CHD", 
+        "title": "Internship in Family and Child Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FAD 4805 or instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

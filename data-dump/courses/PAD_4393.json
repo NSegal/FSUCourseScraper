@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines functional demands that emergency managers should be aware of in crafting emergency management programs. Students investigate how public policy choices impact emergency planning and the consequences of a disaster event. May be repeated to a maximum of six semester hours.", 
+        "number": "4393", 
+        "subject": "PAD", 
+        "title": "Emergency Management Programs, Planning, and Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the formal and informal approaches for making decisions on information that is uncertain and from diverse sources. Techniques are examined for collecting and using both qualitative and quantitative data to draw inferences about public safety and security programs and investigations.", 
+        "number": "4744", 
+        "subject": "CCJ", 
+        "title": "Evidential Reasoning for Research and Investigation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

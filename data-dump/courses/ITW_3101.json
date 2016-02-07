@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to representative literary figures and movements from the 19th and 20th centuries.", 
+        "number": "3101", 
+        "subject": "ITW", 
+        "title": "Survey of Italian Literature: 19th- and 20th-Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ITA 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

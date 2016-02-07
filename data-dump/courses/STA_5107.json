@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course utilizes Matlab and a programming language (C/Fortran). The course is a continuation of STA 5106 in computational techniques for linear and nonlinear statistics. The course also covers statistical image understanding, elements of pattern theory, simulated annealing, Metropolis-Hastings\u00a0 algorithm, and Gibbs sampling.", 
+        "number": "5107", 
+        "subject": "STA", 
+        "title": "Computational Methods in Statistics II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 5106 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

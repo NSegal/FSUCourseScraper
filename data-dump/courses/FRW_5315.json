@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course concentrates on selected works by Racine, Corneille, and Moliere. Each play is analyzed both separately and in relation to other dramas studied. Also, the plays are situated within the social and intellectual context of the seventeenth century.", 
+        "number": "5315", 
+        "subject": "FRW", 
+        "title": "Classical Theatre of the 17th Century"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

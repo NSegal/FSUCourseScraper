@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the experiences and contributions of women in 20th-century America, with particular attention to the forces that served to differentiate the opportunities and roles of women from those of their male peers.", 
+        "number": "4562", 
+        "subject": "AMH", 
+        "title": "Women in Modern America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

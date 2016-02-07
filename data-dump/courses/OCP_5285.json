@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies topics such as: currents with friction; effects of turbulence; thermohaline circulation; waves.", 
+        "number": "5285", 
+        "subject": "OCP", 
+        "title": "Dynamic Oceanography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: OCP 5056.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

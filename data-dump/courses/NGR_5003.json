@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to provide the learner with a strong foundation in the health assessment skills requisite for advanced nursing practice. The focus of the course is on history taking, physical examination skills, laboratory, diagnostic and radiographic modalities, and documentation for advanced assessment. The diagnostic reasoning process is developed as it relates to building a clinical database.", 
+        "number": "5003", 
+        "subject": "NGR", 
+        "title": "Health Assessment for Advanced Practice"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 5003L or NGR 5007L; admission to the MSN or DNP program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "2.00"
+    }
+}

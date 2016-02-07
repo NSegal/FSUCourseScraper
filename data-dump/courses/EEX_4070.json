@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with the knowledge and skills to include students with disabilities in the general education curriculum by adapting instruction and assessment procedures and processes.", 
+        "number": "4070", 
+        "subject": "EEX", 
+        "title": "Including Students with Disabilities in the General Education Curriculum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

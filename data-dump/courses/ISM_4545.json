@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses the most important data analytics and mining techniques to support data-driven decision making and help corporations acquire knowledge from large data sets. Specifically, it introduces methods such as clustering, classification, association rule mining, etc. through a hands-on approach using specialized software.", 
+        "number": "4545", 
+        "subject": "ISM", 
+        "title": "Data Analytics and Mining for Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISM 4212 and STA 2023 or equivalent.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

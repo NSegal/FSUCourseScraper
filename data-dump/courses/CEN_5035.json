@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys software engineering and a detailed study of topics from requirements analysis and specification, programming methodology, software testing and validation, performance and design evaluation, software project management, and programming tools and standards.", 
+        "number": "5035", 
+        "subject": "CEN", 
+        "title": "Software Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CEN 4021, COP 4020, and COP 4531.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

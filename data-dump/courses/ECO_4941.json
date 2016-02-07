@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an academic course related to the internship experience. Students are required to submit a weekly description of their internship activities, duties, and responsibilities; to complete a set of assignments; and at the end of the semester, to submit a paper that describes in detail the tasks they performed during the internship and discusses the skills and information required to accomplish each task. Students enrolled for six credit hours must also complete a research paper that integrates their classroom knowledge and work experience.", 
+        "number": "4941", 
+        "subject": "ECO", 
+        "title": "Economics Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

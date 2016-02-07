@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (8586)", 
+    "basic": {
+        "class_num": "8586", 
+        "course": "3323C", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Do Houn Kim"
+            ], 
+            "location": "HCB 0301", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

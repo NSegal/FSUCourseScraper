@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course applies the movement sciences to the challenges of training dancers.", 
+        "number": "5305", 
+        "subject": "DAE", 
+        "title": "Science of Dance Training"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: DAN 3714 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

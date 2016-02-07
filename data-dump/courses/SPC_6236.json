@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an analysis of major theories of public communication and their application as critical tools.", 
+        "number": "6236", 
+        "subject": "SPC", 
+        "title": "Contemporary Rhetorical Theory and Criticism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

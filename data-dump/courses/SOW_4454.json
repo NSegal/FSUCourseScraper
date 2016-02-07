@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the basics of proposals: purpose statements, background and justification, aims or objectives, personnel, time line, methods, budget, and evaluation, and how to effectively manage grants once they are funded. The needs of disenfranchised groups or communities are discussed in this course, along with the particulars of proposals that may be most effective in meeting such needs.", 
+        "number": "4454", 
+        "subject": "SOW", 
+        "title": "Grant Writing and Grant Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

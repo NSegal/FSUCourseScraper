@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an opportunity to gain practical experience using different laboratory techniques and various instruments and equipment in research projects assigned by and under the close supervision of professors affiliated with the MOB graduate program.\u00a0 One-on-one discussions assures understanding of necessary basic scientific research approaches. May be repeated to a maximum of one hundred and fifty semester hours.", 
+        "number": "5905", 
+        "subject": "MOB", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

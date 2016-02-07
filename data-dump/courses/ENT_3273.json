@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers special issues facing entrepreneurial and family businesses: choice of organizational form, business planning, tax and compensation planning, business valuation, and succession strategies. Time is also devoted to the unique challenges often found in family business context, such as dealing with family conflicts, how to motivate and evaluate employees when a mix of family and non-members are involved, and planning for succession.", 
+        "number": "3273", 
+        "subject": "ENT", 
+        "title": "Family Business"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 or both ENT 2010 and ENT 2011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

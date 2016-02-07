@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the second part of the engineering design systems course. The material covered is a continuation of topics in the first part and the completion of a student-designed product.", 
+        "number": "4552C", 
+        "subject": "EML", 
+        "title": "Senior Design Project II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 4551C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

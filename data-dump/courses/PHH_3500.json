@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores diverse styles, ideas, and systems of such philosophers as Hegel, Kierkegaard, Schopenhauer, Marx, Mill, Bradley, and Nietzsche.", 
+        "number": "3500", 
+        "subject": "PHH", 
+        "title": "19th-Century Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

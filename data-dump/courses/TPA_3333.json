@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "3333", 
+        "subject": "TPA", 
+        "title": "Introduction to Costume Craft, Dye and Millinery"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "TPA3230,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

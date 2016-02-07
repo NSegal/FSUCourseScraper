@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines integral balance equations for conservation of momentum, energy, and mass. Topics include the following: analysis of chemical processes involving fluid flow and heat and mass transfer, estimation of friction factors, and heat and mass transfer coefficients, pump selection and sizing, piping network analysis, and design of heat exchangers.", 
+        "number": "3266", 
+        "subject": "ECH", 
+        "title": "Transport Phenomena I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECH 3024 and ECH 3301, both with a grade of \"C\" or higher; and PHY 2049C. Corequisites: ECH 3101 and ECH 3854.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

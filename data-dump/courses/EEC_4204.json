@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the design and implementation of thematic curricula and direct instruction appropriate for children age 3 to grade 3. Microteaching required.", 
+        "number": "4204", 
+        "subject": "EEC", 
+        "title": "Early Childhood Education Curriculum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

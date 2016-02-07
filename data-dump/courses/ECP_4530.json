@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the U.S. health care system and the role that economics plays in advancing our understanding of it. Topics included are the demand for medical care and health insurance, the role and impact of government in funding health care services (Medicare and Medicaid), cost benefit analysis, pharmaceuticals and the FDA, organ donation and vending, as well as health care and insurance in other developed countries. Throughout the course, students have opportunities to improve their writing through instruction and assigned papers.", 
+        "number": "4530", 
+        "subject": "ECP", 
+        "title": "Economics of Health"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

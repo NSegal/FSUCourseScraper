@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies U.S. political parties and elections from the end of Reconstruction to the present. Special emphasis is placed on the presidency and on the groups and issues that have influenced political parties. AMH 3351 is not a prerequisite for 3352.", 
+        "number": "3352", 
+        "subject": "AMH", 
+        "title": "US Political History from 1877 to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

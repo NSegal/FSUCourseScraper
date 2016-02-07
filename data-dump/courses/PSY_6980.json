@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of supervised research on an original research project submitted in partial fulfillment of doctoral degree requirements. A minimum of twenty-four semester hours of credit is required for the doctoral degree.", 
+        "number": "6980", 
+        "subject": "PSY", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to Doctoral Candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

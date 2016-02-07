@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce biological oceanography and biology graduate students to the consequences of fluid flow for biological systems. The text, Vogels Life in Moving Fluids, is supplemented by movies, problem sets, and demonstrations. Students present a chapter from the text plus supplementary material at each meeting.", 
+        "number": "5600", 
+        "subject": "OCB", 
+        "title": "Biological Fluid Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Algebra.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

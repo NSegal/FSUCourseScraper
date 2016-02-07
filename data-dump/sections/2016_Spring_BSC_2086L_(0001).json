@@ -1,0 +1,24 @@
+{
+    "_unique": "0001-LAB (899)", 
+    "basic": {
+        "class_num": "899", 
+        "course": "2086L", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:00:00", 
+            "instructors": [], 
+            "location": "HCB 0302", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

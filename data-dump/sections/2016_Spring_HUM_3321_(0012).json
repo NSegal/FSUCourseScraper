@@ -1,0 +1,24 @@
+{
+    "_unique": "0012-DSC (4333)", 
+    "basic": {
+        "class_num": "4333", 
+        "course": "3321", 
+        "season": "Spring", 
+        "solus_id": "0012", 
+        "status": "Open", 
+        "subject": "HUM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

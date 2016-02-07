@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course surveys the American legal system including the role of lawyers; sources and types of law; and courts, legislatures, executive agencies, and other law-making institutions. Also links law and legal behavior to the social, economic, and political features of modern society. (Required for students in the Law and Society Program.)", 
+        "number": "3691", 
+        "subject": "POS", 
+        "title": "Law and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

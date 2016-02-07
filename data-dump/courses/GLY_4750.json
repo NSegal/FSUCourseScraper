@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a working knowledge and some experience of techniques, procedures, and tools that are essential to geological field research, the professional geologist, and the required summer field course.", 
+        "number": "4750", 
+        "subject": "GLY", 
+        "title": "Geological Field Methods"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: GLY 3400C.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

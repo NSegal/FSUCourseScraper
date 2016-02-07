@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of English masterworks intended for students in liberal studies and those exploring a literature major. Among the authors typically considered are Wordsworth, Dickens, and Conrad.", 
+        "number": "2022", 
+        "subject": "ENL", 
+        "title": "British Authors: Early Romantics to the Present"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

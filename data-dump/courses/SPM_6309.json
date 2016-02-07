@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, emphasis is on discussion and critical analysis in sport marketing theory, research, education, and current issues relative to social, cultural, political, and ethical issues in sport marketing.", 
+        "number": "6309", 
+        "subject": "SPM", 
+        "title": "Seminar in Sport Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

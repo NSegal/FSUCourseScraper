@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers various areas of photographic study, including nonsilver and advanced silver printing techniques, offset lithography, and conceptual approaches to image making. May be repeated to maximum of twelve semester hours.", 
+        "number": "4924C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Photography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PGY 2401C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

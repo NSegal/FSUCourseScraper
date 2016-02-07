@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Comprehensive examination administered to candidates for the non-thesis M.S. degree in Biomedical Sciences. P/F grade only.", 
+        "number": "8961", 
+        "subject": "IHS", 
+        "title": "Master's Comprehensive Examination"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Master's Exam": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Summer", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the staging practices and dramatic literature of classical Greece and Rome, medieval Europe and Japan, Rensaissance England, Italy, and France, and eighteenth century Western Europe.", 
+        "number": "3213", 
+        "subject": "THE", 
+        "title": "World Theatre History I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "THE2020,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

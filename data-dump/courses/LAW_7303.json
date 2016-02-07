@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on Florida practice from the commencement of action through final judgment; emphasis on Florida rules of civil procedure with preparation of materials for trial.", 
+        "number": "7303", 
+        "subject": "LAW", 
+        "title": "Florida Civil Practice"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5300 and LAW 6330.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

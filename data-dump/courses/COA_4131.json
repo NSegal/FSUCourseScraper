@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses principles and problems of money management, credit, insurance, housing, transportation, taxes, and investments.", 
+        "number": "4131", 
+        "subject": "COA", 
+        "title": "Family Financial Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Junior standing; economics recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

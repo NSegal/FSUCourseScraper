@@ -1,0 +1,37 @@
+{
+    "_unique": "0013-LEC (9742)", 
+    "basic": {
+        "class_num": "9742", 
+        "course": "2122", 
+        "season": "Spring", 
+        "solus_id": "0013", 
+        "status": "Open", 
+        "subject": "STA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Liu Yang"
+            ], 
+            "location": "HCB 0207", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "09:15:00", 
+            "instructors": [
+                "Liu Yang"
+            ], 
+            "location": "HCB 0207", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

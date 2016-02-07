@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course explores the development of physical dialogue through armed (rapier and dagger, broadsword, quarterstaff, or knife) and unarmed stage combat applied to acting. Focus is placed on the processes of safety, technique, rehearsal, and performance. Students have the option to participate in the Society of American Fight Directors Skill Proficiency Test.", 
+        "number": "4531", 
+        "subject": "TPP", 
+        "title": "Stage Combat"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: TPP 2100 or TPP 2110 and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

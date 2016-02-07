@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course uses a broad-based approach to substance abuse and the effects on health, family, and the profession; identifying groups at risk, prevention activities, and help approaches.", 
+        "number": "4546", 
+        "subject": "NSP", 
+        "title": "Substance Abuse: Effects on Health, Family, Profession"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

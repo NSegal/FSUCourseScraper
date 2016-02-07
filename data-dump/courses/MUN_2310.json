@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of works representative of a wide spectrum of choral literature. Open to all University students. May be repeated to a maximum of four semester hours.", 
+        "number": "2310", 
+        "subject": "MUN", 
+        "title": "University Singers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00 - 1.00"
+    }
+}

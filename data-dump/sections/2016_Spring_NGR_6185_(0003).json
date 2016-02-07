@@ -1,0 +1,24 @@
+{
+    "_unique": "0003-LEC (8214)", 
+    "basic": {
+        "class_num": "8214", 
+        "course": "6185", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "NGR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "11:10:00", 
+            "instructors": [], 
+            "location": "TBA", 
+            "start_time": "08:05:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

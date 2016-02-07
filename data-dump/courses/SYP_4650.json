@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the topics of sport from a critical perspective focusing especially on inequalities in gender, race, class, and power. This class jointly examines sports as a social mirror that reflects status inequalities as well as the role of sports in perpetrating social inequalities.", 
+        "number": "4650", 
+        "subject": "SYP", 
+        "title": "Sports and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

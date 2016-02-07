@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to many topics including finite difference and finite element methods for groundwater modeling; fundamental equations of groundwater flow; numerical solutions for steady state and transient flow problems; multiphase dispersive flow of contaminants in groundwater.", 
+        "number": "5826", 
+        "subject": "GLY", 
+        "title": "Numerical Modeling of Groundwater Flow"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GLY 5825.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

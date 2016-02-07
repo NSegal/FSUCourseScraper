@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a basic understanding of film production technology, equipment operation, terminology, and techniques.", 
+        "number": "2423", 
+        "subject": "FIL", 
+        "title": "Filmmaking I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

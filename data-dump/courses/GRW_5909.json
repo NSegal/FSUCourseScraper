@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This tutorial consists of intensive work by a small number of postgraduates devoted to a specific topic or research problem in Greek studies. May be repeated when topics vary to a maximum of nine semester hours.", 
+        "number": "5909", 
+        "subject": "GRW", 
+        "title": "Tutorial in Greek"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

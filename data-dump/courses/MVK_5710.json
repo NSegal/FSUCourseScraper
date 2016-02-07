@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students techniques, artistic skills, and repertory for vocal accompanying.", 
+        "number": "5710", 
+        "subject": "MVK", 
+        "title": "Piano Accompanying-Vocal"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

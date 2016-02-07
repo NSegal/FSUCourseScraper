@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the modeling and analysis of material flow systems, flow-shop and job-shop scheduling, material handling system analysis, mathematical and simulation modeling for general manufacturing and industrial\u00a0\u00a0\u00a0 systems.", 
+        "number": "5525", 
+        "subject": "ESI", 
+        "title": "Modeling and Analysis of Manufacturing and Industrial Systems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EIN 4333, ESI 3312C, ESI 4523, ESI 5408, and ESI 5524.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

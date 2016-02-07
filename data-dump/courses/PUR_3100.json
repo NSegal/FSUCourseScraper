@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to develop professional-level writing skills for public relations.", 
+        "number": "3100", 
+        "subject": "PUR", 
+        "title": "Writing for Public Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: PUR 3000.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

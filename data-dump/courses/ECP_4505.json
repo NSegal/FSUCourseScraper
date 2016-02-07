@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines crime and criminal justice policy using the tools of\u00a0 economics. The focus is on crimes against persons and property, and drug policy. Rational behavior, opportunity cost, markets, bureaucratic behavior and policy analysis are studied in this context.", 
+        "number": "4505", 
+        "subject": "ECP", 
+        "title": "Economics of Crime"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

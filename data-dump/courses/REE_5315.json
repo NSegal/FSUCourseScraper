@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to real estate decision-making process for determination of real estate site use or investment being used, dealt with , or pursued.", 
+        "number": "5315", 
+        "subject": "REE", 
+        "title": "Real Estate Project Feasibility Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

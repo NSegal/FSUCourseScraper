@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers data analysis, laboratory computers, atomic and molecular optical spectroscopy, nuclear-magnetic resonance spectroscopy, chromatography and electrophoresis, electrochemistry, and mass spectrometry.", 
+        "number": "4130", 
+        "subject": "CHM", 
+        "title": "Advanced Analytical Chemistry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 3120 and 3120L, each with a grade of \"C-\" or better, as well as PHY 2048C or PHY 2053C with a grade of \"C-\" or better. Corequisite: CHM 4410.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

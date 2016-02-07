@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents the fundamental aspects of classical thermodynamics, and its application to multicomponent, multiphase, and chemically reacting systems. Introduction to the thermodynamics of irreversible processes and statistical mechanics.", 
+        "number": "5126", 
+        "subject": "ECH", 
+        "title": "Advanced Chemical Engineering Thermodynamics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECH 3101 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

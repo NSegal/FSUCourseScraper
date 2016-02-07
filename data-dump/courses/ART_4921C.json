@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of independent studies under painting instructors; emphasis on competence in medium and development of individual solutions to problems. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4921C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Painting/Drawing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ART 2500C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

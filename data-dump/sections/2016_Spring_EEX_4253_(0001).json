@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (3035)", 
+    "basic": {
+        "class_num": "3035", 
+        "course": "4253", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EEX", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "19:45:00", 
+            "instructors": [
+                "Anne Bozik"
+            ], 
+            "location": "STB 3203", 
+            "start_time": "17:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

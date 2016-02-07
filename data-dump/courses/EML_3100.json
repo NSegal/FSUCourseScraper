@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the fundamentals of thermodynamics. System description, common properties. Properties of pure substances. Mathematical foundations. First and Second Laws of Thermodynamics, closed and open systems. Equations of state and general thermodynamic relations. For non-mechanical engineering majors.", 
+        "number": "3100", 
+        "subject": "EML", 
+        "title": "Thermodynamics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CHM 1045, MAC 2312, and PHY 2048.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

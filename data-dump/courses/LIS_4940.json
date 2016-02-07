@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with opportunities to test theory in practice and to gain work experience in a real information technology environment. Specifically, students work under the guidance and supervision of a professional in an organization that provides information technology services. May be repeated to a maximum of six semester hours.", 
+        "number": "4940", 
+        "subject": "LIS", 
+        "title": "Internship in Information Technology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes a close examination of the fossil record for human evolution. It builds on basic principles and ideas presented in ANT 2511.", 
+        "number": "4586", 
+        "subject": "ANT", 
+        "title": "Human Evolution"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2511 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

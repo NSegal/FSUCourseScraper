@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers important writings by representative American authors from the colonial period through the post-Civil War era. Typically included are Franklin, Irving, Emerson, Thoreau, Poe, Hawthorne, Melville, Whitman, Douglass, and Emily Dickinson.", 
+        "number": "2010", 
+        "subject": "AML", 
+        "title": "American Authors to 1875"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

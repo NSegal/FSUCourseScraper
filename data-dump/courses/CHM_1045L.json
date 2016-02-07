@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This laboratory offers an introduction to quantitative techniques and to the chemical laboratory. Topics include stoichiometry, atomic spectra, gases, as well as acids and bases.", 
+        "number": "1045L", 
+        "subject": "CHM", 
+        "title": "General Chemistry I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 1105 with a grade of \"C-\" or higher or placement beyond MAC 1105. Corequisite: CHM 1045.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

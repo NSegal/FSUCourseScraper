@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers functions of several variables and their graphical representations; vectors; partial derivatives and gradients; optimization; multiple integration; polar, spherical, and cylindrical coordinate systems; curves; vector fields; line integrals; flux integrals; divergence theorem and Stokes' theorem. This course must be taken for reduced credit by students with prior credit for some of the content.", 
+        "number": "2313", 
+        "subject": "MAC", 
+        "title": "Calculus with Analytic Geometry III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "5.00"
+    }
+}

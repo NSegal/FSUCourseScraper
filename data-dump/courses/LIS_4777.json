@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides advanced knowledge on organizational computing security and contemporary issues in cybersecurity. Topics include trusted computing and multi-level security management, including risk assessment, IT controls, security auditing, along with technical networking and communication security (e.g., Internet security protocols and standards, and Internet authentication applications). The course adopts a practical, hands-on approach to examine several fundamental security technologies learned from LIS 4774 such as firewalls, intrusion detection systems, operating systems security, vulnerability assessment scanners as well as the legal and ethical aspects of hacking. Students also have an opportunity to advance their thinking and troubleshooting skills in solving current cyber threat issues.", 
+        "number": "4777", 
+        "subject": "LIS", 
+        "title": "Advanced Information Security"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LIS 4482 and LIS 4774.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

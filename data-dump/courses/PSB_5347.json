@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth description of basic principles in pharmacology and the cellular and molecular bases of drug effects in the central nervous system.", 
+        "number": "5347", 
+        "subject": "PSB", 
+        "title": "Neuropharmacology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PCB 5845.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

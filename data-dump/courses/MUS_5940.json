@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Open to all graduate students with consent of the Coordinator of Graduate Music. May be repeated to a maximum of six semester hours.", 
+        "number": "5940", 
+        "subject": "MUS", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

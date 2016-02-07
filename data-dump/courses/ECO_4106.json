@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the consequences for economic analysis when individuals (and groups) deviate from rational behavior in identifiable and predictable ways, and incorporates these systematic biases into more accurate models of economic decision making.", 
+        "number": "4106", 
+        "subject": "ECO", 
+        "title": "Behavioral Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ECO 3101.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

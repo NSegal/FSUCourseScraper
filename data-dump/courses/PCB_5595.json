@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies gene regulation and its relationship to differentiation and development.", 
+        "number": "5595", 
+        "subject": "PCB", 
+        "title": "Advanced Molecular Biology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PCB 4024 or PCB 5525 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers American intellectual and cultural history from the 18th-century to the present, through the lens of humor. It investigates the relationship between American ideas and historical transformations. It uses humor to explore the connections and tensions between the various parts of the American mind.", 
+        "number": "5645", 
+        "subject": "AMH", 
+        "title": "Humor and the American Mind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

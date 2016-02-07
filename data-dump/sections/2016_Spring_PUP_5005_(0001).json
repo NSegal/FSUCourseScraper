@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (10932)", 
+    "basic": {
+        "class_num": "10932", 
+        "course": "5005", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "PUP", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:15:00", 
+            "instructors": [
+                "Eric Coleman"
+            ], 
+            "location": "BEL 0113", 
+            "start_time": "11:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

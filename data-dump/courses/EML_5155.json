@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course familiarizes the student with methods to evaluate a convection heat transfer coefficient and a mass transfer coefficient for a variety of engineering applications. Evaluation of the driving force in mass transfer and combined problems.", 
+        "number": "5155", 
+        "subject": "EML", 
+        "title": "Convective Heat and Mass Transfer"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 5810 and EML 5152.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

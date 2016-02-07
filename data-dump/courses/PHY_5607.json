@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies quantum mechanics and its applications to particles, nuclei, atoms, molecules, and condensed matter.", 
+        "number": "5607", 
+        "subject": "PHY", 
+        "title": "Quantum Theory of Matter A"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

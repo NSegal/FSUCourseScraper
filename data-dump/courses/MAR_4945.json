@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the many career opportunities, job descriptions, and career paths students can follow to achieve success in the retail management field. At the end of this course, students have a clear vision of where they can begin their careers and how to make that happen.", 
+        "number": "4945", 
+        "subject": "MAR", 
+        "title": "Retail Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 3023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

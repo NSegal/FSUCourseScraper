@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the fundamental concepts and techniques of literary analysis. It is strongly recommended that students complete this course before taking any of the 3000- and 4000-level literature courses. This course provides students with the critical vocabulary and skills of close reading and interpretation needed to engage in the analysis of literary works. Students read a wide range of literary texts in fiction, poetry, drama, and nonfiction in order to learn how to engage in the process of literary interpretation and produce their own analyses of literary and cultural texts.", 
+        "number": "3010", 
+        "subject": "ENG", 
+        "title": "Introduction to Literary Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

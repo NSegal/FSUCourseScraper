@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students present results of their physics research to the class for discussion. May be repeated to a maximum of two semester hours.", 
+        "number": "4990", 
+        "subject": "PHY", 
+        "title": "Senior Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3101. Corequisites: PHY 3091 and PHY 4910r.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

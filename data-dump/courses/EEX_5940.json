@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This practicum gives experience working with atypical infants, toddlers, preschoolers, and their families. May be repeated to a maximum of six semester hours.", 
+        "number": "5940", 
+        "subject": "EEX", 
+        "title": "Practicum in Early Childhood Special Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

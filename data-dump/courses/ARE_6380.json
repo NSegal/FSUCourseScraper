@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the teaching-learning process in art education.", 
+        "number": "6380", 
+        "subject": "ARE", 
+        "title": "Doctoral Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

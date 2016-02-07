@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an examination of juvenile delinquency and juvenile justice, including legal and social history, definition and explanation of delinquency, and assessment of delinquency prevention and correctional programs, with emphasis on application of philosophical, legal, and procedural principles to problems and cases of juvenile justice. May require community service hours.", 
+        "number": "4010", 
+        "subject": "CJJ", 
+        "title": "Juvenile Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

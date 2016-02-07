@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces science majors to key aspects and concepts of modern astronomy and astrophysics. Topics cover coordinate systems, instrumentation, our sun and planets, stars and stellar evolution, binary systems and variable stars, stellar explosions, galaxies, as well as the evolution of the universe.", 
+        "number": "5210", 
+        "subject": "AST", 
+        "title": "Introduction to Astrophysics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2312 and PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

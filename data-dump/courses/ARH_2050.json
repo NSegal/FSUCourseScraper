@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introductory survey from prehistoric through late-Medieval art history.", 
+        "number": "2050", 
+        "subject": "ARH", 
+        "title": "History and Criticism of Art I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

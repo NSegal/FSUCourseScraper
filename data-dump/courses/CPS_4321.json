@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines contemporary problems and prospects for Southeast Europe.", 
+        "number": "4321", 
+        "subject": "CPS", 
+        "title": "Comparative Policy Studies: Contemporary Southeast Europe"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

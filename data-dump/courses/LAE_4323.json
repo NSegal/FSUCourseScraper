@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course seeks to explore ways in which young adult literature meets many of the needs of secondary school students. Students immerse themselves in the literature of young adults in order to enjoy it as a reader, recommend it to students and colleagues, and implement it within the middle school and high school curriculum.", 
+        "number": "4323", 
+        "subject": "LAE", 
+        "title": "Adolescent Literacy and Young Adult Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAE 3331, LAE 3333, TSL 4080, completion of all English Education admission requirements, including prerequisites, GPA, and FTCE General Knowledge exam. Corequisites: RED 4335, TSL 4081.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

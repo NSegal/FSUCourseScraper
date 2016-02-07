@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the social history of the American GI in World War II. It considers who served in the American military, why they fought and coped with the experience of total war. Special attention is given to the religious experiences of the GI at war and issues of race, ethnicity, and gender.", 
+        "number": "2010", 
+        "subject": "IFS", 
+        "title": "The American GI in War and Peace in World War II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

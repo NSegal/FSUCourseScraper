@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of experiments in atomic physics, nuclear physics, and other areas of modern physics. Students are expected to work without detailed instructions. May be repeated to a maximum of six semester hours for special projects arranged in advance between the student and the instructor.", 
+        "number": "4822L", 
+        "subject": "PHY", 
+        "title": "Advanced Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 3802L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers practical techniques and tools for creating a digital portfolio in support of an artistic practice in any medium.", 
+        "number": "5955", 
+        "subject": "ART", 
+        "title": "Digital Portfolio"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

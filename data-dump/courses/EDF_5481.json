@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of selected types of educational research and appropriate related techniques; emphasis on criteria of validity.", 
+        "number": "5481", 
+        "subject": "EDF", 
+        "title": "Methods of Educational Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

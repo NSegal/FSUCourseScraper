@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of individual research on assigned selected topics leading to the drafting of papers, policy statements, reports, and/or proposed legislation. May be repeated to a maximum of four semester hours.", 
+        "number": "7915", 
+        "subject": "LAW", 
+        "title": "Legislative Policy Studies"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of various important issues in criminological theory and research and the administration of criminal justice.", 
+        "number": "5050", 
+        "subject": "CCJ", 
+        "title": "Proseminar in Criminology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

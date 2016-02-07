@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers the basic model of income determination, emphasizing the roles of real and monetary sector of the economy. Results of empirical work are surveyed.", 
+        "number": "3203", 
+        "subject": "ECO", 
+        "title": "Intermediate Macroeconomic Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013, ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the evaluation and anaylsis of public policy, using the political economy approach.", 
+        "number": "4008", 
+        "subject": "PUP", 
+        "title": "Public Policy Analysis"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PUP 3002.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores the idea that in addressing public policy issues involving sustainability of the environment and energy systems, engineering is important for obvious reasons, but without consideration of the human factor, engineering solutions are incomplete. In the course, students are educated on economic models and analysis of sustainability in energy and environmental systems.", 
+        "number": "4312", 
+        "subject": "ECP", 
+        "title": "Economics of Energy, Environment and Sustainability"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

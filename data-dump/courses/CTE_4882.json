@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This internship in a retail setting allows students to understand merchandizing functions through management, buying, or product development. Both professional development and career preparation are emphasized. S/U grade only.", 
+        "number": "4882", 
+        "subject": "CTE", 
+        "title": "Professional Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Major status, CTE 4811, CTE 4826, and CTE 4866.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

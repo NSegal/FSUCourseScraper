@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of language and phonological impairments. Prepares students to facilitate development in children's language learning systems while taking into account the contextually-based needs of children with developmental communicative disorders.", 
+        "number": "5460", 
+        "subject": "SPA", 
+        "title": "Foundations of Developmental Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0011-LAB (8581)", 
+    "basic": {
+        "class_num": "8581", 
+        "course": "3322L", 
+        "season": "Spring", 
+        "solus_id": "0011", 
+        "status": "Open", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:50:00", 
+            "instructors": [
+                "Alex Klemp"
+            ], 
+            "location": "HCB 0301", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

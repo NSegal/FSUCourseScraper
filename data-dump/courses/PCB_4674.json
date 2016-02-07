@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course places emphasis on the processes of evolution: origin of life, theories of evolution, sources of variation, natural selection, population systems, isolating mechanisms, evolution above the species level.", 
+        "number": "4674", 
+        "subject": "PCB", 
+        "title": "Evolution"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, PCB 3063 and Senior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

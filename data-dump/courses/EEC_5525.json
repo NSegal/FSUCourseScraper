@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to investigate the basic principles involved in establishing and operating centers for the young child.", 
+        "number": "5525", 
+        "subject": "EEC", 
+        "title": "Children's Centers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

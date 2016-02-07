@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves supervised practice at the policy level, designed to advance nursing practice and strengthen leadership across healthcare organizations and agencies. Students identify and interact with key state or national stakeholders in order to design and advance a complex healthcare policy issue. Emphasis is on gathering, analyzing, designing and communicating actionable information. In their role of policy activists, students need to demonstrate expertise by adopting clinical judgment, systems thinking, accountability, and quality outcomes, and by leading a focused systems change, policy development, grant proposal, or presentation at a national meeting.", 
+        "number": "6897L", 
+        "subject": "NGR", 
+        "title": "Health Systems Leadership Practicum III"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NGR 6778L and NGR 6779L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "5.00"
+    }
+}

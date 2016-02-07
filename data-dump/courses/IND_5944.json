@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "A maximum of eight semester hours may be applied toward the masters degree. Independent study and planning of a large environment. Prospectus must be approved by the Graduate Coordinator, Interior Design Graduate Committee.", 
+        "number": "5944", 
+        "subject": "IND", 
+        "title": "Field Research in Space Organization"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 8.00"
+    }
+}

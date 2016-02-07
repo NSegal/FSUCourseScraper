@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an understanding of the purchasing/supply management process by analyzing the sourcing strategies, negotiation tools and contract management techniques required to provide organizations with the best value for their purchase expenditures.", 
+        "number": "5465", 
+        "subject": "MAR", 
+        "title": "Purchasing and Supply Chain Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

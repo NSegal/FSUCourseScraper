@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LEC (5989)", 
+    "basic": {
+        "class_num": "5989", 
+        "course": "2040", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MUE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "William Fredrickson"
+            ], 
+            "location": "KMU 0241A", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "William Fredrickson"
+            ], 
+            "location": "KMU 0241A", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "William Fredrickson"
+            ], 
+            "location": "KMU 0241A", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

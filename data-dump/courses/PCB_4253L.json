@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab combines lecture and laboratory experiments regarding sea urchin fertilization, frog and chick early development, gene expression, cell-cell interactions, and metamorphosis.", 
+        "number": "4253L", 
+        "subject": "PCB", 
+        "title": "Developmental Biology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, CHM 1046L, and PCB 3063. Corequisite: PCB 4253.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

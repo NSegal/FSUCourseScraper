@@ -1,0 +1,57 @@
+{
+    "_unique": "0003-LEC (5085)", 
+    "basic": {
+        "class_num": "5085", 
+        "course": "2312", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "MAC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "08:50:00", 
+            "instructors": [
+                "Khalid Bouhjar"
+            ], 
+            "location": "LOV 0101", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "08:50:00", 
+            "instructors": [
+                "Khalid Bouhjar"
+            ], 
+            "location": "LOV 0101", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "08:50:00", 
+            "instructors": [
+                "Khalid Bouhjar"
+            ], 
+            "location": "LOV 0101", 
+            "start_time": "08:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "12:15:00", 
+            "instructors": [], 
+            "location": "HCB 0307", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers a broad range of computational methods and their applications to electrical engineering. Methods include solution of equations, matrices, differentiation, integration, solution of differential equations, Fourier analysis, and boundary-value problems. Applications include circuit analysis, signal analysis, signal processing, electromagnetics, and optics.", 
+        "number": "5025", 
+        "subject": "EEL", 
+        "title": "Computational Electrical Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 3408, EEE 3300, EEL 3135, EEL 3472, and EEL 3512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

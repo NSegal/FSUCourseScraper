@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of advanced editing and post production techniques applied to field and studio projects. Emphasis on digital non-linear editing systems.", 
+        "number": "3571", 
+        "subject": "RTV", 
+        "title": "Video Post Production"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: RTV 3531.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

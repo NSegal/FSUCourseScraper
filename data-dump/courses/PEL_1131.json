@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed for students to learn the basic rules of and skills required to play the game. Class meetings take place in Crenshaw Lanes. Students are responsible for demonstrating progression advancement in their personal billiards skills throughout the semester.", 
+        "number": "1131", 
+        "subject": "PEL", 
+        "title": "Introduction to Billiards"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This two or four week course is designed to expose students to evidence-based medicine beyond traditional Western medicine. The majority of the rotation is spent at the Archbold Integrative Medicine Center. Students spend some time in observation but also interact, under supervision, with\u00a0 a diversepopulation of patients seeking consultation for a wide spectrum of diseases.", 
+        "number": "7391", 
+        "subject": "MDE", 
+        "title": "Holistic and Integrative Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

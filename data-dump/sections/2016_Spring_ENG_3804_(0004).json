@@ -1,0 +1,37 @@
+{
+    "_unique": "0004-LEC (11648)", 
+    "basic": {
+        "class_num": "11648", 
+        "course": "3804", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Closed", 
+        "subject": "ENG", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Anna Bighta"
+            ], 
+            "location": "WMS 0121B", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Anna Bighta"
+            ], 
+            "location": "WMS 0121B", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

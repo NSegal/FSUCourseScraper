@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a survey of health psychology and behavioral medicine. Topics include mind/body connections, health and disease, stress and coping, and psychology in medical settings.", 
+        "number": "3314", 
+        "subject": "CLP", 
+        "title": "Health Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

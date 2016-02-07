@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to reading the New Testament in Greek; it involves a comparison of New Testament Greek to Attic Greek grammar, as well as an introduction to New Testament scholarship. May be repeated to a maximum of six semester hours provided texts change.", 
+        "number": "3250", 
+        "subject": "GRW", 
+        "title": "New Testament Greek"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GRE 2220 or completion of twelve-hour foreign language sequence in Greek.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

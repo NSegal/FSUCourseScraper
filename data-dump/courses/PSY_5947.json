@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a teaching apprenticeship under the direction of a faculty member, involves observed teaching and teacher observation. No more than three semester hours may be counted toward the master's degree and five semester hours toward the doctoral degree.", 
+        "number": "5947", 
+        "subject": "PSY", 
+        "title": "Supervised Teaching"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Teaching": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

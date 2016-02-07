@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course helps students Understand and develop tests that directly measure student achievement.", 
+        "number": "5445", 
+        "subject": "EDF", 
+        "title": "Assessment of Learning Outcomes"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

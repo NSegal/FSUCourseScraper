@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as sufficiency, point estimation, confidence intervals, hypothesis testing, regression, linear models, and Bayesian analysis. Subsequent credit for STA 5325 is not permitted.", 
+        "number": "4322", 
+        "subject": "STA", 
+        "title": "Mathematical Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "MAC2313,P,Y,**STA4321,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

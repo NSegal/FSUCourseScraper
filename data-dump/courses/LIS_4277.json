@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the concepts of cognitive and human information processing, their application to information systems design, and the assessment of the usability and usefulness of information systems.", 
+        "number": "4277", 
+        "subject": "LIS", 
+        "title": "Usability and Usefulness of Information Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerquisites: LIS 3201 and LIS 4276.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

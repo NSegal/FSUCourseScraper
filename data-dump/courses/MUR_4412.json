@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the organ and its music from the time of J.S. Bach to the present day.", 
+        "number": "4412", 
+        "subject": "MUR", 
+        "title": "Organ History and Literature: 18th-20th Centuries"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the way technology (specifically computers) is used with special education students.", 
+        "number": "5765", 
+        "subject": "EEX", 
+        "title": "Introduction to Special Education Technology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

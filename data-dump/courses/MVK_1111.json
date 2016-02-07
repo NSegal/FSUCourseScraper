@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on elementary keyboard techniques and musicianship. For music majors other than keyboard principals and performance majors. May be repeated to a maximum of two semester hours.", 
+        "number": "1111", 
+        "subject": "MVK", 
+        "title": "Class Piano"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Audition and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

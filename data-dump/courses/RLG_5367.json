@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar focuses on the manifold expressions of Shi'ism from its origins to the present day. It examines the political divisions within the early Islamic community that led to the development of the shi'a. The seminar also examines the earliest Shi'a sects and the major juridical and theological developments within Ithna-'Ashari (\"12er\") Shi'ism, such as the doctrine of the Imamate and the occultation and return of the 12th Imam. The seminar also studies the establishment and elaboration of Fatimid Isma'ilism. The latter part of the seminar is devoted to contemporary issues among the Shi'ites, including contemporary treatments of the martyrdom of Hussayn and the role of Hizbullah in the politics of the Middle East.", 
+        "number": "5367", 
+        "subject": "RLG", 
+        "title": "Seminar on Shi'ite Islam"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

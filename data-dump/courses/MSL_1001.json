@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines unique duties and responsibilities of officers, organization and role of the Army. Topics include fitness and communication, Army values and expected ethical behavior.", 
+        "number": "1001", 
+        "subject": "MSL", 
+        "title": "Foundations of Officership"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MSL 1001L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

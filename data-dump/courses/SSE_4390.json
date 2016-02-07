@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course simulates the United Nations as students examine prevalent historical, political, and socio-economic global issues permeating the United States and other nations. Students critically analyze textual materials, long-range effects of deeply-embedded issues on the human condition worldwide, and use new knowledge and understanding learned to develop lesson plans appropriate to national and state standards. In simulating the U.N. General Assembly, students develop an understanding of cross-cultural communication, negotiations, compromise, and practices, along with learning about the philosophy, history, and purpose of the United Nations.", 
+        "number": "4390", 
+        "subject": "SSE", 
+        "title": "Teaching Global Issues Simulating the United Nations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Supervised Teaching": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

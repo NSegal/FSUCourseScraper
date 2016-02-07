@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines fundamental group and covering spaces, simplicial and CW complexes, elementary homotopy theory, elementary homology theory, and point set topology.", 
+        "number": "5326", 
+        "subject": "MTG", 
+        "title": "Topology I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

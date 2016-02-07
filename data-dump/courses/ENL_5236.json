@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores various approaches to the study of British works and authors from 1660 to 1800, including but not limited to poetry, prose, and\u00a0 drama.", 
+        "number": "5236", 
+        "subject": "ENL", 
+        "title": "Studies in Restoration and 18th-Century British Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

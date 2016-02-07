@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the characterization and development of models and procedures for strategic planning, needs assessment, needs analysis, quality management, and front-end analysis, and their use in system planning.", 
+        "number": "6287", 
+        "subject": "EDG", 
+        "title": "Needs Assessment for Performance and System Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exlpores the planning, development, operation, and management of retirement facilities. Explores the various types of senior living facilities, including multi-level, independent, assisted living, and skilled-nursing care centers.", 
+        "number": "3272", 
+        "subject": "HFT", 
+        "title": "Senior Services Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

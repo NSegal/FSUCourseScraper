@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This seminar emphasizes the exploration and mastery of literature from demographic and other social science professional journals, related to issues of population dynamics in comparative global context. In addition to discussion and writing related to these readings as specified in the syllabus, seminar participants also complete independent original research projects involving synthesis of this literature, formulation of an original hypothesis, and where appropriate, testing of such a hypothesis through original empirical data analysis. Such products of research ideally may be presented as conference papers and/or submitted for journal publication.", 
+        "number": "5046", 
+        "subject": "SYD", 
+        "title": "International Population Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Supervised Research": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

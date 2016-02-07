@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with the literature in the history of U.S. relevant to the period covered and the critical issues driving the field. Theme for the seminar varies.", 
+        "number": "5625", 
+        "subject": "ARH", 
+        "title": "American Art before 1940"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing in art history or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

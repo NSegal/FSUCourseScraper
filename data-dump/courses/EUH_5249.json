@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course details the background and career of the Holocaust as well as the continuing problem of \"Holocaust denial.\" Special emphasis is given to the ideas of such racists as de Gobineau and Hitler.", 
+        "number": "5249", 
+        "subject": "EUH", 
+        "title": "The Holocaust in Historical Perspective"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the history of terrorism as both an idea and a political strategy, with particular focus on the nineteenth and twentieth centuries. It emphasizes the need for understanding terrorism and related forms of political violence within a systemic framework that takes into account the roles of anti-terrorist policies, police activities, and political debate in shaping not only the public perception of terrorism but also the self-perception of those who would adopt it as a tactic.", 
+        "number": "3093", 
+        "subject": "IFS", 
+        "title": "Terrorism in Historical Perspective"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

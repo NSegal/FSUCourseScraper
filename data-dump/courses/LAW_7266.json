@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of international litigation for the resolution of private and public disputes.", 
+        "number": "7266", 
+        "subject": "LAW", 
+        "title": "International Litigation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

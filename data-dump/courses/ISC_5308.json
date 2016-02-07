@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores common methods of data assimilation, such as Kalman filtering, ensemble filter, particle and hybrid filters, along with variational methods. These methods are introduced and derived in the context of bothvariational and estimation theory with emphasis on computational aspects,\u00a0 using simple models and current research materials.", 
+        "number": "5308", 
+        "subject": "ISC", 
+        "title": "Computational Aspects of Data Assimilation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311, MAC 2312, MAS 3105, ISC 5305, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

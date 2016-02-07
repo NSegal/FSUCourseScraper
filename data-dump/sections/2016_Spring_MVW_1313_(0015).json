@@ -1,0 +1,26 @@
+{
+    "_unique": "0015-PRF (12837)", 
+    "basic": {
+        "class_num": "12837", 
+        "course": "1313", 
+        "season": "Spring", 
+        "solus_id": "0015", 
+        "status": "Closed", 
+        "subject": "MVW", 
+        "type": "PRF", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Ashley Holder"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

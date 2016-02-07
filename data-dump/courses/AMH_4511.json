@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the responsibilities of global power and how American foreign policy changed to meet rapidly altering circumstances.", 
+        "number": "4511", 
+        "subject": "AMH", 
+        "title": "Twentieth-Century United States Foreign Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

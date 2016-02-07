@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the extent to which various property rights come or fail to be recognized. The course includes both private sector and governmental arrangements and influences on the definition of property rights. Particular topics include the law of finders, landlord and tenant, concurrent ownership, licenses, easements, profits, restrictive convenants, an introducti on to zoning and growth control, as well as constitutional \"talkings\" analysis.", 
+        "number": "5400", 
+        "subject": "LAW", 
+        "title": "Property"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

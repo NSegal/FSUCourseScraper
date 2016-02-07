@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores theoretical and practical approaches to museum operation and the historical development of the art museum in America.", 
+        "number": "5797", 
+        "subject": "ARH", 
+        "title": "Seminar in Museum Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

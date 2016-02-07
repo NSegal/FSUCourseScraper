@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course builds upon and enhances student skills and knowledge developed in the basic professional selling course. Focus is on using a strategic and consultative sales model to develop, manage, and deliver realistic sales presentations.", 
+        "number": "4415", 
+        "subject": "MAR", 
+        "title": "Advanced Sales Techniques"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAR 2023 and MAR 3400.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

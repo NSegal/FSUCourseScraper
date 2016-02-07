@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-RSR (5767)", 
+    "basic": {
+        "class_num": "5767", 
+        "course": "5910", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Closed", 
+        "subject": "MET", 
+        "type": "RSR", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Peter Ray"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

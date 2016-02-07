@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to expand the students' comprehension and production of American Sign Language with a primary emphasis on dialogue. Focus is on increased vocabulary, conceptual accuracy, verb inflections, and ASL idioms.", 
+        "number": "2150C", 
+        "subject": "ASL", 
+        "title": "Intermediate American Sign Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ASL 1140C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

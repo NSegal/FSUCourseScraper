@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (10179)", 
+    "basic": {
+        "class_num": "10179", 
+        "course": "3243", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "CHD", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Melinda Gonzales Backen"
+            ], 
+            "location": "DIF 0128", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Melinda Gonzales Backen"
+            ], 
+            "location": "DIF 0128", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

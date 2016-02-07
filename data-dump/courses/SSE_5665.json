@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides theory and practice in discovery, problem solving, and inquiry teaching of social science.", 
+        "number": "5665", 
+        "subject": "SSE", 
+        "title": "Inquiry in Teaching Social Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDG 5208 and SSE 5367.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

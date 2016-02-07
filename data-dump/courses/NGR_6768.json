@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers students the opportunity to examine DNP roles and responsibilities that lead to effective practice and interprofessional collaboration. The course utilizes theoretical concepts related to the role theory and models of interprofessional collaboration, as a basis of analysis of individual, unit-based, and organizational communication and work strategies that promote quality and culturally competent care.", 
+        "number": "6768", 
+        "subject": "NGR", 
+        "title": "DNP Roles and Interprofessional Collaboration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the DNP program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

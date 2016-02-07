@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For this course, students must establish their ability to handle modern computer techniques applicable to their research. A student may not enroll forGFD 6980r prior to passing the preliminary (comprehensive) examination.", 
+        "number": "6980", 
+        "subject": "GFD", 
+        "title": "Dissertation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Graduate Dissertation": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to Doctoral Candidacy.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

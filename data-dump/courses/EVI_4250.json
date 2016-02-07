@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides participants with the knowledge and skills necessary to design and implement instructional activities to increase the development of social and career skills in children with visual impairments. Emphasis is placed on infusing these skills into everyday activities, educational instruction, and collaboration with families and communities to improve student outcomes.", 
+        "number": "4250", 
+        "subject": "EVI", 
+        "title": "Teaching Social and Career Skills to Students with Visual Impairments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4011 and EVI 4254.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on self-development, while incorporating the individual's knowledge of self, understanding of group processes, current beliefs, and skills.", 
+        "number": "2102", 
+        "subject": "MSL", 
+        "title": "Leadership and Teamwork"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MSL 2102L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

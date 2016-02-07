@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental methods of epidemiology for statisticians. With a focus on identification of risk factors for disease, topics include exposure-disease association, design of cohort, matched and randomized studies; cross-sectional and longitudinal studies; statistical analysis of data arising from such studies, confounding, adjustment and causality; and evaluation of diagnostic and screening tests.", 
+        "number": "5198", 
+        "subject": "STA", 
+        "title": "Epidemiology for Statisticians"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: STA 5167 and STA 5327 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

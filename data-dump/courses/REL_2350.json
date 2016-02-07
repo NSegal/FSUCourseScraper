@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the history, thought, and practice of religion in China, Korea, and Japan. Confucianism, Taoism, Buddhism, and popular religious traditions from ancient through modern times are covered.", 
+        "number": "2350", 
+        "subject": "REL", 
+        "title": "Religions of East Asia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

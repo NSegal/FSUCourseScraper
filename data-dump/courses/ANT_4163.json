@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course investigates the development of high civilization in ancient Mesoamerica. Evidence is drawn from archaeology, art, architecture, ethnohistory, and ethnography.", 
+        "number": "4163", 
+        "subject": "ANT", 
+        "title": "Mesoamerican Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

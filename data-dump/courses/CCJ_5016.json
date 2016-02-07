@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an indepth examination of the many types of crimes committed by the powerful. Powerful people, corporations, and governments commit a variety of serious, deadly acts that if committed by \"ordinary\" or powerless people would be labeled and treated as criminal behavior.", 
+        "number": "5016", 
+        "subject": "CCJ", 
+        "title": "Crimes of the Powerful"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

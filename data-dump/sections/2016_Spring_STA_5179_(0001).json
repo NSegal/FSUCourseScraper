@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LAB (12096)", 
+    "basic": {
+        "class_num": "12096", 
+        "course": "5179", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "STA", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Debajyoti Sinha"
+            ], 
+            "location": "OSB 0108", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:45:00", 
+            "instructors": [
+                "Debajyoti Sinha"
+            ], 
+            "location": "OSB 0108", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

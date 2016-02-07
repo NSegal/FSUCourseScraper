@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the impact of American Cinema on social relations and on the reproduction of power. Students benefit from this course by learning a matrix of movie history, movie genres, and approaches to multiculturalism by which to judge movies, cultural representation and the cultural experiences of life. The movies provide a window into middle and late 20th century cultures, which serve as comparisons and contrasts for culture in the 21st century.", 
+        "number": "3321", 
+        "subject": "HUM", 
+        "title": "Multicultural Dimensions of Film and 20th-Century Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

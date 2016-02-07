@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the regulatory aspects of corporate finance, concentrating heavily on the fundamentals of the Securities Act of 1933 and the Securities Exchange Act of 1934.", 
+        "number": "7560", 
+        "subject": "LAW", 
+        "title": "Securities Regulation"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: LAW 6060.", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

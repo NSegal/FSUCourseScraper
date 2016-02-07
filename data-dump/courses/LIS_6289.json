@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course, within the framework of University and professional education, is an examination of the aims, structures, and issues related to education for information issues. Includes curricular content and design, faculty, students and finance and administration.", 
+        "number": "6289", 
+        "subject": "LIS", 
+        "title": "Seminar in Education for Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

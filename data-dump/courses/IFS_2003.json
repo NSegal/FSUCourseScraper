@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course analyzes and synthesizes information centering on a number of current sexual and reproductive health issues. Course materials include the interdisciplinary theorizing of feminists, medical social scientists, anthropologists, demographers, and public health scholars. May be repeated to a maximum of nine semester hours.", 
+        "number": "2003", 
+        "subject": "IFS", 
+        "title": "Sexual Health in the Modern World"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of correctional philosophies, practices, and procedures.", 
+        "number": "3010", 
+        "subject": "CJC", 
+        "title": "Corrections"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is the study of medical and scientific terminology, the language of medicine that focuses on prefixes, suffixes, word roots and their combining forms by review of each body system and specialty area. Emphasis is on word construction, usage, comprehension, pronunciation, and spelling. In addition, students gain information regarding anatomy and physiology, pathology, diagnostic/surgical procedures, pharmacology, scientific equipment and instruments, and abbreviations.", 
+        "number": "2001", 
+        "subject": "APK", 
+        "title": "Medical and Scientific Terminology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: PET 3322 or BSC 2085.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

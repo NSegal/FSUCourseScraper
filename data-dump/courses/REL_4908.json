@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course studies the grammar, vocabulary and style of the Pali canon to better understand both Buddhist philosophical concepts and the culture of Bancient Buddhist India.", 
+        "number": "4908", 
+        "subject": "REL", 
+        "title": "Tutorial in Pali"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

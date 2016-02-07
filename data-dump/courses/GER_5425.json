@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "For this course, the objective is the ability to write in German at a level that approximates native use of the language for advanced cultural discourse in general and literary commentary in particular. The workshop setting is designed for collaborative learning through discussions of various styles in existing texts, for the purposes both of recognizing stylistic properties of different types of texts and of selecting styles for the student's own uses, and through collective critiques of the fellow student's writings. The course is conducted in German.", 
+        "number": "5425", 
+        "subject": "GER", 
+        "title": "Essay Workshop"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the development of education policy through the state legislature, state boards of education, and the state budgeting process. Emphasizes eclectic research methods in the conduct of limited scope educational policy studies at the state level.", 
+        "number": "5569", 
+        "subject": "EDA", 
+        "title": "State Education Policy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

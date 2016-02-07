@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines governing as the process of collective decision-making, and as a society's search for public ethics.", 
+        "number": "3502", 
+        "subject": "POT", 
+        "title": "Politics and Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

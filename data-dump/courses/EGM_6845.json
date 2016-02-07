@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of turbulent, flows, statistical description of turbulence; instability and transition; turbulence closure modeling; free shear and boundary layer flows; complex shear flows; development of computational strategies; recent literature on applications and chaos phenomena.", 
+        "number": "6845", 
+        "subject": "EGM", 
+        "title": "Turbulent Flows"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EML 5709.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

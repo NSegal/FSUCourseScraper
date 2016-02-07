@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course covers the morphology and physiology of skeletal muscle,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 including the adaptations that occur in response to physical activity,\u00a0\u00a0\u00a0\u00a0 disuse, and aging.", 
+        "number": "6317", 
+        "subject": "PET", 
+        "title": "Skeletal Muscle Structure and Function"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 3110C or equivalent level of exercise physiology course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

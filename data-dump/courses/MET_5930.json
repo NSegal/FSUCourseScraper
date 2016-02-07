@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers reports and discussions of meteorological research. All master's degree candidates give an oral presentation and prepare a written report.", 
+        "number": "5930", 
+        "subject": "MET", 
+        "title": "Master's Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

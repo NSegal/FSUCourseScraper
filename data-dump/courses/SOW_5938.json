@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores topics such as diagnosis and treatment of addictive disorders, living with aids, family violence across the life span, and mind , body and healing.", 
+        "number": "5938", 
+        "subject": "SOW", 
+        "title": "Social Work Seminars: Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

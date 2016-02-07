@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a seminar that probes current topics in human resource management in depth. Emphasis is on the impact of recent legal and societal developments on human resource management practice.", 
+        "number": "4390", 
+        "subject": "MAN", 
+        "title": "Current Issues in Human Resource Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAN 3240 and MAN 4301.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the physical and human geography of the United Kingdom and Ireland.", 
+        "number": "4520", 
+        "subject": "GEA", 
+        "title": "Britain and Ireland"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

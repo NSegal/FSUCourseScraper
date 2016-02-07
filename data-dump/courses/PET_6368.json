@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the processes involved in the production and utilization of energy in exercise and the effects of training.", 
+        "number": "6368", 
+        "subject": "PET", 
+        "title": "Metabolic Responses to Exercise"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

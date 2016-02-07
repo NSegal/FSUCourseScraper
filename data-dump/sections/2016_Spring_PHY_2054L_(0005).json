@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LAB (8796)", 
+    "basic": {
+        "class_num": "8796", 
+        "course": "2054L", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Closed", 
+        "subject": "PHY", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:45:00", 
+            "instructors": [
+                "David Lind"
+            ], 
+            "location": "UPL 0105", 
+            "start_time": "15:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

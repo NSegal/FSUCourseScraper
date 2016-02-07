@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course philosophically examines some key issues in social scientific inquiry. Topics to be explored include human action, explanation and prediction, role of values, theory construction, ideology, and social science and public policy.", 
+        "number": "6425", 
+        "subject": "PHI", 
+        "title": "Philosophy of Social Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

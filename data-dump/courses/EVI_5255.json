@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to teach students techniques of daily living for persons with vision loss, methods of writing lesson plans for the adaptive techniques, and opportunities to teach the skills learned in class.", 
+        "number": "5255", 
+        "subject": "EVI", 
+        "title": "Methods of Independent Living of the Blind"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

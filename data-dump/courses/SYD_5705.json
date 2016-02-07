@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar examines sociological concepts and theories utilized to explain dominant-subordinate relations in society.\u00a0 Applies various frameworks to the study of contemporary U.S. ethnic and race relations.", 
+        "number": "5705", 
+        "subject": "SYD", 
+        "title": "Sociology of Race and Ethnicity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the issue of contemporary racial inequality in the United States. More specifically, the course has been designed to provide students with information about trends and patterns of racial inequality in the U.S. today, allowing them to explore competing explanations for continuing racial inequality, and challenging them to propose and critically assess ideas about potential mechanisms for change.", 
+        "number": "2034", 
+        "subject": "IFS", 
+        "title": "The Boundaries Between Us: Exploring Racial Inequality in the U.S."
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

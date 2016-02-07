@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course reviews the literature and techniques for locating, accessing, and understanding public health evidence, as well as evaluating environmen tal hazards that pose risks to human health and safety and policy repercussions to public health provisions.", 
+        "number": "5451", 
+        "subject": "GEO", 
+        "title": "Medical Geography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

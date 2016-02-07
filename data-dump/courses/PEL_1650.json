@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Ultimate Frisbee is an exciting, non-contact team sport played by thousands the world over. It mixes the best features of sports such as soccer, basketball, and football into a demanding game. Students are instructed in the three basic throws and defensive strategies. The majority of the class time is spent practicing these skills in scrimages.", 
+        "number": "1650", 
+        "subject": "PEL", 
+        "title": "Ultimate Frisbee"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

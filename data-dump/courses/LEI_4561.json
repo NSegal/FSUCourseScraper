@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course presents students with an overview of standard event promotional techniques including online marketing strategies.", 
+        "number": "4561", 
+        "subject": "LEI", 
+        "title": "Special Event Promotions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

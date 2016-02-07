@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review of basic combinatorics. Basic concepts of graph theory. Matching and covering, and applications. Traversability and path problems on networks, and applications. Tree problems. Network flows and applications. Eulerian paths, Hamiltonian paths, and applications. Location problems on networks. Design exercises.", 
+        "number": "5458", 
+        "subject": "ESI", 
+        "title": "Optimization on Networks"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 3312C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

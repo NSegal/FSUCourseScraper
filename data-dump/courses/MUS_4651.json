@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course contributes to the student's knowledge and skill in decoding and encoding nonverbal communication and develops survival skills in American Sign Language.", 
+        "number": "4651", 
+        "subject": "MUS", 
+        "title": "Nonverbal Communication in Human Interaction"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

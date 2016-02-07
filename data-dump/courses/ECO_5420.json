@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces statistical concepts used in econometric thinking, reviews the classical linear regression model, and discusses applications to economic data.", 
+        "number": "5420", 
+        "subject": "ECO", 
+        "title": "Applied Econometrics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

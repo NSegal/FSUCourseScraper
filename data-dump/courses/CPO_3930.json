@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Topics vary with the instructor and semester. May be repeated to a maximum of nine semester hours.", 
+        "number": "3930", 
+        "subject": "CPO", 
+        "title": "Special Topics in Comparative Government and Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores changes in societal scale and structure associated with development of cities and urban societies, the impact on individuals and social groups of the urban context, and the ways that life in cities is influenced by social inequalities related to ethnicity, social class, and other dimensions of social organization.", 
+        "number": "3094", 
+        "subject": "IFS", 
+        "title": "Cities in Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

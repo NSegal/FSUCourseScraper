@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on techniques for the analysis of non-serial atonal music.", 
+        "number": "5628", 
+        "subject": "MUT", 
+        "title": "Atonal Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

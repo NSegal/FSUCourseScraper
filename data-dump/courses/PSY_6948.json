@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an off-campus internship for one year, two thousand hours.", 
+        "number": "6948", 
+        "subject": "PSY", 
+        "title": "Psychology Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Clinical psychology majors only.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 9.00"
+    }
+}

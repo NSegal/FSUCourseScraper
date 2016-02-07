@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of significant literature and research in the field; laboratory investigation of materials, ideas, and methods currently used in elementary schools. On-site clinical experiences required.", 
+        "number": "3313C", 
+        "subject": "ARE", 
+        "title": "Art in the Elementary Schools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

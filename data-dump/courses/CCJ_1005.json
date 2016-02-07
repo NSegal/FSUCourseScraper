@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces criminology students to pivotal readings and philosophies of the criminal justice system and exposes students to a variety of speakers and opinions related to criminal justice.", 
+        "number": "1005", 
+        "subject": "CCJ", 
+        "title": "Criminology Freshman Seminar"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

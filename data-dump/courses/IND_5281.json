@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This studio culminates in the creation of student-generated design projects focused on the design development phase and on project documentation. Emphasis is placed on visual and verbal presentation.", 
+        "number": "5281", 
+        "subject": "IND", 
+        "title": "Graduate Studio VI"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 5634.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

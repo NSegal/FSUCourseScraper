@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course investigates analytical concepts for determination of sources, amounts, and transport of air pollutants; health and environmental effects; design of control devices and management programs.", 
+        "number": "5105", 
+        "subject": "ENV", 
+        "title": "Air Pollution Control"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENV 4001.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

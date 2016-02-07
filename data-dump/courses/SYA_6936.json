@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This seminar is devoted to current issues in sociological methods.", 
+        "number": "6936", 
+        "subject": "SYA", 
+        "title": "Selected Topics in Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SYA 5406.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

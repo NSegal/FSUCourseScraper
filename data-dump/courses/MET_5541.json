@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers prediction of atmospheric and oceanic flow patterns by numerical methods; numerical solution of partial differential equation; modeling. May be repeated to a maximum of six semester hours.", 
+        "number": "5541", 
+        "subject": "MET", 
+        "title": "Dynamical Weather Prediction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4301 or MET 5311.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

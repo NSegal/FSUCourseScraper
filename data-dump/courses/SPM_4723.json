@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the legal structures, major laws, regulations and precedents in law in sport and physical education.", 
+        "number": "4723", 
+        "subject": "SPM", 
+        "title": "Legal Issues in Physical Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

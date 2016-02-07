@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a continuation of AFR 1101.", 
+        "number": "1102", 
+        "subject": "AFR", 
+        "title": "Foundations of the Air Force II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the principles of dramaturgy, including preparation of a dramaturgical protocol, preparation of scripts for production, and research into background, biography and thematic issues of a play script.", 
+        "number": "5486", 
+        "subject": "THE", 
+        "title": "Graduate Dramaturgy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

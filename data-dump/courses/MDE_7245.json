@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes students to patients with pulmonary disease in in- and out-patient settings. The course includes a broad area of diseases and disease testing methods. Grade 4 (MD) only. The course may be repeated within the same to term to a maximum of eight semester hours. Prerequisite: satisfactory completion of the third year curriculum.", 
+        "number": "7245", 
+        "subject": "MDE", 
+        "title": "Pulmonology"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

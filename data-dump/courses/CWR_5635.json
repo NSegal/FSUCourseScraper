@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the quantity and quality planning of water resources\u00a0 systems. Economic considerations.", 
+        "number": "5635", 
+        "subject": "CWR", 
+        "title": "Water Resources Planning and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 4101 and CWR 4202.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

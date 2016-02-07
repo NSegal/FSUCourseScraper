@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a ten hour per week research apprenticeship under the direction of a research professor. No more than three semester hours may be counted toward the master's degree and five semester hours toward the doctoral degree.", 
+        "number": "5917", 
+        "subject": "PSY", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

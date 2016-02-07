@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an internship in a collaborative museum to provide students with firsthand knowledge of, and practical experience in, museums. May be repeated to a maximum of twelve semester hours, only three of which may be applied toward the major in art history. May be repeated within the same semester.", 
+        "number": "4941", 
+        "subject": "ARH", 
+        "title": "Internship in Museum Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

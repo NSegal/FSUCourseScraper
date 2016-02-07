@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course investigates MR imaging methods, spin echo methods, Bloch equations, proton diffusion, imaging, and microimaging NMR spectrometers in research.", 
+        "number": "6530", 
+        "subject": "BME", 
+        "title": "NMR and MRI Methods in Biology and Medicine"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Doctoral candidate status in Biomedical Engineering.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

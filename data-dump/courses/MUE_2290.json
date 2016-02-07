@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a systematic study of the elements of music. For non-music majors.", 
+        "number": "2290", 
+        "subject": "MUE", 
+        "title": "Personal Growth in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

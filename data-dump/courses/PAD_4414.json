@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the structure and political role of the civil service, evolution of government employment, current personnel policies, rights and responsibilities of public servants, and labor management relations. The impact of the public service on American society is explored.", 
+        "number": "4414", 
+        "subject": "PAD", 
+        "title": "American Public Service"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

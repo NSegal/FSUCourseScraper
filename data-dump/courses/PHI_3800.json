@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to central issues in philosophy of the arts and aesthetics. Topics may include the nature of beauty, the nature of art, realism in painting, interpretation in literature, the nature of dance, and expressiveness in music. Readings include both historical and contemporary sources.", 
+        "number": "3800", 
+        "subject": "PHI", 
+        "title": "Philosophy of the Arts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

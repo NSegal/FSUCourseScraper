@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies British poetry and prose from 1830 to 1900.", 
+        "number": "4251", 
+        "subject": "ENL", 
+        "title": "Victorian British Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the biostratigraphy, biogeography, and taxonomy of this widely occurring group of marine microfossils. May be repeated to a maximum of eight semester hours.", 
+        "number": "5697C", 
+        "subject": "GLY", 
+        "title": "Cenozoic Planktonic Calcareous Nannofossils"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00 - 8.00"
+    }
+}

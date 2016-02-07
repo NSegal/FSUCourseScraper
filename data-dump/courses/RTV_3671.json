@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to direct student actors in a workshop setting. Actors and directors gain experience with an appreciation for those on the other side of the camera.", 
+        "number": "3671", 
+        "subject": "RTV", 
+        "title": "Directing Performance for the Camera"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RTV 3531.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

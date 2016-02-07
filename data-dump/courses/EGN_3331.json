@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers axial, torsional, and flexural stresses and strains, as well as normal and shear stress. Topics include Mohr's circle, transformation of stress, safety factors, and engineering applications.", 
+        "number": "3331", 
+        "subject": "EGN", 
+        "title": "Strength of Materials"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGM 3512.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

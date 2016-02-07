@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides the application component of NUR 3225. Under the guidance of clinical instructors, the student is given opportunities to integrate theoretical knowledge from NUR 3225 in both simulated and clinical sessions. Deliberate practice, debriefing, and reflective instructional approaches are used in both settings.", 
+        "number": "3225L", 
+        "subject": "NUR", 
+        "title": "Nursing Care of the Adult with Acute and Chronic Health Disorders Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Semester I Nursing courses. Corequisite: Semester II Nursing courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

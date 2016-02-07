@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers ordinary differential equations in the complex plane; special functions. Asymptotic methods: Laplaces method, steepest descent, stationary phase, WKB. Integral transforms: Fourier, Laplace, Hankel.", 
+        "number": "5423", 
+        "subject": "MAP", 
+        "title": "Complex Variables, Asymptotic Expansions, and Integral Transforms"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAP 4341 or MAP 5345; and MAA 4402 or MAA 5406.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

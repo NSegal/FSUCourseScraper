@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-TCH (4434)", 
+    "basic": {
+        "class_num": "4434", 
+        "course": "6940", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "HUN", 
+        "type": "TCH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Lynn Panton"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

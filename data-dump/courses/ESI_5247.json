@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an introduction to designing experiments and analyzing the results. It is intended for engineers and scientists who perform experiments or serve as advisors to experimentation in industrial settings. Students must have an understanding of basic statistical concepts. A statistical approach to designing and analyzing experiments is provided as a means toefficiently study and comprehend the underlying process being evaluated. I nsight is gained that leads to improved performance and quality.", 
+        "number": "5247", 
+        "subject": "ESI", 
+        "title": "Engineering Experiments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 3443, ESI 5243.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

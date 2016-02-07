@@ -1,0 +1,48 @@
+{
+    "_unique": "0004-DSC (2039)", 
+    "basic": {
+        "class_num": "2039", 
+        "course": "3378", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "CLT", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Amy Dill"
+            ], 
+            "location": "MON 0004", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Amy Dill"
+            ], 
+            "location": "MON 0004", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "13:10:00", 
+            "instructors": [
+                "Amy Dill"
+            ], 
+            "location": "MON 0004", 
+            "start_time": "12:20:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course consists of an examination of issues and concepts in art education, particularly from an \"Art for Life\" perspective, for pre-service art teachers. Course content includes exercises in aesthetic and critical inquiry related to art and visual culture as appropriate for K-12 educational theory and practice in art education.", 
+        "number": "5358", 
+        "subject": "ARE", 
+        "title": "Art for Life"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to Art Education program. Corequisite: ARE 5046.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

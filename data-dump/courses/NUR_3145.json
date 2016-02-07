@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the nursing student to foundational concepts in pharmacology and their application in health care settings. Pharmacological concepts include pharmacodynamics pharmacokinetics and pharmacogenomics, drug toxicity, and major drug classifications. Application concepts include drug therapy and patient safety, the role of the Federal Drug Administration (FDA), dosage calculation, and the nursing role in drug therapy.", 
+        "number": "3145", 
+        "subject": "NUR", 
+        "title": "Pharmacological Concepts in Nursing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the Nursing major. Corequiiste: Semester I Nursing courses.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

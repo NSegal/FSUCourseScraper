@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes recent developments in the field of biomedical engineering. Selected readings are assigned by the instructor. Structure of the course varies by instructor and topic, but generally involve lectures and a final project on a topic in biomedical engineering. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4937", 
+        "subject": "BME", 
+        "title": "Special Topics in Biomedical Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BME 4404C, ECH 3274L, ECH 3418, and ECH 4267. Corequisite: ECH 4504.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

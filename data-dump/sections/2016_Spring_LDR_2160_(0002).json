@@ -1,0 +1,24 @@
+{
+    "_unique": "0002-LEC (12588)", 
+    "basic": {
+        "class_num": "12588", 
+        "course": "2160", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "LDR", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "16:30:00", 
+            "instructors": [], 
+            "location": "STB G158", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

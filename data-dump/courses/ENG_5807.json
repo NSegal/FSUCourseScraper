@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces theories and case studies in the history of textual transformations. Course topics vary, but each course taught under this number takes as its central focus the phenomena of major textual transformations. Examples may include the transformation of texts from script to print or from foliated to digital forms; or textual issues related to translation; cultural and historical changes that both permit and follow from major textual shifts; the reception problems involved in the textual transformations of particular authors' works or particular genres of literature. The course attends to specific technical mechanisms of textual transformation and to their broadest literary-cultural effects.", 
+        "number": "5807", 
+        "subject": "ENG", 
+        "title": "Studies in Textual Transformation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

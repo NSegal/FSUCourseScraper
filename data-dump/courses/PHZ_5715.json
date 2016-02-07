@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: physical bases of biological systems and biological processes, basic theories of thermodynamics and kinetics, key experimental techniques, simple physical models, realistic molecular modeling.", 
+        "number": "5715", 
+        "subject": "PHZ", 
+        "title": "Biophysics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

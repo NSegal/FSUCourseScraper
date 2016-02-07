@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course looks into the evolution and organization of American defense policy as well as an assessment of its current capabilities.", 
+        "number": "4334", 
+        "subject": "INR", 
+        "title": "American Defense Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

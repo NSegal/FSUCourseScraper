@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on criminological theories and on the development of both evidence-based and generalist social-work practice skills pertinent to working in criminal-justice settings, with individuals in the criminal-justice system. The course focuses on theory and practice for social workers employed in corrections, prisoner-reentry programs, or in juvenile-justice settings. The course covers the philosophy and practice of restorative justice and victim-offender mediation programs, in an effort to meet the needs of offenders and victims alike.", 
+        "number": "5666", 
+        "subject": "SOW", 
+        "title": "Theory and Practice of Social Work in Criminal Justice Settings"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

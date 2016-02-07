@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the generalities of programs for symbolic computation; programming mathematics; elementary computer algebra: manipulating polynomials, Groebner bases; elementary computer analysis; integration techniques.", 
+        "number": "3711", 
+        "subject": "MAT", 
+        "title": "Introduction to Symbolic Computation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

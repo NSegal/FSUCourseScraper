@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course assists the student in working through the PhD/MA reading lists, outlines the basic genres of Greek literature in chronological order, and explores the style of its most renowned practitioners. Class sessions are normally divided between lectures on Greek literary history and authorial style and the translation of select passages from the assignment. A minimum of two years of college Greek is required, but students who have only had two years should consult with the instructor before registering for the course, as it is reading intensive.", 
+        "number": "6106", 
+        "subject": "GRW", 
+        "title": "Survey of Greek Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 5000-level course in Greek or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

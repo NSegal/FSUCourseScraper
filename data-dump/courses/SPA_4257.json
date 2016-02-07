@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the principles and procedures involved with the diagnosis and treatment of adults with communication disorders. Students in this course develop a fundamental knowledge of voice disorders, dysphagia, head and neck cancer, neurogenic communication disorders, motor speech disorders, language disorders, and cognitive-linguistic disorders.", 
+        "number": "4257", 
+        "subject": "SPA", 
+        "title": "Acquired Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

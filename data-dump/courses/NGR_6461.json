@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents, analyzes/evaluates pharmacology of specific drug classes: neuromuscular blocking drugs, local anesthetics, autonomic drugs, and cardiovascular drugs.", 
+        "number": "6461", 
+        "subject": "NGR", 
+        "title": "Pharmacology of Anesthesia II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6460.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

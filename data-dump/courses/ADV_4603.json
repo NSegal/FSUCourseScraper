@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores account planning as a growing practice in advertising and public relations that emphasizes placing the consumer at the center of strategic planning. The account planner obtains consumer insights and ensures that the planning process is informed by consumer needs, values, and dispositions.", 
+        "number": "4603", 
+        "subject": "ADV", 
+        "title": "Account Planning"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

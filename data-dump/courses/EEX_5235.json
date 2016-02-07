@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to provide participants with the knowledge and skills necessary to organize the physical, social, and instructional environment of a classroom that includes a heterogeneous group of learners.", 
+        "number": "5235", 
+        "subject": "EEX", 
+        "title": "Instructional Environments: Ethical, Legal, Safety, and Classroom Management Considerations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

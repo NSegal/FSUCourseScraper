@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history of British North America and the United States through the era of the Civil War and Reconstruction.", 
+        "number": "2010", 
+        "subject": "AMH", 
+        "title": "The History of the United States to 1877"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

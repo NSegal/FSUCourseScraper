@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the key theories, concepts, principles, and methodology relevant to the development of professional engineering ethics. Students are guided in their development of a code of professional ethics through written work, class discussion, and case analysis.", 
+        "number": "3032", 
+        "subject": "EGS", 
+        "title": "Engineering Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGN 1004L.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

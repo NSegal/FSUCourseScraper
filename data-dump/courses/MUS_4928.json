@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides techniques in instruction and administration of music programs.", 
+        "number": "4928", 
+        "subject": "MUS", 
+        "title": "Workshop in Music"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00 - 6.00"
+    }
+}

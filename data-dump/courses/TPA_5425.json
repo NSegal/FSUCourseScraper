@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers introductory and advanced principles of fiscal management and economics for not-for-profit arts organizations. In-depth analysis covers areas such as microeconomics; advocacy for public support of the arts; understanding of finance, accounting and bookkeeping terms and concepts; and financial statements.", 
+        "number": "5425", 
+        "subject": "TPA", 
+        "title": "Fiscal Management and Economics in the Arts"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of analysis and discussion of lodging specifics, retail and commercial leasing, community relations, amenities and recreation, as well as real-estate sales in relation to resort operations management.", 
+        "number": "3270", 
+        "subject": "HFT", 
+        "title": "Resort Operations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

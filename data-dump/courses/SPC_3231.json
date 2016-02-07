@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines rhetorical theorists of the 20th century, including Burke, Richards, Foucault, Habermas, Fisher, and Weaver.", 
+        "number": "3231", 
+        "subject": "SPC", 
+        "title": "Contemporary Rhetorical Theory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Recommended prerequisite: SPC 3210.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

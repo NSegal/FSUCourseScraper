@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines (chronologically and thematically) the unique experience of the African American woman in the United States and the role they have played in shaping this nation's history.\u00a0 Particular attention is paid to the double burden that black women have experienced because of their race and gender. This course does not count as credit toward the history major.", 
+        "number": "2096", 
+        "subject": "AMH", 
+        "title": "Black Women in America"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

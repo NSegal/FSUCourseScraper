@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the political powers and exercise of power by chief executives in American government, with particular attention paid to the President and his relations with other branches of government, and state executives.", 
+        "number": "5227", 
+        "subject": "POS", 
+        "title": "The Executive"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

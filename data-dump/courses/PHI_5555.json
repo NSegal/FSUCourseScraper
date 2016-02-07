@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a broad survey in contemporary metaphysics and epistemology requiring intensive study of works by such influential 20th-century analytic philosophers as Quine and Kripke. A selection of the following topics are covered: existence, identity, modality, universals, causation, free will, truth, the mind-body problem, theories of knowledge, skepticism, and naturalized epistemology.", 
+        "number": "5555", 
+        "subject": "PHI", 
+        "title": "Core Course in Metaphysics and Epistemology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

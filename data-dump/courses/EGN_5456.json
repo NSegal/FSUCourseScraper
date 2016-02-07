@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with the procedures, stability, advantages, and disadvantages of numerical discretization, as applied to solution ofcommon engineering problems. Emphasizes numerical experimentation, cost effectiveness, and range of applicability.", 
+        "number": "5456", 
+        "subject": "EGN", 
+        "title": "Introduction to Computational Mechanics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAP 4402.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

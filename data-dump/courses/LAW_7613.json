@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of the federal income tax treatment of mergers, acquisitions, and other reorganizations and divisions involving corporations, partnerships and limited liability companies.", 
+        "number": "7613", 
+        "subject": "LAW", 
+        "title": "Taxation of Business Entities II"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Spring", 
+        "units": "2.00 - 3.00"
+    }
+}

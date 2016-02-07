@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the study of the earth using photographic and electronic imaging acquired from aircraft and satellites; physics of the interaction between electromagnetic radiation and materials of Earth's surface and hydrosphere; principles of electronic and microwave imaging; and use of digital image analysis and GIS in the study of earth resources and global change.", 
+        "number": "4751C", 
+        "subject": "GLY", 
+        "title": "Introduction to Remote Sensing, Air Photo Interpretation and GIS for the Earth Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 3400C and PHY 2049.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

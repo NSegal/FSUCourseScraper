@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to the archaeology of the European continent from its initial colonization by early hominids during the Lower Paleolithic through the archaic state civilizations of the Aegean Bronze Age.", 
+        "number": "4142", 
+        "subject": "ANT", 
+        "title": "European Prehistory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

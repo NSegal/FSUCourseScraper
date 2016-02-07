@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on developing the visual design, multimedia, graphic design, and technology skills that are foundational to instructional design and development. Students learn to apply theory and principles to the development of instructional media using popular software programs.", 
+        "number": "5606", 
+        "subject": "EME", 
+        "title": "Technology and Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

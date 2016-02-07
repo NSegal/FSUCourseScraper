@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the history of the Trans-Mississippi West during the 19th century. Students are expected to develop an understanding of this area as a geographical region and its role in American history beginning with the early 19th century explorations and culminating with the symbolic \"closing of the frontier\" of the 1890s.", 
+        "number": "3444", 
+        "subject": "AMH", 
+        "title": "History of the Trans-Mississippi American West"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

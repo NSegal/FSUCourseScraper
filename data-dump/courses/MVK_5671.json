@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers practical experience in individual and group teaching as well as supervision and administration of a piano studio. May be repeated to a maximum of eight semester hours.", 
+        "number": "5671", 
+        "subject": "MVK", 
+        "title": "Practicum in Piano Pedagogy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

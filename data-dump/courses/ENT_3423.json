@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces future entrepreneurs to the concept of financial thinking by utilizing tools and techniques which have been adapted for use in the realm of entrepreneurship. It is designed to inform students of various techniques of obtaining financing for new enterprises and to maximize the financial potential of their existing companies and is structured to train students in the financial management of entrepreneurial firms. As most are small growing firms, understanding finance requires an understanding of marketing, management, and planning functions of these firms.", 
+        "number": "3423", 
+        "subject": "ENT", 
+        "title": "Funding Sources for Entrepreneurial Opportunities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENT 3003 or both ENT 2010 and ENT 2011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

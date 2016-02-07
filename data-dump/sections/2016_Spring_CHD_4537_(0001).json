@@ -1,0 +1,37 @@
+{
+    "_unique": "0001-LEC (10182)", 
+    "basic": {
+        "class_num": "10182", 
+        "course": "4537", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "CHD", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Kendal Holtrop"
+            ], 
+            "location": "SAN 0407", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "10:40:00", 
+            "instructors": [
+                "Kendal Holtrop"
+            ], 
+            "location": "SAN 0407", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

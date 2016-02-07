@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course enables students to study concepts and techniques of data mining, including characterization and comparison, association rules mining, classification and prediction, cluster analysis, and mining complex types of data. Students also examine applications and trends in data mining.", 
+        "number": "5771", 
+        "subject": "CAP", 
+        "title": "Data Mining"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

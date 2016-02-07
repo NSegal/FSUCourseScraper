@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to current topics related to Japan's economy and social environment. Students learn about and discuss significant issues, such as employment, education, international trade, and energy, to better understand contemporary Japanese society. May be repeated to a maximum of six semester hours when topics vary.", 
+        "number": "3510", 
+        "subject": "JPT", 
+        "title": "Japanese Economy and Environment"
+    }, 
+    "extra": {
+        "add_consent": "Instructor Consent Required", 
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0007-LAB (8606)", 
+    "basic": {
+        "class_num": "8606", 
+        "course": "4551", 
+        "season": "Spring", 
+        "solus_id": "0007", 
+        "status": "Closed", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "17:50:00", 
+            "instructors": [
+                "Salvador Jaime"
+            ], 
+            "location": "WJB 4015", 
+            "start_time": "16:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

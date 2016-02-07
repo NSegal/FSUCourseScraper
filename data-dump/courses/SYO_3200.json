@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the basic sociological perspective of the social organization and forms of religious life in modern society. In the course, religious groups are studied as organizations that contribute to social stability, social conflict, and social change.", 
+        "number": "3200", 
+        "subject": "SYO", 
+        "title": "Sociology of Religion"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

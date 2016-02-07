@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an introduction to statistical analysis for students pursuing a doctorate in information studies. The course provides a foundation in statistical techniques that are often used in information studies and prepares students for more advanced statistics courses. The course also covers descriptive statistics, probability distributions, inference, hypothesis testing, correlation, simple regression, multiple regression, ANOVA, and ANCOVA. Students become proficient using statistical software applications to analyze data sets in order to address research questions.", 
+        "number": "6027", 
+        "subject": "LIS", 
+        "title": "Statistics and Data Analysis for Information Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

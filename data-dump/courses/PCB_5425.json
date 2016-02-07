@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the theory of population growth and regulation, demographic theory and analytical methods, life history variation and evolution.", 
+        "number": "5425", 
+        "subject": "PCB", 
+        "title": "Population Ecology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

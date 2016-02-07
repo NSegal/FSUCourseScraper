@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers a number of structured analytic techniques that provide an objective approach to conducting the intelligence process. The techniques presented in this course are used to process all-source intelligence which is applicable to law enforcement intelligence, counter-terrorism, tactical military, and competitive intelligence analysis.", 
+        "number": "4733", 
+        "subject": "CJE", 
+        "title": "The Intelligence Process"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 3732, MAC 1105 and CCJ 4710 or STA 2023 or STA 2122.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

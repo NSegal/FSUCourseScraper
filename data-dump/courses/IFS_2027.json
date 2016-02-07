@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the medium of animation and the contributions of influential animators with a focus on how identity and societal milieu influence artistic expression in animation. Through animation screenings, discussion, and hands-on animation exercises, students are exposed to diverse animation styles and approaches, create original short animations, and come to better understand the creative process utilized in animation.", 
+        "number": "2027", 
+        "subject": "IFS", 
+        "title": "Animation and Identity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Honor student status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

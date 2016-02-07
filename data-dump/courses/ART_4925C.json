@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an intensive study in intermediate graphic design. Course topics may include issues in word and image, typography, or image and production techniques. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4925C", 
+        "subject": "ART", 
+        "title": "Media Workshop: Digital Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1000, ART 1201C, ART 1203, ART 1300C, ART 1602C, and ART 2003C or ART 2204C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

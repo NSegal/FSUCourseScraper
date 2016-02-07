@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course includes examination of a special topic related to world history. Topics vary. The course may be repeated as topics vary to a maximum of nine semester hours.", 
+        "number": "3930", 
+        "subject": "WOH", 
+        "title": "Studies in World History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

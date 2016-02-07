@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated within the same term to a maximum of twelve semester hours.", 
+        "number": "3930", 
+        "subject": "MAT", 
+        "title": "Special Topics in Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

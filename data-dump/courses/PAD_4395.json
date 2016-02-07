@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces students to the fundamental concepts, theories, principles, and practices of the role of Incident Command (ICS) as an organizational structure, Emergency Operations Centers (EOC) in coordinating response and recovery to crises, and information and knowledge management systems that support disaster management.", 
+        "number": "4395", 
+        "subject": "PAD", 
+        "title": "Disaster Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 4391.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

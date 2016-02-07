@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the philosophy of science, the procedures of the law, and the criteria required for results of scientific examinations to be admitted into a trial as evidence.", 
+        "number": "5138", 
+        "subject": "CCJ", 
+        "title": "Science, Evidence, and the Law"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

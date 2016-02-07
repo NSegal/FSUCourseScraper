@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces river-basin management and planning and takes a systemic approach from biological, hydrological, and geopolitical viewpoints. Special emphasis is placed on the planning and management of transboundary (interstate and international) basins. The course focuses on world river-basin systems as well as on the local Apalachicola-Chattahoochee-Flint basin. Students are introduced to technical concepts and tools, including negotiation and math simulation tools.", 
+        "number": "5405", 
+        "subject": "URP", 
+        "title": "River Basin Planning and Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

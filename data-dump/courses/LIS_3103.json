@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines major issues related to living in the \"information society,\" including information literacy, information security, identity theft, privacy, intellectual property, and information ethics. Students gain skills in searching the Web, electronic databases, and print resources. The three broad areas covered by the course are personal information management, academic information, and career/professional information.", 
+        "number": "3103", 
+        "subject": "LIS", 
+        "title": "Information and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

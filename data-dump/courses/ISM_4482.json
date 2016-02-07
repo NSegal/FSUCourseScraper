@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores factors related to the management of the design, implementation, and installation of applications on mobile devices. Topics cover issues related to platform size (such as memory, power, screen brightness, and sound capability), implications of connectivity and security problems for management, as well as business opportunities that become available through the use of mobile technology.", 
+        "number": "4482", 
+        "subject": "ISM", 
+        "title": "Mobile Technology Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

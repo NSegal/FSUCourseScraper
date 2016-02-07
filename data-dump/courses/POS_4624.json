@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews recent interpretations of the Bill of Rights and 14th Amendment case law with special attention to freedom of expression, equal protection, and criminal due process rights.", 
+        "number": "4624", 
+        "subject": "POS", 
+        "title": "The Supreme Court, Civil Liberties, and Civil Rights"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

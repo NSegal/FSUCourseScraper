@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-OTH (9051)", 
+    "basic": {
+        "class_num": "9051", 
+        "course": "6656", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "PSY", 
+        "type": "OTH", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Walter Boot"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

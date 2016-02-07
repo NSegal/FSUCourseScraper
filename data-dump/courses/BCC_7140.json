@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This pediatrics clerkship is a six-week learning experience with an emphasis on ambulatory pediatrics. Students learn under the supervision of clerkship faculty trained to teach in the clinical setting. Students interact with pediatric patients who present a variety of common pediatric diseases/conditions.", 
+        "number": "7140", 
+        "subject": "BCC", 
+        "title": "Pediatrics Clerkship"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory completion of all year-one and year-two curricula.", 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "6.00"
+    }
+}

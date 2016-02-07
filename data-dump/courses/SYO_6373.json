@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This seminar examines theories and research about work including new forms of organization and labor markets.\u00a0 Topics include de-industrialization, markets, unions, and professions; internal/external labor markets; worker control; and race, gender, sexuality, age, and work/family intersections.", 
+        "number": "6373", 
+        "subject": "SYO", 
+        "title": "Sociology of Work and Labor Markets"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the mutually-shaping relationships between social and political ideas and the histories of the various sciences.", 
+        "number": "3464", 
+        "subject": "HIS", 
+        "title": "History of Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

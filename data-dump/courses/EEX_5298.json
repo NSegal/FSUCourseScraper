@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides class participants with the knowledge needed to develop effective communication, social, and language assessment and intervention for individuals with autism spectrum disorder.", 
+        "number": "5298", 
+        "subject": "EEX", 
+        "title": "Teaching Students with Autism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "To develop graduate students' ability to apply moral reasoning to a varietyof ethical issues as they relate to the nine core research conduct areas\u00a0\u00a0 identified by the Office of Research Integrity. Students have the opportunity to develop these moral reasoning components and are introduced a varietyof ethical concepts and taught how to apply the concepts.", 
+        "number": "6100", 
+        "subject": "SPM", 
+        "title": "Ethics in Research Conduct"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "1.00"
+    }
+}

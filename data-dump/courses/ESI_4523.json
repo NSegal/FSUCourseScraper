@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on simulation modeling and computer solution of industrial engineering systems. Modeling strategies, probability considerations, simulation languages, simulation verification, and engineering case studies.", 
+        "number": "4523", 
+        "subject": "ESI", 
+        "title": "Simulation of Industrial Engineering Systems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ESI 4234.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

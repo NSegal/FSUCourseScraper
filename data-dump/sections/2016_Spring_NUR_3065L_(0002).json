@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-LAB (11741)", 
+    "basic": {
+        "class_num": "11741", 
+        "course": "3065L", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "NUR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Miriam McLarty"
+            ], 
+            "location": "SCN 0212", 
+            "start_time": "10:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

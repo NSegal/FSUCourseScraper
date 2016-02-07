@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides participants with knowledge of the processes of assessing infant and toddler development and family functioning in order to develop meaningful intervention programs within natural environments.", 
+        "number": "5349", 
+        "subject": "IDS", 
+        "title": "Infant/Toddler and Family Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

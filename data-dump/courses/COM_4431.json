@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides opportunities to observe ways in which religious and musical rhetoric are employed by a major U.S. corporation with a global target market. The course emphasizes observation research that focuses primarily on communication theory and methods. The course requires that students spend forty-five documented hours performing lab/field work research and/or library research in the symbols and messages of an appropriate corporation.", 
+        "number": "4431", 
+        "subject": "COM", 
+        "title": "Rhetoric of a Global Corporation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

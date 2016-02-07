@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a series of lectures and seminars given by FSU faculty and visiting scholars on current research topics in Classics. May be repeated to a maximum of eighteen semester hours.", 
+        "number": "5920", 
+        "subject": "CLA", 
+        "title": "Classics Colloquium"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

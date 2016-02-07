@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on the aesthetic, technological, economic, and philosophical issues that increasingly connect cinemas across the globe and speak to critical changes in the contemporary world on the basis of various cinema traditions today, negotiating between the global and its \"discontents.\" Course taught in English.", 
+        "number": "3008", 
+        "subject": "IFS", 
+        "title": "Cinema Gone Global"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

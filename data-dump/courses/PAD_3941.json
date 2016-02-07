@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of participant observation of the administration of policy in public service organizations. Internship with faculty supervision, on-campus seminars, discussion papers. May be repeated to a maximum of six semester hours.", 
+        "number": "3941", 
+        "subject": "PAD", 
+        "title": "Public Service Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 3003 or equivalent.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

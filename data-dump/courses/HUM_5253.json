@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the thought, values, and arts of modern Western\u00a0\u00a0\u00a0\u00a0 culture.", 
+        "number": "5253", 
+        "subject": "HUM", 
+        "title": "The Humanistic Tradition: The Modern World"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to numerical methods in the context of observational and theoretical astrophysics. The course covers interpolation,approximation, minimization and optimization, solution of linear systems o f equations, random number generation, function integration, numerical differentiation, numerical integration of ordinary differential equations, stiff systems of ODEs, survey of methods for partial differential equations (Poisson equation, heat diffusion, and hydrodynamics).", 
+        "number": "5415", 
+        "subject": "ISC", 
+        "title": "Computational Space Physics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 3406 and PHZ 4151C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

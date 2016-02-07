@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course has a special emphasis placed on in-class activities such as\u00a0\u00a0 interviewing, history taking, and role-playing of brief patient encounters in medical settings. Students have multiple opportunities to practice theirSpanish with native speakers.", 
+        "number": "6042", 
+        "subject": "MDE", 
+        "title": "Medical Spanish II"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MDE 6041.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "2.00"
+    }
+}

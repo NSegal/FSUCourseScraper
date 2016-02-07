@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the theoretical foundations and practice techniques of poetry therapy. Specific attention is given to the use of the poetic (language, symbol, and story) in individual, couple, family, group and community practice. The course format includes lectures, topic and case discussions, skill building exercises, and role-plays. The activities in class and assignments relate to the use of poetry therapy in a variety of human service settings.", 
+        "number": "5340", 
+        "subject": "SOW", 
+        "title": "Theory and Practice of Poetry Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

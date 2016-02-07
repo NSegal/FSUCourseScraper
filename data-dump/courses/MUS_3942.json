@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces leadership skills necessary for advising and counseling in the College of Music. May be repeated to a maximum of four times.", 
+        "number": "3942", 
+        "subject": "MUS", 
+        "title": "Music Peer Advisement Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

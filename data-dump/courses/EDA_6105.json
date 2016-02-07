@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, students return to the \u201cproblem of practice\u201d they identified in Professional Learning for Educational Practitioners I, explore their intuitive theories of action on the topic, identify a preliminary research question for their dissertation, and enter their research site to explore the viability of their topic. In addition, students learn about the Instructional Review Board, identify a local mentor, and learn about the different types of dissertations.\u00a0 Finally, they reflect on what is entailed in being a researcher and leader in their research context.", 
+        "number": "6105", 
+        "subject": "EDA", 
+        "title": "Laboratory of Practice I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 6485.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

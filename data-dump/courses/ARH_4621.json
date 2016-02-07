@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines an emerging national identity as reflected and developed in the arts and material culture from the Colonial period to 1876 using concepts from European images of \"discovery\" to conceptions of national culture presented to visitors at the Philadelphia Centennial. The course content is multicultural and includes discussions of women's contributions.", 
+        "number": "4621", 
+        "subject": "ARH", 
+        "title": "US Art: Colonial Era to the Centennial"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ARH 3057 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

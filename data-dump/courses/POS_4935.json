@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "When offered as a seminar, selected topics are used to develop outstanding scholarship; also offered for individual students engaged in senior honors thesis. Contact the department for details on prerequisites and requirements. May be repeated to a maximum of nine semester hours.", 
+        "number": "4935", 
+        "subject": "POS", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

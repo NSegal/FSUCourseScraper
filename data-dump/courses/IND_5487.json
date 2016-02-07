@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This studio course focuses on the generation of a comprehensive set of specifications and construction drawings.", 
+        "number": "5487", 
+        "subject": "IND", 
+        "title": "Construction Documents"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: IND 5236.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

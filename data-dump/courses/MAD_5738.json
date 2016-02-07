@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers finite difference methods for parabolic, elliptic, and hyperbolic problems; consistency, convergence, stability.", 
+        "number": "5738", 
+        "subject": "MAD", 
+        "title": "Numerical Solution of Partial Differential Equations I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAD 5404; and MAP 4342 or MAP 5346.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

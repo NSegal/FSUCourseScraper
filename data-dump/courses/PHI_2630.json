@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course draws on ethical theories to explore the major ethical issues that one faces as one makes decisions about the kinds of activities to engage in and the kind of life to lead. Issues such as those involving life and death (e.g., abortion, euthanasia, animal rights) and social justice (e.g. discrimination, responsibility to future generations) are examined.", 
+        "number": "2630", 
+        "subject": "PHI", 
+        "title": "Ethical Issues and Life Choices"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

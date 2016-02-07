@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course teaches the various techniques of scene breakdown, setting up, sequencing, character development and dialogue development. Also teaches rewriting techniques to strengthen first drafts.", 
+        "number": "4164", 
+        "subject": "FIL", 
+        "title": "Feature Screenwriting: Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

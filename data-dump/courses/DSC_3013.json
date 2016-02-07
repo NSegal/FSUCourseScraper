@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an introductory course covering the relationship of homeland security and criminal justice agencies as it impacts public safety and security. Students are introduced to salient issues regarding the interconnection of the homeland security mission and the roles of criminal justice agencies at the local, state, and federal levels in dealing with both terrorist threats and with natural and man-made disasters.", 
+        "number": "3013", 
+        "subject": "DSC", 
+        "title": "Homeland Security and Criminal Justice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

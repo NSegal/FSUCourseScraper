@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course increases learner knowledge and awareness of the characteristics and needs of people with exceptionalities, and acquaints learners with the resources, issues, and trends related to appropriately meeting these needs.", 
+        "number": "4770", 
+        "subject": "EEX", 
+        "title": "Study of Human Exceptionality"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

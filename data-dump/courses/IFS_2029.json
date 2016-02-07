@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course poses the question: How can we understand and respond to urban decay and decline? Using examples from the U.S. and abroad, students explore the differences between \"conventional\" urban poverty (which may be a necessary part of successful cities), systematic urban decline, new suburban poverty, favelas and shantytowns, etc. Students also examine recent strategies to \"reclaim\" failing cities.", 
+        "number": "2029", 
+        "subject": "IFS", 
+        "title": "Dead Cities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

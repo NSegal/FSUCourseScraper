@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This theory and skills course is intended for students with a basic knowledge of computer science principles and programming languages. The course introduces fundamental concepts and analytical methods in ethics, along with ethical, legal, and social issues and questions in computer science that call for ethical analysis.", 
+        "number": "4092", 
+        "subject": "CGS", 
+        "title": "Ethical Issues in Computer Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: A course in computer programming.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

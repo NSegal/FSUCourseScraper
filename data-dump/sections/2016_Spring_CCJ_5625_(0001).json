@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (1114)", 
+    "basic": {
+        "class_num": "1114", 
+        "course": "5625", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "CCJ", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:15:00", 
+            "instructors": [
+                "Brian Stults"
+            ], 
+            "location": "EPS 0214", 
+            "start_time": "13:45:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with relevant topics, literature, and research techniques in the field of experimental economics.", 
+        "number": "5133", 
+        "subject": "ECO", 
+        "title": "Markets and Auctions"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

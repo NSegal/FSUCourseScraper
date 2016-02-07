@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course engages ways other than standard Western music notation that music may be represented visually, including tablatures, analytical graphs and diagrams, graphic and text scores, and notation methods for world or popular music and works in the art music tradition pre- and post-dating the development of standard Western music notation.", 
+        "number": "2061", 
+        "subject": "IFS", 
+        "title": "Visualizing Music: Representing Music Through Images"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

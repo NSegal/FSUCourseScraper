@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, the content varies to provide an opportunity for students to study technical topics in taxation not offered in other courses. May be repeated to a maximum of six semester hours.", 
+        "number": "5875", 
+        "subject": "TAX", 
+        "title": "Special Topics in Taxation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

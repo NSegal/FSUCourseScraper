@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the applications of music therapy in all fields of health, corrections, and special education.", 
+        "number": "4402", 
+        "subject": "MUY", 
+        "title": "Music Therapy: Methods and Practicum II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUY 4401.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

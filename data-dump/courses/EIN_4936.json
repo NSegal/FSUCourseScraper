@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is offered Fall and Spring semesters. Topics are determined by a departmental committee on special topics, taking into consideration the needs of students who are about to graduate. May be repeated to a maximum of nine semester hours.", 
+        "number": "4936", 
+        "subject": "EIN", 
+        "title": "Selected Topics in Industrial Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

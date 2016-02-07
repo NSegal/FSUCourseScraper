@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a basic programming background sufficient to begin a career in computational molecular biology and bioinformatics. It is also useful for those who want to develop their own programs for simulation or analysis in ecology, evolutionary biology, genetics or molecular biology. The Java language is used as a platform for presenting the concepts of data types, structures, flow control and input/output. Programming assignments are biologically oriented. In addition to Java, scripting languages such as Python or Perl are presented for the control of batch processes, file filteringand simple data analysis.", 
+        "number": "5306", 
+        "subject": "ISC", 
+        "title": "Programming Skills for Computation Biology and Bioinformatics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

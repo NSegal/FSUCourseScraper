@@ -1,0 +1,37 @@
+{
+    "_unique": "0002-LAB (12295)", 
+    "basic": {
+        "class_num": "12295", 
+        "course": "5280", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Closed", 
+        "subject": "IND", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Kenan Fishburne"
+            ], 
+            "location": "WJB 1060", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "12:15:00", 
+            "instructors": [
+                "Kenan Fishburne"
+            ], 
+            "location": "WJB 1060", 
+            "start_time": "09:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

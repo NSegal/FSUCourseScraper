@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed for students to gain experience in the production of television programs and video projects. May be repeated to a maximum of three semester hours.", 
+        "number": "3680", 
+        "subject": "RTV", 
+        "title": "Video Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Communication major status.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

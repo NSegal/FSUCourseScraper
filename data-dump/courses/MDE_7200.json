@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course exposes students to a broad array of medical disorders and associated management plans involving adults in inpatient and outpatient settings. Students are given responsibility with hospital patients, such as writing orders and directing care with supervision. The course focuses on the critical analysis of treatment options.", 
+        "number": "7200", 
+        "subject": "MDE", 
+        "title": "General Internal Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Summer", 
+        "units": "4.00"
+    }
+}

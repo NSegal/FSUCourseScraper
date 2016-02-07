@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers partial differential equations, discussion of Brownian motion, Black-Scholes analysis, introduction to measure and probability: financial applications.", 
+        "number": "5601", 
+        "subject": "MAP", 
+        "title": "Introduction to Financial Mathematics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2313, MAP 2302 or MAP 3305, MAS 3105, and STA 4321.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

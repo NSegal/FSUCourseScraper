@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the social, economic, and cultural as well as political development of the Polish nation in the 19th and 20th centuries. Although particular stress is placed on internal history, appropriate attention is focused on Poland's role in international relations.", 
+        "number": "3551", 
+        "subject": "EUH", 
+        "title": "Modern Poland"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

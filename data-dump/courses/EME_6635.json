@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is only offered periodically and addresses special topics that are not covered in other courses.", 
+        "number": "6635", 
+        "subject": "EME", 
+        "title": "Seminar in Advanced Instructional Systems Problems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

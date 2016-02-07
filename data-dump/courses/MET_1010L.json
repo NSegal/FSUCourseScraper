@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers data analysis, instruments, and weather system models.", 
+        "number": "1010L", 
+        "subject": "MET", 
+        "title": "Introductory Meteorology Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1105 or equivalent and college-level algebra. Corequisite: MET 1010.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

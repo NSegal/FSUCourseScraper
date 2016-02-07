@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides for a focused examination of instructional strategies, planning, evaluation, classroom management, school laws, professional ethics, and school safety in the middle and high school mathematics classroom. Prospective teachers are expected to demonstrate an ability to impact student learning in grades 5-12. This course is to be taken during the semester prior to MAE 4945.", 
+        "number": "4940", 
+        "subject": "MAE", 
+        "title": "Classroom Management and Planning Instruction in Middle/High School Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 4430, MAC 2311, MAE 4330, MAE 4816, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

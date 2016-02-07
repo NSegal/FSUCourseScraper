@@ -1,0 +1,26 @@
+{
+    "_unique": "0033-DIS (6499)", 
+    "basic": {
+        "class_num": "6499", 
+        "course": "6907", 
+        "season": "Spring", 
+        "solus_id": "0033", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Kimberly Van Weelden"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

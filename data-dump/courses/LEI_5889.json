@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a critique of the research, the sources, and the skills of constructing research designs.", 
+        "number": "5889", 
+        "subject": "LEI", 
+        "title": "Research in Leisure Services"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

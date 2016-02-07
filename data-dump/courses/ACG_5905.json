@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated within the same semester to a maximum of three semester hours.", 
+        "number": "5905", 
+        "subject": "ACG", 
+        "title": "Directed Individual Study"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of associate dean for academic programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

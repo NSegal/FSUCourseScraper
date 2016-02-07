@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores Japanese popular culture from a range of perspectives. Students investigate cultures of reception, shifting demographics and key developments in multiple media, and various forms of leisure and modes of consumption, to consider their relationship to history, culture, and lived experience.", 
+        "number": "3511", 
+        "subject": "JPT", 
+        "title": "Japanese Popular Culture"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

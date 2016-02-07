@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines, both chronologically and thematically, the experience of African-Americans in the United States and their role in shaping the nation's history. The course does not count as credit toward the history major.", 
+        "number": "2091", 
+        "subject": "AMH", 
+        "title": "The African-American Experience in the United States"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

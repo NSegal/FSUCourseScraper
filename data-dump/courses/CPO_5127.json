@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course investigates and analyzes the major institutions and processes of British government and politics. Comparison and contrast with the political and governmental system of the United States is emphasized.", 
+        "number": "5127", 
+        "subject": "CPO", 
+        "title": "Seminar in Comparative Government and Politics: Great Britain"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

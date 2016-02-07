@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics and issues involved in the marketing of sport and sport services. Particular attention is given to how a sport product is distinct from other products and services. The course includes an in-depth study of sport-consumer psychology.", 
+        "number": "5308", 
+        "subject": "SPM", 
+        "title": "Marketing Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

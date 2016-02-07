@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (10871)", 
+    "basic": {
+        "class_num": "10871", 
+        "course": "3091", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MUE", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "12:05:00", 
+            "instructors": [
+                "Sarah Gregory"
+            ], 
+            "location": "KMU 0052", 
+            "start_time": "11:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

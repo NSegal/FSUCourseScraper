@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers interpretation of religious phenomena by the major social theorists of modern times. The course is divided into two parts: the psychology of religion and the sociology of religion.", 
+        "number": "3142", 
+        "subject": "REL", 
+        "title": "Religion, the Self, and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

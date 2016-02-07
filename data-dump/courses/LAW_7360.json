@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is trial practice from the commencement of action through final judgment and postjudgment procedures. Emphasis on skills, technique, and tactics of a trial. Consent of instructor is required.", 
+        "number": "7360", 
+        "subject": "LAW", 
+        "title": "Trial Practice"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: LAW 5300, LAW 6330, and instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

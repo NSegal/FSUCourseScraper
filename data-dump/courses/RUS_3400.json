@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on oral expression, writing practice, and review of grammar.", 
+        "number": "3400", 
+        "subject": "RUS", 
+        "title": "Conversation and Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or Corequisite: RUS 2330 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

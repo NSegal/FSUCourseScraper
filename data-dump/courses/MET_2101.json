@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers global distribution of principal climatic elements with emphasis on physical causes. Statistical analysis of distributions of climatological variables.", 
+        "number": "2101", 
+        "subject": "MET", 
+        "title": "Physical Climatology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MET 2700.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

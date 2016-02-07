@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the dynamics of cooperative effort in the managing of governmental organizations, public leadership and influence systems, motivation, communication, and political behaviors.", 
+        "number": "6102", 
+        "subject": "PAD", 
+        "title": "Administrative Behavior in Public Organizations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PhD student or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

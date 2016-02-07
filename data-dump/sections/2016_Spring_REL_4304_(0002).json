@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (9272)", 
+    "basic": {
+        "class_num": "9272", 
+        "course": "4304", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "REL", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:45:00", 
+            "instructors": [
+                "Allyson Gonzalez"
+            ], 
+            "location": "DIF 0421", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

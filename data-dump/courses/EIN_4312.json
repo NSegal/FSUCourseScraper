@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses basic design techniques of various manufacturing tools, including cutting tools, inspection tools, and jigs and fixtures. Fundamental planning techniques of manufacturing processes. Design exercises.", 
+        "number": "4312", 
+        "subject": "EIN", 
+        "title": "Tool and Process Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 3390C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

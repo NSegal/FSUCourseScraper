@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an intensive clinical residence experience that is intended to demonstrate the culmination of the students' advanced practice role. Each student is required to submit individual objectives at the beginning of the semester and clinical experiences are individually designed around the focus of each student's program. With the guidance of faculty of an advanced-practice expert, students use scientific theory, systematic evidence appraisal, organizational and policy analysis, as well as models of care delivery. May be repeated to a maximum of five semester hours. S/U grade only.", 
+        "number": "6942L", 
+        "subject": "NGR", 
+        "title": "DNP Residency I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: All DNP core and specialty courses.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 5.00"
+    }
+}

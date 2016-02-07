@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study of communication disorders, including review of literature and critique of research methodology. May be repeated from term to term, to a maximum of nine semester hours.", 
+        "number": "6825", 
+        "subject": "SPA", 
+        "title": "Seminar in Speech Pathology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies basic concepts and managerial concerns underlying the group insurance mechanism and the characteristics of various qualified retirement planning vehicles.", 
+        "number": "4135", 
+        "subject": "RMI", 
+        "title": "Employee Benefit Plans"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: RMI 3011.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Term Varies", 
+        "units": "3.00"
+    }
+}

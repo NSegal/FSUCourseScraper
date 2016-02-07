@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines threats to computer networks, network vulnerabilities, techniques for strengthening passive defenses, tools for establishing an active network defense, and policies for enhancing forensic analysis of crimes and attacks on computer networks. Topics include private and public key cryptography, digital signatures, secret sharing, security protocols, formal methods of analyzing network security, electronic mail security, firewalls, intrusion detection, Internet privacy, and public key infrastructures.", 
+        "number": "4406", 
+        "subject": "CNT", 
+        "title": "Network Security and Cryptography"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

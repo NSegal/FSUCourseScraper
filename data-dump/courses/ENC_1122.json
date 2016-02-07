@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course, as a literature-based composition course, draws essay topics from selected short stories, drama, and poetry. This accelerated course is designed for honors students; thus, their level of performance is expected to exceed the level attained by students in ENC 1102. Enrollment through the honors program.", 
+        "number": "1122", 
+        "subject": "ENC", 
+        "title": "Freshman Writing About Literature: Honors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

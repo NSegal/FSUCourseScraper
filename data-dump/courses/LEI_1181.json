@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of the leisure and recreation behaviors of people in different cultures. The cultural, political, social, and economic influences on leisure and recreation behaviors will be examined.", 
+        "number": "1181", 
+        "subject": "LEI", 
+        "title": "Leisure and Recreation: A Cross-Cultural Approach"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

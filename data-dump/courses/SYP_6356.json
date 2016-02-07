@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This seminar reviews theories of social movements relative to the second wave feminist movement. The discussed issues include labor market/workplace equality, violence against women, economic, political and cultural issues (poverty, family, marriage, sexuality) relative to women's collective organization and mobilizing.", 
+        "number": "6356", 
+        "subject": "SYP", 
+        "title": "Sociology of the Contemporary Women's Movement"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

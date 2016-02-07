@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers computer security threats and attacks, covert channels, trusted operation systems, access control, entity authentication, security policies, models of security, database security, administering security, physical security and TEMPEST, and brief introductions to network security and legal and ethical aspects of security.", 
+        "number": "4360", 
+        "subject": "CIS", 
+        "title": "Introduction to Computer Security"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

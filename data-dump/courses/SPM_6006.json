@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This doctoral seminar focuses on organizational theory in sport administration settings and prepares students to teach and research in the area of human resources and organizational theory of sport.", 
+        "number": "6006", 
+        "subject": "SPM", 
+        "title": "Organizational Theory in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EDF 5400 and SPM 5102.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

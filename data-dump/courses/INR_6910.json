@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses strategies for research in international relations. Students design and submit a research project relating to the specific topicof the course.", 
+        "number": "6910", 
+        "subject": "INR", 
+        "title": "Advanced Research in International Relations"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 5746 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

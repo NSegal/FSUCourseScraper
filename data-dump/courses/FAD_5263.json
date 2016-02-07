@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course surveys contemporary research in family studies.", 
+        "number": "5263", 
+        "subject": "FAD", 
+        "title": "Advanced Family Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: Graduate standing, background in child and family studies or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies advanced topics in philosophy of biology, including game-theoretic explanations in biology, the units of selection problem, reductionism in biology, systematics, and socio-biology and the is/ought gap.", 
+        "number": "6457", 
+        "subject": "PHI", 
+        "title": "Philosophy of Biology: Selected Topics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is intended for biology sciences majors at any point in their undergraduate career, but is most beneficial to those in their first three years. Career options in biology-related fields (including health professions) and the preparation they require are presented for students planning to immediately enter the job market or to continue their academic careers upon graduation. Not repeatable for credit toward major requirements.", 
+        "number": "3938", 
+        "subject": "BSC", 
+        "title": "Careers in the Biological Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2010, BSC 2010L, BSC 2011, BSC 2011L, CHM 1045, CHM 1045L, CHM 1046, and CHM 1046L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

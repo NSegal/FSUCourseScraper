@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides overview of operations and applications of software packages; principles of design and presentation for print-based as well as audio-visual productions.", 
+        "number": "4470", 
+        "subject": "COM", 
+        "title": "Desktop Multimedia"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

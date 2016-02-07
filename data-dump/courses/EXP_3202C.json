@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course provides students with a sound foundation in how sensory systems interpret the world. The course explores each of the primary sensory systems by defining the physical energy that is detected, examining how that energy is transduced into neural impulses, and sampling how aspects of that information are encoded to provide a representation of the world.", 
+        "number": "3202C", 
+        "subject": "EXP", 
+        "title": "Sensation and Perception with Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PSB 2000 and PSY 3213C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

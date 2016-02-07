@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to public opinion theory and methodology, with special attention paid to public opinion on policy issues and the role of public opinion in the policy-making process. Practical experience in survey research is provided through the design and execution of a class opinion survey on some policy issue.", 
+        "number": "5237", 
+        "subject": "POS", 
+        "title": "Seminar in American Government and Public Policy: Public Opinion"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

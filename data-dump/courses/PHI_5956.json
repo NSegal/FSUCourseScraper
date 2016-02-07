@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers graduate students a critical review and analysis of various techniques of philosophical writing (e.g., textual interpretation, argument analysis, commentary on a philosophical paper). This is a writing-intensive course of varying content.", 
+        "number": "5956", 
+        "subject": "PHI", 
+        "title": "Introduction to Philosophical Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

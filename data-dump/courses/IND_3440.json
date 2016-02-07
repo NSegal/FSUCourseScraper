@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the study of the materials, structural considerations, function, and style of furniture and case goods by developing and appreciating their design and construction.", 
+        "number": "3440", 
+        "subject": "IND", 
+        "title": "Furniture Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 3217.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

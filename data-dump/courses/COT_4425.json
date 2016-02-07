@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines formal methods in software analysis and design, including formal specification and verification.", 
+        "number": "4425", 
+        "subject": "COT", 
+        "title": "Formal Methods in Software Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAD 3105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

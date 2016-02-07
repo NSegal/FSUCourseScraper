@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an advanced biomedical sciences course for PhD students or upper-level undergraduate students. This course involves lectures and student-driven presentation and discussion. Students learn how to critically evaluate the scientific literature, and how to use model systems for experimental research. May be repeated to a maximum of six semester hours.", 
+        "number": "5095", 
+        "subject": "GMS", 
+        "title": "Modeling Human Disease"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced application of the design process with emphasis on individual professional objectives and procedures for portfolio presentation. May be repeated to a maximum of six semester hours.", 
+        "number": "4243", 
+        "subject": "IND", 
+        "title": "Interior Design Studio IV"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 4242.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00 - 6.00"
+    }
+}

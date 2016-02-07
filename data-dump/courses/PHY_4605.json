@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on quantum mechanics and its applications to particles, nuclei, atoms, molecules, and condensed matter.", 
+        "number": "4605", 
+        "subject": "PHY", 
+        "title": "Quantum Theory of Matter B"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PHY 4604.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

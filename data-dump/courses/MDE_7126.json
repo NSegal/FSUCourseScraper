@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This rotation is mostly urgent care medicine for the college student population, including but not limited to: sexual health, mental health, infecti- ous diseases, preventative care and initial care of injuries.", 
+        "number": "7126", 
+        "subject": "MDE", 
+        "title": "Student Health Elective"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 4.00"
+    }
+}

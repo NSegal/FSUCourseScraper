@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, students study the principles of geometric dimensioning and tolerancing and procedures for their measurement.", 
+        "number": "6629", 
+        "subject": "EIN", 
+        "title": "Tolerancing and Metrology for Precision Manufacturing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EIN 5398 and EIN 5408.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

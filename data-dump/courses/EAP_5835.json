@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to help international teaching assistants improve their spoken English and develop communication and teaching skills necessary in a North American university classroom. The course focuses on both communication of field-specific content as well as interaction with university students. May be repeated to a maximum of nine semester hours.", 
+        "number": "5835", 
+        "subject": "EAP", 
+        "title": "Academic Spoken English for ITAs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "3.00"
+    }
+}

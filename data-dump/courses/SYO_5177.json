@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the changes in family behaviors and household relationships from a demographic perspective. Materials are drawn not only from demographic literature on the family, but also from sociology, economics and history. The focus is on issues such as union formation and dissolution, family relationships, childbearing, parenthood, and work, to consider explanations for changing family forms, focusing primarily upon post-World War II America.", 
+        "number": "5177", 
+        "subject": "SYO", 
+        "title": "Family Demography"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

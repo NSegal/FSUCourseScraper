@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to allow the student proper exposure to the expanding global club and golf resort management industry. The course highlights career paths, identifies various types of clubs throughout the world as well as discusses the evolution of private clubs and the direction they are headed in the years to come.", 
+        "number": "3100", 
+        "subject": "HFT", 
+        "title": "Introduction to Global Club Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

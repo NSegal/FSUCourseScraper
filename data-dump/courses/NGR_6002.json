@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course includes the history, physical, and psychological assessment of signs and symptoms, pathophysiologic changes, and psychosocial variations of a patient as they relate to preoperative assessment, intraoperative management and postoperative management of patients receiving anesthesia. The course provides students with the cognitive and psychomotor skills necessary to perform advanced health assessment for patients undergoing anesthesia.", 
+        "number": "6002", 
+        "subject": "NGR", 
+        "title": "Advanced Health Assessment"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admission to the nurse anesthesia program.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

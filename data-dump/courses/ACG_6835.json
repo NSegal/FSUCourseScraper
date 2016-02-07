@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a survey of economic-based and psychology-based experimentalresearch as it relates to accounting and auditing.", 
+        "number": "6835", 
+        "subject": "ACG", 
+        "title": "Seminar in Behavioral Accounting Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

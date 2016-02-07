@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a translation examination to ascertain the student's ability to read research materials written in Spanish. The use of translation\u00a0\u00a0\u00a0\u00a0 software is prohibited.", 
+        "number": "5069", 
+        "subject": "SPN", 
+        "title": "Reading Knowledge Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

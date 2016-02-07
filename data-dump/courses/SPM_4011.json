@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides a survey of significant time periods beginning with the Ancient Greeks and ending with the current society. The survey reviews sport issues and practices across time, aiming to inform students about the role of sport in our current society.", 
+        "number": "4011", 
+        "subject": "SPM", 
+        "title": "Sport History"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

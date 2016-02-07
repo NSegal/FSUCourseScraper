@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the basic vocabulary, understanding, and appreciation of the design process in dance production. May be repeated to a maximum of two semester hours.", 
+        "number": "2500", 
+        "subject": "DAN", 
+        "title": "Introduction to Design"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

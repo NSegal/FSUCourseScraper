@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores special topics of current interest or of benefit from specialties of visiting faculty. May be repeated to a maximum of nine semester hours. May be repeated within the same semester.", 
+        "number": "3933", 
+        "subject": "ECO", 
+        "title": "Special Topics in Economics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to investment/security analysis. Includes an examination of investment instruments, the investment environment, the concept of risk-return, and the interactive forces between the economy, industries, and individual firms.", 
+        "number": "4504", 
+        "subject": "FIN", 
+        "title": "Investments"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518, FIN 3244, and FIN 3403 with a grade of \"B-\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

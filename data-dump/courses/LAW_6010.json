@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course discusses the rights and responsibilities of sellers, buyers, lessors, and lessees of personal property under UCC Articles 2 and 2A; transactions in documents of title, bulk transfers, and letters of credit under UCC Articles 5, 6 and 7; United Nations Convention on the International Sale of Goods and other international law governing documents of title and letters of credit.", 
+        "number": "6010", 
+        "subject": "LAW", 
+        "title": "Sales and Leases"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

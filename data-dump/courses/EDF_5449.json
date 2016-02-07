@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the design, use, and analysis of questionnaires for data collection; significant research questions and strengths and weaknesses of various methodologies are discussed. Hands-on practice in questionnaire design.", 
+        "number": "5449", 
+        "subject": "EDF", 
+        "title": "Survey Research Methods"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

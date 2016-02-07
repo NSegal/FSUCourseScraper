@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an overview of the management concepts and practices of American theatre, especially as they apply to non-profit community and educational theatre organizations.", 
+        "number": "5405", 
+        "subject": "TPA", 
+        "title": "Principles of Theatre Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

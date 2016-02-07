@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-RSR (14055)", 
+    "basic": {
+        "class_num": "14055", 
+        "course": "6911", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "LIS", 
+        "type": "RSR", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Charles Hinnant"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

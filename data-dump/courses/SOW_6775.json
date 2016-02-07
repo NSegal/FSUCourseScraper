@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course promotes critical thinking about social work as a profession, its knowledge base, its place in the academy, its curricula and issues for its educators. Specific topics include faculty scholarship and mentoring, service and contributing to the profession, comparison of educational delivery models, education evaluation and ethics, and the diverse roles of PhD social workers.", 
+        "number": "6775", 
+        "subject": "SOW", 
+        "title": "Professional Issues in Social Work"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

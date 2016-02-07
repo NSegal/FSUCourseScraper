@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course combines theories of the conduct of crime with knowledge of how physical evidence is produced during the commission of a crime to produce information that enables the investigation and prosecution of criminal activity.\u00a0 The course emphasizes decision-making in forensic science examinations and evaluation of the reliability of these examinations.", 
+        "number": "5766", 
+        "subject": "CJE", 
+        "title": "Forensic Science in Investigation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

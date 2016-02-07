@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with the history of Imperial China, examining China's dynasties and discussing the political, cultural, social, religious, ideological, and economic developments that characterized each period.", 
+        "number": "5409", 
+        "subject": "ASH", 
+        "title": "Imperial China"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

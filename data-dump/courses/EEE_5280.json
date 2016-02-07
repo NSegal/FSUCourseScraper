@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers natural systems and signal-processing theory as revealed by biological sensory systems. Focus is on innovative engineering applications inspired by nature sensory systems. Application of the biomimetic theory is reinforced through a course project which demonstrates successful mimicry of a natural sensory system concept.", 
+        "number": "5280", 
+        "subject": "EEE", 
+        "title": "Biomimetic Systems Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

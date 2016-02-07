@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a preliminary look at developing acting techniques for work in television, film, and video media. It explores how actors prepare, rehearse, and perform differently in front of the camera as compared to an onstage production.", 
+        "number": "3265", 
+        "subject": "TPP", 
+        "title": "Acting for the Camera"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: TPP 2110.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

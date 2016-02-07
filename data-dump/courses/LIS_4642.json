@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the processes of electronic information retrieval including some theoretical principles, laboratory experiences, and selected current research issues.", 
+        "number": "4642", 
+        "subject": "LIS", 
+        "title": "Electronic Information Sources and Services"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

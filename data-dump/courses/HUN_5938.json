@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves readings and discussion in special areas such as nutrition in aging, energy metabolism and obesity, and world food problems.", 
+        "number": "5938", 
+        "subject": "HUN", 
+        "title": "Special Topics in Nutrition"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

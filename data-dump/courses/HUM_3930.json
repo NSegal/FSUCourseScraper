@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "May be repeated within the same term to a maximum of twelve semester hours.", 
+        "number": "3930", 
+        "subject": "HUM", 
+        "title": "Humanities: Special Topics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

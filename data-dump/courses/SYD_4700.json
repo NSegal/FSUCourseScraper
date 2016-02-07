@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores historical and contemporary race relations in the United States from a sociological perspective. Specifically, students study the underlying issues that characterize the relations between and among different ethnic and racial groups in the United States.", 
+        "number": "4700", 
+        "subject": "SYD", 
+        "title": "Race and Minority Group Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

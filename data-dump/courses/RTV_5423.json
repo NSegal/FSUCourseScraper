@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys key concepts and theoretical approaches in research on new communication technology.", 
+        "number": "5423", 
+        "subject": "RTV", 
+        "title": "New Communication Technology: Theory and Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

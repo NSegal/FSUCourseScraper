@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the mental processes involved in language use (e.g., speech, comprehension, conversation, and writing).", 
+        "number": "4640", 
+        "subject": "EXP", 
+        "title": "Psychology of Language"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

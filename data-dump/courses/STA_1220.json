@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course teaches the methods and concepts behind creating and conducting surveys and the statistical tools needed to analyze data gathered from them. Students participate in data collection from different sources for individual- and class-designed surveys.", 
+        "number": "1220", 
+        "subject": "STA", 
+        "title": "In My Opinion: Introduction to Designing, Conducting and Analyzing Surveys"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

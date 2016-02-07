@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores critical issues in contemporary art. Course varies each semester to cover topics of critical significance in twentieth-century contemporary art. May be repeated to a maximum of twenty-seven hours.", 
+        "number": "4930C", 
+        "subject": "ART", 
+        "title": "Advanced Workshop"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

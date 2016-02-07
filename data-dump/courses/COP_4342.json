@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to selected Unix tools and utilities that are useful for advanced users, programmers, and system administrators, such as shell scripts, the perl language, revision control systems, debuggers, editors, and the make, awk, sed, and expect utilities.", 
+        "number": "4342", 
+        "subject": "COP", 
+        "title": "Unix Tools"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3330.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

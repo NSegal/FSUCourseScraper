@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the educational and professional requirements necessary to become a Certified Athletic Trainer. Students are exposed to the daily operations of athletics training facilities and the job responsibilities of all members of a sports-medicine team. This course provides the framework for the formal application process for the Athletic Training Education Program.", 
+        "number": "1800", 
+        "subject": "ATR", 
+        "title": "Introduction to Athletic Training"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: 2.5 GPA.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

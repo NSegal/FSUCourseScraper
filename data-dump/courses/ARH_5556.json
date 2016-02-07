@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the arts and culture of Japan, focusing on key monuments and artistic traditions that have played a central role in Japanese art and society. It covers, chronologically, the Pre-historic Age,Shinto, Buddhism, Court Culture, Zen Buddhism, Samurai Government, and the Industrial Age.", 
+        "number": "5556", 
+        "subject": "ARH", 
+        "title": "Arts of Japan"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines developments in the so-called 'transition countries' of Eastern Europe and Eurasia, drawing on readings to introduce students to the major debates on economic and political reform in the region.", 
+        "number": "3615", 
+        "subject": "CPO", 
+        "title": "Post-Soviet Politics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: CPO 2002 or instructor's permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

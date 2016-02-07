@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses the craft of the singer-actor. It is designed to cover the preparation and performance of main-stage roles, techniques of acting for the singer, repertoire, audition techniques, career development, music theater styles, and performance history. May be repeated to a maximum of twelve semester hours.", 
+        "number": "5505", 
+        "subject": "MUO", 
+        "title": "Opera"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Audition and instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 4.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines techniques of evaluation for physical fitness and health with a particular emphasis on aerobic capacity, flexibility, strength, and body composition and to design, implement, and administer programs for developing physical fitness and lifestyle changes.", 
+        "number": "4551", 
+        "subject": "PET", 
+        "title": "Exercise Testing and Prescription"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: APK 3110C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

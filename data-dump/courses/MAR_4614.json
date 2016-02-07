@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides experience in designing and conducting actual marketing research studies.", 
+        "number": "4614", 
+        "subject": "MAR", 
+        "title": "Advanced Marketing Research"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAR 4613.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

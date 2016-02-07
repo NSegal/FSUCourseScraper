@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on intelligent behavior in humans, animals, and machines and on the mechanisms underlying this behavior.", 
+        "number": "2020", 
+        "subject": "EXP", 
+        "title": "Introduction to Cognitive Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

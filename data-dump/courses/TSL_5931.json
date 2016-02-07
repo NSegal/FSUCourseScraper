@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course addresses any topic relevant to the broader field of multilingual/multicultural education and may be repeated to a maximum of twelve semester hours.", 
+        "number": "5931", 
+        "subject": "TSL", 
+        "title": "Seminar: Special Topics in Applied Linguistics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

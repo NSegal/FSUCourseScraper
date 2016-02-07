@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the instructional role of the media specialist and methods of participating effectively in curricular planning, implementation,\u00a0\u00a0\u00a0 and evaluation.", 
+        "number": "5524", 
+        "subject": "LIS", 
+        "title": "Instructional Role of the Informational Specialist"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

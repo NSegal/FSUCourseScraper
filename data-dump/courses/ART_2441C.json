@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to intaglio printing with line etch, aquatint, and softground using non-toxic processes.", 
+        "number": "2441C", 
+        "subject": "ART", 
+        "title": "Fundamentals of Printmaking: Etching"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ART 1201C and ART 1300C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is based on the premise that the basic model of income determination is built emphasizing the roles of real and monetary sectors of the economy. Results of empirical work are surveyed. A project is required of each graduate student.\nRestricted to non-Economics majors.", 
+        "number": "5205", 
+        "subject": "ECO", 
+        "title": "Money and National Income Determination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013, ECO 2023, and ECO 3223.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

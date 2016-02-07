@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an examination of modern Middle Eastern history, focusing on the origins of recent problems in the imperialistic era, the clash of political and cultural traditions, national rivalries, the impact of OPEC, the Palestinians, and the Iranian Revolution.", 
+        "number": "4223", 
+        "subject": "ASH", 
+        "title": "Modern Middle East"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

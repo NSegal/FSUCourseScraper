@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course outlines the major events in human cultural and social evolution and includes a brief presentation of general archaeological methods and objectives. The course focuses on the evolution of civilization in the Middle East, Europe, China, Africa, and the Americas.", 
+        "number": "3141", 
+        "subject": "ANT", 
+        "title": "World Prehistory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

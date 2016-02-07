@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to a comparative study of contemporary dance forms, predominantly in Western culture. The course traces the development of modern and contemporary dance as reflective of larger cultural and historical movements, focusing on the codification of dance technique, gender theories of performance, and the role of dance in society.", 
+        "number": "3146", 
+        "subject": "DAN", 
+        "title": "Contemporary Perspectives on Dance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

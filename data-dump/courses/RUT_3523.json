@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of viewing and discussion of Russian classics and contemporary films. Credit may be applicable to the Russian major. Knowledge of Russian is not required. May be repeated to a maximum of six semester hours.", 
+        "number": "3523", 
+        "subject": "RUT", 
+        "title": "Russian Cinema"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces state-of-the-art software environments for solving scientific and engineering problems. Topics include solving simple problems in algebra and calculus; 2-D and 3-D graphics; non-linear function fitting and root finding; basic procedural programming; methods for finding numerical solutions to DE's with applications to chemistry, biology, physics, and engineering.", 
+        "number": "3222", 
+        "subject": "ISC", 
+        "title": "Symbolic and Numerical Computations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 2311 and MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

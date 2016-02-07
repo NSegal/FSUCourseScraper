@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "May be repeated with instructor permission.", 
+        "number": "6976", 
+        "subject": "ISC", 
+        "title": "Master's Thesis Defense-MS&E"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "0.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of advanced topics in wilderness medicine. The course employs various teaching tools, including didactic sessions with selected readings. Students produce a presentation on a self-selected topic. Applied, experiential activities include planned field activities and demonstrations of wilderness techiques requiring team work and improvisation.", 
+        "number": "7721", 
+        "subject": "MDE", 
+        "title": "Advanced Wilderness Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "enrollment_requirement": "MDE7720,P,Y,**", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00"
+    }
+}

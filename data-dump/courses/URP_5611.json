@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course approaches the issue of formulating and implementing effective strategies for development by identifying the obstacles and opportunities for planned change in less-developed countries. The course is organized to explore the issue of development strategy at three levels: the international setting, national, and subnational levels. At each geographic level, relevant theories and available policy options are presented and evaluated. The need is established for strategy that incorporates a spatial perspective in which the unique characteristics of people and places are recognized.", 
+        "number": "5611", 
+        "subject": "URP", 
+        "title": "Strategies for Urban and Regional Development in Less-Developed Countries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

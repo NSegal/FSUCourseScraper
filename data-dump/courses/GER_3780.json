@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, the objectives are the acquisition of correct German sound formation by comparison with English phonetics and the improvement of the students conversational German through pronunciation exercises. The course is conducted in German.", 
+        "number": "3780", 
+        "subject": "GER", 
+        "title": "Phonetics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

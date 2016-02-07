@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced course which focuses on all aspects of impression and pattern evidence associated with crime scenes to include special procedures and techniques to be evaluated in a criminal investigation.", 
+        "number": "4135", 
+        "subject": "CJE", 
+        "title": "Impression and Pattern Evidence"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CJE 4762 and CJE 4762L.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

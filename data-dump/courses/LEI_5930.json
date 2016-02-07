@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics of current or special interest in recreation and leisure services are studied in depth.", 
+        "number": "5930", 
+        "subject": "LEI", 
+        "title": "Special Topics in Recreation and Leisure"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

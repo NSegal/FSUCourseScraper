@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers current issues and topics in interdisciplinary computing that are not discussed in other courses. Topics vary. May be repeated within the same term, to a maximum of nine semester hours.", 
+        "number": "2930", 
+        "subject": "IDC", 
+        "title": "Special Topics in Interdisciplinary Computing - Beginning Level"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

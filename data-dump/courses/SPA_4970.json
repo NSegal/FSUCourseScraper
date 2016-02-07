@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is available to seniors who are majoring in communication disorders and who are interested in undertaking independent and original research under the direction of a faculty member whose area of expertise matches the student's interest. May be repeated to a maximum of nine semester hours.", 
+        "number": "4970", 
+        "subject": "SPA", 
+        "title": "Honors Thesis in Communication Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Admission to honors program and admission to the School of Communication Science and Disorders.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

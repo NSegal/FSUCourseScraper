@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course allows students to collect, analyze, and perform personal narratives and everyday conversations.", 
+        "number": "3004", 
+        "subject": "ORI", 
+        "title": "Performance Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

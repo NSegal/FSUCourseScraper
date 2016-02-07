@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course covers the fundamentals of chemical bonding and structural organization of matter, including molecular orbital and ligand field theories, bonding and structure of small molecules, macromolecules, and extended solids, and theoretical approaches to electronic structures of molecules and solids. May be repeated to a maximum of three semester hours.", 
+        "number": "5710", 
+        "subject": "CHM", 
+        "title": "Chemical Structure and Bonding"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

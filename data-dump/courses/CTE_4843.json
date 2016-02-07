@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores retail and fashion brand development, promotion, experience, and performance. Students develop their own brand.", 
+        "number": "4843", 
+        "subject": "CTE", 
+        "title": "Retail Branding"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CTE 3806.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

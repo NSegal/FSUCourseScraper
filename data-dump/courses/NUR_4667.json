@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to global health, the U.S. healthcare system, the social determinants of health, environmental health, emerging infectious disease, disaster planning and population support during disasters, and other mass casualty situations. In addition, using Healthy People/WHO indicators in evidence based decision making and utilizing the process of community assessment including the tools of epidemiology and biostatistics are reinforced.", 
+        "number": "4667", 
+        "subject": "NUR", 
+        "title": "Population Health in Nursing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: NUR 4445, NUR 4555L, NUR 4766, and NUR 4766L. Corequisites: NUR 4828, NUR 4888, NUR 4888L, and NUR 4945.", 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course involves selected topics in contemporary Biomedical Sciences along with reading and analysis of primary literature. May be repeated for a total of fifteen semester hours within the same term. Topics to be covered will address questions of developmental, cell and molecular biology related to human health.", 
+        "number": "5931", 
+        "subject": "BMS", 
+        "title": "Graduate Tutorial in Biomedical Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "1.00"
+    }
+}

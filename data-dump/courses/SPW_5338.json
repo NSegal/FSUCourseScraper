@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course emphasizes close readings of poetic texts and major literary and artistic trends from Romanticism through the contemporary era. May be repeated to a maximum of six semester hours.", 
+        "number": "5338", 
+        "subject": "SPW", 
+        "title": "Spanish Poetry from 1700 to the Present"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of on-campus class meetings and an international trip to an overseas destination. On-campus meetings help students understand the related international business theories as well as the inhibiting and opportunity-offering roles of local cultures in international business. The international trip is to gain access to the best business practices of world-class multinational firms in the destination city.", 
+        "number": "5957", 
+        "subject": "MAR", 
+        "title": "Global Business Seminar"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

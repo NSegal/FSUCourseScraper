@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (150)", 
+    "basic": {
+        "class_num": "150", 
+        "course": "5865", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ARE", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "14:45:00", 
+            "instructors": [
+                "Antonio Cuyler"
+            ], 
+            "location": "WJB 3003", 
+            "start_time": "12:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

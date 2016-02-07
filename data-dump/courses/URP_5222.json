@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on a systems-analysis approach as a means of analyzing problems and formulating action alternatives. Emphasis is given to techniques of modeling, applied economic analysis, probability and risk, goals achievement, as well as cost benefit and cost effectiveness in the assessment of alternative courses of action.", 
+        "number": "5222", 
+        "subject": "URP", 
+        "title": "Planning Alternatives Evaluation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: URP 5101, URP 5201, or instructor permission; and major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

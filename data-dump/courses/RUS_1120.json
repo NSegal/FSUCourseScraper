@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to basic Russian. Students with high school language experience or equivalent should consult the department for placement. May not be taken by native speakers. May not be taken concurrently with RUS 1121 and/or 2220.", 
+        "number": "1120", 
+        "subject": "RUS", 
+        "title": "Elementary Russian I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines relational database management systems using a typical commercial DBMS, such as Microsoft Access. Topics include data modeling, database design, implementation, forms and reports, and remote access to databases.", 
+        "number": "2780", 
+        "subject": "LIS", 
+        "title": "Database Concepts"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

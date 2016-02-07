@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students in the program of Orientation and Mobility with fieldwork experience observing and teaching students/clients with visual disabilities. Practicum students are exposed to a wide range of teaching experiences under the direct supervision of an experienced O&M instructor. To facilitate the learning process, the student is provided an opportunity to observe and teach in different areas, including a variety of simple as well as advanced O&M skills, with a variety of students/clients.", 
+        "number": "5943", 
+        "subject": "EVI", 
+        "title": "Practicum in Orientation and Mobility"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EVI 4220 and EVI 5222.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines issues of child-care and well-being within the broadersocio-political context of North America.", 
+        "number": "5619", 
+        "subject": "CHD", 
+        "title": "Child Care Issues and Advocacy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: CHD 4225 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

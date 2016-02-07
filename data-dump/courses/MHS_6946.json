@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This practicum provides students with an opportunity to integrate theory and practice in the delivery of psychological services relevant to their career goals. Students completing the course enhance their competencies in assessment, intervention, or both. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "6946", 
+        "subject": "MHS", 
+        "title": "Field Practicum in Counseling Psychology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MHS 6805.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "2.00 - 16.00"
+    }
+}

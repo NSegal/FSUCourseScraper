@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies voice teaching methods.", 
+        "number": "4641", 
+        "subject": "MVV", 
+        "title": "Vocal Pedagogy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing in voice.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "2.00"
+    }
+}

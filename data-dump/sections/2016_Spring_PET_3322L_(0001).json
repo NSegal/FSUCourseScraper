@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (8571)", 
+    "basic": {
+        "class_num": "8571", 
+        "course": "3322L", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "PET", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "12:50:00", 
+            "instructors": [
+                "Phillip Worts"
+            ], 
+            "location": "HCB 0301", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

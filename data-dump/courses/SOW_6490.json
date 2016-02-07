@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides incoming doctoral students with 1) an introduction to the process of scholarly writing, 2) an opportunity to develop and hone their writing skills in the context of communicating effectively to the scientific community and, most important 3) an opportunity to develop and integrate the dimension of scholarly writer into their professional identity. The course is based on the assumption that scholarly writing is a way of thinking. As such, students learn how to pursue their writing goals from a framework of depth and critical thinking.", 
+        "number": "6490", 
+        "subject": "SOW", 
+        "title": "Introduction to Scholarly Writing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

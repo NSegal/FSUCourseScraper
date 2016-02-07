@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the practical application of standardized instruments assessing educational and social skills of children with learning problems in music situations.", 
+        "number": "5705", 
+        "subject": "MUY", 
+        "title": "Assessment Instruments in Music Therapy/Music Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

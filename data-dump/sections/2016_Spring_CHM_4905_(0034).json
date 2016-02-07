@@ -1,0 +1,26 @@
+{
+    "_unique": "0034-DIS (1697)", 
+    "basic": {
+        "class_num": "1697", 
+        "course": "4905", 
+        "season": "Spring", 
+        "solus_id": "0034", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Thomas Albrecht-Schmitt"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

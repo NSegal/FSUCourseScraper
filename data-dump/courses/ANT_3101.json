@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of objectives, field strategies, basics of laboratory analysis, interpretative approaches to the record, and what the threats to archaeological/cultural resources are. This includes a brief overview of the history of archaeology and the changes in strategies used to examine the prehistoric and historic archaeological records. An emphasis is placed upon developing an understanding of the fundamental objectives and methodologies used in modern anthropological archaeology.", 
+        "number": "3101", 
+        "subject": "ANT", 
+        "title": "Fundamentals of Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 2100.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

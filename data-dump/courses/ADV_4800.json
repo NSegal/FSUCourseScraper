@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course fosters creative and empathetic skills necessary in communicating via print and electronic media and enables students to utilize these skills in creating integrated advertising campaigns.", 
+        "number": "4800", 
+        "subject": "ADV", 
+        "title": "Creative Strategy II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ADV 3001, ADV 3008, and ADV 4500.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For complete details interested students should contact the department.", 
+        "number": "4941", 
+        "subject": "POS", 
+        "title": "Political Science Internship"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Completion of at least sixty semester hours, completion of fifteen semester hours in political science, a 3.0 GPA average or a 3.0 GPA in political science courses, and departmental permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

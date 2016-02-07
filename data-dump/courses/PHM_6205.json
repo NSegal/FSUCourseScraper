@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course critically examines schools of thought (e.g., liberalism, utilitarianism, Marxism, communitarianism, feminism), or of central issues (e.g., justice, equality, race) in social/political philosophy. May focus on historical or contemporary approaches and/or philosophers.", 
+        "number": "6205", 
+        "subject": "PHM", 
+        "title": "Social and Political Philosophy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops knowledge of self, self-confidence, individual leadership skills, problem solving and critical thinking skills, as well as communication, feedback, and conflict resolution skills.", 
+        "number": "2101", 
+        "subject": "MSL", 
+        "title": "Individual Leadership Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: MSL 2101L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

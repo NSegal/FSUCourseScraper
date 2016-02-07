@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers a critical examination of empirical research in finance and its related issues including design, methodology, analysis, and critique. Students utilize financial databases with appropriate quantitative techniques to design and conduct empirical research.", 
+        "number": "6842", 
+        "subject": "FIN", 
+        "title": "Research Methods in Finance"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: FIN 6804.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "4.00"
+    }
+}

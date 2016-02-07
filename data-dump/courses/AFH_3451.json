@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers a history of Sub-Sahara Africa since 1800, in an effort to provide an understanding of the background and problems of some of the African states today.", 
+        "number": "3451", 
+        "subject": "AFH", 
+        "title": "Sub-Sahara Africa Since 1800"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

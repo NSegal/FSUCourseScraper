@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the relationship between various groups of humans and them microbes they encounter.", 
+        "number": "2101", 
+        "subject": "IFS", 
+        "title": "Cultures of Medicine"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

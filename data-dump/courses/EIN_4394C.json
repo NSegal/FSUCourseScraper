@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to engineering materials used in industry from the perspectives of composition, microstructures, properties, and heat treatment, various traditional and non-traditional manufacturing processes, basic mathematical descriptions for selected processes, and the application of these concepts to process selection and planning.", 
+        "number": "4394C", 
+        "subject": "EIN", 
+        "title": "Engineering Materials and Manufacturing Processes II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 3390C.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

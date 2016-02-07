@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a review of algebraic operations, equations and inequalities; functions and functional notation; graphs; inverse functions; linear, quadratic, rational function; absolute value; radicals; exponential and logarithmic functions; system of equations and inequalities; applications. On the basis of test scores the student may be required to take a community college course before MAC 1105.", 
+        "number": "1105", 
+        "subject": "MAC", 
+        "title": "College Algebra"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAT 1033 with a grade of \"C-\" or better or a suitable mathematics examination placement score. Recommended background: two years of high school algebra.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

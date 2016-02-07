@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines in-depth issues related to elementary education curriculum in language and literature. May be repeated to a maximum of nine semester hours.", 
+        "number": "5931", 
+        "subject": "LAE", 
+        "title": "Special Topics in Elementary Language and Literature"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

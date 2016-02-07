@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces students to film analysis theories and techniques, including the basics of dramatic structure, genre, prevalent filmmaking theories, and film production processes. Through weekly film screenings, class discussion, and hands-on production exercises, students develop and practice skills to help them compare and interpret films representing a variety of genres, aesthetic traditions, and cultural contexts.", 
+        "number": "2001", 
+        "subject": "FIL", 
+        "title": "Introduction to Cinema Studies: Analysis and Practice"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey on family sociology with a focus on modern U.S. family systems. The course also surveys family research and family functioning in modern American society to understand relationships between societal and family conditions and dynamics.", 
+        "number": "5107", 
+        "subject": "SYO", 
+        "title": "Sociology of the Family"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

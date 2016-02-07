@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the interaction between politics and economics in international relations. Topics covered include international trade, the global monetary system, multinational corporations, regional integration, and economic development.", 
+        "number": "4702", 
+        "subject": "INR", 
+        "title": "Political Economy of International Relations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

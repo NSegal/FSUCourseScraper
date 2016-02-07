@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course addresses issues of race, gender, and class in a selection of works written by prominent French/Francophone writers. Taught in English. Can be used for minor credit with permission of the coordinator.", 
+        "number": "3561", 
+        "subject": "FRT", 
+        "title": "French Women Writers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ENC 1101 and ENC 1121, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

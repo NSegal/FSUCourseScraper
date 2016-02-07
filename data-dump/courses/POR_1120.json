@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a first semester course in Portuguese for beginning students with no prior exposure to the language. This course emphasizes the four basic communicative skills of listening, reading, speaking, and writing in a culturally authentic context.", 
+        "number": "1120", 
+        "subject": "POR", 
+        "title": "Elementary Portuguese I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers fundamental theories of composite materials. Topics include forms of composites and their reinforcements; physical, chemical, and mechanical properties; design and testing methods; and civil engineering applications of composite materials.", 
+        "number": "5845", 
+        "subject": "CES", 
+        "title": "Composites in Civil Engineering"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCE 3101, CES 3100, and EGN 3331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

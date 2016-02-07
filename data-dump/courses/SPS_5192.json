@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course assesses educational problems utilizing standardized and non-standardized approaches, including foci on assessment of achievement and learning, preschool children, special populations, and assessment-based development of educational objectives and plans. The course\u00a0 includes activities related to collection, interpretation and reporting of assessment data.", 
+        "number": "5192", 
+        "subject": "SPS", 
+        "title": "Psychoeducational Assessment and Intervention"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPS 5191 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

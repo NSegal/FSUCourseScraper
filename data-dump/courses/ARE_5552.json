@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course emphasizes the use of projective and art-based assessment instruments for the art therapist.\u00a0 Students learn to write reports based on individual assessments and become familiar with medical charting, record keeping, and treatment planning.", 
+        "number": "5552", 
+        "subject": "ARE", 
+        "title": "Assessments for the Practice of Art Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

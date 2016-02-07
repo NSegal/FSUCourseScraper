@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "In this course, athletic training/sports medicine students examine the following topics included in this course: clinical orthopedic anatomy; evaluation; and assessment and special test protocols for the foot, toes, ankle, knee, pelvis, thigh, thoracic and lumbar spine, and gait analysis.", 
+        "number": "3213C", 
+        "subject": "ATR", 
+        "title": "Orthopedic Assessment--Lower Extremity"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 2832.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a basic rock-climbing class. The material covered is for students with little or no experience or knowledge of rock climbing. This class is experiential in nature; therefore, being present and active in class is necessary. Skills may include but are not limited to knot-tying, belaying, bouldering, safety concerns, route reading, and technique.", 
+        "number": "1269", 
+        "subject": "LEI", 
+        "title": "Rock Climbing"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

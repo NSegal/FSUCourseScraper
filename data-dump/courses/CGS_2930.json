@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers special topics for non-majors. Topics may vary. this course is repeatable in a single semester with instructor permission. May be repeated to a maximum of three semester hours.", 
+        "number": "2930", 
+        "subject": "CGS", 
+        "title": "Special Topics for Non-Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course conceptualizes counseling problems in systems terms; focus is on counselor and client as part of systems; systems-level counseling interventions.", 
+        "number": "5419", 
+        "subject": "MHS", 
+        "title": "Systems Approach to Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-DSC (5216)", 
+    "basic": {
+        "class_num": "5216", 
+        "course": "6939", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "MAP", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "16:50:00", 
+            "instructors": [
+                "Arash Fahim"
+            ], 
+            "location": "LOV 0201", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

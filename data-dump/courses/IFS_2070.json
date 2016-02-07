@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce the students to the basic concepts, theories, functions and behaviors associated with intercultural communication. Throughout the course students increase in knowledge, understanding and awareness of different cultures and countries, interpret cultural values and communication strategies used across cultures/countries, and become more effective in engaging in the 21st-century globalized world.", 
+        "number": "2070", 
+        "subject": "IFS", 
+        "title": "Thinking Beyond Ourselves: Global Perspectives"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

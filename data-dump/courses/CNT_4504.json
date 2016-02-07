@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers circuit-switched and packet-switched networks; protocols; protocol layering; application layer and socket programming; transport layer, multiplexing and demultiplexing, UDP, TCP, reliability, flow control, and congestion control; network layer, routing protocols, switching technologies, multicast, and mobility; link layer, local area networks, error detection and correction; wireless networks; multimedia networking; network security; and network management.", 
+        "number": "4504", 
+        "subject": "CNT", 
+        "title": "Introduction to Computer Networks"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: COP 4530.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

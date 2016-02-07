@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores American problems. May be repeated to a maximum of six semester hours. May be repeated within the same semester.", 
+        "number": "3932", 
+        "subject": "AMS", 
+        "title": "Lecture Series in American Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

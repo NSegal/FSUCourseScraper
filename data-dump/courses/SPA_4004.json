@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides an overview of the fundamental bases of language development, offering skills and knowledge that are pivotal to preparing future professionals for a variety of careers and scientific inquiry. This overview serves as a foundation for advanced coursework and for a variety of professions such as working in an educational setting, in a child-care facility, with individuals with communication disorders, or conducting related research.", 
+        "number": "4004", 
+        "subject": "SPA", 
+        "title": "Normal Communication Development"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores food production, distribution and consumption by intensive global agro-food and local organic farm operations, and their impacts on environmental sustainability.", 
+        "number": "4355", 
+        "subject": "GEO", 
+        "title": "Geography: Food and Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

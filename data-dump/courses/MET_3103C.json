@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course enables students to explore the science behind our understanding of climate change. The course provides an in-depth exploration of the use of proxi, in situ, remote-sensing data, climate models, and their public policy implications. Students gain experience in evaluating internal and external forcings on the climate system and make quantitative assessments of change. The course also gives students an understanding of energy transfer methods between the atmosphere, cryosphere, oceans, and fresh water systems.", 
+        "number": "3103C", 
+        "subject": "MET", 
+        "title": "Climate Change Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 2700 with a grade of \"C\" or better.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

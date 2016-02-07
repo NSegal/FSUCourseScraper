@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on the integration of knowledge, skills, and capabilities learned in the program through a capstone project thought working with a Public Safety and Security Agency or Guided Research.", 
+        "number": "4710", 
+        "subject": "CJE", 
+        "title": "Public Safety and Security Capstone"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CCJ 3024, CCJ 3071, CCJ 3484 and CCJ 4710.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 15.00"
+    }
+}

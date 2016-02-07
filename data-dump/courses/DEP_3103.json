@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides broad coverage of topics concerning the biological, social, and cognitive aspects of children.", 
+        "number": "3103", 
+        "subject": "DEP", 
+        "title": "Child Psychology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PSY 2012.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

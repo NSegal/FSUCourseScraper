@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course allows participants to examine the role of the college and university president by addressing this complex leadership role from a variety of perspectives. Case studies, theoretical constructs, and empirical research are surveyed to discover key themes and unique characteristics of institutional presidents in a range of postsecondary institutional forms and organizational cultures. The instructor's goal is to faciliate understanding of the role and responsibilities of the college and unviersity president,\u00a0 the structures and processes that influence and are influenced by the institutional president, and the diversity of stakeholders to which the president is linked.", 
+        "number": "5632", 
+        "subject": "EDH", 
+        "title": "College and University Presidency"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

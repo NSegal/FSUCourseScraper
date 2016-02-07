@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on state of the art computing techniques for industrial engineers. Applications of structured programming, mathematical analysis software, and engineering databases. Use in engineering of GUI languages, Internet communication, and UNIX.", 
+        "number": "3628", 
+        "subject": "ESI", 
+        "title": "Computing Topics in Industrial Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: COP 3014.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

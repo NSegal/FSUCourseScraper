@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed as a capstone for advanced-level students who intend to enter the profession of athletic training. Students are evaluated on cognitive, affective, and motor skills - all required to perform athletic training techniques in practice settings. Additional content includes oral,\u00a0 practical, and written examinations; professional-development activities;\u00a0 and a research project. All students enrolled in this course must show proof of current membership in the National Athletic Trainers' Association (NATA).", 
+        "number": "4862", 
+        "subject": "ATR", 
+        "title": "Athletic Training Clinical VI"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Corequisite: ATR 4932.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring", 
+        "units": "1.00"
+    }
+}

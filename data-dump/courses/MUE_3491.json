@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces development of choral, verbal, and non-verbal communication skills; conducting skills; and knowledge of choral literature.", 
+        "number": "3491", 
+        "subject": "MUE", 
+        "title": "Communication Skills for the Musician: Choral"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a historical understanding of: the material and spiritual basis for the reentry of Western Christendom into the Mediterranean world; the ways in which Crusaders organized, financed, and participated in Crusades and the impact this had on European institutions and thought; the interrelations of Christians (East and West) and the Muslim world in the period of the Crusades.", 
+        "number": "4124", 
+        "subject": "EUH", 
+        "title": "The Crusades"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

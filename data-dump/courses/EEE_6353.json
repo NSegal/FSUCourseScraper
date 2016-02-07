@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers elementary quantum physics, energy-band theory, carrier properties, theory of p-n junctions, optoelectronics diodes, bipolar junction transistors, and field-effect transistors.", 
+        "number": "6353", 
+        "subject": "EEE", 
+        "title": "Semiconductor Device Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEE 3300 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

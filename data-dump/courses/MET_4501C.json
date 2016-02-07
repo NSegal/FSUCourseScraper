@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers synoptic calculation and four-dimensional analysis of weather systems.", 
+        "number": "4501C", 
+        "subject": "MET", 
+        "title": "Synoptic Lecture-Laboratory II: Four-Dimensional Structure"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MET 4301 or MET 5311, MET 4420, MET 4500C, and STA 3032 or STA 4321 with a grade of \"C\" or better in each.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "4.00"
+    }
+}

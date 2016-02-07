@@ -1,0 +1,77 @@
+{
+    "_unique": "0001-LEC (6113)", 
+    "basic": {
+        "class_num": "6113", 
+        "course": "4133", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "MUN", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "David Dunnigan"
+            ], 
+            "location": "HMU N0114", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "David Dunnigan"
+            ], 
+            "location": "HMU N0114", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "David Dunnigan"
+            ], 
+            "location": "HMU N0114", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "15:45:00", 
+            "instructors": [
+                "David Dunnigan"
+            ], 
+            "location": "HMU N0114", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 4, 
+            "end_time": "15:45:00", 
+            "instructors": [], 
+            "location": "HMU N0110", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 2, 
+            "end_time": "15:45:00", 
+            "instructors": [], 
+            "location": "HMU N0110", 
+            "start_time": "14:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

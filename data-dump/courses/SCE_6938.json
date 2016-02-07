@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of a sequence of four courses for doctoral students in science education. The courses are: researchable questions in science education; professional writing; current policy issues in science education; and a review of literature in science education. May be repeated to a maximum of eight semester hours.", 
+        "number": "6938", 
+        "subject": "SCE", 
+        "title": "Advanced Seminar in Science Education"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced topics pertaining to athletic training.", 
+        "number": "4503", 
+        "subject": "ATR", 
+        "title": "Athletic Training II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 3102.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

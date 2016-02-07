@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course looks at Chinese Buddhism by way of social and cultural practice; examining the institutional, ritual, and doctrinal components for the construction of Buddhist values, roles and identities within the larger field of Chinese religious life. Special consideration is given to the symbolics of religious alterity, especially as they apply to the negotiation between Buddhist and non-Buddhist traditions.", 
+        "number": "5346", 
+        "subject": "RLG", 
+        "title": "Seminar: Chinese Buddhism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: One year reading knowledge of Chinese. Corequisite: One undergraduate level class on Chinese or East Asian religions.", 
+        "grading_basis": "Graded", 
+        "units": "3.00 - 12.00"
+    }
+}

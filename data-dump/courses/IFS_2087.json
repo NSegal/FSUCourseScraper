@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an overview of fossil record of life on earth from its first appearance to the dinosaurs. Emphasis is placed on the nature of fossil data, relationship to modern biology and how inferences about life habits are made.", 
+        "number": "2087", 
+        "subject": "IFS", 
+        "title": "Trilobites to T. Rex: History of Life on Earth"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

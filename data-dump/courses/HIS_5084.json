@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a study of the organizational dynamics and multifold management concerns of history museums.", 
+        "number": "5084", 
+        "subject": "HIS", 
+        "title": "Museum Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

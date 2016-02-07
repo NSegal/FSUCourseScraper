@@ -1,0 +1,26 @@
+{
+    "_unique": "0004-DSC (10407)", 
+    "basic": {
+        "class_num": "10407", 
+        "course": "4522", 
+        "season": "Spring", 
+        "solus_id": "0004", 
+        "status": "Open", 
+        "subject": "SOW", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "19:30:00", 
+            "instructors": [
+                "Geraldine Goldman"
+            ], 
+            "location": "HOL B0212", 
+            "start_time": "17:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

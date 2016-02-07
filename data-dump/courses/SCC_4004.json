@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an overview of the major topics of public and private security. The topics represent a variety of concerns, including areas such as historical development, the role of security in society, and current practices and standards.", 
+        "number": "4004", 
+        "subject": "SCC", 
+        "title": "Public and Private Security"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

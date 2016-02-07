@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores advertising and promotion as related to level of economic growth, cultural influences, and sociolegal environments.", 
+        "number": "3008", 
+        "subject": "ADV", 
+        "title": "Principles of Advertising"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

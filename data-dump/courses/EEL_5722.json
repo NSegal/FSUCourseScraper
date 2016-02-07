@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a review of Field Programmable Gate Arrays (FPGAs), HDL, mathematics, signals and systems. Computer arithmetic concepts, DSP system design of FIR filters, IIR filters, DFT, FFT, and wavelets filter banks are also covered.", 
+        "number": "5722", 
+        "subject": "EEL", 
+        "title": "Digital Signal Processing with Field Programmable Gate Arrays"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Graduate standing.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

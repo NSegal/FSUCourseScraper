@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of instruction and practice in oral communications for physicists. Students choose physics topics in consultation with instructor and present them to the class.", 
+        "number": "3091", 
+        "subject": "PHY", 
+        "title": "Communication in Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PHY 2048C. Corequisite: PHY 2049C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the principles of learning and how they inform the processes of designing lessons and teaching dance. Includes a five-week teaching practicum in local schools in addition to coursework on campus.", 
+        "number": "3384", 
+        "subject": "DAE", 
+        "title": "Methods and Materials in Dance Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

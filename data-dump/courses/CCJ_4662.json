@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the involvement of minorities, especially African-Americans, in crime and in the criminal justice system. Special attention is paid to the role of racism in theories of crime and in American law and to the treatment of minorities by the various components of the criminal justice system. May require community service hours.", 
+        "number": "4662", 
+        "subject": "CCJ", 
+        "title": "Minorities, Crime, and Social Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies the religious and art music of Latin America from the Colonial Period to the present.", 
+        "number": "4542", 
+        "subject": "MUH", 
+        "title": "Music in Latin America II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

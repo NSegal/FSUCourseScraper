@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the application of economic analysis to public bureaucracy and comparison of public and private management. Topics include public and private sector organizations, economic development, privatization, and public entrepreneurship.", 
+        "number": "5275", 
+        "subject": "PAD", 
+        "title": "Political Economy of Public Administration"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PAD 5700 and PAD 5701, or equivalents.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on understanding businesses based on patentable technologies, which display different business models and characteristics from those of non-technical, mainstream businesses. Understanding these distinctions is critical to technology commercialization.", 
+        "number": "3183", 
+        "subject": "ENT", 
+        "title": "Commercializing New Technologies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ENT 3003.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

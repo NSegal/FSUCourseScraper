@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course the objective is to gain the ability to write with a developed personal style in German on intellectually demanding topics, including commentary on literature. Near mastery of German grammar is a prerequisite. The course is conducted in German.", 
+        "number": "4420", 
+        "subject": "GER", 
+        "title": "Advanced Composition"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Two 3000-level GER courses or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

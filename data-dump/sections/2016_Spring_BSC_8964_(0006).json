@@ -1,0 +1,26 @@
+{
+    "_unique": "0006-DEX (1028)", 
+    "basic": {
+        "class_num": "1028", 
+        "course": "8964", 
+        "season": "Spring", 
+        "solus_id": "0006", 
+        "status": "Closed", 
+        "subject": "BSC", 
+        "type": "DEX", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Fanxiu Zhu"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines historical patterns in warfare, and considers the conditions that influence war and peace between nation-states. Topics include causes of war, outcomes and aftermath of war, and approaches to peace.", 
+        "number": "4083", 
+        "subject": "INR", 
+        "title": "International Conflict"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: INR 2002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

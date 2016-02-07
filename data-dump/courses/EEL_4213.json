@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the analysis of electric power systems using system modeling for large-scale power networks; admittance and impedance matrix formation; power flow; optimal dispatch; symmetrical components; balanced and unbalanced fault analysis; and transient stability studies.", 
+        "number": "4213", 
+        "subject": "EEL", 
+        "title": "Power Systems I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3216.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This advanced-case course includes an in-depth study of topics such as the investment, financing, and dividend decisions of firms and the valuation theory.", 
+        "number": "5425", 
+        "subject": "FIN", 
+        "title": "Problems in Financial Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 5026.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

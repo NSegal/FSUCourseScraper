@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course introduces students to chemical, physical, and biological aspects of dominant marine pollutants, including dissolved toxic metals, complex organic and inorganic contaminants, and particulate pollutants. Topics cover the sources and types of dominant contaminants, their key characteristics, their pathways (as traced through the marine ecosystem from the source to the sinks), their impact on the environment, as well as approaches that could lead to the reduction or elimination of pollutants in the marine environment.", 
+        "number": "4631", 
+        "subject": "EOC", 
+        "title": "Marine Pollution"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Understanding of chemical processes.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines major management issues in government/nonprofit information technology, including the following: differences in public/nonprofit sectors and private sector; issues surrounding organizational structure forinformation service delivery; MIS planning and standard setting methods; p ersonnel/staffing issues; procurement; and security and privacy.", 
+        "number": "5386", 
+        "subject": "ISS", 
+        "title": "Information and Communication Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

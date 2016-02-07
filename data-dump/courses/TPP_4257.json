@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on releasing the singer's acting voice, with particular emphasis on increasing breath capacity during movement, deepening and expanding resonance and range, and increasing articulation skills. In the course, students learn to fully embody their voice and speech skills to avoid strain and loss that comes from executing sound solely from the throat.", 
+        "number": "4257", 
+        "subject": "TPP", 
+        "title": "Voice for Musical Theatre"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: Junior standing.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

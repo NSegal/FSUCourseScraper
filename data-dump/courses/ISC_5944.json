@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides support and guidance to Master in Science Teaching students engaged in their half-time student teaching. The focus is on classroom management and planning, professional ethics, and state and federal school laws.", 
+        "number": "5944", 
+        "subject": "ISC", 
+        "title": "Ethics, School Law, and Management of Science Classrooms"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ISC 5525 and ISC 5535. Corequisite: ISC 5946.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

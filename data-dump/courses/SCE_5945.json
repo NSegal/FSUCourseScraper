@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This field-based course provides students with an opportunity to study the teaching and learning that takes place in an actual classroom.", 
+        "number": "5945", 
+        "subject": "SCE", 
+        "title": "Initial Practicum in the Teaching and Learning of Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: SCE 5336.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0002-DSC (4539)", 
+    "basic": {
+        "class_num": "4539", 
+        "course": "5012", 
+        "season": "Spring", 
+        "solus_id": "0002", 
+        "status": "Open", 
+        "subject": "INR", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "19:45:00", 
+            "instructors": [
+                "Na'ama Nagar"
+            ], 
+            "location": "BEL 0208", 
+            "start_time": "17:15:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

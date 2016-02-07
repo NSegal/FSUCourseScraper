@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course may be repeated; however no more than five semester hours of FIL 5912r and FIL 5941r in combination may be applied toward graduation.", 
+        "number": "5912", 
+        "subject": "FIL", 
+        "title": "Supervised Research or Creative Activity"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

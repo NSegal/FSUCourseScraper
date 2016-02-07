@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (12393)", 
+    "basic": {
+        "class_num": "12393", 
+        "course": "6741", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CCJ", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "13:30:00", 
+            "instructors": [
+                "Sonja Siennick"
+            ], 
+            "location": "EPS 0214", 
+            "start_time": "11:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

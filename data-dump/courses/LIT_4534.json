@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces students to key concepts, issues, and debates that shaped societal attitudes toward women prior to the emergence of \"first wave feminism\" in the later eighteenth and nineteenth centuries. Topics may include women's education, rights to participate in the public sphere, roles in marriage, the nature of women's work, and women's rights to citizenship.", 
+        "number": "4534", 
+        "subject": "LIT", 
+        "title": "Early Feminisms"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

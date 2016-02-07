@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses the acquiring of skills necessary to solve problems\u00a0 in technical theatre production such as microcomputers, hydraulics, rigging, tool maintenance, welding, or plastics. May be repeated to a maximum of twenty-four hours.", 
+        "number": "5286", 
+        "subject": "TPA", 
+        "title": "Selected Topics in Technical Theatre"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

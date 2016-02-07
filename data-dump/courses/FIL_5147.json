@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course instructs students on how to create and write a professional-quality pilot script for an original dramatic series. Special focus is given to world-building, idea sustainability, creating unique, dimensional, and believable characters, and cultivating compelling drama.", 
+        "number": "5147", 
+        "subject": "FIL", 
+        "title": "Writing the Dramatic Series Pilot"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 6.00"
+    }
+}

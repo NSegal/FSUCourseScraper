@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to existential philosophy through detailed and critical analysis of selected major works in the field with special attention to Heidegger and/or Sartre. May be repeated to a maximum of nine semester hours.", 
+        "number": "3786", 
+        "subject": "PHP", 
+        "title": "Existentialism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers definitions and characteristics of solid and hazardous wastes. Topics include history, growth, and magnitude of the problem; legislative, regulatory, and technical aspects of waste generation, storage, collection, transportation, processing, transformation, and disposal; design of waste minimization and recycling programs; and case studies of waste management.", 
+        "number": "4341", 
+        "subject": "ENV", 
+        "title": "Solid and Hazardous Waste Engineering"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3200L and EES 3040.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

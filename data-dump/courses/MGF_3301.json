@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to the methods of mathematics through such a variety of classical and modern topics as set theory, algebra, real number topology and graph theory. Axioms and proofs are emphasized throughout. Not open to students who have received credit for MAD 2104.", 
+        "number": "3301", 
+        "subject": "MGF", 
+        "title": "Introduction to Advanced Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAC 2312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

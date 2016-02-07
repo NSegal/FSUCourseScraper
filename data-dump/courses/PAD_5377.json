@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course reviews the contemporary evolution of terrorism and the current direction of global terrorism with regards to domestic policies and programs. May be repeated to a maximum of six semester hours.", 
+        "number": "5377", 
+        "subject": "PAD", 
+        "title": "Advanced Topics in Terrorism"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PAD 5376.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

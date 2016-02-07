@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of marine nekton, including bony and cartilaginous fishes, cephalopods, reptiles and mammals. It covers the taxonomy, anatomy and functional morphology and physiology of these groups, including aspects of their relationships with humans.", 
+        "number": "5015", 
+        "subject": "OCB", 
+        "title": "Marine Nekton: Larval Fish to Whales"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: BSC 2011, BSC 2011L, and PCB 3743 or PCB 4674.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines popular representations of Greek and Roman culture in modern film and cinema.", 
+        "number": "3510", 
+        "subject": "CLT", 
+        "title": "The Ancient World in Film"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

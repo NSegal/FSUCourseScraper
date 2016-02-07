@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is a course in modeling existing and future organizations, with emphasis on organizations for the twenty-first century. Special consideration is given to flat matrix models.", 
+        "number": "5182", 
+        "subject": "EIN", 
+        "title": "Engineering Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EIN 5353.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

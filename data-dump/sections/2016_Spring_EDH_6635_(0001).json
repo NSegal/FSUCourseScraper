@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-DSC (2849)", 
+    "basic": {
+        "class_num": "2849", 
+        "course": "6635", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "EDH", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "18:20:00", 
+            "instructors": [
+                "David Tandberg"
+            ], 
+            "location": "STB 1203", 
+            "start_time": "15:35:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

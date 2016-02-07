@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the processes involved in language (e.g., speech re cognition, comprehension, reading, and conversation). The biological foundations of language and the relationship between language and thought are also discussed.", 
+        "number": "5642", 
+        "subject": "EXP", 
+        "title": "Psychology of Language"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

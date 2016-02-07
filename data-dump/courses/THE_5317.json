@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics relating to dramatic literature and theatrical theory for intensive investigation resulting in some form of report. May be repeated once for credit as content varies to a maximum of six semester hours.", 
+        "number": "5317", 
+        "subject": "THE", 
+        "title": "Seminar: Selected Topics in Dramatic Literature and Dramatic Theory"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Two undergraduate theatre history courses or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

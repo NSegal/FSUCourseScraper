@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This workplace-oriented course provides practical education and experience in the performance of informative, persuasive, and special occasion speeches through individual and group presentations. Fulfills OCCR requirement.", 
+        "number": "3110", 
+        "subject": "COM", 
+        "title": "Communication for Business and the Professions"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Individ Performance Instructn": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

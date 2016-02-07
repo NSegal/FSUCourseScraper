@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the work of the classical actor. It includes development of imaginative and technical facilities as applied to ancient Greek repertory. The course ends with an introduction to Shakespeare. May be repeated to a maximum of nine semester hours.", 
+        "number": "5146", 
+        "subject": "TPP", 
+        "title": "Classical Performance Styles"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Individ Performance Instructn": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

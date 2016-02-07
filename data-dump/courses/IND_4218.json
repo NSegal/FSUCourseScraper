@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of intermediate projects in creative problem solving applied to both residential and contract interiors. Emphasis on graphic communication and presentation.", 
+        "number": "4218", 
+        "subject": "IND", 
+        "title": "Interior Design Studio II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: IND 3217.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

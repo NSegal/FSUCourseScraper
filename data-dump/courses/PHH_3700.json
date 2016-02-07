@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines major trends in American philosophy from Jonathan Edwards through 19th- and 20th-century American idealism and the pragmatic movement with emphasis on Peirce, James, and Dewey. May be repeated once with the permission of the instructor to a maximum of six semester hours.", 
+        "number": "3700", 
+        "subject": "PHH", 
+        "title": "American Philosophy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course discusses topics such as, principles of incoherent and doppler radar; radar as an observational and analytical tool; the use of radar in basic research.", 
+        "number": "5411", 
+        "subject": "MET", 
+        "title": "Radar Meteorology"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MET 4450 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

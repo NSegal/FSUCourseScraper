@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides the knowledge and skills necessary for collaborating\u00a0 with families, other professionals, and community members.", 
+        "number": "4751", 
+        "subject": "EEX", 
+        "title": "Collaboration with Families, Schools, and the Community"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

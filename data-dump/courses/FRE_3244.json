@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "Through readings and films about contemporary issues facing French society, this course aims at developing oral communication skills in a broad cultural context.", 
+        "number": "3244", 
+        "subject": "FRE", 
+        "title": "Intermediate French Conversation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: FRE 2211.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

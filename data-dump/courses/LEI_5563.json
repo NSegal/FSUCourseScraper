@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This is an advanced course in event marketing that focuses on the components required for development of marketing plans for the various venues in thespecial events industry, including sponsorship acquisition.", 
+        "number": "5563", 
+        "subject": "LEI", 
+        "title": "Event Marketing"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Other": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

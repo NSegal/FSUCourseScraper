@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course develops specific instructional techniques to maximize success in the child's learning of mathematics.", 
+        "number": "4310", 
+        "subject": "MAE", 
+        "title": "The Teaching of Elementary School Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Blocks I and II. Corequisite: Block III.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

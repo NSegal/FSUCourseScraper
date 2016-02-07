@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the visual arts of China, covering the Neolithic to the modern period. The framework for the course is both chronological and thematic, with special emphasis on how the Chinese have viewed themselves and the world in different periods, and how this has been expressed in their arts. Topics include ancient China, the introduction of Buddhism, aesthetic theory and painting, and masters of landscape.", 
+        "number": "4551", 
+        "subject": "ARH", 
+        "title": "Arts of China"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

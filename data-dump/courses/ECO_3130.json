@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course, dealing with liberty and economic freedom, addresses many present and past social issues and public policy decisions.", 
+        "number": "3130", 
+        "subject": "ECO", 
+        "title": "Free to Choose"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ECO 2013 and ECO 2023.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

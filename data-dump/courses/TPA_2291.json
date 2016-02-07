@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of practical experience in the non-acting areas of theatre production, including running the box office, disseminating publicity materials, constructing scenery and properties, applying basic techniques for costume construction in practical situations, and serving on lighting, running, or maintenance crews.", 
+        "number": "2291", 
+        "subject": "TPA", 
+        "title": "Technical Theatre Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

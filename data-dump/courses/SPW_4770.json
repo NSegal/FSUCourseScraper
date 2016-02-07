@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the reading, discussion, and analysis of works by Hispanic Caribbean authors, with an emphasis on the history, cultural life, and social conditions of Cuba, Puerto Rico, and the Dominican Republic as it is reflected in the literature.", 
+        "number": "4770", 
+        "subject": "SPW", 
+        "title": "Caribbean Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One 3000-level literature course.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

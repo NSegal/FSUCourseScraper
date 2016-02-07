@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides a framework and specific procedures for using financial statement information. Potential topics in this course include (but are not limited to): financial statement ratio analysis, construction of pro forma financial statements, forecasting, and fundamental valuation analysis.", 
+        "number": "5175", 
+        "subject": "ACG", 
+        "title": "Financial Statement Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ACG 5026 or ACG 3101 or ACG 3171.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

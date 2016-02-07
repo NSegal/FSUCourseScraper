@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course familiarizes students with a variety of significant issues currently facing managers in the sport industry and increases the students' ability to critically examine these issues, formulate effective argumentation, and provide recommendations. The course develops the students' ability to think critically, challenge, and argue by teaching a variety of ethical and philosophical decision-making skills. Students also hone their skills through class discussion, presentations, and writing assignments.", 
+        "number": "5930", 
+        "subject": "SPM", 
+        "title": "Issues in Sport Management"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

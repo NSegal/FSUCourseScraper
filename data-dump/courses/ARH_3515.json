@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys the history of African art, covering numerous regions of the vast continent. Students examine artistic expressions and visual traditions in the Sahara; along the Nile, Congo, and Niger rivers; in the Central and Western Sudan; the Atlantic Forests; the Cameroon grasslands; and eastern and southern Africa, among others. The course covers a range of visual and material expressions, including painting, sculpture, architecture, costuming, ritual implements, cultural landscapes, and ephemera.", 
+        "number": "3515", 
+        "subject": "ARH", 
+        "title": "History of African Art"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

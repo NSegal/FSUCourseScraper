@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course surveys representative works of Russian 19th and early 20th century fiction. Taught in Russian.", 
+        "number": "3100", 
+        "subject": "RUW", 
+        "title": "Survey of Russian Literature I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

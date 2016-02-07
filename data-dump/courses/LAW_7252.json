@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a perspectives course that studies the procedural rights of those accused of crime comparing U.S. jurisprudence with that of England, Wales and other British Commonwealth authorities.", 
+        "number": "7252", 
+        "subject": "LAW", 
+        "title": "Comparative Criminal Procedure"
+    }, 
+    "extra": {
+        "career": "Law", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Law Numeric", 
+        "typically_offered": "Summer", 
+        "units": "2.00 - 3.00"
+    }
+}

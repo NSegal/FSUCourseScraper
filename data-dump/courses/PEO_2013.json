@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Course Description not on file", 
+        "number": "2013", 
+        "subject": "PEO", 
+        "title": "Sports Officiating"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: PET 4300 and PET 4302C.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

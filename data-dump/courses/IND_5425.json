@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced exploration of the technical aspects of interiordesign.", 
+        "number": "5425", 
+        "subject": "IND", 
+        "title": "Graduate Technical Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

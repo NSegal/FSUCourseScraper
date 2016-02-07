@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course considers causal modeling techniques, including structural equation modeling, longitudinal growth modeling, multiple-sample structural equation modeling, as well as assumptions underlying causal modeling.", 
+        "number": "5409", 
+        "subject": "EDF", 
+        "title": "Causal Modeling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EDF 5406.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

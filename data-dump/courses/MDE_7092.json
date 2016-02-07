@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves the development of a clinical presentation case. Students conduct in-depth research in one particular area of medicine, from the molecular level to the whole individual, exploring the demographics, as well as cultural and socioeconomical impacts of illness, thus strengthening the respective area of knowledge. May be repeated within the same term to a maximum of eight semester hours. MD grade only.", 
+        "number": "7092", 
+        "subject": "MDE", 
+        "title": "Clinical Teaching: Introduction to Medical Education"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Spring, Summer", 
+        "units": "2.00"
+    }
+}

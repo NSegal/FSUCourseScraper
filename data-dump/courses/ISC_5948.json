@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Supervised internship individually arranged to accommodate professional development. May be repeated to a maximum of six (6) semester hours.", 
+        "number": "5948", 
+        "subject": "ISC", 
+        "title": "Graduate Internship in Computational Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00 - 6.00"
+    }
+}

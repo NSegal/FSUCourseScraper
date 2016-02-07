@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to the key theories, concepts, principles, and methodology relevant to the development of biomedical professional ethics. The student is facilitated in his/her development of a code of professional ethics through written work, class discussion and case analysis.", 
+        "number": "5086", 
+        "subject": "BME", 
+        "title": "Biomedical Engineering Ethics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior or graduate standing in Biomedical Engineering.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

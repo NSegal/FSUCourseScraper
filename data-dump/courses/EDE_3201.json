@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an investigation of the role of the teacher from perspectives of planning, curriculum, organization, management, and problem solving.", 
+        "number": "3201", 
+        "subject": "EDE", 
+        "title": "The Teacher in the Elementary and Middle School"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: Semester I.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

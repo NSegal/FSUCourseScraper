@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "For master's candidates only. A maximum of three hours may apply towards the master's degree.", 
+        "number": "5917", 
+        "subject": "RMI", 
+        "title": "Supervised Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Supervised Research": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Consent of associate dean for academic programs.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

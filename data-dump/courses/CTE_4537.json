@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is a practicum at the Florida State University Historic Clothing and Textiles Collection. Students learn proper textile preservation, conservation, storage, and display techniques for flat textiles and garments. Other experiences include museum education, informatics, and database management. May be repeated to a maximum of six semester hours.", 
+        "number": "4537", 
+        "subject": "CTE", 
+        "title": "Historic Textiles and Clothing Collection Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

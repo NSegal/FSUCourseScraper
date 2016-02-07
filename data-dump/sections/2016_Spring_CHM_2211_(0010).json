@@ -1,0 +1,26 @@
+{
+    "_unique": "0010-DSC (1526)", 
+    "basic": {
+        "class_num": "1526", 
+        "course": "2211", 
+        "season": "Spring", 
+        "solus_id": "0010", 
+        "status": "Closed", 
+        "subject": "CHM", 
+        "type": "DSC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 3, 
+            "end_time": "19:50:00", 
+            "instructors": [
+                "Mark Kearley"
+            ], 
+            "location": "HTL 0214", 
+            "start_time": "19:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

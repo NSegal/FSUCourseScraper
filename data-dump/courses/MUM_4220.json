@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the history and fundamental principles of the modern mechanisms of the piano.", 
+        "number": "4220", 
+        "subject": "MUM", 
+        "title": "Theory of Piano Technology I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Sophomore standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

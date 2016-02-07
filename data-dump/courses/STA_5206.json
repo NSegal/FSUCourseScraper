@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course expounds on topics such as one and two-way classifications, nesting, blocking, multiple comparisons, incomplete designs, variance components, factorial designs, confounding. Graduate credit for non-statistics majors only.", 
+        "number": "5206", 
+        "subject": "STA", 
+        "title": "Analysis of Variance and Design of Experiments"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: One of STA 2122, STA 4322, or STA 5126.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

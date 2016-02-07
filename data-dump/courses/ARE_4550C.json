@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores definitions of art therapy, the development of the discipline, the exploration of special populations, human relations, and the related concepts in art education and art therapy.", 
+        "number": "4550C", 
+        "subject": "ARE", 
+        "title": "Art Therapy/Special Populations"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

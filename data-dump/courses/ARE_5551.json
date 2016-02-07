@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course, emphasis is placed on group processes and the unique characteristics that art brings to group work. Group art therapy is examined from a theoretical perspective. The practical application of conducting art therapy groups with differing populations is explained.", 
+        "number": "5551", 
+        "subject": "ARE", 
+        "title": "Art Therapy and Group Counseling"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

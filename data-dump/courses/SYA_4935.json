@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, through course readings, discussion, and projects, students learn more about how to apply social theory and methods to conduct research and design programs to address social inequality. The course focus varies from offering to offering, depending on the instructor's area of expertise. Students are invited to enroll in this course based on GPA. May be repeated to a maximum of six semester hours when content changes.", 
+        "number": "4935", 
+        "subject": "SYA", 
+        "title": "Capstone for Outstanding Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course gives students an introduction to the ongoing digital transformation of humanities scholarship, as well as applied introductory skills in the practice of digital humanities. Particular topics may vary, but each course taught under this number explores critically and practically one of several configurations of digital scholarship in the humanities today, including digital literary studies, humanities computing, digital cultural history, new media and network culture, virtuality and games, and digital curation. Students are introduced to the critical issues shaping any of these concentrations, and learn technical skills to interact with and produce work within the particular field.", 
+        "number": "4816", 
+        "subject": "ENG", 
+        "title": "Introduction to Digital Humanities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This lab covers column buckling experiments as well as the use of nondestructive techniques to determine strains and stresses in tensile members, torsional members, flexural members, and thin-walled vessels.", 
+        "number": "3331L", 
+        "subject": "EGN", 
+        "title": "Strength of Materials Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EGM 3512. Corequisite: EGN 3331.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

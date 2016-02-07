@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced detailed study of graphic techniques used in interior delineation.", 
+        "number": "5317", 
+        "subject": "IND", 
+        "title": "Design Graphics I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

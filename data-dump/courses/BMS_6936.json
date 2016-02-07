@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a seminar series in current topics in biomedical sciences. May be repeated to a maximum of sixteen semester hours.", 
+        "number": "6936", 
+        "subject": "BMS", 
+        "title": "Seminar in Biomedical Sciences"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 2.00"
+    }
+}

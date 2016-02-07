@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines human characteristics and limitations in relation to physical work, mental work, and job design. Human physiological variables in relation to industrial work environment and product design. Case studies and design exercises.", 
+        "number": "4243", 
+        "subject": "EIN", 
+        "title": "Ergonomics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGM 3512, EGN 3443, and EIN 3390C.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

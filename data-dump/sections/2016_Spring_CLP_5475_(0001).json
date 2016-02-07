@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LEC (2019)", 
+    "basic": {
+        "class_num": "2019", 
+        "course": "5475", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "CLP", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "15:15:00", 
+            "instructors": [
+                "Christopher Lonigan"
+            ], 
+            "location": "PDB A0204", 
+            "start_time": "12:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

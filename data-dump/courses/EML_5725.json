@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "Topics for this course include introduction to conservation laws in fluid dynamics; weak solutions; solving the full potential equations for subsonic,transonic, and supersonic flows; solving system of equations. In particula r, upwind schemes and flux splitting will be introduced in solving the Euler equations. Coordinate transformation and grid generation methods will also be covered.", 
+        "number": "5725", 
+        "subject": "EML", 
+        "title": "Introduction to Computational Fluid Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EGN 5456 and EML 5709.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

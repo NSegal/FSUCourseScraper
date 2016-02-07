@@ -1,0 +1,26 @@
+{
+    "_unique": "0003-LAB (3857)", 
+    "basic": {
+        "class_num": "3857", 
+        "course": "4114C", 
+        "season": "Spring", 
+        "solus_id": "0003", 
+        "status": "Open", 
+        "subject": "FOS", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 1, 
+            "end_time": "17:20:00", 
+            "instructors": [
+                "Sahil Gupta"
+            ], 
+            "location": "WJB 4004", 
+            "start_time": "15:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

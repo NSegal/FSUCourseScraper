@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course offers a careful consideration of the role of the secondary-school teacher of English, paying special attention to effective classroom management, planning for instruction, and assessment of student learning. May be repeated for a maximum of six semester hours.", 
+        "number": "5368", 
+        "subject": "LAE", 
+        "title": "Classroom Management and Methods of Planning and Instruction in Secondary\u00a0 English"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00 - 6.00"
+    }
+}

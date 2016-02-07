@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course involves the application of statistical techniques to sociological data as illustrated in the research and writing of social scientists. As a course for majors, it represents an important part of the student's methodological training with respect to the statistical analysis of data typically used by sociologists. The student is expected to carry out a number of exercises involving the statistical analysis of sociological data and to interpret the results. This is a required course for sociology majors.", 
+        "number": "4400", 
+        "subject": "SYA", 
+        "title": "Social Statistics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

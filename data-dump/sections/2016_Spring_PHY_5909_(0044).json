@@ -1,0 +1,26 @@
+{
+    "_unique": "0044-DIS (14035)", 
+    "basic": {
+        "class_num": "14035", 
+        "course": "5909", 
+        "season": "Spring", 
+        "solus_id": "0044", 
+        "status": "Open", 
+        "subject": "PHY", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Pedro Schlottmann"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

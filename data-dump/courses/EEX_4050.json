@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the fields of learning and behavioral/emotional disorders from historical, theoretical, practical, and public school perspectives.", 
+        "number": "4050", 
+        "subject": "EEX", 
+        "title": "Introduction to Learning and Behavior Disorders"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is an introductory laboratory for students entering the electrical and computer engineering programs. The basic topics include: lab safety issues; solving engineering problems using software tools such as MATLAB and Mathematica; electric circuit simulations using c software packages such as Multisim and OrCad; electric circuit design and instrumentation; the proper use of test and measurement equipment.", 
+        "number": "3002L", 
+        "subject": "EEL", 
+        "title": "ECE Engineering Tools Lab"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Corequisite: EEL 3111.", 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

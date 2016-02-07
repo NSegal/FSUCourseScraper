@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course provides students with the opportunity to evaluate and improve healthcare systems and clinical outcomes.", 
+        "number": "6910C", 
+        "subject": "NGR", 
+        "title": "DNP Project I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: NGR 6935. Corequisite: NGR 6619L or NGR 6897L.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

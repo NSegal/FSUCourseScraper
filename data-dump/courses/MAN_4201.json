@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the analysis of concepts and processes for effecting change in organizations.", 
+        "number": "4201", 
+        "subject": "MAN", 
+        "title": "Organizational Analysis and Change"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MAN 3240.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

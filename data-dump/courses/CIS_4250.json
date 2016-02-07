@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course presents basic ethical theories and analysis methods as they apply to ethical, social, and legal issues in computing and information technology. Case studies and hypothetical scenarios are discussed for their social, ethical, and legal implications, as well as analyized through various ethical-analysis methodologies. The course fosters the development of skills in logical and critical analysis of issues and viewpoints, as well as the ability to present a position and support it with a rational argument in a public-speaking context.", 
+        "number": "4250", 
+        "subject": "CIS", 
+        "title": "Ethics and Computer Science"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: COP 3014 or a prior course in computer programming.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

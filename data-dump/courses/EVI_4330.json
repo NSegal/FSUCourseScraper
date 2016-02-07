@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces the techniques and strategies necessary for meeting the needs of students with visual impairments who have additional disabling conditions. An emphasis is placed upon working with students with mental disabilities, who also have a visual impairment.", 
+        "number": "4330", 
+        "subject": "EVI", 
+        "title": "Teaching Students with Visual Impairments and Other Disabilities"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

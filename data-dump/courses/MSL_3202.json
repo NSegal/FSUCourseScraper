@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as leadership responsibilities that foster an ethical command climate and develop cadet leadership competencies. Students apply principles and techniques of effective written and oral communication.", 
+        "number": "3202", 
+        "subject": "MSL", 
+        "title": "Leadership and Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MSL 1001, MSL 1002, MSL 2101, MSL 2102, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is for aspiring poets and critics. The course studies the elements of poetry with some practice in writing poetry.", 
+        "number": "3311", 
+        "subject": "CRW", 
+        "title": "Poetic Technique"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

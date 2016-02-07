@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on activities related to the collection, interpretation, and reporting of assessment data of emotional, social, and behavioral problems in children and adolescents.", 
+        "number": "5193", 
+        "subject": "SPS", 
+        "title": "Laboratory in the Assessment of Socio-Emotional Problems in Children and\u00a0\u00a0 Adolescents"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SPS 5105.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Summer", 
+        "units": "3.00"
+    }
+}

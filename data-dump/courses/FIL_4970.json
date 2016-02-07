@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course involves the presentation of a senior thesis film to the faculty and student body for review and approval.", 
+        "number": "4970", 
+        "subject": "FIL", 
+        "title": "Thesis Defense"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall", 
+        "units": "0.00"
+    }
+}

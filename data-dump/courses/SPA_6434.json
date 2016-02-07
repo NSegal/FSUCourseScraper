@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides advanced graduate students with an opportunity to study and analyze current issues affecting children with developmental disabilities, including the families of these children and their communities. Students examine cross-disciplinary contributions to developmental disabilities research, service, and policies. May be repeated to a maximum of nine semester hours.", 
+        "number": "6434", 
+        "subject": "SPA", 
+        "title": "Seminar on Developmental Disabilities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00 - 3.00"
+    }
+}

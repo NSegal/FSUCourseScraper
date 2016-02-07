@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces an empirical approach to human behavior that recognizes culture as an organizing principle in all dimensions of human social life, from economic and political pursuits to gender, health, ritual, and reproduction. The course examines the place of culture in such anthropological schools as structural-functionalism, transactionalism, structuralism, symbolic anthropology, and practice theory, as well as in such alternative approaches as cultural materialism and evolutionary psychology.", 
+        "number": "6484", 
+        "subject": "ANG", 
+        "title": "Cultural Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

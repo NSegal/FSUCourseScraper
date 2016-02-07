@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an introduction to Application Specific Integrated Circuit (ASIC) families. Overview of programmable ASICs. Introduction to the VHDL design entry and simulation language. Programmable ASIC design methodology\u00a0\u00a0 will be introduced.", 
+        "number": "5707", 
+        "subject": "EEL", 
+        "title": "ASIC Systems Design I"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: EEL 3705.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces basic chemistry, energetics, metabolism, and cellular organization; molecular genetics and information flow; animal and plant function.", 
+        "number": "2010L", 
+        "subject": "BSC", 
+        "title": "Biological Science I Laboratory"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Pre- or corequisite: BSC 2010.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

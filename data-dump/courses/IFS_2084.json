@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course introduces and employs two mathematical tools useful in quantifying uncertainty: probability and statistics. Questions are considered in the context of games of chance, such as card and casino games, and games of skill, such as sporting events.", 
+        "number": "2084", 
+        "subject": "IFS", 
+        "title": "Understanding Uncertainty: Games of Skill and Chance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

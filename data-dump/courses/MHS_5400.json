@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines traditional theories of personality and counseling, as well as how to translate theory into effective practice. Develops basic counseling skills that include an awareness of self and a capacity to use ones self in the counseling process.", 
+        "number": "5400", 
+        "subject": "MHS", 
+        "title": "Introduction to Counseling Theories and Techniques"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

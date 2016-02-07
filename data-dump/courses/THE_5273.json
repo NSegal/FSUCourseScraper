@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on selected topics in the history of acting and directing from the ancient Greeks to the present day. The course also includes investigation resulting in some form of report. May be repeated once for credit as content varies to a maximum of six semester hours.", 
+        "number": "5273", 
+        "subject": "THE", 
+        "title": "Seminar: Selected Topics in History of Performance (Acting and Directing)"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Two undergraduate theatre history courses or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

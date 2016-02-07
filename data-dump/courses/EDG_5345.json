@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "he course explores the wide range of formats (e.g., diagnostic, formative, and summative) of useful classroom assessments utilized across a variety of academic disciplines, grade levels, and student abilities. Focus is on how these assessment tools can inform learners' cognitive resources and instructional practices that can be used to differentiate instruction.", 
+        "number": "5345", 
+        "subject": "EDG", 
+        "title": "Using Assessments in the PK-12 Classroom to Differentiate Instruction"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course explores political attitudes and behavior. It examines such topics as the sources of political knowledge; how political attitudes are formed and changed; how public opinion is measured; and why people vote the way they do.", 
+        "number": "3204", 
+        "subject": "POS", 
+        "title": "Public Opinion and Electoral Behavior"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: POS 1041 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

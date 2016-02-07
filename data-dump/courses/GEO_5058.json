@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course looks at the history of geography as a discipline, ranging fromclassical origins to contemporary philosophical schools and debates.", 
+        "number": "5058", 
+        "subject": "GEO", 
+        "title": "Survey of Geographic Thought"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

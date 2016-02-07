@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course explores the staging practices and dramatic literature from the 18th century to the present.\u00a0 Specific units include romanticism, melodrama and popular culture, the rise of realism, avant-garde theatre movements, the musical, European and American innovations 1960s-1990s, and contemporary dramatic theory.", 
+        "number": "5771", 
+        "subject": "THE", 
+        "title": "Theatre History and Literature II for Theatre Educators"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

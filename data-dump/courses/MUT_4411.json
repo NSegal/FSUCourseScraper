@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course studies contrapuntal techniques of the 16th century.", 
+        "number": "4411", 
+        "subject": "MUT", 
+        "title": "16th-Century Counterpoint"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 2117 and MUT 2247.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

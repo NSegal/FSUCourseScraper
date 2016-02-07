@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a comprehensive survey of the most important schools of thought and issues in feminist philosophy, with emphasis on feminist politics and ethics. Liberal, socialist, Marxist, and radical feminism and their differing views about equality and subjection are discussed. Criticisms of now traditional theories from women of color and of \"difference\" theorists are analyzed. Also considered are problems of particular concern to feminists: the family, sexuality, occupational freedom, harassment, rape, pornography, and domestic violence.", 
+        "number": "3123", 
+        "subject": "PHM", 
+        "title": "Philosophy of Feminism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

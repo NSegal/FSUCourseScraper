@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "The form of this course varies and may include portfolio review or vita presentation. The course is to be taken during one of the last two semesters of residency.", 
+        "number": "8978", 
+        "subject": "THE", 
+        "title": "Defense MFA Degree"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring", 
+        "units": "0.00"
+    }
+}

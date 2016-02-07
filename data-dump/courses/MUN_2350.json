@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of the study and performance of works drawn from grand opera, operettas, and musicals. Productions are presented in costume and makeup. May be repeated to a maximum of four semester hours.", 
+        "number": "2350", 
+        "subject": "MUN", 
+        "title": "Opera Chorus"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Audition.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00 - 1.00"
+    }
+}

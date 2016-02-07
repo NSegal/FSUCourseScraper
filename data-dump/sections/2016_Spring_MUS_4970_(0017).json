@@ -1,0 +1,26 @@
+{
+    "_unique": "0017-DIS (6408)", 
+    "basic": {
+        "class_num": "6408", 
+        "course": "4970", 
+        "season": "Spring", 
+        "solus_id": "0017", 
+        "status": "Closed", 
+        "subject": "MUS", 
+        "type": "DIS", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": null, 
+            "end_time": null, 
+            "instructors": [
+                "Michael Casey"
+            ], 
+            "location": "TBA", 
+            "start_time": null, 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

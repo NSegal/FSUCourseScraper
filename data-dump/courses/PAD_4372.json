@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to introduce students to the fundamental concepts, theories, principles, and practices of public information and communication in a risk environment as well as effective leadership principles in an emergency management shared power context.", 
+        "number": "4372", 
+        "subject": "PAD", 
+        "title": "Leadership and Communication in Emergency Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

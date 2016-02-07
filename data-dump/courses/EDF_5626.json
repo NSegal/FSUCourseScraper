@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines how economics can be used to improve resource decisions made by administrators and policy makers. It provides theory and applications of cost-effectiveness and cost-benefit analysis.", 
+        "number": "5626", 
+        "subject": "EDF", 
+        "title": "Economic Evaluation of Education Programs"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

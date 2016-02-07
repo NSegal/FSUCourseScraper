@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course covers principles of hydrology and hydraulics as they apply to the design of water supply, urban drainage, flood control, and hydraulic energy-conversion systems. Students use computer-aided design to devise hydraulics systems.", 
+        "number": "4202", 
+        "subject": "CWR", 
+        "title": "Hydraulic Engineering I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CWR 3201 and CWR 3200L.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

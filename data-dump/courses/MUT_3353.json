@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is designed to promote skills in arranging for the jazz ensemble.", 
+        "number": "3353", 
+        "subject": "MUT", 
+        "title": "Jazz Theory/Arranging I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MUT 2117 and MUT 2247.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

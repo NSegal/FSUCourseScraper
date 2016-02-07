@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to teach beginning students how to write the Japanese kana syllabaries and kanji properly according to the stroke order. The art of sumi writing is also introduced. May be repeated to a maximum of two semester hours.", 
+        "number": "4020", 
+        "subject": "JPT", 
+        "title": "Japanese Calligraphy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

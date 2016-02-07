@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a historical overview of critical texts that consider the nature of literature from antiquity to the early 20th century. Typically includes readings from Plato, Aristotle, Wroth, Dryden, Wollstonecraft, Wordsworth, Coleridge, Arnold, Eliot, and Woolf.", 
+        "number": "4013", 
+        "subject": "ENG", 
+        "title": "Literary Criticism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

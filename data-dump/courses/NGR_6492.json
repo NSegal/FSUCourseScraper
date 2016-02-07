@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course analyzes and evaluates the nurse anesthesia profession in terms of professionalism, regulation, healthcare, environment, issues, politics, and practice challenges to include by not limited to adverse outcomes in anesthesia, cultural competency, conflict management, professional issues, legality, liability, informed consent, involvement in professional associations and addiction in anesthesia providers.", 
+        "number": "6492", 
+        "subject": "NGR", 
+        "title": "Professional Aspects of Nurse Anesthesia"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Satisfactory academic standing within the nurse anesthesia program after semesters one and two.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

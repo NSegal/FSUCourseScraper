@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course addresses issues related to design, development, and implementation of mobile solutions for learning and performance support.", 
+        "number": "5077", 
+        "subject": "EME", 
+        "title": "Mobile Learning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

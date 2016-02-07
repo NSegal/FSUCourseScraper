@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides an in-depth examination of the sports industry from the perspectives of leadership, personal relations, networking, industry research, and internships. Students conduct industry analyses, interview selected industry professionals, engage with case study research, and produce a personal action plan and portfolio.", 
+        "number": "5907", 
+        "subject": "SPM", 
+        "title": "Professional Development in Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_unique": "0001-LAB (403)", 
+    "basic": {
+        "class_num": "403", 
+        "course": "3942", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Open", 
+        "subject": "ATR", 
+        "type": "LAB", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "10:30:00", 
+            "instructors": [
+                "Richard Latimer"
+            ], 
+            "location": "WJB 4012", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

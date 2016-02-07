@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course includes participation in a supervised research project and the production of a thesis describing the results of that work. May be repeated to a maximum of six required semester hours.", 
+        "number": "4970", 
+        "subject": "EML", 
+        "title": "Honors Work"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Acceptance into honors program.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

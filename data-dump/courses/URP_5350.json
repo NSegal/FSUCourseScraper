@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of examination and application of proposals for the New Urbanism, including prospects for increasing transit use and pedestrian access through land development code changes and multi-use district designations.", 
+        "number": "5350", 
+        "subject": "URP", 
+        "title": "Pedestrian-oriented Communities"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5312 or URP 5711.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

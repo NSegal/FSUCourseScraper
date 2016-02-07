@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course consists of competitive debate and individual events. Experienced students develop and perfect their speaking skills in a highly competitive, structured format of instruction and competition. May be repeated to a maximum of eight semester hours.", 
+        "number": "3593", 
+        "subject": "SPC", 
+        "title": "Competitive Intercollegiate Forensics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

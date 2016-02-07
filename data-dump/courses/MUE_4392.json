@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines the following issues: specific techniques in classroom management, discipline, crises prevention and intervention; techniques providing a safe and positive classroom environment for all students; and knowledge concerning professional ethics and legal expectations.", 
+        "number": "4392", 
+        "subject": "MUE", 
+        "title": "Classroom Management, Safety, Law, and Ethics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

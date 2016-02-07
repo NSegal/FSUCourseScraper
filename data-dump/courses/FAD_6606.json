@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course teaches the fundamentals of marital and family therapy supervision through didactic presentation, supervised experience of actual supervisory practice, and reflective interaction.\u00a0 This course meets the specifications required for the Approved Designation of the American Association of Marriage and Family Therapy.", 
+        "number": "6606", 
+        "subject": "FAD", 
+        "title": "Supervision in Marriage and Family Therapy"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Passage of Clinical Comprehensive Examination in Marriage and Family Therapy.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

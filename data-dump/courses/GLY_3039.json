@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course examines the origin of our energy and mineral resources (e.g., fossil fuels, uranium, hydrogen), their global supply, and the environmental impacts of extracting and utilizing these resources. Emphasis is placed on the chemical nature of the resources and the impact on the chemical composition of the ocean/atmosphere and the global heat budget. Field trips, in-class demonstrations, and homework exercises provide firsthand experience.", 
+        "number": "3039", 
+        "subject": "GLY", 
+        "title": "Energy, Resources, and the Environment"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisites: GLY 1000 and GLY 2010C; or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

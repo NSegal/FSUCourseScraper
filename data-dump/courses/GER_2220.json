@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course expands skills in reading, writing, and conversation. This course completes the baccalaureate degree requirement and serves as the transition to upper-level study. May not be taken by native speakers. May not be taken concurrently with GER 1110, 1111, 1120, and/or 1121.", 
+        "number": "2220", 
+        "subject": "GER", 
+        "title": "Intermediate German"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 1121, GER 1111 or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "4.00"
+    }
+}

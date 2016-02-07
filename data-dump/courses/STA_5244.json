@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course offers an introdution to clinical trials.\u00a0 Topics to be covered include defining the research question, basic study designs, randomization, blinding, sample size, baseline assessment, data collection and quality control, monitoring, issues in data analysis, closing out a trial, reporting and interpreting results, and issues in multicenter trials.", 
+        "number": "5244", 
+        "subject": "STA", 
+        "title": "Clinical Trials"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: STA 2171.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course students study selected contemporary philosophical, literary, and journalistic discussions of questions regarding race, class, and gender with a particular emphasis on the status of these discussions in the United States. Students also survey theoretical accounts of the concepts of race, class, and gender, as well as their interrelatedness, and examine their application to various contemporary social issues.", 
+        "number": "2121", 
+        "subject": "PHM", 
+        "title": "Philosophy of Race, Class, and Gender"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

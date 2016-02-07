@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course focuses on the development, testing, and use of measurement tools in social-work practice research. Emphasis is on understanding the conceptual relevance and operational clarity of theoretical constructs, and on the methods available for designing and validating instruments to measure them. The course examines qualitative and quantitative techniques for their varying contributions to item development and scale construction. The coursealso explores data-analytic strategies for determining psychometric characteristics. Taught over two semesters.", 
+        "number": "6359", 
+        "subject": "SOW", 
+        "title": "Measurement in Social Work Research II"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: SOW 6358.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "2.00"
+    }
+}

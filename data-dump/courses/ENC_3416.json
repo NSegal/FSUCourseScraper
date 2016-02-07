@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the principles of composing, especially across different composing spaces. Students create works in several different media, including (1) in print, (2) on the screen, and (3) for the network, while also learning how to edit the works deployed in each medium appropriately. In addition, students repurpose at least one of these works for another medium. Students conclude the course by creating a digital portfolio.", 
+        "number": "3416", 
+        "subject": "ENC", 
+        "title": "Writing and Editing in Print and Online"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

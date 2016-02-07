@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on mixing models and processes affecting dissolved concentrations and distributions of chemicals and radiotracers in the worlds oceans.", 
+        "number": "5417", 
+        "subject": "OCC", 
+        "title": "Geochemical Ocean Tracers"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: OCC 5050 and OCP 5050.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

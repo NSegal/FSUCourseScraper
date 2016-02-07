@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is an elementary introduction to mathematical models useful in understanding and solving environmental problems. The H.T. Odum energy diagrams for energy flows provide visual models that are translated into flow equations, which can then be solved by ordinary calculators. Recommended background: two years of high school algebra.", 
+        "number": "1214", 
+        "subject": "MGF", 
+        "title": "Environmental Mathematics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course includes development of knowledge, skills, and abilities in selecting, administering and evaluating sports related fitness tests for competitive athletes. This course meets specific guidelines and competencies for strength and conditioning professionals.", 
+        "number": "5751", 
+        "subject": "PET", 
+        "title": "Sports Fitness Testing and Evaluation for Competitive Athletes and Sport"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Admitted to the Sports Sciences Major of the MS in Exercise Science or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

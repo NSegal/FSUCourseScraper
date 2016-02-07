@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a survey of graphic novels, including manga and manhwa, for readers of all ages, but focusing primarily on materials for young adults and adults. Examines issues related to evaluation, collection development, organization, promotion, readers' advisory, programming, intellectual freedom, and the use of graphic novels in schools and college classrooms.", 
+        "number": "5577", 
+        "subject": "LIS", 
+        "title": "Graphic Novels in Libraries"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Other": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

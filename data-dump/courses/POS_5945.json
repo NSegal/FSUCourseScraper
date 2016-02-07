@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This cousre is designed to provide a structured opportunity for students to gain practical experience in the field of political management.\u00a0 Students spend 300 hours in an activity appropriate for the profession of political management and produce a descriptive and analytical product paper.\u00a0 May be repeated to a maximum of twelve semester hours; majors are required to complete successfully the maximum.", 
+        "number": "5945", 
+        "subject": "POS", 
+        "title": "Professional Practicum/Internship"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00 - 12.00"
+    }
+}

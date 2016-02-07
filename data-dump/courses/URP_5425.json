@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines available methods of environmental impact analysis and control. Primary emphasis is placed on water quality, wastewater treatment, and air pollution control, although topics such as noise and solid waste pollution are also considered.", 
+        "number": "5425", 
+        "subject": "URP", 
+        "title": "Methods of Environmental Analysis"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5421, URP 5427, or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

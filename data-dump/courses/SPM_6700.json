@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines research methods frequently utilized in sport management. Students critically evaluate published research and learn to conceptualize, design, and conduct empirical research.", 
+        "number": "6700", 
+        "subject": "SPM", 
+        "title": "Seminar in Sport Management Research"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

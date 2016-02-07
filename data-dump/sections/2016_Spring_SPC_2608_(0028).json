@@ -1,0 +1,26 @@
+{
+    "_unique": "0028-LEC (13485)", 
+    "basic": {
+        "class_num": "13485", 
+        "course": "2608", 
+        "season": "Spring", 
+        "solus_id": "0028", 
+        "status": "Open", 
+        "subject": "SPC", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 4, 
+            "end_time": "12:30:00", 
+            "instructors": [
+                "Gerard Slamon"
+            ], 
+            "location": "TBA", 
+            "start_time": "09:30:00", 
+            "term_end": "2016-04-20", 
+            "term_start": "2016-01-11"
+        }
+    ]
+}

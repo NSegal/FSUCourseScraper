@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to the history of modern science in the ancient Near East, the Greco-Roman world, the world of Late Antiquity and the Early Middle Ages.", 
+        "number": "2810", 
+        "subject": "CLA", 
+        "title": "Ancient Science for Non-Science Majors"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

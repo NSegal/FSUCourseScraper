@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies selected topics on the Hindu tradition in 19th and 20th century India. Includes modern Hindu thinkers, reform movements, popular religion, Hindu nationalism, and pluralism. Attention also to Hindu-inspired religious movements outside India and to other topics of student interest.", 
+        "number": "4335", 
+        "subject": "REL", 
+        "title": "Modern Hinduism"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: REL 2315, REL 3333, or REL 3337.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

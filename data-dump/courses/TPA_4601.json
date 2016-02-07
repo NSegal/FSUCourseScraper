@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course focuses on methods and techniques of managing simple dramatic shows to complex multiscene productions. This course must be taken before stage managing a Mainstage production. Consent of instructor required.", 
+        "number": "4601", 
+        "subject": "TPA", 
+        "title": "Stage Management"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "2.00"
+    }
+}

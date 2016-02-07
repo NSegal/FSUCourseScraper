@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines consumer choice, demand theory, production theory, costs, market supply, theory of the business firm, and allocation under the competitive market structure. Undergraduate price theory is a prerequisite.", 
+        "number": "5115", 
+        "subject": "ECO", 
+        "title": "Product Markets and the Theory of the Firm"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

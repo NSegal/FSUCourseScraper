@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides PhD level introduction to experimental economics. The first section of the course focuses on how to run an economic experiment. After this, the course studies four major areas of economics that have been changed by experimental economics: (1) decision making under risk and uncertainty, (2) models of fairness and reciprocity, (3) game theoretic models and\u00a0 (4) models of markets. The course stresses student participation, and ends with a presentation of student research projects.", 
+        "number": "5453", 
+        "subject": "ECO", 
+        "title": "Advanced Experimental Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

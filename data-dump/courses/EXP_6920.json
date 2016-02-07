@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course aims to familiarize graduate students with current issues in cognitive science and to prepare students to be able to present ongoing research at the level expected for presentations at national and international conferences.", 
+        "number": "6920", 
+        "subject": "EXP", 
+        "title": "Issues in Cognitive Science"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "For details on the requisites (pre/co/miscellaneous) for this class, please check the course listings under the appropriate departments & programs sections of the most current and relevant (Undergraduate/Graduate) edition of the General Bulletin", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00"
+    }
+}

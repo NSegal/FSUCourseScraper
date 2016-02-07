@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on preparation of the urban land-use plan including data collection; evaluation of location, market, and environmental factors; and balancing of stakeholder interests.", 
+        "number": "5316", 
+        "subject": "URP", 
+        "title": "Land-Use Planning"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: URP 5272. Pre- or corequisite: URP 5312.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

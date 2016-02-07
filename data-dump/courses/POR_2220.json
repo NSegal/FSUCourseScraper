@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a third semester course in Portuguese for intermediate level students. This course emphasizes the four basic communicative skills of listening, reading, speaking, and writing in a culturally authentic context.", 
+        "number": "2220", 
+        "subject": "POR", 
+        "title": "Intermediate Portuguese"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: POR 1120 and POR 1121.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "4.00"
+    }
+}

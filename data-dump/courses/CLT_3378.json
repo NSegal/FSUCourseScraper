@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides students with an introduction to the mythological traditions from a diverse group of ancient cultures, including those of Greece and Rome, the Near East, Northern Europe, India, China, Africa, and the Americas.", 
+        "number": "3378", 
+        "subject": "CLT", 
+        "title": "Ancient Mythology, East and West"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

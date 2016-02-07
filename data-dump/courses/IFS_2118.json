@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course explores the pros and cons of information technology in our everyday lives, and examines how students can identify and mitigate against risk factors that lead to information technology disasters.", 
+        "number": "2118", 
+        "subject": "IFS", 
+        "title": "Is Google Making Us Stupid? The Unintended Consequences of Information Technology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

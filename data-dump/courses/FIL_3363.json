@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course allows students to view and discuss documentary films from various eras, countries, and points of view as a means of understanding personal aesthetic as a documentary filmmaker. Students plan, script, budget, shoot, edit, and mix documentaries. May be repeated to a maximum of six semester hours.", 
+        "number": "3363", 
+        "subject": "FIL", 
+        "title": "Documentary Filmmaking"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Major status.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "1.00 - 6.00"
+    }
+}

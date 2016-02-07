@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This clerkship is designed to allow students to participate in the management of patients with common clinical presentations encountered in the general practice of internal medicine.", 
+        "number": "7112", 
+        "subject": "BCC", 
+        "title": "Internal Medicine"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Medical Science": "Required"
+        }, 
+        "grading_basis": "Medical School Grades", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "8.00"
+    }
+}

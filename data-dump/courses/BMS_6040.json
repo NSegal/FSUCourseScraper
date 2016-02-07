@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides core knowledge about the structure and function of the human gastrointestinal system and nutrition in health and disease across the lifespan. The course integrates knowledge from across the traditional disciplines in basic, behavioral and clinical sciences and applies that knowledge in understanding and treating patients.", 
+        "number": "6040", 
+        "subject": "BMS", 
+        "title": "Medicine 3 Human Systems in Health and Disease: Gastrointestinal System"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Matriculation to FSU College of Medicine MD program.", 
+        "grading_basis": "Pass/Not Pass", 
+        "units": "6.00 - 8.00"
+    }
+}

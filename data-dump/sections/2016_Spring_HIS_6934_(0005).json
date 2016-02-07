@@ -1,0 +1,26 @@
+{
+    "_unique": "0005-LEC (4239)", 
+    "basic": {
+        "class_num": "4239", 
+        "course": "6934", 
+        "season": "Spring", 
+        "solus_id": "0005", 
+        "status": "Open", 
+        "subject": "HIS", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 2, 
+            "end_time": "17:00:00", 
+            "instructors": [
+                "Robert Gellately"
+            ], 
+            "location": "BEL 0404", 
+            "start_time": "14:00:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

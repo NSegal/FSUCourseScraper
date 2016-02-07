@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a supervised internship at a College of Medicine clinical site. Students work with healthcare providers providing translation services between patients and healthcare providers.", 
+        "number": "4943", 
+        "subject": "IHS", 
+        "title": "Medical Interpreter Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Internship": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: ADV 3410, BMS 4861, SPC 4710, SPN 4420, and SPN 4930.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "units": "9.00"
+    }
+}

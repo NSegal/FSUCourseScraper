@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course studies the great works of major Russian writers of the 19th and 20th centuries, encompassing study of specific movements such as Romanticism, Realism, Modernism and Socialist Realism. May be repeated to a maximum of nine semester hours.", 
+        "number": "4470", 
+        "subject": "RUW", 
+        "title": "Modern Russian Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: RUW 3100 and RUW 3101, or equivalent.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

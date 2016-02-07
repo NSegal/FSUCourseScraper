@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of the design and management of international sport venues. Topics include design, marketing, facility image,and media and public relations, among others. This course includes site visits and discussions of issues and challenges that venue managers face.", 
+        "number": "4630", 
+        "subject": "SPM", 
+        "title": "International Sport Venues"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "3.00"
+    }
+}

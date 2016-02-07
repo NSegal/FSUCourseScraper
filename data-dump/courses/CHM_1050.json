@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is a first general chemistry course for honors students. Topics include kinetic theory, atomic theory of matter, atomic structure and the periodic chart, condensed phases, introductory chemical bonding.", 
+        "number": "1050", 
+        "subject": "CHM", 
+        "title": "Honors General Chemistry I"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: MAC 1105 with a grade of \"C-\" or better or placement beyond MAC 1105. Corequisite: CHM 1050L", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

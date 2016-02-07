@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on the implementation of educational policy at the district, school, and classroom levels. The course covers the central theories that have been used to understand the goals and mechanisms of different state and federal policy efforts aimed at improving schools and schooling; reviews research on how districts, schools, and teachers in classrooms respond to state and federal policies; and also covers three different \"cases\" representing dominant trends in educational policy, providing a multi-level perspective on how state and federal policies shape district, school, and classroom practices.", 
+        "number": "6576", 
+        "subject": "EDF", 
+        "title": "Policy to Practice: District, School, and Classroom Policy Implementation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Optional", 
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

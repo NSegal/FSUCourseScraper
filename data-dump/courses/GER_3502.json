@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, taught primarily in German, presents a survey of one topic in the area of German studies. Topics may include themes from art, music, or literature placed in a cultural and historical perspective. Topics will change frequently. May be repeated to a maximum of six semester hours with permission of instructor.", 
+        "number": "3502", 
+        "subject": "GER", 
+        "title": "Topics in German Studies"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: GER 2220 or instructor permission. GER 3500 or GER 3310 are recommended.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

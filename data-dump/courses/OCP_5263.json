@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course focuses on topics such as: forced and unforced equatorial ocean waves, reflection of equatorial waves from ocean boundaries, equatorial currents, El Ni\u00f1o/Southern Oscillation dynamics.", 
+        "number": "5263", 
+        "subject": "OCP", 
+        "title": "Equatorial Dynamics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

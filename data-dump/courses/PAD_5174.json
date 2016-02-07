@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course surveys organizations variously referred to as the independent, non-profit, voluntary, charitable, and nongovernmental sector. The course also examines grassroots organizing and the roles of faith, philanthropy, and volunteerism within the sector.", 
+        "number": "5174", 
+        "subject": "PAD", 
+        "title": "The Independent Sector"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

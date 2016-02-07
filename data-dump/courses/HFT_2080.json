@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed to explore the diverse verbal and non-verbal Western cultural habits, dress, behaviors, beliefs, service delivery expectations, and codes of conduct compared to the cultural mores, dress, traditions, political structure, behaviors (both verbal and non-verbal), travel, service delivery styles, and expectations of people from various international cultures.", 
+        "number": "2080", 
+        "subject": "HFT", 
+        "title": "International Protocol on Western Behavior and Service Standards"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

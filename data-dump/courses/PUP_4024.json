@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course examines the varied effectiveness of interest groups and movements on public policy formation, with emphasis on resources, organizational structure, ideology, strategies, and tactics.", 
+        "number": "4024", 
+        "subject": "PUP", 
+        "title": "Interest Groups, Social Movements, and Public Policy"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: PUP 3002 or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

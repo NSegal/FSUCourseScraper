@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics vary from term to term.", 
+        "number": "5930", 
+        "subject": "IND", 
+        "title": "Special Topics in Interior Design"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 4.00"
+    }
+}

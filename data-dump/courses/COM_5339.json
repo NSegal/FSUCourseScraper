@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course, a continuation of COM 5338, focuses on the critical evaluation of existing Web sites based on information presented from readings and the analysis of the possibilities (and limitations) of Web-based communication. Through the study of tools and techniques commonly used to develop Web pages, animation and interactive modules, students complete a Web site as a deliverable.", 
+        "number": "5339", 
+        "subject": "COM", 
+        "title": "Interactive Programming and Design for the Web"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Recommended Prerequisite: COM 5338.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

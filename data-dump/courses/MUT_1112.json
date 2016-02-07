@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course introduces the materials and structures of music.", 
+        "number": "1112", 
+        "subject": "MUT", 
+        "title": "Music Theory II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUT 1111.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring, Summer", 
+        "units": "3.00"
+    }
+}

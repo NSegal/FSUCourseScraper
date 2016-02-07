@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth study of specific topics in economics. Enrollment limited to five students. May be repeated to a maximum of six semester hours.", 
+        "number": "5932", 
+        "subject": "ECO", 
+        "title": "Graduate Tutorial in Economics"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: Economics graduate standing and instructor permission.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

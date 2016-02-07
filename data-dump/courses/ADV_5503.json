@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course deals with the research and analysis of consumer behavior.", 
+        "number": "5503", 
+        "subject": "ADV", 
+        "title": "Media Consumer Behavior"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

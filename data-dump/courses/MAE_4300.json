@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course provides an overview of teaching mathematics in the primary grades.", 
+        "number": "4300", 
+        "subject": "MAE", 
+        "title": "Teaching Mathematics in the Primary Grades"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

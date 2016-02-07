@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers an understanding of assessment approaches used with counseling and rehabilitation clients.", 
+        "number": "5250", 
+        "subject": "RCS", 
+        "title": "Assessment in Counseling and Rehabilitation"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

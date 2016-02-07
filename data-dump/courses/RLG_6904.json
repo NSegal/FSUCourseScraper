@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is designed for graduate students who have completed all of their required coursework and are preparing for their examinations.", 
+        "number": "6904", 
+        "subject": "RLG", 
+        "title": "Readings for Examination"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Directed Individual Study": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 12.00"
+    }
+}

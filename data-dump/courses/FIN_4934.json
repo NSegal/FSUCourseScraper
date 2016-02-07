@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "May be repeated to a maximum of nine semester hours as topics vary. Additional prerequisites may be required depending on the topic", 
+        "number": "4934", 
+        "subject": "FIN", 
+        "title": "Senior Seminar in Finance"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: CGS 2518 and FIN 3403 with a grade of \"B-\" or better and FIN 3244.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

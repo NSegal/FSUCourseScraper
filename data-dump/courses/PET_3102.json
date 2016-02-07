@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to fields of study and careers in areas of exercise physiology, motor behavior, athletic training, health and fitness, physical therapy. Students examine preparation for careers, including the role of various accrediting organizations. Current professional issues are discussed. This course is open to non-majors.", 
+        "number": "3102", 
+        "subject": "PET", 
+        "title": "Introduction to Exercise Sciences"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00"
+    }
+}

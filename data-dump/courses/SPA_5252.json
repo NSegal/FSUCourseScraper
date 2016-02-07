@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This is a foundation course to prepare SLP students to evaluate and manage communication disorders of voice, fluency, and articulation plus dysphasia and laryngectomy.", 
+        "number": "5252", 
+        "subject": "SPA", 
+        "title": "Speech Production and Swallowing Disorders"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

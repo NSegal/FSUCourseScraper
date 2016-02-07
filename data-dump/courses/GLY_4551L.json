@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This laboratory focuses on standard sedimentologic methods including textural analysis, heavy mineral separation and identification, carbonate staining, X-ray diffractometry, and statistical reduction of sedimentologic data. May be taken separately, but students concentrating in sedimentary geology should take GLY 4551L concurrently with 4551.", 
+        "number": "4551L", 
+        "subject": "GLY", 
+        "title": "Laboratory Methods in Sedimentology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

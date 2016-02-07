@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course presents a review and analysis of sociological approaches to the study of alcohol and drug problems. It addresses theoretical perspectives on recreational and deviant drinking and drug use and introduces important empirical methods in the study of alcohol and drug problems and current debates over alcohol and drug policy.", 
+        "number": "4550", 
+        "subject": "SYP", 
+        "title": "Alcohol and Drug Problems"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

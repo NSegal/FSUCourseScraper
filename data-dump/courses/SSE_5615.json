@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course identifies problems, their investigation, and application of findings to instruction.", 
+        "number": "5615", 
+        "subject": "SSE", 
+        "title": "Problems in Teaching Elementary School Social Studies"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

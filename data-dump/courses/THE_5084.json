@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "In this course, topics change each semester depending upon instructor. May be repeated to a maximum of six semester hours.", 
+        "number": "5084", 
+        "subject": "THE", 
+        "title": "Theatre Problems"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

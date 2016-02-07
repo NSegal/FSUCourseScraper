@@ -1,0 +1,19 @@
+{
+    "basic": {
+        "description": "This course is designed to emphasize patient assessment and care procedures at the first-responder level. The skills learned in the didactic First Responder course are refined with actual patient encounters by assisting crew members of the First Responder Unit.", 
+        "number": "3802", 
+        "subject": "ATR", 
+        "title": "First Responder Practicum"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Laboratory": "Optional"
+        }, 
+        "enrollment_requirement": "Prerequisite: ATR 3112.", 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}

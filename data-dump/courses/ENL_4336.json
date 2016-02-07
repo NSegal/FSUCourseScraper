@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course focuses on aspects of orality in Shakespeare's Sonnets, with some complementary work in theory, acoustics, and rhetoric. The course consists of explicit instruction in writing and presenting original critical talks with specific feedback on them, plus chances to incorporate that feedback in another oral presentation.", 
+        "number": "4336", 
+        "subject": "ENL", 
+        "title": "Orality and Poetics: Shakespeare's Sonnets"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Discussion": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

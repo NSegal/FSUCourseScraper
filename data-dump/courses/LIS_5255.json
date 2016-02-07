@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course examines the information and technology needs, uses, and seeking of older adults, with attention to aging in society, successful longevity, lifelong learning, health information, information service provision and evaluation, technology and interface design, technology affordances, and information use environments of older adults.", 
+        "number": "5255", 
+        "subject": "LIS", 
+        "title": "Information, Technology, and Older Adults"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

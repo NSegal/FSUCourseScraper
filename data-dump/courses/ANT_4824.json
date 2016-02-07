@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course trains students in the principles and methods of archaeological fieldwork, including research strategy development, recovery, recording and controls, sampling strategy, mapping, surveying, laboratory analysis, quantification, and report preparation. This is an intern-type course, sometimes requiring the student to live off-campus.", 
+        "number": "4824", 
+        "subject": "ANT", 
+        "title": "Anthropological Fieldwork: Archaeology"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Laboratory": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: ANT 3101.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Summer", 
+        "units": "9.00"
+    }
+}

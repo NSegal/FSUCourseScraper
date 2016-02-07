@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an advanced-level skills course. Discussion of current events and mass media in German-speaking countries and work with authentic texts (newspapers and audio-visual material).", 
+        "number": "4480", 
+        "subject": "GER", 
+        "title": "Modern German of the News Media"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Two 3000-level GER courses or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course is an in-depth examination of the application of logic in a legal context with special emphasis on methods of inductive reasoning, such as analogical and casual reasoning. The course focuses on the construction and presentation of written arguments, and the evaluation of arguments from both historical and contemporary legal decision.", 
+        "number": "3162", 
+        "subject": "PHI", 
+        "title": "Logic and the Law"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

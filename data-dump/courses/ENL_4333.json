@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is a study of representative Shakespearean dramas and their relationship to the Renaissance. Typically may include attention to relevant contemporary intellectual, historical, and political movements.", 
+        "number": "4333", 
+        "subject": "ENL", 
+        "title": "Shakespeare"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines behavior principles as they are applied in business, industry, and government.", 
+        "number": "3313", 
+        "subject": "INP", 
+        "title": "Behavior Analysis in Business and Industry"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisites: EAB 3703, EXP 3422C, and PSY 2012.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

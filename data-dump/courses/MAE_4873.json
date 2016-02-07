@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course offers an introduction to applications of mathematics for teachers. Non-mathematics majors only.", 
+        "number": "4873", 
+        "subject": "MAE", 
+        "title": "Introduction to Applications of Mathematics for Teachers"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "2.00"
+    }
+}

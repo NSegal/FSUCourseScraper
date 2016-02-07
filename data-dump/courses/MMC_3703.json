@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course introduces students to various aspects of the sports-media relationship, including the history of, the industries that constitute, the audiences drawn to, and the social issues that arise from the relationship.", 
+        "number": "3703", 
+        "subject": "MMC", 
+        "title": "Media, Sports, and Society"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MMC 2000.", 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

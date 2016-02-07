@@ -1,0 +1,48 @@
+{
+    "_unique": "0001-LEC (4934)", 
+    "basic": {
+        "class_num": "4934", 
+        "course": "5617", 
+        "season": "Spring", 
+        "solus_id": "0001", 
+        "status": "Closed", 
+        "subject": "MAA", 
+        "type": "LEC", 
+        "year": "2016"
+    }, 
+    "classes": [
+        {
+            "day_of_week": 5, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Richard Oberlin"
+            ], 
+            "location": "LOV 0104", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 3, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Richard Oberlin"
+            ], 
+            "location": "LOV 0104", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }, 
+        {
+            "day_of_week": 1, 
+            "end_time": "11:00:00", 
+            "instructors": [
+                "Richard Oberlin"
+            ], 
+            "location": "LOV 0104", 
+            "start_time": "10:10:00", 
+            "term_end": "2016-04-29", 
+            "term_start": "2016-01-06"
+        }
+    ]
+}

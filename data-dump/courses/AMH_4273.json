@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course examines selective aspects of the era known as \"the sixties.\" Spanning two decades, it starts in 1954 with the decision to integrate America's schools as a flash point for the civil rights struggle, and it concludes in 1974 with Richard Nixon's resignation, the final statement in the Watergate affair. During those years of intense and accelerated change, civil rights, black power, the war in Vietnam, radical politics, and the counter culture divided the country so passionately that at times it appeared as though the nation might come apart.", 
+        "number": "4273", 
+        "subject": "AMH", 
+        "title": "America in the 1960s"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

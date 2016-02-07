@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course offers students direct experiences with young children, organized in such a way that they have opportunities to put into practice those insights, principles, and understandings gained in the theory courses. May be repeated to a maximum of twelve semester hours. S/U grade only.", 
+        "number": "4907", 
+        "subject": "EEC", 
+        "title": "Observation and Participation in Early Childhood Education"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Satisfactory/Not Satisfactory", 
+        "typically_offered": "Fall, Spring", 
+        "units": "1.00 - 3.00"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers the basic elements of interviewing and documentation utilizing the values and ethics of the social work profession. Students develop the foundation skills such as rapport-building, information-gathering, and record-keeping in order to conduct interviews with clients.", 
+        "number": "3350", 
+        "subject": "SOW", 
+        "title": "Interviewing and Documentation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "3.00"
+    }
+}

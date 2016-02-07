@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course is a continuation of AFR 2130.", 
+        "number": "2140", 
+        "subject": "AFR", 
+        "title": "Evolution of Aerospace Studies II"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "1.00"
+    }
+}

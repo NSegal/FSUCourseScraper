@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course is an advanced study offering a survey of a particular ethnic literary tradition and adopting a cultural studies model. May be repeated up to a maximum of twenty-four semester hours.", 
+        "number": "4680", 
+        "subject": "AML", 
+        "title": "Studies in Ethnic Literature"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring", 
+        "units": "3.00"
+    }
+}

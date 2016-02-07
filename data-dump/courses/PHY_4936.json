@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course consists of advanced applications of physics to topics of interest, such as relativity, astrophysics, particle physics, advanced solid state physics, or advanced nuclear physics. May be repeated to a maximum of twelve semester hours.", 
+        "number": "4936", 
+        "subject": "PHY", 
+        "title": "Special Topics in Physics"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: Senior standing or instructor permission.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "1.00 - 3.00"
+    }
+}

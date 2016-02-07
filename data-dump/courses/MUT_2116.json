@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course helps students to develop a working knowledge of the materials and structures of tonal music through reading, listening, partwriting, model composition, and music analysis. The course also allows students to demonstrate mastery of these materials orally and in writing.", 
+        "number": "2116", 
+        "subject": "MUT", 
+        "title": "Music Theory III"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MUT 1112. Corequisite: MUT 2246.", 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "3.00"
+    }
+}

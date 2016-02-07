@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "In this course a formal grant proposal, or prospectus, in the NIH or NSF format describing preliminary results and proposed experiments is submitted to the doctoral supervisory committee followed by a formal oral presentation and an oral defense of the prospectus.", 
+        "number": "8965", 
+        "subject": "MOB", 
+        "title": "Thesis Prospectus Defense"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Thesis Defense": "Required"
+        }, 
+        "enrollment_requirement": "Prerequisite: MOB 8964.", 
+        "grading_basis": "Pass/Not Pass", 
+        "typically_offered": "Fall, Spring, Summer", 
+        "units": "0.00"
+    }
+}

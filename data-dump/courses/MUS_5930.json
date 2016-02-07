@@ -1,0 +1,16 @@
+{
+    "basic": {
+        "description": "This course provides a systems approach to the development of instructional modules in music.", 
+        "number": "5930", 
+        "subject": "MUS", 
+        "title": "Seminar in Contemporary Instructional Techniques in Music"
+    }, 
+    "extra": {
+        "career": "Graduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "units": "3.00"
+    }
+}

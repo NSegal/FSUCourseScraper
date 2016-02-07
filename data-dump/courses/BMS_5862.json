@@ -1,0 +1,18 @@
+{
+    "basic": {
+        "description": "This course reviews the impact of culture and ethnicity on health, illness, and health care practices. The course exposes students interested in a career in health care to the challenges of providing care to a multicultural society through exposure to theory, evidence-based practices, and self-exploration through service learning with an underserved population.", 
+        "number": "5862", 
+        "subject": "BMS", 
+        "title": "Multicultural Health Care and Health Disparities"
+    }, 
+    "extra": {
+        "career": "Medical", 
+        "course_components": {
+            "Class Lecture": "Required", 
+            "Discussion": "Optional"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Spring", 
+        "units": "3.00"
+    }
+}

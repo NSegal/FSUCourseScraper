@@ -1,0 +1,17 @@
+{
+    "basic": {
+        "description": "This course covers all the facets of the Professional Golf Management major and is designed to introduce and guide students through the Florida State, Dedman School of Hospitality, and PGM requirements. Students begin with developing a Road Map of their four-and-a-half-year curriculum, including academic advising from the Dedman School.", 
+        "number": "1382", 
+        "subject": "HFT", 
+        "title": "Professional Golf Management Orientation"
+    }, 
+    "extra": {
+        "career": "Undergraduate", 
+        "course_components": {
+            "Class Lecture": "Required"
+        }, 
+        "grading_basis": "Graded", 
+        "typically_offered": "Fall", 
+        "units": "1.00"
+    }
+}
