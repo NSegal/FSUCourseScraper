@@ -1,7 +1,7 @@
-qcumber-scraper
+FSUCourseScraper
 ===============
 
-This is the component of Qcumber that scrapes the data off SOLUS, parses it, and generates structured data that the site can then display.
+This is the component of Qcumber from Queen's university that scrapes the data off FSU's my.fsu.edu, parses it, and generates structured data that the site can then display.
 
 Setup Guide
 ===========
@@ -65,7 +65,7 @@ A virtual environment is an isolated Python environment. It allows for per-progr
 4. Create and Activate a Virtual Environment
 --------------------------------------------
 
-* Navigate into the `qcumber-scraper` folder
+* Navigate into the `FSUCourseScraper` folder
 * Create a new virtual environment: `virtualenv venv`
 * If you have multiple versions of Python on your system, make sure to specify the correct one with a `-p` switch (Ex: `virtualenv -p /usr/bin/python3 venv`)
 * Activate the new environment: `source venv/bin/activate`
@@ -87,11 +87,9 @@ Make sure you have activated your virtual environment (see above) before running
 Runnning a scrape
 =================
 
-The standard maintenance periods are Tuesdays and Thursdays from 5 am to 7:30 am and Sundays from 5 am to 10 am. There doesn't seem to be any place this is documented, but if you access the site during maintenance times it will tell you. You will need to run scrapes around these maintenance times.
-
 * Make sure your virtual environment is activated.
 * Make you you have created a config.py
-* To do a solus scrape run `python main.py`
+* To do a my.fsu.edu webscrape run `python main.py`
 * To do a textbook scrape run `python textbooks.py`
 
 ### Better Logging ###
